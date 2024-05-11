@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Sliding.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\盧孟煜\Documents\GitHub\Final\Intermediate\Build\Win64\SlidingEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\盧孟煜\Documents\GitHub\Final\Intermediate\Build\Win64\UnrealEditor\Development\Sliding\MyWorldDataLayers.cpp.obj"
+"C:\Users\盧孟煜\Documents\GitHub\Final\Intermediate\Build\Win64\UnrealEditor\Development\Sliding\Sliding.cpp.obj"
+"C:\Users\盧孟煜\Documents\GitHub\Final\Intermediate\Build\Win64\UnrealEditor\Development\Sliding\MyWorldDataLayers.gen.cpp.obj"
+"C:\Users\盧孟煜\Documents\GitHub\Final\Intermediate\Build\Win64\UnrealEditor\Development\Sliding\Sliding.init.gen.cpp.obj"
+"C:\Users\盧孟煜\Documents\GitHub\Final\Intermediate\Build\Win64\UnrealEditor\Development\Sliding\Default.rc2.res"
+/OUT:"C:\Users\盧孟煜\Documents\GitHub\Final\Intermediate\Build\Win64\UnrealEditor\Development\Sliding\UnrealEditor-Sliding.lib"
