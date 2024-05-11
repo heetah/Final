@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Sliding",
+			"Path": "C:\\Users\\盧孟煜\\Documents\\GitHub\\Final\\Source\\Sliding.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SlidingEditor",
+			"Path": "C:\\Users\\盧孟煜\\Documents\\GitHub\\Final\\Source\\SlidingEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
