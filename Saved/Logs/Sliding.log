@@ -1827,3 +1827,484 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.05.12-13.48.31:022][129]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/User_Interface/ADVENTURE_Auto3
 [2024.05.12-13.48.31:022][129]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/ADVENTURE_Auto3D12CC01045875535BA1D9BA722A98D86.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Autosaves/Game/User_Interface/ADVENTURE_Auto3.uasset'
 [2024.05.12-13.48.31:023][129]LogFileHelpers: Auto-saving content packages took 0.154
+[2024.05.12-14.00.49:455][213]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.12-14.00.49:455][213]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.12-14.00.50:958][263]LogContentBrowser: Deferred new asset file creation: GAME1
+[2024.05.12-14.00.50:992][263]LogContentBrowser: Creating deferred item: GAME1
+[2024.05.12-14.00.51:068][264]LogContentBrowser: Renaming the item being created (Deferred Item: GAME1).
+[2024.05.12-14.00.57:229][574]LogContentBrowser: Attempting asset rename: GAME1 -> STORE
+[2024.05.12-14.00.57:329][574]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2024.05.12-14.00.57:364][574]LogContentBrowser: End creating deferred item GAME1
+[2024.05.12-14.00.57:910][597]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/User_Interface/STORE.STORE
+[2024.05.12-14.00.57:911][597]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-14.00.57:920][597]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-14.00.58:326][597]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.12-14.00.58:326][597]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.12-14.01.49:777][335]LogScript: Warning: “无访问”正在尝试读取属性 HintBox_Botton
+	STORE_C /Engine/Transient.World_14:STORE_C_4
+	Function /Game/User_Interface/STORE.STORE_C:ExecuteUbergraph_STORE:0B28
+[2024.05.12-14.03.40:871][540]BlueprintLog: New page: 编译STORE
+[2024.05.12-14.03.41:020][540]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2024.05.12-14.03.41:785][571]LogDebuggerCommands: Repeating last play command: 新建编辑器窗口（PIE）
+[2024.05.12-14.03.41:795][571]BlueprintLog: New page: 运行前自动重新编译
+[2024.05.12-14.03.41:966][571]LogPlayLevel: [PlayLevel] Compiling GAME_Unlock before play...
+[2024.05.12-14.03.42:145][571]LogPlayLevel: [PlayLevel] Compiling GAME before play...
+[2024.05.12-14.03.42:284][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.05.12-14.03.42:285][571]LogPlayLevel: PlayLevel: Blueprint regeneration took 489 ms (2 blueprints)
+[2024.05.12-14.03.42:285][571]PIE: New page: PIE会话：Main（2024年5月13日 上午6:03:42）
+[2024.05.12-14.03.42:286][571]LogPlayLevel: Creating play world package: /Game/User_Interface/UEDPIE_0_Main
+[2024.05.12-14.03.42:287][571]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001373s)
+[2024.05.12-14.03.42:287][571]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/User_Interface/Main.Main to /Game/User_Interface/UEDPIE_0_Main.Main (0.001472s)
+[2024.05.12-14.03.42:287][571]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.05.12-14.03.42:287][571]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-14.03.42:288][571]LogAIModule: Creating AISystem for world Main
+[2024.05.12-14.03.42:288][571]LogPlayLevel: PIE: World Init took: (0.000804s)
+[2024.05.12-14.03.42:345][571]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.05.12-14.03.42:345][571]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2024.05.12-14.03.42:345][571]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.12-14.03.42:345][571]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.12-14.03.42:345][571]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.12-14.03.42:345][571]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.12-14.03.42:345][571]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.12-14.03.42:345][571]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.12-14.03.42:345][571]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.12-14.03.42:345][571]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.12-14.03.42:346][571]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.12-14.03.42:346][571]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.12-14.03.42:346][571]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.12-14.03.42:349][571]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.12-14.03.42:398][571]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.12-14.03.42:398][571]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.12-14.03.42:398][571]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.12-14.03.42:398][571]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.12-14.03.42:399][571]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2024.05.12-14.03.42:399][571]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2024.05.12-14.03.42:402][571]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2024.05.12-14.03.42:402][571]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2024.05.12-14.03.42:402][571]LogInit: FAudioDevice initialized.
+[2024.05.12-14.03.42:402][571]LogAudio: Display: Audio Device (ID: 18) registered with world 'Main'.
+[2024.05.12-14.03.42:588][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.12-14.03.42:589][571]LogLoad: Game class is 'GameModeBase'
+[2024.05.12-14.03.42:591][571]LogWorld: Bringing World /Game/User_Interface/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.05.12-22.03.42
+[2024.05.12-14.03.42:593][571]LogWorld: Bringing up level for play took: 0.003686
+[2024.05.12-14.03.42:612][571]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2024.05.12-14.03.42:635][571]PIE: 登陆的服务器
+[2024.05.12-14.03.42:645][571]PIE: PIE总开始时间：0.849秒。
+[2024.05.12-14.03.42:728][571]LogViewport: Scene viewport resized to 2551x1468, mode Windowed.
+[2024.05.12-14.03.51:768][941]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.12-14.03.51:768][941]LogWorld: BeginTearingDown for /Game/User_Interface/UEDPIE_0_Main
+[2024.05.12-14.03.51:772][941]LogSlate: Window 'Sliding 预览 [NetMode: Standalone]  （64-bit/SM5）' being destroyed
+[2024.05.12-14.03.51:789][941]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-14.03.51:789][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-14.03.51:810][941]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.12-14.03.51:826][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-14.03.51:962][941]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.05.12-14.03.51:963][941]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.05.12-14.03.51:974][941]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2024.05.12-14.03.52:009][942]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2024.05.12-14.04.05:810][696]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.12-14.04.05:811][696]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.12-14.04.18:120][300]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.05.12-14.04.26:223][590]BlueprintLog: New page: 编译MainMenu
+[2024.05.12-14.04.26:361][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.05.12-14.04.27:555][614]LogDebuggerCommands: Repeating last play command: 新建编辑器窗口（PIE）
+[2024.05.12-14.04.27:564][614]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.12-14.04.27:564][614]PIE: New page: PIE会话：Main（2024年5月13日 上午6:04:27）
+[2024.05.12-14.04.27:565][614]LogPlayLevel: Creating play world package: /Game/User_Interface/UEDPIE_0_Main
+[2024.05.12-14.04.27:565][614]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001124s)
+[2024.05.12-14.04.27:565][614]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/User_Interface/Main.Main to /Game/User_Interface/UEDPIE_0_Main.Main (0.001212s)
+[2024.05.12-14.04.27:565][614]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.05.12-14.04.27:565][614]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-14.04.27:566][614]LogAIModule: Creating AISystem for world Main
+[2024.05.12-14.04.27:566][614]LogPlayLevel: PIE: World Init took: (0.000763s)
+[2024.05.12-14.04.27:623][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.05.12-14.04.27:626][614]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.05.12-14.04.27:626][614]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.12-14.04.27:626][614]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.12-14.04.27:626][614]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.12-14.04.27:626][614]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.12-14.04.27:626][614]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.12-14.04.27:626][614]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.12-14.04.27:626][614]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.12-14.04.27:626][614]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.12-14.04.27:627][614]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.12-14.04.27:627][614]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.12-14.04.27:627][614]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.12-14.04.27:629][614]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.12-14.04.27:678][614]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.12-14.04.27:678][614]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.12-14.04.27:678][614]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.12-14.04.27:678][614]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.12-14.04.27:681][614]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.05.12-14.04.27:681][614]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2024.05.12-14.04.27:685][614]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.05.12-14.04.27:685][614]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.05.12-14.04.27:685][614]LogInit: FAudioDevice initialized.
+[2024.05.12-14.04.27:685][614]LogAudio: Display: Audio Device (ID: 19) registered with world 'Main'.
+[2024.05.12-14.04.27:963][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.12-14.04.27:963][614]LogLoad: Game class is 'GameModeBase'
+[2024.05.12-14.04.27:964][614]LogWorld: Bringing World /Game/User_Interface/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.05.12-22.04.27
+[2024.05.12-14.04.27:964][614]LogWorld: Bringing up level for play took: 0.000360
+[2024.05.12-14.04.27:967][614]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2024.05.12-14.04.27:973][614]PIE: 登陆的服务器
+[2024.05.12-14.04.27:977][614]PIE: PIE总开始时间：0.413秒。
+[2024.05.12-14.04.28:001][614]LogViewport: Scene viewport resized to 2551x1468, mode Windowed.
+[2024.05.12-14.04.44:561][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.12-14.04.50:702][260]LogViewport: Scene viewport resized to 2560x1477, mode Windowed.
+[2024.05.12-14.04.51:679][284]LogViewport: Scene viewport resized to 2551x1468, mode Windowed.
+[2024.05.12-14.04.53:470][325]LogViewport: Scene viewport resized to 2551x1466, mode Windowed.
+[2024.05.12-14.04.53:665][325]LogViewport: Scene viewport resized to 2551x1179, mode Windowed.
+[2024.05.12-14.04.53:827][325]LogViewport: Scene viewport resized to 2551x813, mode Windowed.
+[2024.05.12-14.04.53:974][325]LogViewport: Scene viewport resized to 2551x751, mode Windowed.
+[2024.05.12-14.04.54:108][325]LogViewport: Scene viewport resized to 2551x744, mode Windowed.
+[2024.05.12-14.04.56:994][380]LogViewport: Scene viewport resized to 2550x744, mode Windowed.
+[2024.05.12-14.04.57:210][380]LogViewport: Scene viewport resized to 2293x744, mode Windowed.
+[2024.05.12-14.04.57:374][380]LogViewport: Scene viewport resized to 2243x744, mode Windowed.
+[2024.05.12-14.04.57:493][380]LogViewport: Scene viewport resized to 2132x744, mode Windowed.
+[2024.05.12-14.04.57:641][380]LogViewport: Scene viewport resized to 1960x744, mode Windowed.
+[2024.05.12-14.04.57:791][380]LogViewport: Scene viewport resized to 1778x744, mode Windowed.
+[2024.05.12-14.04.57:925][380]LogViewport: Scene viewport resized to 1543x744, mode Windowed.
+[2024.05.12-14.04.58:075][380]LogViewport: Scene viewport resized to 1466x744, mode Windowed.
+[2024.05.12-14.04.58:173][380]LogViewport: Scene viewport resized to 1464x744, mode Windowed.
+[2024.05.12-14.05.14:621][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.12-14.05.20:580][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.12-14.05.26:045][261]LogViewport: Scene viewport resized to 2560x1477, mode Windowed.
+[2024.05.12-14.05.45:268][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.12-14.05.45:269][812]LogWorld: BeginTearingDown for /Game/User_Interface/UEDPIE_0_Main
+[2024.05.12-14.05.45:280][812]LogSlate: Window 'Sliding 预览 [NetMode: Standalone]  （64-bit/SM5）' being destroyed
+[2024.05.12-14.05.45:387][812]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-14.05.45:388][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-14.05.45:426][812]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.12-14.05.45:445][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-14.05.45:634][812]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.12-14.05.45:635][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.05.12-14.05.45:637][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.05.12-14.05.45:654][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.05.12-14.05.45:703][813]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.05.12-14.05.58:564][252]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/User_Interface/SETTING.SETTING
+[2024.05.12-14.05.58:565][252]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-14.05.58:575][252]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-14.05.58:917][252]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.12-14.05.58:917][252]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.12-14.06.37:217][125]BlueprintLog: New page: 编译SETTING
+[2024.05.12-14.06.37:249][125]LogBlueprint: Warning: [AssetLog] C:\Users\盧孟煜\Documents\GitHub\Final\Content\User_Interface\SETTING.uasset: [Compiler] 在'SETTING_C’中找不到名为"Duration\”的变量。
+请确保已针对  获得Duration  对'SETTING_C’进行了编译
+[2024.05.12-14.06.37:250][125]LogBlueprint: Warning: [AssetLog] C:\Users\盧孟煜\Documents\GitHub\Final\Content\User_Interface\SETTING.uasset: [Compiler] 在'SETTING_C’中找不到名为"SMOOS\”的变量。
+请确保已针对  获得SMOOS  对'SETTING_C’进行了编译
+[2024.05.12-14.06.37:250][125]LogBlueprint: Warning: [AssetLog] C:\Users\盧孟煜\Documents\GitHub\Final\Content\User_Interface\SETTING.uasset: [Compiler] 在'SETTING_C’中找不到名为"SMOOS\”的变量。
+请确保已针对  获得SMOOS  对'SETTING_C’进行了编译
+[2024.05.12-14.06.37:250][125]LogBlueprint: Warning: [AssetLog] C:\Users\盧孟煜\Documents\GitHub\Final\Content\User_Interface\SETTING.uasset: [Compiler] 在'SETTING_C’中找不到名为"SMOOS\”的变量。
+请确保已针对  获得SMOOS  对'SETTING_C’进行了编译
+[2024.05.12-14.06.37:250][125]LogBlueprint: Warning: [AssetLog] C:\Users\盧孟煜\Documents\GitHub\Final\Content\User_Interface\SETTING.uasset: [Compiler] 在'SETTING_C’中找不到名为"SMOOS\”的变量。
+请确保已针对  获得SMOOS  对'SETTING_C’进行了编译
+[2024.05.12-14.06.37:250][125]LogBlueprint: Warning: [AssetLog] C:\Users\盧孟煜\Documents\GitHub\Final\Content\User_Interface\SETTING.uasset: [Compiler] 在'SETTING_C’中找不到名为"SMOOS\”的变量。
+请确保已针对  获得SMOOS  对'SETTING_C’进行了编译
+[2024.05.12-14.06.37:250][125]LogBlueprint: Warning: [AssetLog] C:\Users\盧孟煜\Documents\GitHub\Final\Content\User_Interface\SETTING.uasset: [Compiler] 在'SETTING_C’中找不到名为"SMOOS\”的变量。
+请确保已针对  获得SMOOS  对'SETTING_C’进行了编译
+[2024.05.12-14.06.37:251][125]LogBlueprint: Warning: [AssetLog] C:\Users\盧孟煜\Documents\GitHub\Final\Content\User_Interface\SETTING.uasset: [Compiler] 在'SETTING_C’中找不到名为"SMOOS\”的变量。
+请确保已针对  获得SMOOS  对'SETTING_C’进行了编译
+[2024.05.12-14.06.37:251][125]LogBlueprint: Warning: [AssetLog] C:\Users\盧孟煜\Documents\GitHub\Final\Content\User_Interface\SETTING.uasset: [Compiler] 在'SETTING_C’中找不到名为"SMOOS\”的变量。
+请确保已针对  获得SMOOS  对'SETTING_C’进行了编译
+[2024.05.12-14.06.37:251][125]LogBlueprint: Warning: [AssetLog] C:\Users\盧孟煜\Documents\GitHub\Final\Content\User_Interface\SETTING.uasset: [Compiler] 在'SETTING_C’中找不到名为"SMOOS\”的变量。
+请确保已针对  获得SMOOS  对'SETTING_C’进行了编译
+[2024.05.12-14.06.37:251][125]LogBlueprint: Warning: [AssetLog] C:\Users\盧孟煜\Documents\GitHub\Final\Content\User_Interface\SETTING.uasset: [Compiler] 在'SETTING_C’中找不到名为"SMOOS\”的变量。
+请确保已针对  获得SMOOS  对'SETTING_C’进行了编译
+[2024.05.12-14.06.37:251][125]LogBlueprint: Warning: [AssetLog] C:\Users\盧孟煜\Documents\GitHub\Final\Content\User_Interface\SETTING.uasset: [Compiler] 在'SETTING_C’中找不到名为"SMOOS\”的变量。
+请确保已针对  获得SMOOS  对'SETTING_C’进行了编译
+[2024.05.12-14.06.37:253][125]LogBlueprint: Error: [AssetLog] C:\Users\盧孟煜\Documents\GitHub\Final\Content\User_Interface\SETTING.uasset: [Compiler] 未能在“/Game/User_Interface/SETTING.SETTING_C”中找到和 Duration 相关的属性
+[2024.05.12-14.06.37:253][125]LogBlueprint: Error: [AssetLog] C:\Users\盧孟煜\Documents\GitHub\Final\Content\User_Interface\SETTING.uasset: [Compiler] 未能在“/Game/User_Interface/SETTING.SETTING_C”中找到和 SMOOS 相关的属性
+[2024.05.12-14.06.37:253][125]LogBlueprint: Error: [AssetLog] C:\Users\盧孟煜\Documents\GitHub\Final\Content\User_Interface\SETTING.uasset: [Compiler] 未能在“/Game/User_Interface/SETTING.SETTING_C”中找到和 SMOOS 相关的属性
+[2024.05.12-14.06.37:254][125]LogBlueprint: Error: [AssetLog] C:\Users\盧孟煜\Documents\GitHub\Final\Content\User_Interface\SETTING.uasset: [Compiler] 未能在“/Game/User_Interface/SETTING.SETTING_C”中找到和 SMOOS 相关的属性
+[2024.05.12-14.06.37:254][125]LogBlueprint: Error: [AssetLog] C:\Users\盧孟煜\Documents\GitHub\Final\Content\User_Interface\SETTING.uasset: [Compiler] 未能在“/Game/User_Interface/SETTING.SETTING_C”中找到和 SMOOS 相关的属性
+[2024.05.12-14.06.37:254][125]LogBlueprint: Error: [AssetLog] C:\Users\盧孟煜\Documents\GitHub\Final\Content\User_Interface\SETTING.uasset: [Compiler] 未能在“/Game/User_Interface/SETTING.SETTING_C”中找到和 SMOOS 相关的属性
+[2024.05.12-14.06.37:254][125]LogBlueprint: Error: [AssetLog] C:\Users\盧孟煜\Documents\GitHub\Final\Content\User_Interface\SETTING.uasset: [Compiler] 未能在“/Game/User_Interface/SETTING.SETTING_C”中找到和 SMOOS 相关的属性
+[2024.05.12-14.06.37:254][125]LogBlueprint: Error: [AssetLog] C:\Users\盧孟煜\Documents\GitHub\Final\Content\User_Interface\SETTING.uasset: [Compiler] 未能在“/Game/User_Interface/SETTING.SETTING_C”中找到和 SMOOS 相关的属性
+[2024.05.12-14.06.37:254][125]LogBlueprint: Error: [AssetLog] C:\Users\盧孟煜\Documents\GitHub\Final\Content\User_Interface\SETTING.uasset: [Compiler] 未能在“/Game/User_Interface/SETTING.SETTING_C”中找到和 SMOOS 相关的属性
+[2024.05.12-14.06.37:254][125]LogBlueprint: Error: [AssetLog] C:\Users\盧孟煜\Documents\GitHub\Final\Content\User_Interface\SETTING.uasset: [Compiler] 未能在“/Game/User_Interface/SETTING.SETTING_C”中找到和 SMOOS 相关的属性
+[2024.05.12-14.06.37:254][125]LogBlueprint: Error: [AssetLog] C:\Users\盧孟煜\Documents\GitHub\Final\Content\User_Interface\SETTING.uasset: [Compiler] 未能在“/Game/User_Interface/SETTING.SETTING_C”中找到和 SMOOS 相关的属性
+[2024.05.12-14.06.37:254][125]LogBlueprint: Error: [AssetLog] C:\Users\盧孟煜\Documents\GitHub\Final\Content\User_Interface\SETTING.uasset: [Compiler] 未能在“/Game/User_Interface/SETTING.SETTING_C”中找到和 SMOOS 相关的属性
+[2024.05.12-14.06.37:394][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.05.12-14.06.52:147][884]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.12-14.06.52:147][884]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.12-14.06.56:890][137]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.12-14.06.56:890][137]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.12-14.07.02:091][368]BlueprintLog: New page: 编译SETTING
+[2024.05.12-14.07.02:204][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.05.12-14.07.03:302][411]LogDebuggerCommands: Repeating last play command: 新建编辑器窗口（PIE）
+[2024.05.12-14.07.03:314][411]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.12-14.07.03:314][411]PIE: New page: PIE会话：Main（2024年5月13日 上午6:07:03）
+[2024.05.12-14.07.03:314][411]LogPlayLevel: Creating play world package: /Game/User_Interface/UEDPIE_0_Main
+[2024.05.12-14.07.03:315][411]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001522s)
+[2024.05.12-14.07.03:315][411]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/User_Interface/Main.Main to /Game/User_Interface/UEDPIE_0_Main.Main (0.001613s)
+[2024.05.12-14.07.03:315][411]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.05.12-14.07.03:315][411]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-14.07.03:316][411]LogAIModule: Creating AISystem for world Main
+[2024.05.12-14.07.03:316][411]LogPlayLevel: PIE: World Init took: (0.000990s)
+[2024.05.12-14.07.03:382][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.05.12-14.07.03:384][411]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.05.12-14.07.03:384][411]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.12-14.07.03:384][411]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.12-14.07.03:384][411]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.12-14.07.03:384][411]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.12-14.07.03:384][411]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.12-14.07.03:384][411]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.12-14.07.03:384][411]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.12-14.07.03:384][411]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.12-14.07.03:384][411]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.12-14.07.03:384][411]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.12-14.07.03:384][411]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.12-14.07.03:386][411]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.12-14.07.03:434][411]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.12-14.07.03:435][411]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.12-14.07.03:435][411]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.12-14.07.03:435][411]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.12-14.07.03:437][411]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2024.05.12-14.07.03:437][411]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2024.05.12-14.07.03:442][411]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2024.05.12-14.07.03:442][411]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2024.05.12-14.07.03:442][411]LogInit: FAudioDevice initialized.
+[2024.05.12-14.07.03:442][411]LogAudio: Display: Audio Device (ID: 20) registered with world 'Main'.
+[2024.05.12-14.07.03:679][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.12-14.07.03:679][411]LogLoad: Game class is 'GameModeBase'
+[2024.05.12-14.07.03:680][411]LogWorld: Bringing World /Game/User_Interface/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.05.12-22.07.03
+[2024.05.12-14.07.03:681][411]LogWorld: Bringing up level for play took: 0.000992
+[2024.05.12-14.07.03:685][411]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2024.05.12-14.07.03:691][411]PIE: 登陆的服务器
+[2024.05.12-14.07.03:694][411]PIE: PIE总开始时间：0.381秒。
+[2024.05.12-14.07.03:714][411]LogViewport: Scene viewport resized to 2551x1468, mode Windowed.
+[2024.05.12-14.07.19:889][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.12-14.07.19:889][ 85]LogWorld: BeginTearingDown for /Game/User_Interface/UEDPIE_0_Main
+[2024.05.12-14.07.19:890][ 85]LogSlate: Window 'Sliding 预览 [NetMode: Standalone]  （64-bit/SM5）' being destroyed
+[2024.05.12-14.07.19:914][ 85]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-14.07.19:914][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-14.07.19:929][ 85]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.12-14.07.19:938][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-14.07.20:010][ 85]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.12-14.07.20:011][ 85]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.05.12-14.07.20:013][ 85]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.05.12-14.07.20:024][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2024.05.12-14.07.20:049][ 86]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.05.12-14.07.37:503][885]BlueprintLog: New page: 编译SETTING
+[2024.05.12-14.07.37:645][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2024.05.12-14.07.38:558][916]LogDebuggerCommands: Repeating last play command: 新建编辑器窗口（PIE）
+[2024.05.12-14.07.38:568][916]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.12-14.07.38:568][916]PIE: New page: PIE会话：Main（2024年5月13日 上午6:07:38）
+[2024.05.12-14.07.38:568][916]LogPlayLevel: Creating play world package: /Game/User_Interface/UEDPIE_0_Main
+[2024.05.12-14.07.38:569][916]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001149s)
+[2024.05.12-14.07.38:569][916]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/User_Interface/Main.Main to /Game/User_Interface/UEDPIE_0_Main.Main (0.001221s)
+[2024.05.12-14.07.38:569][916]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.05.12-14.07.38:569][916]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-14.07.38:570][916]LogAIModule: Creating AISystem for world Main
+[2024.05.12-14.07.38:570][916]LogPlayLevel: PIE: World Init took: (0.000771s)
+[2024.05.12-14.07.38:722][916]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2024.05.12-14.07.38:724][916]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.05.12-14.07.38:724][916]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.12-14.07.38:724][916]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.12-14.07.38:724][916]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.12-14.07.38:724][916]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.12-14.07.38:724][916]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.12-14.07.38:724][916]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.12-14.07.38:724][916]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.12-14.07.38:724][916]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.12-14.07.38:724][916]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.12-14.07.38:724][916]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.12-14.07.38:724][916]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.12-14.07.38:727][916]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.12-14.07.38:773][916]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.12-14.07.38:774][916]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.12-14.07.38:774][916]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.12-14.07.38:774][916]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.12-14.07.38:774][916]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2024.05.12-14.07.38:774][916]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2024.05.12-14.07.38:777][916]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2024.05.12-14.07.38:777][916]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2024.05.12-14.07.38:777][916]LogInit: FAudioDevice initialized.
+[2024.05.12-14.07.38:777][916]LogAudio: Display: Audio Device (ID: 21) registered with world 'Main'.
+[2024.05.12-14.07.39:075][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.12-14.07.39:076][916]LogLoad: Game class is 'GameModeBase'
+[2024.05.12-14.07.39:077][916]LogWorld: Bringing World /Game/User_Interface/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.05.12-22.07.39
+[2024.05.12-14.07.39:077][916]LogWorld: Bringing up level for play took: 0.000916
+[2024.05.12-14.07.39:083][916]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2024.05.12-14.07.39:092][916]PIE: 登陆的服务器
+[2024.05.12-14.07.39:098][916]PIE: PIE总开始时间：0.53秒。
+[2024.05.12-14.07.39:127][916]LogViewport: Scene viewport resized to 2551x1468, mode Windowed.
+[2024.05.12-14.08.22:999][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.12-14.08.22:999][608]LogWorld: BeginTearingDown for /Game/User_Interface/UEDPIE_0_Main
+[2024.05.12-14.08.23:001][608]LogSlate: Window 'Sliding 预览 [NetMode: Standalone]  （64-bit/SM5）' being destroyed
+[2024.05.12-14.08.23:025][608]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-14.08.23:027][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-14.08.23:051][608]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.12-14.08.23:058][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-14.08.23:177][608]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.12-14.08.23:178][608]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.05.12-14.08.23:181][608]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.05.12-14.08.23:193][608]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2024.05.12-14.08.23:227][609]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2024.05.12-14.08.37:646][258]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/User_Interface/STATISTICAL.STATISTICAL
+[2024.05.12-14.08.37:647][258]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-14.08.37:658][258]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-14.08.37:993][258]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.12-14.08.37:994][258]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.12-14.09.39:615][ 38]BlueprintLog: New page: 编译STATISTICAL
+[2024.05.12-14.09.39:781][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2024.05.12-14.09.42:231][120]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.12-14.09.42:231][120]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.12-14.09.58:922][884]BlueprintLog: New page: 编译STATISTICAL
+[2024.05.12-14.09.59:068][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.05.12-14.10.03:883][ 86]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.12-14.10.03:883][ 86]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.12-14.10.06:077][186]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-14.10.06:078][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-14.10.06:093][186]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-14.10.06:094][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-14.10.10:132][375]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-14.10.10:132][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-14.10.10:145][375]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-14.10.10:145][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-14.10.42:262][519]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2024.05.12-14.10.42:264][519]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/User_Interface/Main' took 0.080
+[2024.05.12-14.10.42:265][519]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/User_Interface/MainMenu] ([2] browsable assets)...
+[2024.05.12-14.10.42:270][519]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/User_Interface/MainMenu.MainMenu]
+[2024.05.12-14.10.42:270][519]OBJ SavePackage: Finished generating thumbnails for package [/Game/User_Interface/MainMenu]
+[2024.05.12-14.10.42:295][519]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/User_Interface/MainMenu_Auto4
+[2024.05.12-14.10.42:295][519]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/MainMenu_Auto460A3D12442B0BE5C9DD10BB32F509E8D.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Autosaves/Game/User_Interface/MainMenu_Auto4.uasset'
+[2024.05.12-14.10.42:297][519]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/User_Interface/GAME] ([2] browsable assets)...
+[2024.05.12-14.10.42:301][519]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/User_Interface/GAME.GAME]
+[2024.05.12-14.10.42:301][519]OBJ SavePackage: Finished generating thumbnails for package [/Game/User_Interface/GAME]
+[2024.05.12-14.10.42:301][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/User_Interface/GAME" FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Autosaves/Game/User_Interface/GAME_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-14.10.42:330][519]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/User_Interface/GAME_Auto4
+[2024.05.12-14.10.42:331][519]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/GAME_Auto4C220B9C840B6D8DECA3E9F8AAA9D1570.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Autosaves/Game/User_Interface/GAME_Auto4.uasset'
+[2024.05.12-14.10.42:332][519]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/User_Interface/GAME_Unlock] ([2] browsable assets)...
+[2024.05.12-14.10.42:335][519]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/User_Interface/GAME_Unlock.GAME_Unlock]
+[2024.05.12-14.10.42:335][519]OBJ SavePackage: Finished generating thumbnails for package [/Game/User_Interface/GAME_Unlock]
+[2024.05.12-14.10.42:360][519]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/User_Interface/GAME_Unlock_Auto4
+[2024.05.12-14.10.42:360][519]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/GAME_Unlock_Auto4A925A26B48544094708120A58A795295.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Autosaves/Game/User_Interface/GAME_Unlock_Auto4.uasset'
+[2024.05.12-14.10.42:362][519]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/User_Interface/SETTING] ([2] browsable assets)...
+[2024.05.12-14.10.42:367][519]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/User_Interface/SETTING.SETTING]
+[2024.05.12-14.10.42:367][519]OBJ SavePackage: Finished generating thumbnails for package [/Game/User_Interface/SETTING]
+[2024.05.12-14.10.42:367][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/User_Interface/SETTING" FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Autosaves/Game/User_Interface/SETTING_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-14.10.42:408][519]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/User_Interface/SETTING_Auto4
+[2024.05.12-14.10.42:409][519]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/SETTING_Auto4514BB0534C6686020134AB8C98CD3C93.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Autosaves/Game/User_Interface/SETTING_Auto4.uasset'
+[2024.05.12-14.10.42:411][519]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/User_Interface/STATISTICAL] ([2] browsable assets)...
+[2024.05.12-14.10.42:418][519]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/User_Interface/STATISTICAL.STATISTICAL]
+[2024.05.12-14.10.42:418][519]OBJ SavePackage: Finished generating thumbnails for package [/Game/User_Interface/STATISTICAL]
+[2024.05.12-14.10.42:460][519]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/User_Interface/STATISTICAL_Auto4
+[2024.05.12-14.10.42:460][519]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/STATISTICAL_Auto424CFB60440BB7E6BC760F29739F3E16A.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Autosaves/Game/User_Interface/STATISTICAL_Auto4.uasset'
+[2024.05.12-14.10.42:461][519]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/User_Interface/ADVENTURE] ([2] browsable assets)...
+[2024.05.12-14.10.42:467][519]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/User_Interface/ADVENTURE.ADVENTURE]
+[2024.05.12-14.10.42:467][519]OBJ SavePackage: Finished generating thumbnails for package [/Game/User_Interface/ADVENTURE]
+[2024.05.12-14.10.42:552][519]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/User_Interface/ADVENTURE_Auto4
+[2024.05.12-14.10.42:552][519]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/ADVENTURE_Auto47DC688E94DF5D097B8635991E0F10490.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Autosaves/Game/User_Interface/ADVENTURE_Auto4.uasset'
+[2024.05.12-14.10.42:553][519]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/User_Interface/STORE] ([2] browsable assets)...
+[2024.05.12-14.10.42:556][519]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/User_Interface/STORE.STORE]
+[2024.05.12-14.10.42:556][519]OBJ SavePackage: Finished generating thumbnails for package [/Game/User_Interface/STORE]
+[2024.05.12-14.10.42:556][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/User_Interface/STORE" FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Autosaves/Game/User_Interface/STORE_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2024.05.12-14.10.42:574][519]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/User_Interface/STORE_Auto4
+[2024.05.12-14.10.42:574][519]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/STORE_Auto4E6EB28E1468CBB8C1A56FA8FD66F5174.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Autosaves/Game/User_Interface/STORE_Auto4.uasset'
+[2024.05.12-14.10.42:575][519]LogFileHelpers: Auto-saving content packages took 0.310
+[2024.05.12-14.11.07:949][358]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/User_Interface/ACCOMPLISHMENT.ACCOMPLISHMENT
+[2024.05.12-14.11.07:949][358]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-14.11.07:960][358]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-14.11.08:290][358]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.12-14.11.08:292][358]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.12-14.12.06:502][152]BlueprintLog: New page: 编译ACCOMPLISHMENT
+[2024.05.12-14.12.06:634][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.05.12-14.12.09:826][308]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-14.12.09:826][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-14.12.09:839][308]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-14.12.09:839][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-14.12.13:878][468]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.12-14.12.13:879][468]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.12-14.12.23:431][912]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/User_Interface/BACKPACK.BACKPACK
+[2024.05.12-14.12.23:432][912]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-14.12.23:443][912]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-14.12.23:829][912]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.12-14.12.23:829][912]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.12-14.12.34:461][375]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/User_Interface/ILLUSTRATED_BOOK.ILLUSTRATED_BOOK
+[2024.05.12-14.12.34:462][375]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-14.12.34:471][375]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-14.12.34:910][375]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.12-14.12.34:910][375]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.12-14.13.19:664][443]BlueprintLog: New page: 编译ILLUSTRATED_BOOK
+[2024.05.12-14.13.19:670][443]LogBlueprint: Warning: [AssetLog] C:\Users\盧孟煜\Documents\GitHub\Final\Content\User_Interface\ILLUSTRATED_BOOK.uasset: [Compiler] 在'ILLUSTRATED_BOOK_C’中找不到名为"Duration\”的变量。
+请确保已针对  获得Duration  对'ILLUSTRATED_BOOK_C’进行了编译
+[2024.05.12-14.13.19:672][443]LogBlueprint: Error: [AssetLog] C:\Users\盧孟煜\Documents\GitHub\Final\Content\User_Interface\ILLUSTRATED_BOOK.uasset: [Compiler] 未能在“/Game/User_Interface/ILLUSTRATED_BOOK.ILLUSTRATED_BOOK_C”中找到和 Duration 相关的属性
+[2024.05.12-14.13.19:818][443]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2024.05.12-14.13.29:519][918]BlueprintLog: New page: 编译ILLUSTRATED_BOOK
+[2024.05.12-14.13.29:621][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.05.12-14.13.32:336][ 48]LogDebuggerCommands: Repeating last play command: 新建编辑器窗口（PIE）
+[2024.05.12-14.13.32:346][ 48]BlueprintLog: New page: 运行前自动重新编译
+[2024.05.12-14.13.32:348][ 48]LogPlayLevel: [PlayLevel] Compiling BACKPACK before play...
+[2024.05.12-14.13.32:612][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2024.05.12-14.13.32:613][ 48]LogPlayLevel: PlayLevel: Blueprint regeneration took 267 ms (1 blueprints)
+[2024.05.12-14.13.32:613][ 48]PIE: New page: PIE会话：Main（2024年5月13日 上午6:13:32）
+[2024.05.12-14.13.32:613][ 48]LogPlayLevel: Creating play world package: /Game/User_Interface/UEDPIE_0_Main
+[2024.05.12-14.13.32:614][ 48]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001237s)
+[2024.05.12-14.13.32:614][ 48]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/User_Interface/Main.Main to /Game/User_Interface/UEDPIE_0_Main.Main (0.001322s)
+[2024.05.12-14.13.32:614][ 48]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.05.12-14.13.32:614][ 48]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-14.13.32:615][ 48]LogAIModule: Creating AISystem for world Main
+[2024.05.12-14.13.32:615][ 48]LogPlayLevel: PIE: World Init took: (0.000856s)
+[2024.05.12-14.13.32:670][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.05.12-14.13.32:671][ 48]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.05.12-14.13.32:671][ 48]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.12-14.13.32:672][ 48]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.12-14.13.32:672][ 48]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.12-14.13.32:672][ 48]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.12-14.13.32:672][ 48]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.12-14.13.32:672][ 48]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.12-14.13.32:672][ 48]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.12-14.13.32:672][ 48]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.12-14.13.32:672][ 48]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.12-14.13.32:672][ 48]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.12-14.13.32:672][ 48]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.12-14.13.32:674][ 48]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.12-14.13.32:723][ 48]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.12-14.13.32:724][ 48]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.12-14.13.32:724][ 48]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.12-14.13.32:724][ 48]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.12-14.13.32:725][ 48]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2024.05.12-14.13.32:725][ 48]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2024.05.12-14.13.32:728][ 48]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2024.05.12-14.13.32:728][ 48]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2024.05.12-14.13.32:728][ 48]LogInit: FAudioDevice initialized.
+[2024.05.12-14.13.32:728][ 48]LogAudio: Display: Audio Device (ID: 22) registered with world 'Main'.
+[2024.05.12-14.13.32:952][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.12-14.13.32:953][ 48]LogLoad: Game class is 'GameModeBase'
+[2024.05.12-14.13.32:953][ 48]LogWorld: Bringing World /Game/User_Interface/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2024.05.12-22.13.32
+[2024.05.12-14.13.32:953][ 48]LogWorld: Bringing up level for play took: 0.000414
+[2024.05.12-14.13.32:957][ 48]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2024.05.12-14.13.32:962][ 48]PIE: 登陆的服务器
+[2024.05.12-14.13.32:966][ 48]PIE: PIE总开始时间：0.621秒。
+[2024.05.12-14.13.32:984][ 48]LogViewport: Scene viewport resized to 2551x1468, mode Windowed.
+[2024.05.12-14.14.10:526][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.12-14.14.14:130][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.12-14.14.17:598][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.12-14.14.33:380][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.12-14.14.33:380][459]LogWorld: BeginTearingDown for /Game/User_Interface/UEDPIE_0_Main
+[2024.05.12-14.14.33:390][459]LogSlate: Window 'Sliding 预览 [NetMode: Standalone]  （64-bit/SM5）' being destroyed
+[2024.05.12-14.14.33:484][459]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-14.14.33:485][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-14.14.33:519][459]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.12-14.14.33:539][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-14.14.33:658][459]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.05.12-14.14.33:660][459]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.05.12-14.14.33:674][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.05.12-14.14.33:693][460]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2024.05.12-14.14.44:490][ 39]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-14.14.44:490][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-14.14.44:502][ 39]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-14.14.44:502][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-14.14.45:943][ 94]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-14.14.45:943][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-14.14.45:953][ 94]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-14.14.45:954][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-14.14.47:679][143]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-14.14.47:679][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-14.14.47:716][143]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-14.14.47:716][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-14.14.54:047][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/User_Interface/MainMenu" FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/MainMenu.uasset" SILENT=true
+[2024.05.12-14.14.54:118][382]LogSavePackage: Moving output files for package: /Game/User_Interface/MainMenu
+[2024.05.12-14.14.54:120][382]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/MainMenu1D2E6390414440B4C11C859514FBADC6.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/MainMenu.uasset'
+[2024.05.12-14.14.54:144][382]AssetCheck: New page: 资产保存：MainMenu
+[2024.05.12-14.14.54:144][382]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/User_Interface/MainMenu.MainMenu
