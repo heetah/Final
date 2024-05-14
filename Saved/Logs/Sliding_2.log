@@ -748,6 +748,7 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.05.14-15.17.34:645][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2024.05.14-15.17.39:610][278]LogSlate: Took 0.004022 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
 [2024.05.14-15.17.39:618][278]LogSlate: Took 0.003298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+<<<<<<< Updated upstream
 [2024.05.14-15.19.20:911][152]LogDerivedDataCache: C:/Users/盧孟煜/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.038 and deleted 0 file(s) with total size 0 MiB.
 [2024.05.14-15.20.26:411][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
 [2024.05.14-15.20.26:412][983]LogStall: Shutdown...
@@ -1364,3 +1365,5 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.05.14-15.20.29:571][984]LogD3D12RHI: ~FD3D12DynamicRHI
 [2024.05.14-15.20.29:571][984]LogExit: Exiting.
 [2024.05.14-15.20.29:573][984]Log file closed, 05/14/24 23:20:29
+=======
+>>>>>>> Stashed changes
