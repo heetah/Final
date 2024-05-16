@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿Log file open, 05/15/24 12:42:56
+=======
+﻿Log file open, 05/15/24 21:24:07
+>>>>>>> 1e615cf527158bf1cf6a839f0f3e9d441d643be7
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
@@ -6,7 +10,11 @@ LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi.dll' does not exist
 LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
+<<<<<<< HEAD
 LogWindows: Started CrashReportClient (pid=4836)
+=======
+LogWindows: Started CrashReportClient (pid=21156)
+>>>>>>> 1e615cf527158bf1cf6a839f0f3e9d441d643be7
 LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
 LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
 LogInit: Display: Running engine for game: Sliding
@@ -15,6 +23,7 @@ LogCsvProfiler: Display: Metadata set : platform="Windows"
 LogCsvProfiler: Display: Metadata set : config="Development"
 LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
 LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+<<<<<<< HEAD
 LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\盧孟煜\Documents\GitHub\Final\Sliding.uproject""
 LogCsvProfiler: Display: Metadata set : os="Windows 11 (23H2) [10.0.22631.3447] "
 LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|13th Gen Intel(R) Core(TM) i9-13900H"
@@ -37,10 +46,36 @@ LogConfig: Display: Loading TVOS ini files took 0.05 seconds
 LogConfig: Display: Loading Unix ini files took 0.05 seconds
 LogConfig: Display: Loading LinuxArm64 ini files took 0.06 seconds
 LogConfig: Display: Loading Linux ini files took 0.06 seconds
+=======
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\user\OneDrive\桌面\final\Final\Sliding.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (22H2) [10.0.22621.3447] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="d454e515499ae1a7190fafbe5c9eff99"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.303058
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-FA8C7C944777B840417E2FB83713382F
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.05 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.05 seconds
+LogConfig: Display: Loading IOS ini files took 0.05 seconds
+LogConfig: Display: Loading Linux ini files took 0.07 seconds
+LogConfig: Display: Loading Mac ini files took 0.04 seconds
+LogConfig: Display: Loading TVOS ini files took 0.06 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.07 seconds
+LogConfig: Display: Loading Unix ini files took 0.06 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.04 seconds
+LogConfig: Display: Loading Windows ini files took 0.05 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+>>>>>>> 1e615cf527158bf1cf6a839f0f3e9d441d643be7
 LogPluginManager: Mounting Engine plugin FastBuildController
 LogPluginManager: Mounting Engine plugin Bridge
 LogPluginManager: Mounting Engine plugin MeshPainting
 LogPluginManager: Mounting Engine plugin XGEController
+<<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin Paper2D
 LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
 LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
@@ -53,14 +88,63 @@ LogPluginManager: Mounting Engine plugin CameraShakePreviewer
 LogPluginManager: Mounting Engine plugin GameplayCameras
 LogPluginManager: Mounting Engine plugin AssetManagerEditor
 LogPluginManager: Mounting Engine plugin CryptoKeys
+=======
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin MDLImporter
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+>>>>>>> 1e615cf527158bf1cf6a839f0f3e9d441d643be7
 LogPluginManager: Mounting Engine plugin EditorDebugTools
 LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
 LogPluginManager: Mounting Engine plugin GameplayTagsEditor
 LogPluginManager: Mounting Engine plugin FacialAnimation
 LogPluginManager: Mounting Engine plugin GeometryMode
 LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
-LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
 LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+<<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin SequencerAnimTools
 LogPluginManager: Mounting Engine plugin SpeedTreeImporter
 LogPluginManager: Mounting Engine plugin DataValidation
@@ -94,11 +178,20 @@ LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
 LogPluginManager: Mounting Engine plugin CharacterAI
 LogPluginManager: Mounting Engine plugin AutomationUtils
 LogPluginManager: Mounting Engine plugin ChaosNiagara
+=======
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+>>>>>>> 1e615cf527158bf1cf6a839f0f3e9d441d643be7
 LogPluginManager: Mounting Engine plugin FullBodyIK
 LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
 LogPluginManager: Mounting Engine plugin GeometryFlow
 LogPluginManager: Mounting Engine plugin MeshLODToolset
 LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+<<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin AlembicImporter
 LogPluginManager: Mounting Engine plugin Niagara
 LogPluginManager: Mounting Engine plugin OpenImageDenoise
@@ -108,6 +201,16 @@ LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
 LogPluginManager: Mounting Engine plugin StylusInput
 LogPluginManager: Mounting Engine plugin PlatformCrypto
 LogPluginManager: Mounting Engine plugin PlanarCut
+=======
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin USDImporter
+LogPluginManager: Mounting Engine plugin USDMultiUser
+>>>>>>> 1e615cf527158bf1cf6a839f0f3e9d441d643be7
 LogPluginManager: Mounting Engine plugin SkeletalReduction
 LogPluginManager: Mounting Engine plugin AndroidMedia
 LogPluginManager: Mounting Engine plugin ProxyLODPlugin
@@ -116,15 +219,25 @@ LogPluginManager: Mounting Engine plugin ImgMedia
 LogPluginManager: Mounting Engine plugin MediaCompositing
 LogPluginManager: Mounting Engine plugin MediaPlayerEditor
 LogPluginManager: Mounting Engine plugin WmfMedia
-LogPluginManager: Mounting Engine plugin TcpMessaging
 LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TcpMessaging
+<<<<<<< HEAD
+LogPluginManager: Mounting Engine plugin UdpMessaging
+=======
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+>>>>>>> 1e615cf527158bf1cf6a839f0f3e9d441d643be7
 LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
 LogPluginManager: Mounting Engine plugin OnlineBase
 LogPluginManager: Mounting Engine plugin OnlineSubsystem
 LogPluginManager: Mounting Engine plugin WebMMedia
 LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
 LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
 LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+<<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin AndroidFileServer
 LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
 LogPluginManager: Mounting Engine plugin AndroidPermission
@@ -133,6 +246,16 @@ LogPluginManager: Mounting Engine plugin PythonScriptPlugin
 LogPluginManager: Mounting Engine plugin ArchVisCharacter
 LogPluginManager: Mounting Engine plugin AssetTags
 LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+=======
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+>>>>>>> 1e615cf527158bf1cf6a839f0f3e9d441d643be7
 LogPluginManager: Mounting Engine plugin AudioCapture
 LogPluginManager: Mounting Engine plugin AudioSynesthesia
 LogPluginManager: Mounting Engine plugin CableComponent
@@ -153,22 +276,36 @@ LogPluginManager: Mounting Engine plugin MDLImporter
 LogPluginManager: Mounting Engine plugin VariantManagerContent
 LogPluginManager: Mounting Engine plugin GeometryCache
 LogPluginManager: Mounting Engine plugin GeometryProcessing
+<<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin GooglePAD
 LogPluginManager: Mounting Engine plugin HairStrands
 LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+=======
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+>>>>>>> 1e615cf527158bf1cf6a839f0f3e9d441d643be7
 LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
 LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
 LogPluginManager: Mounting Engine plugin MeshModelingToolset
+<<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+=======
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+>>>>>>> 1e615cf527158bf1cf6a839f0f3e9d441d643be7
 LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
 LogPluginManager: Mounting Engine plugin PropertyAccessEditor
 LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin MultiUserTakes
 LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
 LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin Takes
 LogPluginManager: Mounting Engine plugin SoundFields
 LogPluginManager: Mounting Engine plugin Synthesis
-LogPluginManager: Mounting Engine plugin WebMMoviePlayer
 LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
 LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
 LogPluginManager: Mounting Engine plugin MobilePatchingUtils
 LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
@@ -177,10 +314,14 @@ LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
 LogPluginManager: Mounting Engine plugin ConcertMain
 LogPluginManager: Mounting Engine plugin MultiUserClient
 LogPluginManager: Mounting Engine plugin Interchange
+<<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin InterchangeEditor
 LogPluginManager: Mounting Engine plugin OnlineServices
+=======
+>>>>>>> 1e615cf527158bf1cf6a839f0f3e9d441d643be7
 LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
 LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
 LogPluginManager: Mounting Engine plugin AnalyticsBlueprintLibrary
 LogPluginManager: Mounting Engine plugin SQLiteCore
 LogPluginManager: Mounting Engine plugin ConcertSyncCore
@@ -190,6 +331,7 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Pape
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+<<<<<<< HEAD
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
@@ -197,12 +339,28 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Develop
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+=======
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/MDLImporter/Content/' mounted to '/MDLImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+>>>>>>> 1e615cf527158bf1cf6a839f0f3e9d441d643be7
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+<<<<<<< HEAD
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+=======
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+>>>>>>> 1e615cf527158bf1cf6a839f0f3e9d441d643be7
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Importers/USDImporter/Content/' mounted to '/USDImporter/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
@@ -216,6 +374,11 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+<<<<<<< HEAD
+=======
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/VirtualProduction/MultiUserTakes/Content/' mounted to '/MultiUserTakes/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/VirtualProduction/Takes/Content/' mounted to '/Takes/'
+>>>>>>> 1e615cf527158bf1cf6a839f0f3e9d441d643be7
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content/' mounted to '/ConcertSyncClient/'
 SourceControl: Source control is disabled
@@ -246,7 +409,11 @@ LogInit: Build: ++UE5+Release-5.0-CL-20979098
 LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
 LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
 LogInit: Net CL: 19505902
+<<<<<<< HEAD
 LogInit: OS: Windows 11 (23H2) [10.0.22631.3447] (), CPU: 13th Gen Intel(R) Core(TM) i9-13900H, GPU: Intel(R) Iris(R) Xe Graphics
+=======
+LogInit: OS: Windows 11 (22H2) [10.0.22621.3447] (), CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz, GPU: Intel(R) Iris(R) Xe Graphics
+>>>>>>> 1e615cf527158bf1cf6a839f0f3e9d441d643be7
 LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
 LogInit: Compiled with Visual C++: 19.29.30138.00
 LogInit: Build Configuration: Development
@@ -290,7 +457,11 @@ LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B):
 LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
 LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
 LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+<<<<<<< HEAD
 LogLinker: AddRedirectList(C:/Users/盧孟煜/Documents/GitHub/Final/Saved/Config/WindowsEditor/MDLImporter.ini) has substring redirect /DatasmithContent/Materials/MDL/, these are very slow and should be resolved as soon as possible!
+=======
+LogLinker: AddRedirectList(C:/Users/user/OneDrive/桌面/final/Final/Saved/Config/WindowsEditor/MDLImporter.ini) has substring redirect /DatasmithContent/Materials/MDL/, these are very slow and should be resolved as soon as possible!
+>>>>>>> 1e615cf527158bf1cf6a839f0f3e9d441d643be7
 LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
 LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
@@ -299,6 +470,7 @@ LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable crea
 LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
 LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
 LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+<<<<<<< HEAD
 [2024.05.15-04.42.57:131][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
 [2024.05.15-04.42.57:131][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
 [2024.05.15-04.42.57:131][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
@@ -1622,3 +1794,1098 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.05.15-05.07.37:804][ 45]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/TEMP331C9D354C8B8E15F8AC419B2BF9F074.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/TEMP.uasset'
 [2024.05.15-05.07.37:814][ 45]AssetCheck: New page: 资产保存：TEMP
 [2024.05.15-05.07.37:814][ 45]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/User_Interface/TEMP.TEMP
+=======
+[2024.05.15-13.24.08:967][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2024.05.15-13.24.08:967][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2024.05.15-13.24.08:967][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2024.05.15-13.24.08:967][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2024.05.15-13.24.08:968][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2024.05.15-13.24.08:968][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2024.05.15-13.24.08:968][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2024.05.15-13.24.08:968][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2024.05.15-13.24.08:968][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2024.05.15-13.24.08:968][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2024.05.15-13.24.08:968][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2024.05.15-13.24.08:968][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2024.05.15-13.24.08:968][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2024.05.15-13.24.08:968][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2024.05.15-13.24.08:968][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2024.05.15-13.24.08:968][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2024.05.15-13.24.08:968][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2024.05.15-13.24.08:968][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2024.05.15-13.24.08:968][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2024.05.15-13.24.08:968][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2024.05.15-13.24.08:969][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2024.05.15-13.24.08:969][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2024.05.15-13.24.08:969][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2024.05.15-13.24.08:969][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2024.05.15-13.24.08:969][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2024.05.15-13.24.08:969][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2024.05.15-13.24.08:969][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2024.05.15-13.24.08:969][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2024.05.15-13.24.08:969][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2024.05.15-13.24.08:969][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2024.05.15-13.24.08:969][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2024.05.15-13.24.08:969][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2024.05.15-13.24.08:969][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2024.05.15-13.24.08:969][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2024.05.15-13.24.08:969][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2024.05.15-13.24.08:969][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2024.05.15-13.24.08:969][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2024.05.15-13.24.08:969][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2024.05.15-13.24.08:969][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2024.05.15-13.24.08:969][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2024.05.15-13.24.08:969][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2024.05.15-13.24.08:969][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2024.05.15-13.24.08:969][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2024.05.15-13.24.08:969][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2024.05.15-13.24.08:969][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2024.05.15-13.24.08:969][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2024.05.15-13.24.08:969][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2024.05.15-13.24.08:970][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2024.05.15-13.24.08:970][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2024.05.15-13.24.08:970][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2024.05.15-13.24.08:970][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2024.05.15-13.24.08:970][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2024.05.15-13.24.08:970][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2024.05.15-13.24.08:970][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2024.05.15-13.24.08:970][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2024.05.15-13.24.08:970][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2024.05.15-13.24.08:970][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2024.05.15-13.24.08:976][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2024.05.15-13.24.08:976][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2024.05.15-13.24.08:976][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2024.05.15-13.24.08:977][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2024.05.15-13.24.08:977][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2024.05.15-13.24.08:977][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2024.05.15-13.24.08:977][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2024.05.15-13.24.08:977][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2024.05.15-13.24.08:978][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2024.05.15-13.24.08:978][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2024.05.15-13.24.08:978][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2024.05.15-13.24.09:048][  0]LogD3D12RHI: Aftermath initialized
+[2024.05.15-13.24.09:048][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2024.05.15-13.24.09:208][  0]LogD3D12RHI: Found D3D12 adapter 0: Intel(R) Iris(R) Xe Graphics (Max supported Feature Level 12_1, shader model 6.6)
+[2024.05.15-13.24.09:209][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 3942MB of shared system memory, 1 output[s]
+[2024.05.15-13.24.09:258][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2024.05.15-13.24.09:258][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 3942MB of shared system memory, 0 output[s]
+[2024.05.15-13.24.09:258][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2024.05.15-13.24.09:258][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2024.05.15-13.24.09:258][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2024.05.15-13.24.09:259][  0]LogHAL: Display: Platform has ~ 8 GB [8268062720 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.05.15-13.24.09:259][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2024.05.15-13.24.09:259][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2024.05.15-13.24.09:259][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.05.15-13.24.09:259][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2024.05.15-13.24.09:259][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/user/OneDrive/桌面/final/Final/Saved/Config/WindowsEditor/Editor.ini]
+[2024.05.15-13.24.09:260][  0]LogInit: Computer: LAPTOP-P0106H0E
+[2024.05.15-13.24.09:260][  0]LogInit: User: user
+[2024.05.15-13.24.09:260][  0]LogInit: CPU Page size=4096, Cores=4
+[2024.05.15-13.24.09:260][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.05.15-13.24.09:260][  0]LogMemory: Memory total: Physical=7.7GB (8GB approx)
+[2024.05.15-13.24.09:260][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2024.05.15-13.24.09:260][  0]LogMemory: Process Physical Memory: 256.69 MB used, 260.18 MB peak
+[2024.05.15-13.24.09:260][  0]LogMemory: Process Virtual Memory: 203.50 MB used, 203.50 MB peak
+[2024.05.15-13.24.09:260][  0]LogMemory: Physical Memory: 5322.68 MB used,  2562.36 MB free, 7885.04 MB total
+[2024.05.15-13.24.09:260][  0]LogMemory: Virtual Memory: 9504.13 MB used,  14252.91 MB free, 23757.04 MB total
+[2024.05.15-13.24.09:260][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2024.05.15-13.24.09:273][  0]LogWindows: WindowsPlatformFeatures enabled
+[2024.05.15-13.24.09:326][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2024.05.15-13.24.09:328][  0]LogInit: Overriding language with editor language configuration option (zh-Hans).
+[2024.05.15-13.24.09:328][  0]LogInit: Using OS detected locale (zh-TW).
+[2024.05.15-13.24.09:747][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
+[2024.05.15-13.24.09:747][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
+[2024.05.15-13.24.09:747][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
+[2024.05.15-13.24.09:747][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
+[2024.05.15-13.24.09:748][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
+[2024.05.15-13.24.09:748][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
+[2024.05.15-13.24.09:748][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
+[2024.05.15-13.24.09:748][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
+[2024.05.15-13.24.09:748][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2024.05.15-13.24.09:749][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2024.05.15-13.24.09:749][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2024.05.15-13.24.09:952][  0]LogInit: Setting process to per monitor DPI aware
+[2024.05.15-13.24.10:060][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2024.05.15-13.24.10:060][  0]LogWindowsTextInputMethodSystem:   - 繁體中文 (台灣) - 微軟注音 (TSF IME).
+[2024.05.15-13.24.10:060][  0]LogWindowsTextInputMethodSystem:   - 繁體中文 (台灣) - 華碩智慧輸入法 (TSF IME).
+[2024.05.15-13.24.10:061][  0]LogWindowsTextInputMethodSystem: Activated input method: 繁體中文 (台灣) - 微軟注音 (TSF IME).
+[2024.05.15-13.24.10:098][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.05.15-13.24.10:098][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.05.15-13.24.10:503][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2024.05.15-13.24.10:503][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2024.05.15-13.24.10:562][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2024.05.15-13.24.10:562][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2024.05.15-13.24.10:562][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2024.05.15-13.24.10:562][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2024.05.15-13.24.10:562][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2024.05.15-13.24.10:562][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2024.05.15-13.24.10:562][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2024.05.15-13.24.10:562][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is not supported
+[2024.05.15-13.24.10:590][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2024.05.15-13.24.10:598][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2024.05.15-13.24.10:608][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2024.05.15-13.24.10:622][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2024.05.15-13.24.10:622][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2024.05.15-13.24.10:791][  0]LogD3D12RHI:     GPU DeviceId: 0x9a49 (for the marketing name, search the web for "GPU Device Id")
+[2024.05.15-13.24.10:791][  0]LogWindows: Attached monitors:
+[2024.05.15-13.24.10:791][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1008), device: '\\.\DISPLAY1' [PRIMARY]
+[2024.05.15-13.24.10:791][  0]LogWindows: Found 1 attached monitors.
+[2024.05.15-13.24.10:791][  0]LogWindows: EnumDisplayDevices:
+[2024.05.15-13.24.10:791][  0]LogWindows:    0. 'Intel(R) Iris(R) Xe Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2024.05.15-13.24.10:792][  0]LogWindows:    1. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2024.05.15-13.24.10:792][  0]LogWindows:    2. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2024.05.15-13.24.10:793][  0]LogWindows:    3. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0), name: '\\.\DISPLAY4'
+[2024.05.15-13.24.10:793][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2024.05.15-13.24.10:793][  0]LogD3D12RHI:     Adapter Name: Intel(R) Iris(R) Xe Graphics
+[2024.05.15-13.24.10:793][  0]LogD3D12RHI:   Driver Version: 30.0.101.3111 (internal:30.0.101.3111, unified:101.3111)
+[2024.05.15-13.24.10:793][  0]LogD3D12RHI:      Driver Date: 6-9-2022
+[2024.05.15-13.24.10:793][  0]LogRHI: Texture pool is 2235 MB (70% of 3193 MB)
+[2024.05.15-13.24.10:793][  0]LogD3D12RHI: Async texture creation enabled
+[2024.05.15-13.24.10:793][  0]LogD3D12RHI: RHI does not have support for 64 bit atomics
+[2024.05.15-13.24.17:859][  0]Message dialog closed, result: Ok, title: 警告：图形驱动的已知问题, text: 已安装的Intel图形驱动版本存在已知问题。
+请安装最新或建议的驱动版本。
+
+https://downloadcenter.intel.com/product/80939/Graphics
+
+Intel(R) Iris(R) Xe Graphics
+已安装：30.0.101.3111
+推荐版本：30.0.101.1340
+[2024.05.15-13.24.17:874][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/user/OneDrive/桌面/final/Final/Sliding.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/user/OneDrive/桌面/final/Final/Intermediate/TurnkeyReport_0.log" -log="C:/Users/user/OneDrive/桌面/final/Final/Intermediate/TurnkeyLog_0.log" -project="C:/Users/user/OneDrive/桌面/final/Final/Sliding.uproject"  -platform=all'
+[2024.05.15-13.24.17:874][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/user/OneDrive/桌面/final/Final/Sliding.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/user/OneDrive/桌面/final/Final/Intermediate/TurnkeyReport_0.log" -log="C:/Users/user/OneDrive/桌面/final/Final/Intermediate/TurnkeyLog_0.log" -project="C:/Users/user/OneDrive/桌面/final/Final/Sliding.uproject"  -platform=all" ]
+[2024.05.15-13.24.17:914][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2024.05.15-13.24.17:936][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2024.05.15-13.24.17:936][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2024.05.15-13.24.17:948][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2024.05.15-13.24.17:948][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2024.05.15-13.24.17:948][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2024.05.15-13.24.17:948][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2024.05.15-13.24.17:948][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2024.05.15-13.24.17:948][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2024.05.15-13.24.17:948][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2024.05.15-13.24.17:948][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2024.05.15-13.24.17:948][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2024.05.15-13.24.17:948][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2024.05.15-13.24.17:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2024.05.15-13.24.17:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2024.05.15-13.24.17:988][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2024.05.15-13.24.17:988][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2024.05.15-13.24.17:993][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2024.05.15-13.24.17:993][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2024.05.15-13.24.17:993][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2024.05.15-13.24.17:993][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2024.05.15-13.24.17:997][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2024.05.15-13.24.17:997][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2024.05.15-13.24.17:997][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2024.05.15-13.24.17:997][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2024.05.15-13.24.18:002][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2024.05.15-13.24.18:002][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2024.05.15-13.24.18:009][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2024.05.15-13.24.18:010][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2024.05.15-13.24.18:010][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2024.05.15-13.24.18:010][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2024.05.15-13.24.18:010][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2024.05.15-13.24.18:021][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.05.15-13.24.18:024][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2024.05.15-13.24.18:025][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2024.05.15-13.24.18:025][  0]LogTargetPlatformManager:   ADPCM
+[2024.05.15-13.24.18:025][  0]LogTargetPlatformManager:   PCM
+[2024.05.15-13.24.18:029][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2024.05.15-13.24.18:029][  0]LogTargetPlatformManager:   BINKA
+[2024.05.15-13.24.18:029][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2024.05.15-13.24.18:029][  0]LogTargetPlatformManager:   OGG
+[2024.05.15-13.24.18:029][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2024.05.15-13.24.18:029][  0]LogTargetPlatformManager:   OPUS
+[2024.05.15-13.24.18:151][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2024.05.15-13.24.18:162][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2024.05.15-13.24.18:162][  0]LogTargetPlatformManager:   SF_METAL
+[2024.05.15-13.24.18:162][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2024.05.15-13.24.18:162][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2024.05.15-13.24.18:162][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2024.05.15-13.24.18:162][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2024.05.15-13.24.18:162][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2024.05.15-13.24.18:162][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2024.05.15-13.24.18:162][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2024.05.15-13.24.18:162][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2024.05.15-13.24.18:162][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2024.05.15-13.24.18:162][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2024.05.15-13.24.18:162][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2024.05.15-13.24.18:162][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2024.05.15-13.24.18:162][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2024.05.15-13.24.18:162][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2024.05.15-13.24.18:171][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2024.05.15-13.24.18:171][  0]LogTargetPlatformManager:   VVM_1_0
+[2024.05.15-13.24.18:171][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2024.05.15-13.24.18:171][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2024.05.15-13.24.18:171][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2024.05.15-13.24.18:171][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2024.05.15-13.24.18:171][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2024.05.15-13.24.18:172][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2024.05.15-13.24.18:175][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/user/OneDrive/桌面/final/Final/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2024.05.15-13.24.18:175][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2024.05.15-13.24.18:176][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/user/OneDrive/桌面/final/Final/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2024.05.15-13.24.18:176][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2024.05.15-13.24.18:182][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/user/OneDrive/桌面/final/Final/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.05.15-13.24.18:182][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2024.05.15-13.24.18:182][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/user/OneDrive/桌面/final/Final/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.05.15-13.24.18:182][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2024.05.15-13.24.18:215][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2024.05.15-13.24.18:216][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.05.15-13.24.18:216][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2024.05.15-13.24.18:230][  0]LogDerivedDataCache: Speed tests for C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2024.05.15-13.24.18:230][  0]LogDerivedDataCache: Display: Performance to C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.11ms. RandomReadSpeed=218.39MBs, RandomWriteSpeed=107.57MBs. Assigned SpeedClass 'Local'
+[2024.05.15-13.24.18:231][  0]LogDerivedDataCache: Using Local data cache path C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.05.15-13.24.18:231][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.05.15-13.24.18:233][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2024.05.15-13.24.18:242][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2024.05.15-13.24.18:242][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2024.05.15-13.24.18:245][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (../../../../../../Users/user/OneDrive/桌面/final/Final/Intermediate/Shaders/WorkingDirectory/18724/).
+[2024.05.15-13.24.18:245][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/user/AppData/Local/Temp/UnrealShaderWorkingDir/21F1D1ED40EE31672AB22398BBFF6BF5/'.
+[2024.05.15-13.24.18:246][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2024.05.15-13.24.18:246][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2024.05.15-13.24.19:786][  0]LogSlate: Using FreeType 2.10.0
+[2024.05.15-13.24.19:787][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.05.15-13.24.19:876][  0]LogAssetRegistry: FAssetRegistry took 0.0169 seconds to start up
+[2024.05.15-13.24.19:893][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2024.05.15-13.24.20:224][  0]LogSerialization: UsePackageTrailer: 'false'
+[2024.05.15-13.24.20:229][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2024.05.15-13.24.20:416][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2024.05.15-13.24.20:416][  0]LogDeviceProfileManager: Active device profile: [000004E07D860A80][000004E070F80000 50] WindowsEditor
+[2024.05.15-13.24.20:416][  0]LogDeviceProfileManager: Profiles: [000004E07D860540][000004E070F85000 50] Windows, [000004E07D860A80][000004E070F80000 50] WindowsEditor, [000004E07D862680][000004E070F07800 50] WindowsServer, [000004E07D8624C0][000004E070EBC800 50] WindowsClient, [000004E07D862300][000004E070F82800 50] IOS, [000004E07D862840][000004E063D8A000 50] iPadAir2, [000004E07D864EC0][000004E07D7E2800 50] IPadPro, [000004E07D865240][000004E07D7E0000 50] iPadAir3, [000004E07D861DC0][000004E07D7E7800 50] iPadAir4, [000004E07D864D00][000004E07D7EA000 50] iPadMini4, [000004E07D860C40][000004E07D7EC800 50] iPadMini5, [000004E07D864B40][000004E07602C800 50] iPadMini6, [000004E07D868180][000004E07D825000 50] iPhone6S, [000004E07D868500][000004E07D822800 50] iPhone7, [000004E07D868880][000004E07D820000 50] iPodTouch7, [000004E07D861500][000004E07D82A000 50] iPhone6SPlus, [000004E07D866040][000004E07D82C800 50] iPhone7Plus, [000004E07D8640C0][000004E07D7E5000 50] iPhoneSE, [000004E07D862D80][000004E07D840000 50] iPhone8, [000004E07D868A40][000004E07D845000 50] iPhone8Plus, [000004E07D866E40][000004E07D847800 50] iPhoneX, [000004E07D862F40][000004E07D84A000 50] iPhoneXS, [000004E07D868C00][000004E07D84C800 50] iPhoneXSMax, [000004E07D861340][000004E07D827800 50] iPhoneXR, [000004E07D868340][000004E07D8A0000 50] iPhone11, [000004E07D867A80][000004E07D8A5000 50] iPhone11Pro, [000004E07D8647C0][000004E07D8A7800 50] iPhone11ProMax, [000004E07D867000][000004E07D8AA000 50] iPhoneSE2, [000004E07D866AC0][000004E07D8AC800 50] iPhone12Mini, [000004E07D864600][000004E07D842800 50] iPhone12, [000004E07D867FC0][000004E07D8B0000 50] iPhone12Pro, [000004E07D862BC0][000004E07D8B5000 50] iPhone12ProMax, [000004E07D867700][000004E07D8B7800 50] iPhone13Mini, [000004E07D866200][000004E07D8BA000 50] iPhone13, [000004E07D860E00][000004E07D8BC800 50] iPhone13Pro, [000004E07D8616C0][000004E07D8A2800 50] iPhone13ProMax, [000004E07D8632C0][000004E07D8C0000 50] iPadPro105, [000004E07D861C00][000004E07D8C5000 50] iPadPro129, [000004E07D864280][000004E07D8C7800 50] iPadPro97, [000004E07D860000][000004E07D8CA000 50] iPadPro2_129, [000004E07D865940][000004E07D8CC800 50] iPad5, [000004E07D860380][000004E07D8B2800 50] iPad6, [000004E07D8601C0][000004E07D8D0000 50] iPad7, [000004E07D861880][000004E07D8D5000 50] iPad8, [000004E07D867C40][000004E07D8D7800 50] iPad9, [000004E07D863D40][000004E07D8DA000 50] iPadPro11, [000004E07D867540][000004E07D8DC800 50] iPadPro2_11, [000004E07D8678C0][000004E07D8C2800 50] iPadPro3_11, [000004E07D8671C0][000004E07D8E0000 50] iPadPro3_129, [000004E07D861180][000004E07D8E5000 50] iPadPro4_129, [000004E07D866740][000004E07D8E7800 50] iPadPro5_129, [000004E07D865780][000004E07D8EA000 50] AppleTV, [000004E07D860FC0][000004E07D8EC800 50] AppleTV4K, [000004E07D865E80][000004E07D8D2800 50] TVOS, [000004E07D86A800][000004E07D8F2800 50] Mac, [000004E07D86AB80][000004E07D8F0000 50] MacEditor, [000004E07D86A100][000004E07D8F7800 50] MacClient, [000004E07D862A00][000004E07D8FA000 50] MacServer, [000004E07D86AD40][000004E07D8E2800 50] Linux, [000004E07D86B0C0][000004E07D8FC800 50] LinuxEditor, [000004E07D869140][000004E07D900000 50] LinuxArm64Editor, [000004E07D863B80][000004E07D905000 50] LinuxArm64, [000004E07D866900][000004E07D907800 50] LinuxClient, [000004E07D86B280][000004E07D90A000 50] LinuxArm64Client, [000004E07D863100][000004E07D90C800 50] LinuxServer, [000004E07D867380][000004E07D8F5000 50] LinuxArm64Server, [000004E07D866580][000004E07D910000 50] Android, [000004E07D865400][000004E07D915000 50] Android_Preview_OpenGL, [000004E07D869F40][000004E07D917800 50] Android_Preview_Vulkan, [000004E07D865CC0][000004E07D91A000 50] Android_Low, [000004E07D863F00][000004E07D91C800 50] Android_Mid, [000004E07D868F80][000004E07D902800 50] Android_High, [000004E07D864440][000004E07D920000 50] Android_Default, [000004E07D8694C0][000004E07D925000 50] Android_Adreno4xx, [000004E07D865080][000004E07D927800 50] Android_Adreno5xx_Low, [000004E07D869300][000004E07D92A000 50] Android_Adreno5xx, [000004E07D865B00][000004E07D92C800 50] Android_Adreno6xx, [000004E07D86B440][000004E07D912800 50] Android_Adreno6xx_Vulkan, [000004E07D8663C0][000004E07D930000 50] Android_Adreno7xx, [000004E07D867E00][000004E07D935000 50] Android_Adreno7xx_Vulkan, [000004E07D869840][000004E07D937800 50] Android_Mali_T6xx, [000004E07D864980][000004E07D93A000 50] Android_Mali_T7xx, [000004E07D86B600][000004E07D93C800 50] Android_Mali_T8xx, [000004E07D863480][000004E07D922800 50] Android_Mali_G71, [000004E07D869BC0][000004E07D7F0000 50] Android_Mali_G72, [000004E07D8639C0][000004E07D7F5000 50] Android_Mali_G72_Vulkan, [000004E07D86C080][000004E07D7F7800 50] Android_Mali_G76, [000004E07D8655C0][000004E07D7FA000 50] Android_Mali_G76_Vulkan, [000004E07D86CB00][000004E07D7FC800 50] Android_Mali_G77, [000004E07D86A9C0][000004E07D932800 50] Android_Mali_G77_Vulkan, [000004E07D86A480][000004E07D940000 50] Android_Mali_G78, [000004E07D86B980][000004E07D945000 50] Android_Mali_G78_Vulkan, [000004E07D86BD00][000004E07D947800 50] Android_Mali_G710, [000004E07D86C240][000004E07D94A000 50] Android_Mali_G710_Vulkan, [000004E07D86C940][000004E07D94C800 50] Android_Xclipse_920, [000004E07D86D040][000004E07D7F2800 50] Android_Xclipse_920_Vulkan, [000004E07D863640][000004E07D950000 50] Android_Vulkan_SM5, [000004E07D86D3C0][000004E07D955000 50] Android_PowerVR_G6xxx, [000004E07D86D200][000004E07D957800 50] Android_PowerVR_GT7xxx, [000004E07D86C5C0][000004E07D95A000 50] Android_PowerVR_GE8xxx, [000004E07D86C400][000004E07D95C800 50] Android_PowerVR_GM9xxx, [000004E07D86A640][000004E07D942800 50] Android_PowerVR_GM9xxx_Vulkan, [000004E07D86DC80][000004E07D960000 50] Android_TegraK1, [000004E07D869D80][000004E07D965000 50] Android_Unknown_Vulkan, [000004E07D86E1C0][000004E07D967800 50] Oculus_Quest, [000004E07D86BEC0][000004E07D96A000 50] Oculus_Quest2, [000004E07D86E000][000004E07D96C800 50] HoloLens, 
+[2024.05.15-13.24.20:416][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2024.05.15-13.24.20:443][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2024.05.15-13.24.20:680][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.05.15-13.24.20:680][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.05.15-13.24.20:680][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.05.15-13.24.20:680][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.05.15-13.24.20:681][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.05.15-13.24.20:704][  0]LogNetVersion: Sliding 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 4185390373)
+[2024.05.15-13.24.20:895][  0]LogSlate: Border
+[2024.05.15-13.24.20:895][  0]LogSlate: BreadcrumbButton
+[2024.05.15-13.24.20:895][  0]LogSlate: Default
+[2024.05.15-13.24.20:895][  0]LogSlate: Icons.Save
+[2024.05.15-13.24.20:895][  0]LogSlate: Icons.Toolbar.Settings
+[2024.05.15-13.24.20:895][  0]LogSlate: ListView
+[2024.05.15-13.24.20:895][  0]LogSlate: SoftwareCursor_CardinalCross
+[2024.05.15-13.24.20:895][  0]LogSlate: SoftwareCursor_Grab
+[2024.05.15-13.24.20:895][  0]LogSlate: TableView.DarkRow
+[2024.05.15-13.24.20:895][  0]LogSlate: TableView.Row
+[2024.05.15-13.24.20:895][  0]LogSlate: TreeView
+[2024.05.15-13.24.21:202][  0]SourceControl: 源码管理已禁用
+[2024.05.15-13.24.21:237][  0]SourceControl: 源码管理已禁用
+[2024.05.15-13.24.21:237][  0]SourceControl: 源码管理已禁用
+[2024.05.15-13.24.21:379][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2024.05.15-13.24.21:379][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2024.05.15-13.24.21:379][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.05.15-13.24.22:046][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 75625B86475024F48CBA3D9CB8702452 | Instance: 3B9F9E5C406C6F3CDD6C52909C5D027A (LAPTOP-P0106H0E-18724).
+[2024.05.15-13.24.22:199][  0]LogPython: Using Python 3.9.7
+[2024.05.15-13.24.22:980][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.05.15-13.24.22:989][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.05.15-13.24.23:177][  0]LogWindows: Warning: CreateProc failed: 系統找不到指定的檔案。 (0x00000002)
+[2024.05.15-13.24.23:177][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2024.05.15-13.24.23:177][  0]LogWindows: Warning: CreateProc failed: 系統找不到指定的檔案。 (0x00000002)
+[2024.05.15-13.24.23:177][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2024.05.15-13.24.23:177][  0]LogWindows: Warning: CreateProc failed: 系統找不到指定的檔案。 (0x00000002)
+[2024.05.15-13.24.23:177][  0]LogWindows: Warning: URL: C:\Users\user\AppData\Local/Programs/Git/cmd/git.exe version
+[2024.05.15-13.24.23:177][  0]LogWindows: Warning: CreateProc failed: 系統找不到指定的檔案。 (0x00000002)
+[2024.05.15-13.24.23:177][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2024.05.15-13.24.23:177][  0]LogWindows: Warning: CreateProc failed: 系統找不到指定的檔案。 (0x00000002)
+[2024.05.15-13.24.23:177][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2024.05.15-13.24.23:177][  0]LogWindows: Warning: CreateProc failed: 系統找不到指定的檔案。 (0x00000002)
+[2024.05.15-13.24.23:177][  0]LogWindows: Warning: URL: C:\Users\user\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2024.05.15-13.24.23:177][  0]LogWindows: Warning: CreateProc failed: 系統找不到指定的檔案。 (0x00000002)
+[2024.05.15-13.24.23:177][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2024.05.15-13.24.23:182][  0]LogWindows: Warning: CreateProc failed: 系統找不到指定的檔案。 (0x00000002)
+[2024.05.15-13.24.23:182][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2024.05.15-13.24.23:182][  0]LogWindows: Warning: CreateProc failed: 系統找不到指定的檔案。 (0x00000002)
+[2024.05.15-13.24.23:182][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2024.05.15-13.24.23:182][  0]LogWindows: Warning: CreateProc failed: 系統找不到指定的檔案。 (0x00000002)
+[2024.05.15-13.24.23:182][  0]LogWindows: Warning: URL: C:\Users\user\AppData\Local/Programs/Git/cmd/git.exe version
+[2024.05.15-13.24.23:182][  0]LogWindows: Warning: CreateProc failed: 系統找不到指定的檔案。 (0x00000002)
+[2024.05.15-13.24.23:182][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2024.05.15-13.24.23:182][  0]LogWindows: Warning: CreateProc failed: 系統找不到指定的檔案。 (0x00000002)
+[2024.05.15-13.24.23:182][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2024.05.15-13.24.23:182][  0]LogWindows: Warning: CreateProc failed: 系統找不到指定的檔案。 (0x00000002)
+[2024.05.15-13.24.23:182][  0]LogWindows: Warning: URL: C:\Users\user\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2024.05.15-13.24.23:182][  0]LogWindows: Warning: CreateProc failed: 系統找不到指定的檔案。 (0x00000002)
+[2024.05.15-13.24.23:182][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2024.05.15-13.24.23:195][  0]LogWindows: Warning: CreateProc failed: 系統找不到指定的檔案。 (0x00000002)
+[2024.05.15-13.24.23:195][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2024.05.15-13.24.23:195][  0]LogWindows: Warning: CreateProc failed: 系統找不到指定的檔案。 (0x00000002)
+[2024.05.15-13.24.23:195][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2024.05.15-13.24.23:195][  0]LogWindows: Warning: CreateProc failed: 系統找不到指定的檔案。 (0x00000002)
+[2024.05.15-13.24.23:195][  0]LogWindows: Warning: URL: C:\Users\user\AppData\Local/Programs/Git/cmd/git.exe version
+[2024.05.15-13.24.23:195][  0]LogWindows: Warning: CreateProc failed: 系統找不到指定的檔案。 (0x00000002)
+[2024.05.15-13.24.23:195][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2024.05.15-13.24.23:195][  0]LogWindows: Warning: CreateProc failed: 系統找不到指定的檔案。 (0x00000002)
+[2024.05.15-13.24.23:195][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2024.05.15-13.24.23:195][  0]LogWindows: Warning: CreateProc failed: 系統找不到指定的檔案。 (0x00000002)
+[2024.05.15-13.24.23:195][  0]LogWindows: Warning: URL: C:\Users\user\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2024.05.15-13.24.23:195][  0]LogWindows: Warning: CreateProc failed: 系統找不到指定的檔案。 (0x00000002)
+[2024.05.15-13.24.23:195][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2024.05.15-13.24.23:206][  0]LogUProjectInfo: Found projects:
+[2024.05.15-13.24.23:210][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.05.15-13.24.23:211][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.05.15-13.24.23:212][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.05.15-13.24.23:789][  0]LogOpenImageDenoise: OIDN starting up
+[2024.05.15-13.24.24:019][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/ar/resources/plugInfo.json'
+[2024.05.15-13.24.24:019][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/ndr/resources/plugInfo.json'
+[2024.05.15-13.24.24:020][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdGeom/resources/plugInfo.json'
+[2024.05.15-13.24.24:021][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdLux/resources/plugInfo.json'
+[2024.05.15-13.24.24:022][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/sdf/resources/plugInfo.json'
+[2024.05.15-13.24.24:022][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdHydra/resources/plugInfo.json'
+[2024.05.15-13.24.24:023][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usd/resources/plugInfo.json'
+[2024.05.15-13.24.24:024][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdRi/resources/plugInfo.json'
+[2024.05.15-13.24.24:024][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdVol/resources/plugInfo.json'
+[2024.05.15-13.24.24:025][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdMedia/resources/plugInfo.json'
+[2024.05.15-13.24.24:026][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdUI/resources/plugInfo.json'
+[2024.05.15-13.24.24:026][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdSkel/resources/plugInfo.json'
+[2024.05.15-13.24.24:027][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdPhysics/resources/plugInfo.json'
+[2024.05.15-13.24.24:028][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdRender/resources/plugInfo.json'
+[2024.05.15-13.24.24:028][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdShade/resources/plugInfo.json'
+[2024.05.15-13.24.24:030][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usd/resources/codegenTemplates/plugInfo.json'
+[2024.05.15-13.24.24:460][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.05.15-13.24.24:495][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.05.15-13.24.24:495][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.05.15-13.24.24:730][  0]LogCollectionManager: Loaded 0 collections in 0.002277 seconds
+[2024.05.15-13.24.24:885][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/OneDrive/桌面/final/Final/Saved/Collections/' took 0.00s
+[2024.05.15-13.24.24:885][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/OneDrive/桌面/final/Final/Content/Developers/user/Collections/' took 0.00s
+[2024.05.15-13.24.24:885][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/OneDrive/桌面/final/Final/Content/Collections/' took 0.00s
+[2024.05.15-13.24.25:471][  0]LogEngine: Initializing Engine...
+[2024.05.15-13.24.25:493][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2024.05.15-13.24.25:498][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2024.05.15-13.24.25:936][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.05.15-13.24.25:937][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.05.15-13.24.25:959][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-13.24.26:016][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.05.15-13.24.26:017][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2024.05.15-13.24.26:059][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2024.05.15-13.24.26:060][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2024.05.15-13.24.26:060][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2024.05.15-13.24.26:061][  0]LogAudio: Display: Audio Device Manager Initialized
+[2024.05.15-13.24.26:061][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2024.05.15-13.24.26:061][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.15-13.24.26:061][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.15-13.24.26:061][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.15-13.24.26:061][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.15-13.24.26:061][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.15-13.24.26:061][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.15-13.24.26:061][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.15-13.24.26:061][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.15-13.24.26:062][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.15-13.24.26:062][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.15-13.24.26:062][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.15-13.24.26:078][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.15-13.24.26:641][  0]LogAudioMixer: Display: Using Audio Hardware Device 喇叭 (Realtek(R) Audio)
+[2024.05.15-13.24.26:642][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.15-13.24.26:645][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.15-13.24.26:645][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.15-13.24.26:647][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2024.05.15-13.24.26:647][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.05.15-13.24.26:650][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.05.15-13.24.26:650][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2024.05.15-13.24.26:650][  0]LogInit: FAudioDevice initialized.
+[2024.05.15-13.24.26:650][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.05.15-13.24.26:650][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.05.15-13.24.26:650][  0]LogInit: Texture streaming: Enabled
+[2024.05.15-13.24.26:709][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2024.05.15-13.24.26:728][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2024.05.15-13.24.26:766][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2024.05.15-13.24.26:782][  0]LogLiveCoding: Display: Starting LiveCoding
+[2024.05.15-13.24.26:782][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2024.05.15-13.24.29:908][  0]LogLiveCoding: Display: First instance in process group "UE_Sliding_0x3e42b53e", spawning console
+[2024.05.15-13.24.29:908][  0]LogLiveCoding: Display: Waiting for server
+[2024.05.15-13.24.29:908][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2024.05.15-13.24.29:942][  0]LogInit: Transaction tracking system initialized
+[2024.05.15-13.24.30:077][  0]BlueprintLog: New page: 编辑器加载
+[2024.05.15-13.24.30:426][  0]LocalizationService: 本地化服务已禁用
+[2024.05.15-13.24.30:514][  0]TimingProfiler: Initialize
+[2024.05.15-13.24.30:516][  0]TimingProfiler: OnSessionChanged
+[2024.05.15-13.24.30:516][  0]LoadingProfiler: Initialize
+[2024.05.15-13.24.30:516][  0]LoadingProfiler: OnSessionChanged
+[2024.05.15-13.24.30:517][  0]NetworkingProfiler: Initialize
+[2024.05.15-13.24.30:519][  0]NetworkingProfiler: OnSessionChanged
+[2024.05.15-13.24.30:519][  0]MemoryProfiler: Initialize
+[2024.05.15-13.24.30:519][  0]MemoryProfiler: OnSessionChanged
+[2024.05.15-13.24.30:821][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.05.15-13.24.30:822][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.05.15-13.24.30:823][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.05.15-13.24.31:449][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/OneDrive/桌面/final/Final/Content/' took 0.01s
+[2024.05.15-13.24.31:449][  0]LogUsd: Added ConcertSync filters for UUsdTransactor
+[2024.05.15-13.24.31:694][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2024.05.15-13.24.31:934][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.05.15-13.24.31:939][  0]LogWindows: Warning: CreateProc failed: 系統找不到指定的檔案。 (0x00000002)
+[2024.05.15-13.24.31:939][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2024.05.15-13.24.31:939][  0]LogWindows: Warning: CreateProc failed: 系統找不到指定的檔案。 (0x00000002)
+[2024.05.15-13.24.31:939][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2024.05.15-13.24.31:939][  0]LogWindows: Warning: CreateProc failed: 系統找不到指定的檔案。 (0x00000002)
+[2024.05.15-13.24.31:939][  0]LogWindows: Warning: URL: C:\Users\user\AppData\Local/Programs/Git/cmd/git.exe version
+[2024.05.15-13.24.31:939][  0]LogWindows: Warning: CreateProc failed: 系統找不到指定的檔案。 (0x00000002)
+[2024.05.15-13.24.31:939][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2024.05.15-13.24.31:939][  0]LogWindows: Warning: CreateProc failed: 系統找不到指定的檔案。 (0x00000002)
+[2024.05.15-13.24.31:939][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2024.05.15-13.24.31:939][  0]LogWindows: Warning: CreateProc failed: 系統找不到指定的檔案。 (0x00000002)
+[2024.05.15-13.24.31:939][  0]LogWindows: Warning: URL: C:\Users\user\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2024.05.15-13.24.31:939][  0]LogWindows: Warning: CreateProc failed: 系統找不到指定的檔案。 (0x00000002)
+[2024.05.15-13.24.31:940][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2024.05.15-13.24.31:940][  0]LogUnrealEdMisc: Loading editor; pre map load, took 26.558
+[2024.05.15-13.24.31:941][  0]Cmd: MAP LOAD FILE="../../../../../../Users/user/OneDrive/桌面/final/Final/Content/User_Interface/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.05.15-13.24.31:942][  0]LightingResults: New page: 光照构建
+[2024.05.15-13.24.31:953][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-13.24.31:953][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-13.24.31:953][  0]MapCheck: New page: 地图检测
+[2024.05.15-13.24.31:953][  0]LightingResults: New page: 光照构建
+[2024.05.15-13.24.31:962][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.15-13.24.31:967][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.05.15-13.24.32:766][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main'.
+[2024.05.15-13.24.32:766][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.05.15-13.24.32:767][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-13.24.32:767][  0]LogAIModule: Creating AISystem for world Main
+[2024.05.15-13.24.32:831][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.15-13.24.32:861][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.05.15-13.24.32:863][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.15-13.24.32:864][  0]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.629毫秒。
+[2024.05.15-13.24.32:864][  0]LogFileHelpers: Loading map 'Main' took 0.923
+[2024.05.15-13.24.32:888][  0]LogUnrealEdMisc: Total Editor Startup Time, took 27.505
+[2024.05.15-13.24.32:888][  0]LogShaderCompilers: Display: ================================================
+[2024.05.15-13.24.32:888][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.15-13.24.32:888][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2024.05.15-13.24.32:888][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2024.05.15-13.24.32:888][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.00%
+[2024.05.15-13.24.32:888][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.15-13.24.32:888][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.05.15-13.24.32:888][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.05.15-13.24.32:888][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.05.15-13.24.32:888][  0]LogShaderCompilers: Display: ================================================
+[2024.05.15-13.24.33:151][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-13.24.33:160][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-13.24.33:166][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-13.24.33:173][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-13.24.33:296][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2024.05.15-13.24.33:297][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.05.15-13.24.33:303][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2024.05.15-13.24.33:303][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.05.15-13.24.33:305][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2024.05.15-13.24.33:305][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.05.15-13.24.33:307][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2024.05.15-13.24.33:307][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.05.15-13.24.33:310][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2024.05.15-13.24.33:310][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.05.15-13.24.33:312][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2024.05.15-13.24.33:312][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.05.15-13.24.33:313][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2024.05.15-13.24.33:313][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.05.15-13.24.33:315][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2024.05.15-13.24.33:315][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.05.15-13.24.33:316][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2024.05.15-13.24.33:316][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.05.15-13.24.33:317][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2024.05.15-13.24.33:317][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.05.15-13.24.33:318][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2024.05.15-13.24.33:667][  0]LogSlate: Took 0.000685 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.05.15-13.24.33:674][  0]LogSlate: Took 0.006113 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.05.15-13.24.33:679][  0]LogSlate: Took 0.000959 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.05.15-13.24.33:680][  0]LogSlate: Took 0.000701 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.05.15-13.24.33:707][  0]LogViewport: Scene viewport resized to 1520x801, mode Windowed.
+[2024.05.15-13.24.35:775][  0]LogStall: Startup...
+[2024.05.15-13.24.35:783][  0]LogStall: Startup complete.
+[2024.05.15-13.24.35:836][  0]LogLoad: (Engine Initialization) Total time: 30.45 seconds
+[2024.05.15-13.24.35:837][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.05.15-13.24.36:291][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.05.15-13.24.36:556][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/user/OneDrive/桌面/final/Final/Content/' took 0.49s
+[2024.05.15-13.24.36:787][  3]LogAssetRegistry: Asset discovery search completed in 16.9145 seconds
+[2024.05.15-13.24.36:831][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000319 seconds (updated 0 objects)
+[2024.05.15-13.24.40:039][127]LogSlate: Took 0.001335 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.05.15-13.24.40:042][127]LogSlate: Took 0.001423 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.05.15-13.24.40:075][127]LogSlate: Took 0.001429 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.15-13.24.50:469][571]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe -Mode=QueryTargets -Output="C:/Program Files/Epic Games/UE_5.0/Engine/Intermediate/TargetInfo.json"]
+[2024.05.15-13.24.50:983][571]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe -Mode=QueryTargets -Output="C:/Program Files/Epic Games/UE_5.0/Engine/Intermediate/TargetInfo.json"]
+[2024.05.15-13.24.51:086][571]LogDesktopPlatform: Warning: Unable to read target info for engine
+[2024.05.15-13.24.51:088][571]LogTurnkeySupport: Display: Adding device menu item for LAPTOP-P0106H0E
+[2024.05.15-13.24.51:088][571]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="C:/Users/user/OneDrive/桌面/final/Final/Sliding.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/user/OneDrive/桌面/final/Final/Intermediate/TurnkeyReport_1.log" -log="C:/Users/user/OneDrive/桌面/final/Final/Intermediate/TurnkeyLog_1.log" -project="C:/Users/user/OneDrive/桌面/final/Final/Sliding.uproject"  -Device=Win64@LAPTOP-P0106H0E'
+[2024.05.15-13.24.51:088][571]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/user/OneDrive/桌面/final/Final/Sliding.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/user/OneDrive/桌面/final/Final/Intermediate/TurnkeyReport_1.log" -log="C:/Users/user/OneDrive/桌面/final/Final/Intermediate/TurnkeyLog_1.log" -project="C:/Users/user/OneDrive/桌面/final/Final/Sliding.uproject"  -Device=Win64@LAPTOP-P0106H0E" -nocompile ]
+[2024.05.15-13.24.51:260][577]LogTurnkeySupport: Completed device detection: Code = 0
+[2024.05.15-13.25.02:189][ 91]LogEditorViewport: Clicking Background
+[2024.05.15-13.25.10:117][392]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/trap/blackhol1e/blackholeblue.blackholeblue
+[2024.05.15-13.25.10:121][392]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-13.25.15:240][392]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2024.05.15-13.25.15:241][392]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.047726s
+[2024.05.15-13.25.15:620][392]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.004724s (1.611485s overbudget)
+[2024.05.15-13.25.15:722][392]LogSlate: Took 0.013066 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.05.15-13.26.19:300][ 73]LogDerivedDataCache: C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.066 and deleted 0 file(s) with total size 0 MiB.
+[2024.05.15-13.33.55:555][158]LogHttp: Warning: 000004E0AC173200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B19F7BD6A-4802-B371-02D0-10AF2A8F41D4%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=d454e515499ae1a7190fafbe5c9eff99%7C6190724c410246e0b3e4db7460192fdb%7Cfe538a85-69de-40ed-b741-c2932067a5d0&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.15-13.33.55:561][158]LogHttp: Warning: 000004E0AC173200: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2024.05.15-13.33.55:561][158]LogHttp: Warning: 000004E0AC173200: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x4e0690c0000 [can pipeline])
+[2024.05.15-13.33.55:561][158]LogHttp: Warning: 000004E0AC173200: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2024.05.15-13.33.55:561][158]LogHttp: Warning: 000004E0AC173200: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (44.209.23.235) port 443 (#0))
+[2024.05.15-13.33.55:561][158]LogHttp: Warning: 000004E0AC173200: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.05.15-13.33.55:561][158]LogHttp: Warning: 000004E0AC173200: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.05.15-13.33.55:561][158]LogHttp: Warning: 000004E0AC173200: libcurl info message cache 5 (We are completely uploaded and fine)
+[2024.05.15-13.33.55:561][158]LogHttp: Warning: 000004E0AC173200: libcurl info message cache 6 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2024.05.15-13.33.55:561][158]LogHttp: Warning: 000004E0AC173200: libcurl info message cache 7 (Connection died, retrying a fresh connect)
+[2024.05.15-13.33.55:561][158]LogHttp: Warning: 000004E0AC173200: libcurl info message cache 8 (necessary data rewind wasn't possible)
+[2024.05.15-13.33.55:561][158]LogHttp: Warning: 000004E0AC173200: libcurl info message cache 9 (Closing connection 0)
+[2024.05.15-13.33.55:561][158]LogHttp: Warning: 000004E0AC173200: libcurl info message cache 10 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2024.05.15-13.33.55:562][158]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B19F7BD6A-4802-B371-02D0-10AF2A8F41D4%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=d454e515499ae1a7190fafbe5c9eff99%7C6190724c410246e0b3e4db7460192fdb%7Cfe538a85-69de-40ed-b741-c2932067a5d0&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.15-13.37.42:124][272]LogUObjectHash: Compacting FUObjectHashTables data took  15.63ms
+[2024.05.15-13.37.42:141][272]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/User_Interface/Main' took 0.585
+[2024.05.15-13.37.42:152][272]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/trap/blackhol1e/blackholeblue] ([2] browsable assets)...
+[2024.05.15-13.37.42:152][272]OBJ SavePackage: Finished generating thumbnails for package [/Game/trap/blackhol1e/blackholeblue]
+[2024.05.15-13.37.42:504][272]LogPackageLocalizationCache: Processed 35 localized package path(s) for 2 prioritized culture(s) in 0.342397 seconds
+[2024.05.15-13.37.42:563][272]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/trap/blackhol1e/blackholeblue_Auto1
+[2024.05.15-13.37.42:564][272]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/桌面/final/Final/Saved/blackholeblue_Auto19B131E2D45B935AACB6E9CB99205913B.tmp' to '../../../../../../Users/user/OneDrive/桌面/final/Final/Saved/Autosaves/Game/trap/blackhol1e/blackholeblue_Auto1.uasset'
+[2024.05.15-13.37.42:571][272]LogFileHelpers: Auto-saving content packages took 0.426
+[2024.05.15-13.38.21:487][136]LogSlate: Took 0.008973 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.05.15-13.47.42:908][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2024.05.15-13.47.42:920][ 81]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/User_Interface/Main' took 0.192
+[2024.05.15-13.47.42:923][ 81]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/trap/blackhol1e/blackholeblue] ([2] browsable assets)...
+[2024.05.15-13.47.42:923][ 81]OBJ SavePackage: Finished generating thumbnails for package [/Game/trap/blackhol1e/blackholeblue]
+[2024.05.15-13.47.42:948][ 81]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/trap/blackhol1e/blackholeblue_Auto2
+[2024.05.15-13.47.42:950][ 81]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/桌面/final/Final/Saved/blackholeblue_Auto229E4C16D49155D73F8F675B7BF1FC239.tmp' to '../../../../../../Users/user/OneDrive/桌面/final/Final/Saved/Autosaves/Game/trap/blackhol1e/blackholeblue_Auto2.uasset'
+[2024.05.15-13.47.42:955][ 81]LogFileHelpers: Auto-saving content packages took 0.034
+[2024.05.15-13.53.47:468][512]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/trap/treasure/chests-01_Sprite.chests-01_Sprite
+[2024.05.15-13.53.47:577][512]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-13.53.48:075][512]LogViewport: Scene viewport resized to 1520x801, mode Windowed.
+[2024.05.15-13.53.48:162][512]LogSlate: Took 0.000675 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.15-13.54.35:256][993]Cmd: MODE SCALEGRID=0
+[2024.05.15-13.54.35:957][ 20]Cmd: MODE SCALEGRID=1
+[2024.05.15-13.54.39:388][242]Cmd: MODE SCALEGRID=0
+[2024.05.15-13.54.53:182][857]Cmd: TRANSACTION UNDO
+[2024.05.15-13.54.53:182][857]LogEditorTransaction: Undo 编辑Y
+[2024.05.15-13.54.53:787][857]Cmd: TRANSACTION UNDO
+[2024.05.15-13.54.53:787][857]LogEditorTransaction: Undo 编辑X
+[2024.05.15-13.54.54:262][857]Cmd: TRANSACTION UNDO
+[2024.05.15-13.54.54:262][857]LogEditorTransaction: Undo 移动节点
+[2024.05.15-13.54.54:479][858]Cmd: TRANSACTION UNDO
+[2024.05.15-13.54.54:479][858]LogEditorTransaction: Undo 重命名变量
+[2024.05.15-13.54.54:493][858]Cmd: TRANSACTION UNDO
+[2024.05.15-13.54.54:493][858]LogEditorTransaction: Undo 移动节点
+[2024.05.15-13.54.54:503][858]Cmd: TRANSACTION UNDO
+[2024.05.15-13.54.54:503][858]LogEditorTransaction: Undo 创建引脚连接
+[2024.05.15-13.54.54:707][865]Cmd: TRANSACTION UNDO
+[2024.05.15-13.54.54:708][865]LogEditorTransaction: Undo 删除当前选项
+[2024.05.15-13.55.10:669][396]Cmd: TRANSACTION UNDO
+[2024.05.15-13.55.10:669][396]LogEditorTransaction: Undo 重设为默认
+[2024.05.15-13.55.14:815][513]Cmd: TRANSACTION UNDO
+[2024.05.15-13.55.14:815][513]LogEditorTransaction: Undo 重设为默认
+[2024.05.15-13.57.43:446][485]LogUObjectHash: Compacting FUObjectHashTables data took   9.73ms
+[2024.05.15-13.57.43:457][485]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/User_Interface/Main' took 0.259
+[2024.05.15-13.57.43:461][485]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/trap/blackhol1e/blackholeblue] ([2] browsable assets)...
+[2024.05.15-13.57.43:461][485]OBJ SavePackage: Finished generating thumbnails for package [/Game/trap/blackhol1e/blackholeblue]
+[2024.05.15-13.57.43:505][485]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/trap/blackhol1e/blackholeblue_Auto3
+[2024.05.15-13.57.43:506][485]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/桌面/final/Final/Saved/blackholeblue_Auto3A5BB06E74A0475EE12B8C1AB32E38733.tmp' to '../../../../../../Users/user/OneDrive/桌面/final/Final/Saved/Autosaves/Game/trap/blackhol1e/blackholeblue_Auto3.uasset'
+[2024.05.15-13.57.43:512][485]LogFileHelpers: Auto-saving content packages took 0.054
+[2024.05.15-14.00.55:987][102]Cmd: MODE SCALEGRID=1
+[2024.05.15-14.00.59:836][221]Cmd: MODE SCALEGRID=0
+[2024.05.15-14.01.02:543][305]Cmd: MODE SCALEGRID=1
+[2024.05.15-14.01.05:549][399]LogSlate: Window 'chests-01_Sprite' being destroyed
+[2024.05.15-14.01.05:562][399]LogSlate: Window 'chests-01_Sprite' being destroyed
+[2024.05.15-14.01.05:622][399]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-14.01.05:633][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-14.01.06:338][399]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-14.01.06:338][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-14.01.15:716][900]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2024.05.15-14.01.18:074][900]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.15-14.01.18:273][900]LogShaderCompilers: Display: ================================================
+[2024.05.15-14.01.18:273][900]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.15-14.01.18:273][900]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2024.05.15-14.01.18:273][900]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2024.05.15-14.01.18:274][900]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.00%
+[2024.05.15-14.01.18:275][900]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.15-14.01.18:275][900]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.05.15-14.01.18:275][900]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.05.15-14.01.18:275][900]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.05.15-14.01.18:275][900]LogShaderCompilers: Display: ================================================
+[2024.05.15-14.01.18:967][900]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2024.05.15-14.01.19:021][900]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.05.15-14.01.19:061][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.05.15-14.01.47:587][693]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/user/Downloads/cute mushroom idle.png)
+[2024.05.15-14.01.47:639][693]LogTexture: Display: 正在构建纹理：/Game/trap/treasure/cute_mushroom_idle.cute_mushroom_idle （TFO_AutoDXT, 432X48 X1X1）（预计所需内存：0.395508 MB），编码速度：Fast
+[2024.05.15-14.01.50:059][823]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/trap/treasure/cute_mushroom_idle.cute_mushroom_idle
+[2024.05.15-14.01.50:214][823]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2024.05.15-14.01.51:214][823]LogViewport: Scene viewport resized to 1414x795, mode Windowed.
+[2024.05.15-14.01.55:736][ 13]LogSlate: Window 'cute_mushroom_idle' being destroyed
+[2024.05.15-14.01.55:746][ 13]LogSlate: Window 'cute_mushroom_idle' being destroyed
+[2024.05.15-14.02.02:773][191]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/user/Downloads/blue-shroomie-sprite-sheet.png)
+[2024.05.15-14.02.02:776][191]LogTexture: Display: 正在构建纹理：/Game/trap/treasure/blue-shroomie-sprite-sheet.blue-shroomie-sprite-sheet （TFO_AutoDXT, 128X96 X1X1）（预计所需内存：0.234375 MB），编码速度：Fast
+[2024.05.15-14.02.06:129][359]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.02.06:129][359]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.02.06:640][406]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.02.06:643][406]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.02.13:907][999]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.02.13:907][999]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.02.21:900][629]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.02.21:900][629]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.02.22:561][701]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.02.22:561][701]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.02.26:425][123]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.02.26:425][123]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.02.27:867][284]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.02.27:867][284]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.02.42:070][732]LogContentBrowser: Deferred new asset file creation: cute_mushroom_idle_TileMap
+[2024.05.15-14.02.42:097][732]LogContentBrowser: Creating deferred item: cute_mushroom_idle_TileMap
+[2024.05.15-14.02.42:145][733]LogContentBrowser: Renaming the item being created (Deferred Item: cute_mushroom_idle_TileMap).
+[2024.05.15-14.02.46:061][974]LogContentBrowser: Attempting asset rename: cute_mushroom_idle_TileMap -> cute_mushroom_idle_TileMap
+[2024.05.15-14.02.46:070][974]LogContentBrowser: End creating deferred item cute_mushroom_idle_TileMap
+[2024.05.15-14.02.47:590][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2024.05.15-14.02.48:671][ 45]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.15-14.02.48:795][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2024.05.15-14.02.48:828][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.05.15-14.02.48:849][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.05.15-14.02.52:790][406]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.02.52:790][406]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.02.54:568][604]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.02.54:568][604]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.02.59:724][163]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.02.59:724][163]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.03.02:162][437]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.03.02:162][437]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.03.04:300][605]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.03.04:300][605]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.03.04:643][639]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.03.04:643][639]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.03.06:675][822]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.03.06:675][822]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.03.11:171][282]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.03.11:171][282]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.03.13:876][549]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.03.13:876][549]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.03.20:820][360]LogContentBrowser: Deferred new asset file creation: blue-shroomie-sprite-sheet_TileMap
+[2024.05.15-14.03.20:830][360]LogContentBrowser: Creating deferred item: blue-shroomie-sprite-sheet_TileMap
+[2024.05.15-14.03.20:862][361]LogContentBrowser: Renaming the item being created (Deferred Item: blue-shroomie-sprite-sheet_TileMap).
+[2024.05.15-14.03.21:930][405]LogContentBrowser: Attempting asset rename: blue-shroomie-sprite-sheet_TileMap -> blue-shroomie-sprite-sheet_TileMap
+[2024.05.15-14.03.21:932][405]LogContentBrowser: End creating deferred item blue-shroomie-sprite-sheet_TileMap
+[2024.05.15-14.03.23:269][467]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/trap/treasure/blue-shroomie-sprite-sheet_TileMap.blue-shroomie-sprite-sheet_TileMap
+[2024.05.15-14.03.23:303][467]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-14.03.23:736][467]LogViewport: Scene viewport resized to 419x635, mode Windowed.
+[2024.05.15-14.03.23:762][467]LogViewport: Scene viewport resized to 1165x801, mode Windowed.
+[2024.05.15-14.03.28:156][594]LogSlate: Window 'blue-shroomie-sprite-sheet_TileMap*' being destroyed
+[2024.05.15-14.03.28:169][594]LogSlate: Window 'blue-shroomie-sprite-sheet_TileMap*' being destroyed
+[2024.05.15-14.03.28:170][594]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-14.03.28:174][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-14.03.32:874][867]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.03.32:874][867]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.03.33:337][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.05.15-14.03.34:464][912]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.15-14.03.34:503][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.05.15-14.03.34:528][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.05.15-14.03.34:549][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.05.15-14.03.36:188][983]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/trap/treasure/blue-shroomie-sprite-sheet_TileSet.blue-shroomie-sprite-sheet_TileSet
+[2024.05.15-14.03.36:192][983]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-14.03.36:453][983]LogViewport: Scene viewport resized to 1140x763, mode Windowed.
+[2024.05.15-14.03.36:484][983]LogViewport: Scene viewport resized to 760x359, mode Windowed.
+[2024.05.15-14.03.43:667][178]LogSlate: Window 'blue-shroomie-sprite-sheet_TileSet' being destroyed
+[2024.05.15-14.03.43:679][178]LogSlate: Window 'blue-shroomie-sprite-sheet_TileSet' being destroyed
+[2024.05.15-14.03.43:705][178]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-14.03.43:705][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-14.03.56:999][320]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2024.05.15-14.03.58:069][320]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.15-14.03.58:110][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.05.15-14.03.58:139][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.05.15-14.03.58:162][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.05.15-14.03.59:411][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.05.15-14.04.00:643][381]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.15-14.04.00:676][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.05.15-14.04.00:698][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.05.15-14.04.00:721][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.05.15-14.04.04:916][759]LogTexture: Display: 正在构建纹理：/Game/trap/treasure/blue-shroomie-sprite-sheet.blue-shroomie-sprite-sheet （BGRA8, 128X96 X1X1）（预计所需内存：0.234375 MB），编码速度：Fast
+[2024.05.15-14.04.08:591][ 49]LogTexture: Display: 正在构建纹理：/Game/trap/treasure/cute_mushroom_idle.cute_mushroom_idle （BGRA8, 432X48 X1X1）（预计所需内存：0.395508 MB），编码速度：Fast
+[2024.05.15-14.04.12:066][320]LogViewport: Scene viewport resized to 1241x944, mode Windowed.
+[2024.05.15-14.04.12:106][321]LogViewport: Scene viewport resized to 1088x944, mode Windowed.
+[2024.05.15-14.04.21:843][661]LogSlate: Window '提取sprite' being destroyed
+[2024.05.15-14.04.32:784][360]LogViewport: Scene viewport resized to 1241x944, mode Windowed.
+[2024.05.15-14.04.32:855][361]LogViewport: Scene viewport resized to 1088x944, mode Windowed.
+[2024.05.15-14.04.35:128][432]LogSlate: Window '提取sprite' being destroyed
+[2024.05.15-14.04.42:455][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.05.15-14.04.43:832][716]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.15-14.04.43:865][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.05.15-14.04.43:891][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.05.15-14.04.43:912][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.05.15-14.04.47:630][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.05.15-14.04.49:140][865]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.15-14.04.49:171][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.05.15-14.04.49:200][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.05.15-14.04.49:221][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.05.15-14.04.50:357][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.05.15-14.04.51:715][909]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.15-14.04.51:749][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.05.15-14.04.51:770][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.05.15-14.04.51:793][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.05.15-14.05.02:647][588]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.05.02:647][588]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.05.04:583][776]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.05.04:583][776]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.05.08:009][126]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.05.08:009][126]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.05.14:344][296]LogSlate: Window '创建蓝图' being destroyed
+[2024.05.15-14.05.22:237][976]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.05.15-14.05.24:706][976]LogSlate: Window '选取父类' being destroyed
+[2024.05.15-14.05.24:721][976]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.05.15-14.05.24:727][976]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.05.15-14.05.24:769][977]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.05.15-14.05.33:746][359]LogContentBrowser: Attempting asset rename: NewBlueprint -> bluemush
+[2024.05.15-14.05.33:772][359]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.05.15-14.05.54:647][307]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.05.15-14.05.56:689][307]LogSlate: Window '选取父类' being destroyed
+[2024.05.15-14.05.56:702][307]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.05.15-14.05.56:707][307]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.05.15-14.05.56:743][308]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.05.15-14.06.06:209][699]LogContentBrowser: Attempting asset rename: NewBlueprint -> resmush
+[2024.05.15-14.06.06:221][699]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.05.15-14.06.14:168][ 36]LogContentBrowser: Attempting asset rename: resmush -> redmush
+[2024.05.15-14.06.14:357][ 36]LogMetaData: Removing '/Game/trap/treasure/redmush.redmush:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/trap/treasure/resmush.PackageMetaData'
+[2024.05.15-14.06.14:357][ 36]LogMetaData: Removing '/Game/trap/treasure/redmush.SKEL_redmush_C:UserConstructionScript' ref from Metadata '/Game/trap/treasure/resmush.PackageMetaData'
+[2024.05.15-14.06.14:357][ 36]LogMetaData: Removing '/Game/trap/treasure/redmush.SKEL_redmush_C' ref from Metadata '/Game/trap/treasure/resmush.PackageMetaData'
+[2024.05.15-14.06.14:357][ 36]LogMetaData: Removing '/Game/trap/treasure/redmush.redmush_C' ref from Metadata '/Game/trap/treasure/resmush.PackageMetaData'
+[2024.05.15-14.06.14:357][ 36]LogMetaData: Removing '/Game/trap/treasure/redmush.redmush:EventGraph.K2Node_Event_0' ref from Metadata '/Game/trap/treasure/resmush.PackageMetaData'
+[2024.05.15-14.06.14:357][ 36]LogMetaData: Removing '/Game/trap/treasure/redmush.redmush:EventGraph.K2Node_Event_1' ref from Metadata '/Game/trap/treasure/resmush.PackageMetaData'
+[2024.05.15-14.06.14:357][ 36]LogMetaData: Removing '/Game/trap/treasure/redmush.redmush:EventGraph.K2Node_Event_2' ref from Metadata '/Game/trap/treasure/resmush.PackageMetaData'
+[2024.05.15-14.06.14:423][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/trap/treasure/redmush" FILE="../../../../../../Users/user/OneDrive/桌面/final/Final/Content/trap/treasure/redmush.uasset" SILENT=true
+[2024.05.15-14.06.14:447][ 36]LogSavePackage: Moving output files for package: /Game/trap/treasure/redmush
+[2024.05.15-14.06.14:448][ 36]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/桌面/final/Final/Saved/redmush200E0FFF47938D84347EB7BA05B16137.tmp' to '../../../../../../Users/user/OneDrive/桌面/final/Final/Content/trap/treasure/redmush.uasset'
+[2024.05.15-14.06.14:526][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.05.15-14.06.14:563][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.05.15-14.06.14:595][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.05.15-14.06.14:608][ 36]AssetCheck: New page: 资产保存：redmush
+[2024.05.15-14.06.14:609][ 36]LogContentValidation: Display: 正在验证Blueprint /Game/trap/treasure/redmush.redmush
+[2024.05.15-14.06.16:111][ 93]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/trap/treasure/bluemush.bluemush
+[2024.05.15-14.06.16:116][ 93]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-14.06.16:902][ 93]LogViewport: Scene viewport resized to 1330x597, mode Windowed.
+[2024.05.15-14.07.41:326][695]LogSlate: Window 'bluemush' being destroyed
+[2024.05.15-14.07.41:351][695]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-14.07.41:352][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-14.07.46:122][901]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.07.46:122][901]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.07.46:671][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.05.15-14.07.48:056][945]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.15-14.07.48:101][945]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/trap/treasure/bluemush.bluemush
+	Asset Type: Blueprint
+[2024.05.15-14.07.48:494][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.05.15-14.07.48:517][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.05.15-14.07.48:541][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.05.15-14.07.50:543][ 95]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.07.50:543][ 95]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.07.52:349][266]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.07.52:349][266]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.07.55:535][592]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.07.55:535][592]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.07.59:509][969]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.07.59:509][969]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.08.08:704][180]LogSlate: Window '消息' being destroyed
+[2024.05.15-14.08.08:711][180]Message dialog closed, result: Ok, title: 消息, text: 资产/Game/trap/treasure/blue-shroomie-sprite-sheet_Sprite_1已存在。
+[2024.05.15-14.08.18:277][180]LogSlate: Window '创建蓝图' being destroyed
+[2024.05.15-14.08.18:300][180]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/trap/treasure/bluemushblue.bluemushblue
+[2024.05.15-14.08.18:301][180]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-14.08.18:787][180]LogViewport: Scene viewport resized to 1330x597, mode Windowed.
+[2024.05.15-14.08.22:021][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.05.15-14.08.22:024][253]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/User_Interface/Main' took 0.037
+[2024.05.15-14.08.22:025][253]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/trap/blackhol1e/blackholeblue] ([2] browsable assets)...
+[2024.05.15-14.08.22:025][253]OBJ SavePackage: Finished generating thumbnails for package [/Game/trap/blackhol1e/blackholeblue]
+[2024.05.15-14.08.22:036][253]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/trap/blackhol1e/blackholeblue_Auto4
+[2024.05.15-14.08.22:037][253]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/桌面/final/Final/Saved/blackholeblue_Auto4BACB08184C8DDD731C9A84B4667A782C.tmp' to '../../../../../../Users/user/OneDrive/桌面/final/Final/Saved/Autosaves/Game/trap/blackhol1e/blackholeblue_Auto4.uasset'
+[2024.05.15-14.08.22:038][253]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/trap/treasure/cute_mushroom_idle] ([1] browsable assets)...
+[2024.05.15-14.08.22:042][253]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/trap/treasure/cute_mushroom_idle.cute_mushroom_idle]
+[2024.05.15-14.08.22:042][253]OBJ SavePackage: Finished generating thumbnails for package [/Game/trap/treasure/cute_mushroom_idle]
+[2024.05.15-14.08.22:049][253]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/trap/treasure/cute_mushroom_idle_Auto4
+[2024.05.15-14.08.22:049][253]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/桌面/final/Final/Saved/cute_mushroom_idle_Auto4D2391CA048FEE545BE259CA187C7DBB8.tmp' to '../../../../../../Users/user/OneDrive/桌面/final/Final/Saved/Autosaves/Game/trap/treasure/cute_mushroom_idle_Auto4.uasset'
+[2024.05.15-14.08.22:050][253]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/trap/treasure/blue-shroomie-sprite-sheet] ([1] browsable assets)...
+[2024.05.15-14.08.22:051][253]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/trap/treasure/blue-shroomie-sprite-sheet.blue-shroomie-sprite-sheet]
+[2024.05.15-14.08.22:051][253]OBJ SavePackage: Finished generating thumbnails for package [/Game/trap/treasure/blue-shroomie-sprite-sheet]
+[2024.05.15-14.08.22:053][253]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/trap/treasure/blue-shroomie-sprite-sheet_Auto4
+[2024.05.15-14.08.22:054][253]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/桌面/final/Final/Saved/blue-shroomie-sprite-sheet_Auto448A6056343E0972CC8F08AB8216CF36D.tmp' to '../../../../../../Users/user/OneDrive/桌面/final/Final/Saved/Autosaves/Game/trap/treasure/blue-shroomie-sprite-sheet_Auto4.uasset'
+[2024.05.15-14.08.22:054][253]LogFileHelpers: Auto-saving content packages took 0.030
+[2024.05.15-14.08.30:905][628]LogContentBrowser: Attempting asset rename: blue-shroomie-sprite-sheet_Sprite_1 -> bluemush
+[2024.05.15-14.08.31:014][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/trap/treasure/bluemush" FILE="../../../../../../Users/user/OneDrive/桌面/final/Final/Content/trap/treasure/bluemush.uasset" SILENT=true
+[2024.05.15-14.08.31:017][628]LogSavePackage: Moving output files for package: /Game/trap/treasure/bluemush
+[2024.05.15-14.08.31:017][628]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/桌面/final/Final/Saved/bluemush7183B5834B5455069475EEA5B8B8BD7E.tmp' to '../../../../../../Users/user/OneDrive/桌面/final/Final/Content/trap/treasure/bluemush.uasset'
+[2024.05.15-14.08.31:111][628]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2024.05.15-14.08.31:159][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.05.15-14.08.31:203][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.05.15-14.08.31:216][628]AssetCheck: New page: 资产保存：bluemush
+[2024.05.15-14.08.31:216][628]LogContentValidation: Display: 正在验证PaperSprite /Game/trap/treasure/bluemush.bluemush
+[2024.05.15-14.08.33:881][784]LogContentBrowser: Deferred new asset file creation: cute_mushroom_idle_Sprite_1
+[2024.05.15-14.08.33:908][784]LogContentBrowser: Creating deferred item: cute_mushroom_idle_Sprite_1
+[2024.05.15-14.08.33:955][785]LogContentBrowser: Renaming the item being created (Deferred Item: cute_mushroom_idle_Sprite_1).
+[2024.05.15-14.08.36:840][936]LogContentBrowser: Attempting asset rename: cute_mushroom_idle_Sprite_1 -> cute_mushroom_idle_Sprite_1
+[2024.05.15-14.08.36:845][936]LogContentBrowser: End creating deferred item cute_mushroom_idle_Sprite_1
+[2024.05.15-14.08.38:979][105]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2024.05.15-14.08.40:917][105]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.15-14.08.40:958][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.05.15-14.08.40:987][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.05.15-14.08.41:016][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.05.15-14.08.53:995][  3]LogContentBrowser: Attempting asset rename: cute_mushroom_idle_Sprite_0 -> cute_mushroom_idle_Sprite_0
+[2024.05.15-14.08.54:538][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2024.05.15-14.08.56:459][ 26]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.15-14.08.56:504][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.05.15-14.08.56:535][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.05.15-14.08.56:565][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.05.15-14.09.01:508][254]LogContentBrowser: Attempting asset rename: cute_mushroom_idle_Sprite_0 -> redmush
+[2024.05.15-14.09.01:625][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/trap/treasure/redmush" FILE="../../../../../../Users/user/OneDrive/桌面/final/Final/Content/trap/treasure/redmush.uasset" SILENT=true
+[2024.05.15-14.09.01:628][254]LogSavePackage: Moving output files for package: /Game/trap/treasure/redmush
+[2024.05.15-14.09.01:628][254]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/桌面/final/Final/Saved/redmush585AFC82470529393CBA6D9AD71F6359.tmp' to '../../../../../../Users/user/OneDrive/桌面/final/Final/Content/trap/treasure/redmush.uasset'
+[2024.05.15-14.09.01:714][254]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2024.05.15-14.09.01:760][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.05.15-14.09.01:806][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.05.15-14.09.01:825][254]AssetCheck: New page: 资产保存：redmush
+[2024.05.15-14.09.01:825][254]LogContentValidation: Display: 正在验证PaperSprite /Game/trap/treasure/redmush.redmush
+[2024.05.15-14.09.04:666][465]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.09.04:666][465]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.09.04:939][480]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.09.04:939][480]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.09.13:205][584]LogSlate: Window '消息' being destroyed
+[2024.05.15-14.09.13:211][584]Message dialog closed, result: Ok, title: 消息, text: 资产/Game/trap/treasure/redmush已存在。
+[2024.05.15-14.09.20:427][584]LogSlate: Window '创建蓝图' being destroyed
+[2024.05.15-14.09.20:448][584]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/trap/treasure/redmushblue.redmushblue
+[2024.05.15-14.09.20:448][584]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-14.09.20:841][584]LogViewport: Scene viewport resized to 1330x597, mode Windowed.
+[2024.05.15-14.10.44:329][685]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/trap/treasure/bluemush.bluemush
+[2024.05.15-14.10.44:334][685]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-14.10.44:464][685]LogViewport: Scene viewport resized to 1520x801, mode Windowed.
+[2024.05.15-14.11.07:908][303]Cmd: TRANSACTION UNDO
+[2024.05.15-14.11.07:909][303]LogEditorTransaction: Undo 重设为默认
+[2024.05.15-14.11.08:216][306]Cmd: TRANSACTION UNDO
+[2024.05.15-14.11.08:216][306]LogEditorTransaction: Undo 重设为默认
+[2024.05.15-14.11.08:401][308]Cmd: TRANSACTION UNDO
+[2024.05.15-14.11.08:401][308]LogEditorTransaction: Undo 编辑Y
+[2024.05.15-14.11.09:231][347]Cmd: TRANSACTION UNDO
+[2024.05.15-14.11.09:231][347]LogEditorTransaction: Undo 编辑X
+[2024.05.15-14.11.09:577][356]Cmd: TRANSACTION UNDO
+[2024.05.15-14.11.09:578][356]LogEditorTransaction: Undo 修改组件
+[2024.05.15-14.11.10:038][368]Cmd: TRANSACTION UNDO
+[2024.05.15-14.11.10:039][368]LogEditorTransaction: Undo 添加组件
+[2024.05.15-14.11.22:557][686]Cmd: TRANSACTION UNDO
+[2024.05.15-14.11.22:557][686]LogEditorTransaction: Undo 编辑Y
+[2024.05.15-14.11.22:872][689]Cmd: TRANSACTION UNDO
+[2024.05.15-14.11.22:873][689]LogEditorTransaction: Undo 编辑X
+[2024.05.15-14.11.43:237][438]Cmd: TRANSACTION UNDO
+[2024.05.15-14.11.43:238][438]LogEditorTransaction: Undo 编辑Y
+[2024.05.15-14.11.43:571][442]Cmd: TRANSACTION UNDO
+[2024.05.15-14.11.43:571][442]LogEditorTransaction: Undo 编辑X
+[2024.05.15-14.14.36:788][171]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2024.05.15-14.14.36:803][171]LogContentBrowser: Creating deferred item: NewMaterial
+[2024.05.15-14.14.36:858][172]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2024.05.15-14.14.46:017][473]LogContentBrowser: Attempting asset rename: NewMaterial -> target
+[2024.05.15-14.14.46:031][473]LogContentBrowser: End creating deferred item NewMaterial
+[2024.05.15-14.15.29:382][969]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.15.29:382][969]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-14.15.32:269][113]LogUObjectHash: Compacting FUObjectHashTables data took  11.85ms
+[2024.05.15-14.15.33:582][113]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.15-14.15.33:640][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.05.15-14.15.33:678][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.05.15-14.15.33:716][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.05.15-14.15.48:377][722]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.05.15-14.15.50:217][722]LogSlate: Window '选取父类' being destroyed
+[2024.05.15-14.15.50:228][722]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.05.15-14.15.50:237][722]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.05.15-14.15.50:290][723]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.05.15-14.15.53:071][797]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2024.05.15-14.15.53:112][797]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.05.15-14.16.03:304][150]LogContentBrowser: Attempting asset rename: NewBlueprint -> target
+[2024.05.15-14.16.03:420][150]LogMetaData: Removing '/Game/trap/treasure/target.target:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/trap/treasure/NewBlueprint.PackageMetaData'
+[2024.05.15-14.16.03:420][150]LogMetaData: Removing '/Game/trap/treasure/target.SKEL_target_C:UserConstructionScript' ref from Metadata '/Game/trap/treasure/NewBlueprint.PackageMetaData'
+[2024.05.15-14.16.03:420][150]LogMetaData: Removing '/Game/trap/treasure/target.SKEL_target_C' ref from Metadata '/Game/trap/treasure/NewBlueprint.PackageMetaData'
+[2024.05.15-14.16.03:422][150]LogMetaData: Removing '/Game/trap/treasure/target.target_C' ref from Metadata '/Game/trap/treasure/NewBlueprint.PackageMetaData'
+[2024.05.15-14.16.03:422][150]LogMetaData: Removing '/Game/trap/treasure/target.target:EventGraph.K2Node_Event_0' ref from Metadata '/Game/trap/treasure/NewBlueprint.PackageMetaData'
+[2024.05.15-14.16.03:422][150]LogMetaData: Removing '/Game/trap/treasure/target.target:EventGraph.K2Node_Event_1' ref from Metadata '/Game/trap/treasure/NewBlueprint.PackageMetaData'
+[2024.05.15-14.16.03:422][150]LogMetaData: Removing '/Game/trap/treasure/target.target:EventGraph.K2Node_Event_2' ref from Metadata '/Game/trap/treasure/NewBlueprint.PackageMetaData'
+[2024.05.15-14.16.03:525][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/trap/treasure/target" FILE="../../../../../../Users/user/OneDrive/桌面/final/Final/Content/trap/treasure/target.uasset" SILENT=true
+[2024.05.15-14.16.03:537][150]LogSavePackage: Moving output files for package: /Game/trap/treasure/target
+[2024.05.15-14.16.03:538][150]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/桌面/final/Final/Saved/targetB2AC4A3D44ADBEE13F87CF987546C0FB.tmp' to '../../../../../../Users/user/OneDrive/桌面/final/Final/Content/trap/treasure/target.uasset'
+[2024.05.15-14.16.03:743][150]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2024.05.15-14.16.03:842][150]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2024.05.15-14.16.03:923][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.05.15-14.16.03:941][150]AssetCheck: New page: 资产保存：target
+[2024.05.15-14.16.03:941][150]LogContentValidation: Display: 正在验证Blueprint /Game/trap/treasure/target.target
+[2024.05.15-14.18.22:596][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.05.15-14.18.22:597][338]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/User_Interface/Main' took 0.045
+[2024.05.15-14.18.22:598][338]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/trap/blackhol1e/blackholeblue] ([2] browsable assets)...
+[2024.05.15-14.18.22:598][338]OBJ SavePackage: Finished generating thumbnails for package [/Game/trap/blackhol1e/blackholeblue]
+[2024.05.15-14.18.22:608][338]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/trap/blackhol1e/blackholeblue_Auto5
+[2024.05.15-14.18.22:608][338]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/桌面/final/Final/Saved/blackholeblue_Auto5389CD74B4021B570267B30B45C7280DE.tmp' to '../../../../../../Users/user/OneDrive/桌面/final/Final/Saved/Autosaves/Game/trap/blackhol1e/blackholeblue_Auto5.uasset'
+[2024.05.15-14.18.22:609][338]LogFileHelpers: Auto-saving content packages took 0.012
+[2024.05.15-14.26.18:933][777]LogDerivedDataCache: C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.367 and deleted 0 file(s) with total size 0 MiB.
+[2024.05.15-14.32.00:347][160]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/trap/blackhol1e/blackholeblue.blackholeblue
+[2024.05.15-14.32.00:433][160]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-14.32.02:528][160]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2024.05.15-14.32.02:682][160]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.005594s (0.343460s overbudget)
+[2024.05.15-14.34.46:037][246]LogHttp: Warning: 000004E0CACFFA00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B19F7BD6A-4802-B371-02D0-10AF2A8F41D4%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=d454e515499ae1a7190fafbe5c9eff99%7C6190724c410246e0b3e4db7460192fdb%7Cfe538a85-69de-40ed-b741-c2932067a5d0&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.15-14.34.46:039][246]LogHttp: Warning: 000004E0CACFFA00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2024.05.15-14.34.46:039][246]LogHttp: Warning: 000004E0CACFFA00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x4e0690c08a0 [can pipeline])
+[2024.05.15-14.34.46:040][246]LogHttp: Warning: 000004E0CACFFA00: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2024.05.15-14.34.46:040][246]LogHttp: Warning: 000004E0CACFFA00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.159.198.145) port 443 (#1))
+[2024.05.15-14.34.46:040][246]LogHttp: Warning: 000004E0CACFFA00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.05.15-14.34.46:040][246]LogHttp: Warning: 000004E0CACFFA00: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.05.15-14.34.46:040][246]LogHttp: Warning: 000004E0CACFFA00: libcurl info message cache 5 (We are completely uploaded and fine)
+[2024.05.15-14.34.46:040][246]LogHttp: Warning: 000004E0CACFFA00: libcurl info message cache 6 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2024.05.15-14.34.46:040][246]LogHttp: Warning: 000004E0CACFFA00: libcurl info message cache 7 (Connection died, retrying a fresh connect)
+[2024.05.15-14.34.46:040][246]LogHttp: Warning: 000004E0CACFFA00: libcurl info message cache 8 (necessary data rewind wasn't possible)
+[2024.05.15-14.34.46:040][246]LogHttp: Warning: 000004E0CACFFA00: libcurl info message cache 9 (Closing connection 1)
+[2024.05.15-14.34.46:040][246]LogHttp: Warning: 000004E0CACFFA00: libcurl info message cache 10 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2024.05.15-14.34.46:040][246]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B19F7BD6A-4802-B371-02D0-10AF2A8F41D4%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=d454e515499ae1a7190fafbe5c9eff99%7C6190724c410246e0b3e4db7460192fdb%7Cfe538a85-69de-40ed-b741-c2932067a5d0&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.15-14.34.53:757][266]LogUObjectHash: Compacting FUObjectHashTables data took  18.24ms
+[2024.05.15-14.34.53:783][266]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/User_Interface/Main' took 0.572
+[2024.05.15-14.34.53:792][266]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/trap/blackhol1e/blackholeblue] ([2] browsable assets)...
+[2024.05.15-14.34.53:792][266]OBJ SavePackage: Finished generating thumbnails for package [/Game/trap/blackhol1e/blackholeblue]
+[2024.05.15-14.34.53:894][266]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/trap/blackhol1e/blackholeblue_Auto6
+[2024.05.15-14.34.53:895][266]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/桌面/final/Final/Saved/blackholeblue_Auto6ED727EA34BDAFFAA91FAEBB7CED22012.tmp' to '../../../../../../Users/user/OneDrive/桌面/final/Final/Saved/Autosaves/Game/trap/blackhol1e/blackholeblue_Auto6.uasset'
+[2024.05.15-14.34.53:908][266]LogFileHelpers: Auto-saving content packages took 0.123
+[2024.05.15-14.35.27:155][367]LogHttp: Warning: 000004E0C595FA00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B19F7BD6A-4802-B371-02D0-10AF2A8F41D4%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=d454e515499ae1a7190fafbe5c9eff99%7C6190724c410246e0b3e4db7460192fdb%7Cfe538a85-69de-40ed-b741-c2932067a5d0&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.15-14.35.27:157][367]LogHttp: Warning: 000004E0C595FA00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.15-14.35.27:157][367]LogHttp: Warning: 000004E0C595FA00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.15-14.35.27:157][367]LogHttp: Warning: 000004E0C595FA00: libcurl info message cache 1 (Closing connection 2)
+[2024.05.15-14.35.27:158][367]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B19F7BD6A-4802-B371-02D0-10AF2A8F41D4%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=d454e515499ae1a7190fafbe5c9eff99%7C6190724c410246e0b3e4db7460192fdb%7Cfe538a85-69de-40ed-b741-c2932067a5d0&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.15-14.36.27:166][546]LogHttp: Warning: 000004E0C5954100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B19F7BD6A-4802-B371-02D0-10AF2A8F41D4%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=d454e515499ae1a7190fafbe5c9eff99%7C6190724c410246e0b3e4db7460192fdb%7Cfe538a85-69de-40ed-b741-c2932067a5d0&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.15-14.36.27:166][546]LogHttp: Warning: 000004E0C5954100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.15-14.36.27:166][546]LogHttp: Warning: 000004E0C5954100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.15-14.36.27:166][546]LogHttp: Warning: 000004E0C5954100: libcurl info message cache 1 (Closing connection 3)
+[2024.05.15-14.36.27:166][546]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B19F7BD6A-4802-B371-02D0-10AF2A8F41D4%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=d454e515499ae1a7190fafbe5c9eff99%7C6190724c410246e0b3e4db7460192fdb%7Cfe538a85-69de-40ed-b741-c2932067a5d0&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.15-14.37.27:056][725]LogHttp: Warning: 000004E0C595F500: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B19F7BD6A-4802-B371-02D0-10AF2A8F41D4%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=d454e515499ae1a7190fafbe5c9eff99%7C6190724c410246e0b3e4db7460192fdb%7Cfe538a85-69de-40ed-b741-c2932067a5d0&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.15-14.37.27:056][725]LogHttp: Warning: 000004E0C595F500: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.15-14.37.27:056][725]LogHttp: Warning: 000004E0C595F500: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.15-14.37.27:056][725]LogHttp: Warning: 000004E0C595F500: libcurl info message cache 1 (Closing connection 4)
+[2024.05.15-14.37.27:056][725]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B19F7BD6A-4802-B371-02D0-10AF2A8F41D4%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=d454e515499ae1a7190fafbe5c9eff99%7C6190724c410246e0b3e4db7460192fdb%7Cfe538a85-69de-40ed-b741-c2932067a5d0&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.15-14.38.27:274][905]LogHttp: Warning: 000004E0C595FA00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B19F7BD6A-4802-B371-02D0-10AF2A8F41D4%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=d454e515499ae1a7190fafbe5c9eff99%7C6190724c410246e0b3e4db7460192fdb%7Cfe538a85-69de-40ed-b741-c2932067a5d0&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.15-14.38.27:274][905]LogHttp: Warning: 000004E0C595FA00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.15-14.38.27:274][905]LogHttp: Warning: 000004E0C595FA00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.15-14.38.27:274][905]LogHttp: Warning: 000004E0C595FA00: libcurl info message cache 1 (Closing connection 5)
+[2024.05.15-14.38.27:274][905]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B19F7BD6A-4802-B371-02D0-10AF2A8F41D4%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=d454e515499ae1a7190fafbe5c9eff99%7C6190724c410246e0b3e4db7460192fdb%7Cfe538a85-69de-40ed-b741-c2932067a5d0&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.15-14.56.29:302][  2]LogSlateStyle: Warning: 缺失来自“CoreStyle”的资源 样式：“未能找到笔刷“ContentBrowser.ListViewFolderIcon.Base”。”
+[2024.05.15-14.56.29:310][  2]LogSlateStyle: Warning: 缺失来自“CoreStyle”的资源 样式：“未能找到笔刷“ContentBrowser.ListViewFolderIcon.Mask”。”
+[2024.05.15-14.56.35:730][184]LogContentBrowser: Deferred new asset folder creation: 新建文件夹
+[2024.05.15-14.56.35:763][184]LogContentBrowser: Creating deferred item: 新建文件夹
+[2024.05.15-14.56.35:853][185]LogContentBrowser: Renaming the item being created (Deferred Item: 新建文件夹).
+[2024.05.15-14.57.06:655][530]LogContentBrowser: Attempting asset rename: 新建文件夹 -> convaybelt
+[2024.05.15-14.57.06:670][530]LogContentBrowser: End creating deferred item 新建文件夹
+[2024.05.15-14.57.15:663][628]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/user/OneDrive/桌面/conveyor belt.png)
+[2024.05.15-14.57.15:833][628]LogTexture: Display: 正在构建纹理：/Game/trap/convaybelt/conveyor_belt.conveyor_belt （BGRA8, 847X54 X1X1）（预计所需内存：0.872383 MB），编码速度：Fast
+[2024.05.15-14.57.28:162][ 34]LogViewport: Scene viewport resized to 1241x944, mode Windowed.
+[2024.05.15-14.57.28:345][ 35]LogViewport: Scene viewport resized to 1088x944, mode Windowed.
+[2024.05.15-14.58.31:065][785]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.05.15-14.59.20:900][849]LogSlate: Window '提取sprite' being destroyed
+[2024.05.15-14.59.30:008][114]LogSlate: Window 'blackholeblue' being destroyed
+[2024.05.15-14.59.30:026][114]LogSlate: Window 'blackholeblue' being destroyed
+[2024.05.15-14.59.30:168][114]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-14.59.30:186][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-14.59.31:404][114]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.15-14.59.31:404][114]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-14.59.31:404][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-14.59.31:777][114]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-14.59.31:778][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-14.59.31:911][114]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.15-14.59.31:912][114]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-14.59.31:912][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-14.59.38:618][364]LogViewport: Scene viewport resized to 1241x944, mode Windowed.
+[2024.05.15-14.59.38:666][365]LogViewport: Scene viewport resized to 1088x944, mode Windowed.
+[2024.05.15-14.59.41:928][461]LogSlate: Window '提取sprite' being destroyed
+[2024.05.15-14.59.45:818][576]LogUObjectHash: Compacting FUObjectHashTables data took   8.55ms
+[2024.05.15-14.59.47:559][576]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.15-14.59.47:645][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.05.15-14.59.47:687][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.05.15-14.59.47:719][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.05.15-14.59.52:353][786]LogViewport: Scene viewport resized to 1241x944, mode Windowed.
+[2024.05.15-14.59.52:432][787]LogViewport: Scene viewport resized to 1088x944, mode Windowed.
+[2024.05.15-15.00.03:457][124]LogSlate: Window '提取sprite' being destroyed
+[2024.05.15-15.00.08:865][379]LogViewport: Scene viewport resized to 1241x944, mode Windowed.
+[2024.05.15-15.00.08:909][380]LogViewport: Scene viewport resized to 1088x944, mode Windowed.
+[2024.05.15-15.01.13:553][601]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.05.15-15.01.41:819][440]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2024.05.15-15.01.41:826][440]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/User_Interface/Main' took 0.074
+[2024.05.15-15.01.41:832][440]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/trap/convaybelt/conveyor_belt] ([1] browsable assets)...
+[2024.05.15-15.01.41:841][440]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/trap/convaybelt/conveyor_belt.conveyor_belt]
+[2024.05.15-15.01.41:841][440]OBJ SavePackage: Finished generating thumbnails for package [/Game/trap/convaybelt/conveyor_belt]
+[2024.05.15-15.01.41:871][440]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/trap/convaybelt/conveyor_belt_Auto7
+[2024.05.15-15.01.41:871][440]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/桌面/final/Final/Saved/conveyor_belt_Auto7A1F10F88409CF1954E18FB916DCFAD5B.tmp' to '../../../../../../Users/user/OneDrive/桌面/final/Final/Saved/Autosaves/Game/trap/convaybelt/conveyor_belt_Auto7.uasset'
+[2024.05.15-15.01.41:875][440]LogFileHelpers: Auto-saving content packages took 0.049
+[2024.05.15-15.02.06:782][208]LogSlate: Window '取色器' being destroyed
+[2024.05.15-15.02.07:891][243]LogSlate: Window '提取sprite' being destroyed
+[2024.05.15-15.02.25:978][ 96]LogViewport: Scene viewport resized to 1241x944, mode Windowed.
+[2024.05.15-15.02.26:077][ 97]LogViewport: Scene viewport resized to 1088x944, mode Windowed.
+[2024.05.15-15.03.09:875][469]LogSlate: Window '提取sprite' being destroyed
+[2024.05.15-15.03.19:236][793]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-15.03.19:236][793]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-15.03.22:142][959]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-15.03.22:142][959]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-15.03.24:257][ 77]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-15.03.24:257][ 77]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-15.04.06:524][602]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-15.04.06:524][602]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-15.04.08:941][738]LogContentBrowser: Deferred new asset file creation: conveyor_belt1
+[2024.05.15-15.04.08:968][738]LogContentBrowser: Creating deferred item: conveyor_belt1
+[2024.05.15-15.04.09:028][739]LogContentBrowser: Renaming the item being created (Deferred Item: conveyor_belt1).
+[2024.05.15-15.04.20:155][143]LogContentBrowser: Attempting asset rename: conveyor_belt1 -> convayerflip
+[2024.05.15-15.04.20:158][143]LogContentBrowser: End creating deferred item conveyor_belt1
+[2024.05.15-15.04.34:966][640]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-15.04.34:967][640]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-15.04.35:905][685]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-15.04.35:906][685]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.15-15.04.47:672][818]LogSlate: Window '消息' being destroyed
+[2024.05.15-15.04.47:684][818]Message dialog closed, result: Cancel, title: 消息, text: 资产/Game/trap/convaybelt/convayerflip已存在。
+[2024.05.15-15.04.54:376][818]LogSlate: Window '创建蓝图' being destroyed
+[2024.05.15-15.04.54:593][818]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/trap/convaybelt/convayerblue.convayerblue
+[2024.05.15-15.04.54:649][818]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-15.04.56:499][818]LogViewport: Scene viewport resized to 1330x597, mode Windowed.
+[2024.05.15-15.05.52:803][265]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2024.05.15-15.05.52:804][265]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2024.05.15-15.05.58:205][387]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.000
+[2024.05.15-15.05.58:206][387]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.000
+[2024.05.15-15.06.09:131][637]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=1.000
+[2024.05.15-15.06.09:132][637]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=1.000
+[2024.05.15-15.06.13:258][731]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=1.000
+[2024.05.15-15.06.13:259][731]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=1.000
+[2024.05.15-15.06.13:259][731]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=1.000
+[2024.05.15-15.06.13:308][732]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=1.000
+[2024.05.15-15.06.13:308][732]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=1.000
+[2024.05.15-15.06.13:309][732]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=1.000
+[2024.05.15-15.06.13:348][733]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=1.000
+[2024.05.15-15.06.13:348][733]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=1.000
+[2024.05.15-15.06.13:349][733]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=1.000
+[2024.05.15-15.06.13:865][745]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=1.000
+[2024.05.15-15.06.13:866][745]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=1.000
+[2024.05.15-15.06.13:866][745]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=1.000
+[2024.05.15-15.06.13:922][746]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=1.000
+[2024.05.15-15.06.13:922][746]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=1.000
+[2024.05.15-15.06.13:923][746]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=1.000
+[2024.05.15-15.06.13:958][747]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=1.000
+[2024.05.15-15.06.13:958][747]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=1.000
+[2024.05.15-15.06.13:959][747]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=1.000
+[2024.05.15-15.06.14:213][753]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=1.000
+[2024.05.15-15.06.14:214][753]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=1.000
+[2024.05.15-15.06.14:214][753]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=1.000
+[2024.05.15-15.06.14:788][767]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=1.000
+[2024.05.15-15.06.14:789][767]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=1.000
+[2024.05.15-15.06.14:789][767]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=1.000
+[2024.05.15-15.06.14:958][771]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=1.000
+[2024.05.15-15.06.14:958][771]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=1.000
+[2024.05.15-15.06.14:959][771]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=1.000
+[2024.05.15-15.06.15:205][777]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=1.000
+[2024.05.15-15.06.15:205][777]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=1.000
+[2024.05.15-15.06.15:206][777]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=1.000
+[2024.05.15-15.06.15:416][782]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=1.000
+[2024.05.15-15.06.15:417][782]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=1.000
+[2024.05.15-15.06.15:418][782]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=1.000
+[2024.05.15-15.06.22:275][937]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=0.600
+[2024.05.15-15.06.22:276][937]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=0.600
+[2024.05.15-15.06.27:522][ 57]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=0.600
+[2024.05.15-15.06.27:523][ 57]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=0.600
+[2024.05.15-15.06.27:525][ 57]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=0.600
+[2024.05.15-15.06.28:005][ 68]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=0.600
+[2024.05.15-15.06.28:006][ 68]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=0.600
+[2024.05.15-15.06.28:007][ 68]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=0.600
+[2024.05.15-15.06.28:223][ 73]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=0.600
+[2024.05.15-15.06.28:224][ 73]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=0.600
+[2024.05.15-15.06.28:224][ 73]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=0.600
+[2024.05.15-15.06.28:357][ 76]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=0.600
+[2024.05.15-15.06.28:358][ 76]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=0.600
+[2024.05.15-15.06.28:358][ 76]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=0.600
+[2024.05.15-15.06.28:642][ 83]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=0.600
+[2024.05.15-15.06.28:643][ 83]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=0.600
+[2024.05.15-15.06.28:643][ 83]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=0.600
+[2024.05.15-15.06.28:944][ 90]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=0.600
+[2024.05.15-15.06.28:944][ 90]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=0.600
+[2024.05.15-15.06.28:945][ 90]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.convayerblue_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.200 Y=0.000 Z=0.600
+[2024.05.15-15.06.48:468][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/trap/convaybelt/convayerflip" FILE="../../../../../../Users/user/OneDrive/桌面/final/Final/Content/trap/convaybelt/convayerflip.uasset" SILENT=true
+[2024.05.15-15.06.48:478][446]LogSavePackage: Moving output files for package: /Game/trap/convaybelt/convayerflip
+[2024.05.15-15.06.48:478][446]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/桌面/final/Final/Saved/convayerflip92B5D32C4EDAD99646B616B5FDD7463C.tmp' to '../../../../../../Users/user/OneDrive/桌面/final/Final/Content/trap/convaybelt/convayerflip.uasset'
+[2024.05.15-15.06.48:522][446]AssetCheck: New page: 资产保存：convayerflip
+[2024.05.15-15.06.48:523][446]LogContentValidation: Display: 正在验证PaperFlipbook /Game/trap/convaybelt/convayerflip.convayerflip
+>>>>>>> 1e615cf527158bf1cf6a839f0f3e9d441d643be7
