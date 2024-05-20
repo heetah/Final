@@ -1,0 +1,1351 @@
+﻿Log file open, 05/16/24 23:41:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=8544)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Sliding
+LogCore: Warning: UnrealTraceServer: Timed out waiting for the trace store to start
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\盧孟煜\Documents\GitHub\Final\Sliding.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (23H2) [10.0.22631.3447] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|13th Gen Intel(R) Core(TM) i9-13900H"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="e29a53bd4b4c4bc31a78498e13c712f7"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 5.676548
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-87A8BA6C4C2C947F9B24799D816F8602
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading IOS ini files took 0.14 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.15 seconds
+LogConfig: Display: Loading Android ini files took 0.15 seconds
+LogConfig: Display: Loading Mac ini files took 0.17 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.18 seconds
+LogConfig: Display: Loading Unix ini files took 0.18 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.20 seconds
+LogConfig: Display: Loading TVOS ini files took 0.21 seconds
+LogConfig: Display: Loading Windows ini files took 0.22 seconds
+LogConfig: Display: Loading Linux ini files took 0.22 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin MDLImporter
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin USDImporter
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin USDMultiUser
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin MultiUserTakes
+LogPluginManager: Mounting Engine plugin Takes
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin ConcertMain
+LogPluginManager: Mounting Engine plugin MultiUserClient
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin AnalyticsBlueprintLibrary
+LogPluginManager: Mounting Engine plugin SQLiteCore
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ConcertSyncClient
+LogPluginManager: Mounting Engine plugin ConcertSyncCore
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/MDLImporter/Content/' mounted to '/MDLImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Importers/USDImporter/Content/' mounted to '/USDImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/VirtualProduction/MultiUserTakes/Content/' mounted to '/MultiUserTakes/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/VirtualProduction/Takes/Content/' mounted to '/Takes/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content/' mounted to '/ConcertSyncClient/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (23H2) [10.0.22631.3447] (), CPU: 13th Gen Intel(R) Core(TM) i9-13900H, GPU: Intel(R) Iris(R) Xe Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogLinker: AddRedirectList(C:/Users/盧孟煜/Documents/GitHub/Final/Saved/Config/WindowsEditor/MDLImporter.ini) has substring redirect /DatasmithContent/Materials/MDL/, these are very slow and should be resolved as soon as possible!
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2024.05.16-15.41.13:194][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2024.05.16-15.41.13:194][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2024.05.16-15.41.13:194][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2024.05.16-15.41.13:194][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2024.05.16-15.41.13:194][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2024.05.16-15.41.13:194][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2024.05.16-15.41.13:194][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2024.05.16-15.41.13:194][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2024.05.16-15.41.13:194][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2024.05.16-15.41.13:194][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2024.05.16-15.41.13:195][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2024.05.16-15.41.13:195][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2024.05.16-15.41.13:195][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2024.05.16-15.41.13:195][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2024.05.16-15.41.13:195][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2024.05.16-15.41.13:195][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2024.05.16-15.41.13:195][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2024.05.16-15.41.13:195][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2024.05.16-15.41.13:195][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2024.05.16-15.41.13:195][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2024.05.16-15.41.13:195][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2024.05.16-15.41.13:196][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2024.05.16-15.41.13:196][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2024.05.16-15.41.13:196][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2024.05.16-15.41.13:196][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2024.05.16-15.41.13:196][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2024.05.16-15.41.13:196][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2024.05.16-15.41.13:196][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2024.05.16-15.41.13:196][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2024.05.16-15.41.13:196][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2024.05.16-15.41.13:196][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2024.05.16-15.41.13:196][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2024.05.16-15.41.13:196][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2024.05.16-15.41.13:196][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2024.05.16-15.41.13:197][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2024.05.16-15.41.13:197][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2024.05.16-15.41.13:197][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2024.05.16-15.41.13:197][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2024.05.16-15.41.13:197][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2024.05.16-15.41.13:197][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2024.05.16-15.41.13:197][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2024.05.16-15.41.13:198][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2024.05.16-15.41.13:198][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2024.05.16-15.41.13:198][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2024.05.16-15.41.13:198][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2024.05.16-15.41.13:198][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2024.05.16-15.41.13:198][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2024.05.16-15.41.13:198][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2024.05.16-15.41.13:198][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2024.05.16-15.41.13:198][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2024.05.16-15.41.13:198][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2024.05.16-15.41.13:199][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2024.05.16-15.41.13:199][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2024.05.16-15.41.13:199][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2024.05.16-15.41.13:199][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2024.05.16-15.41.13:199][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2024.05.16-15.41.13:199][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2024.05.16-15.41.13:215][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2024.05.16-15.41.13:215][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2024.05.16-15.41.13:215][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2024.05.16-15.41.13:215][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2024.05.16-15.41.13:215][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2024.05.16-15.41.13:216][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2024.05.16-15.41.13:216][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2024.05.16-15.41.13:216][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2024.05.16-15.41.13:216][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2024.05.16-15.41.13:216][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2024.05.16-15.41.13:216][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2024.05.16-15.41.13:281][  0]LogD3D12RHI: Aftermath initialized
+[2024.05.16-15.41.13:281][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2024.05.16-15.41.14:112][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA RTX 3000 Ada Generation Laptop GPU (Max supported Feature Level 12_1, shader model 6.6)
+[2024.05.16-15.41.14:112][  0]LogD3D12RHI: Adapter has 7962MB of dedicated video memory, 0MB of dedicated system memory, and 16235MB of shared system memory, 1 output[s]
+[2024.05.16-15.41.14:553][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) Iris(R) Xe Graphics (Max supported Feature Level 12_1, shader model 6.6)
+[2024.05.16-15.41.14:554][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 16235MB of shared system memory, 0 output[s]
+[2024.05.16-15.41.14:642][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2024.05.16-15.41.14:643][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16235MB of shared system memory, 0 output[s]
+[2024.05.16-15.41.14:643][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2024.05.16-15.41.14:643][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2024.05.16-15.41.14:643][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2024.05.16-15.41.14:644][  0]LogHAL: Display: Platform has ~ 32 GB [34048638976 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.05.16-15.41.14:644][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2024.05.16-15.41.14:644][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2024.05.16-15.41.14:644][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.05.16-15.41.14:645][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2024.05.16-15.41.14:645][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/盧孟煜/Documents/GitHub/Final/Saved/Config/WindowsEditor/Editor.ini]
+[2024.05.16-15.41.14:646][  0]LogInit: Computer: MSI
+[2024.05.16-15.41.14:646][  0]LogInit: User: 盧孟煜
+[2024.05.16-15.41.14:646][  0]LogInit: CPU Page size=4096, Cores=14
+[2024.05.16-15.41.14:646][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.05.16-15.41.14:646][  0]LogMemory: Memory total: Physical=31.7GB (32GB approx)
+[2024.05.16-15.41.14:646][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2024.05.16-15.41.14:646][  0]LogMemory: Process Physical Memory: 292.45 MB used, 301.60 MB peak
+[2024.05.16-15.41.14:646][  0]LogMemory: Process Virtual Memory: 267.55 MB used, 267.55 MB peak
+[2024.05.16-15.41.14:646][  0]LogMemory: Physical Memory: 11531.89 MB used,  20939.42 MB free, 32471.31 MB total
+[2024.05.16-15.41.14:646][  0]LogMemory: Virtual Memory: 15207.84 MB used,  19311.47 MB free, 34519.31 MB total
+[2024.05.16-15.41.14:646][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2024.05.16-15.41.14:667][  0]LogWindows: WindowsPlatformFeatures enabled
+[2024.05.16-15.41.14:753][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2024.05.16-15.41.14:758][  0]LogInit: Overriding language with editor language configuration option (zh-Hans).
+[2024.05.16-15.41.14:758][  0]LogInit: Using OS detected locale (zh-TW).
+[2024.05.16-15.41.15:521][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
+[2024.05.16-15.41.15:523][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
+[2024.05.16-15.41.15:524][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
+[2024.05.16-15.41.15:525][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
+[2024.05.16-15.41.15:525][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
+[2024.05.16-15.41.15:526][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
+[2024.05.16-15.41.15:526][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
+[2024.05.16-15.41.15:527][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2024.05.16-15.41.15:528][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
+[2024.05.16-15.41.15:529][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2024.05.16-15.41.15:529][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2024.05.16-15.41.15:875][  0]LogInit: Setting process to per monitor DPI aware
+[2024.05.16-15.41.15:977][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2024.05.16-15.41.15:977][  0]LogWindowsTextInputMethodSystem:   - 繁體中文 (台灣) - 微軟注音 (TSF IME).
+[2024.05.16-15.41.15:977][  0]LogWindowsTextInputMethodSystem: Activated input method: 繁體中文 (台灣) - 微軟注音 (TSF IME).
+[2024.05.16-15.41.15:987][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.05.16-15.41.15:987][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.05.16-15.41.16:065][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2024.05.16-15.41.16:068][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2024.05.16-15.41.16:068][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2024.05.16-15.41.16:147][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2024.05.16-15.41.16:147][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2024.05.16-15.41.16:147][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2024.05.16-15.41.16:147][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2024.05.16-15.41.16:147][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2024.05.16-15.41.16:147][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2024.05.16-15.41.16:147][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2024.05.16-15.41.16:147][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2024.05.16-15.41.16:147][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2024.05.16-15.41.16:147][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2024.05.16-15.41.16:147][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2024.05.16-15.41.16:148][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2024.05.16-15.41.16:148][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2024.05.16-15.41.16:148][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2024.05.16-15.41.16:148][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2024.05.16-15.41.16:148][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2024.05.16-15.41.16:188][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2024.05.16-15.41.16:195][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2024.05.16-15.41.16:208][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2024.05.16-15.41.16:226][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2024.05.16-15.41.16:226][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2024.05.16-15.41.16:249][  0]LogD3D12RHI:     GPU DeviceId: 0x2838 (for the marketing name, search the web for "GPU Device Id")
+[2024.05.16-15.41.16:249][  0]LogWindows: Attached monitors:
+[2024.05.16-15.41.16:249][  0]LogWindows:     resolution: 2560x1600, work area: (0, 0) -> (2560, 1528), device: '\\.\DISPLAY1' [PRIMARY]
+[2024.05.16-15.41.16:249][  0]LogWindows: Found 1 attached monitors.
+[2024.05.16-15.41.16:249][  0]LogWindows: EnumDisplayDevices:
+[2024.05.16-15.41.16:249][  0]LogWindows:    0. 'Intel(R) Iris(R) Xe Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2024.05.16-15.41.16:249][  0]LogWindows:    1. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2024.05.16-15.41.16:249][  0]LogWindows:    2. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2024.05.16-15.41.16:250][  0]LogWindows:    3. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0), name: '\\.\DISPLAY4'
+[2024.05.16-15.41.16:250][  0]LogWindows:    4. 'NVIDIA RTX 3000 Ada Generation Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY5'
+[2024.05.16-15.41.16:250][  0]LogWindows:    5. 'NVIDIA RTX 3000 Ada Generation Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY6'
+[2024.05.16-15.41.16:250][  0]LogWindows:    6. 'NVIDIA RTX 3000 Ada Generation Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY7'
+[2024.05.16-15.41.16:250][  0]LogWindows:    7. 'NVIDIA RTX 3000 Ada Generation Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY8'
+[2024.05.16-15.41.16:250][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2024.05.16-15.41.16:250][  0]LogD3D12RHI:     Adapter Name: NVIDIA RTX 3000 Ada Generation Laptop GPU
+[2024.05.16-15.41.16:250][  0]LogD3D12RHI:   Driver Version: 528.92 (internal:31.0.15.2892, unified:528.92)
+[2024.05.16-15.41.16:250][  0]LogD3D12RHI:      Driver Date: 4-6-2023
+[2024.05.16-15.41.16:250][  0]LogRHI: Texture pool is 4532 MB (70% of 6474 MB)
+[2024.05.16-15.41.16:250][  0]LogD3D12RHI: Async texture creation enabled
+[2024.05.16-15.41.16:250][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2024.05.16-15.41.16:260][  0]LogRHI: GeForceNow SDK initialized: 0
+[2024.05.16-15.41.16:267][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/盧孟煜/Documents/GitHub/Final/Sliding.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/盧孟煜/Documents/GitHub/Final/Intermediate/TurnkeyReport_0.log" -log="C:/Users/盧孟煜/Documents/GitHub/Final/Intermediate/TurnkeyLog_0.log" -project="C:/Users/盧孟煜/Documents/GitHub/Final/Sliding.uproject"  -platform=all'
+[2024.05.16-15.41.16:267][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/盧孟煜/Documents/GitHub/Final/Sliding.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/盧孟煜/Documents/GitHub/Final/Intermediate/TurnkeyReport_0.log" -log="C:/Users/盧孟煜/Documents/GitHub/Final/Intermediate/TurnkeyLog_0.log" -project="C:/Users/盧孟煜/Documents/GitHub/Final/Sliding.uproject"  -platform=all" ]
+[2024.05.16-15.41.16:310][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2024.05.16-15.41.16:318][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2024.05.16-15.41.16:318][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2024.05.16-15.41.16:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2024.05.16-15.41.16:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2024.05.16-15.41.16:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2024.05.16-15.41.16:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2024.05.16-15.41.16:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2024.05.16-15.41.16:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2024.05.16-15.41.16:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2024.05.16-15.41.16:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2024.05.16-15.41.16:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2024.05.16-15.41.16:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2024.05.16-15.41.16:352][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2024.05.16-15.41.16:352][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2024.05.16-15.41.16:357][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2024.05.16-15.41.16:357][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2024.05.16-15.41.16:360][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2024.05.16-15.41.16:360][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2024.05.16-15.41.16:360][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2024.05.16-15.41.16:360][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2024.05.16-15.41.16:363][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2024.05.16-15.41.16:363][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2024.05.16-15.41.16:363][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2024.05.16-15.41.16:367][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2024.05.16-15.41.16:367][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2024.05.16-15.41.16:373][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2024.05.16-15.41.16:373][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2024.05.16-15.41.16:373][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2024.05.16-15.41.16:373][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2024.05.16-15.41.16:373][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2024.05.16-15.41.16:380][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.05.16-15.41.16:383][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2024.05.16-15.41.16:383][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2024.05.16-15.41.16:383][  0]LogTargetPlatformManager:   ADPCM
+[2024.05.16-15.41.16:383][  0]LogTargetPlatformManager:   PCM
+[2024.05.16-15.41.16:386][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2024.05.16-15.41.16:386][  0]LogTargetPlatformManager:   BINKA
+[2024.05.16-15.41.16:386][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2024.05.16-15.41.16:386][  0]LogTargetPlatformManager:   OGG
+[2024.05.16-15.41.16:386][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2024.05.16-15.41.16:386][  0]LogTargetPlatformManager:   OPUS
+[2024.05.16-15.41.16:426][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2024.05.16-15.41.16:426][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2024.05.16-15.41.16:432][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2024.05.16-15.41.16:432][  0]LogTargetPlatformManager:   SF_METAL
+[2024.05.16-15.41.16:432][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2024.05.16-15.41.16:432][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2024.05.16-15.41.16:432][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2024.05.16-15.41.16:432][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2024.05.16-15.41.16:432][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2024.05.16-15.41.16:432][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2024.05.16-15.41.16:432][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2024.05.16-15.41.16:432][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2024.05.16-15.41.16:432][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2024.05.16-15.41.16:432][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2024.05.16-15.41.16:432][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2024.05.16-15.41.16:432][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2024.05.16-15.41.16:432][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2024.05.16-15.41.16:432][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2024.05.16-15.41.16:436][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2024.05.16-15.41.16:436][  0]LogTargetPlatformManager:   VVM_1_0
+[2024.05.16-15.41.16:436][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2024.05.16-15.41.16:436][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2024.05.16-15.41.16:436][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2024.05.16-15.41.16:436][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2024.05.16-15.41.16:436][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2024.05.16-15.41.16:436][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2024.05.16-15.41.16:436][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/盧孟煜/Documents/GitHub/Final/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2024.05.16-15.41.16:436][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2024.05.16-15.41.16:436][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/盧孟煜/Documents/GitHub/Final/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2024.05.16-15.41.16:436][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2024.05.16-15.41.16:439][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/盧孟煜/Documents/GitHub/Final/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.05.16-15.41.16:439][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2024.05.16-15.41.16:439][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/盧孟煜/Documents/GitHub/Final/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.05.16-15.41.16:439][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2024.05.16-15.41.16:458][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2024.05.16-15.41.16:458][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.05.16-15.41.16:458][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2024.05.16-15.41.16:462][  0]LogDerivedDataCache: Speed tests for C:/Users/盧孟煜/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.00 seconds
+[2024.05.16-15.41.16:462][  0]LogDerivedDataCache: Display: Performance to C:/Users/盧孟煜/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1750.82MBs, RandomWriteSpeed=276.30MBs. Assigned SpeedClass 'Local'
+[2024.05.16-15.41.16:463][  0]LogDerivedDataCache: Using Local data cache path C:/Users/盧孟煜/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.05.16-15.41.16:464][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.05.16-15.41.16:464][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2024.05.16-15.41.16:468][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2024.05.16-15.41.16:468][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2024.05.16-15.41.16:468][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (../../../../../../Users/盧孟煜/Documents/GitHub/Final/Intermediate/Shaders/WorkingDirectory/17728/).
+[2024.05.16-15.41.16:468][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/盧孟煜/AppData/Local/Temp/UnrealShaderWorkingDir/87A8735E4E7065D4AA9FB6ABAC098041/'.
+[2024.05.16-15.41.16:468][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2024.05.16-15.41.16:468][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 10 workers.
+[2024.05.16-15.41.17:945][  0]LogSlate: Using FreeType 2.10.0
+[2024.05.16-15.41.17:946][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.05.16-15.41.17:981][  0]LogAssetRegistry: FAssetRegistry took 0.0104 seconds to start up
+[2024.05.16-15.41.17:987][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2024.05.16-15.41.18:193][  0]LogSerialization: UsePackageTrailer: 'false'
+[2024.05.16-15.41.18:194][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2024.05.16-15.41.18:408][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2024.05.16-15.41.18:408][  0]LogDeviceProfileManager: Active device profile: [000004F8630A08C0][000004F857095000 50] WindowsEditor
+[2024.05.16-15.41.18:408][  0]LogDeviceProfileManager: Profiles: [000004F8630A0380][000004F85709A000 50] Windows, [000004F8630A08C0][000004F857095000 50] WindowsEditor, [000004F8630A2680][000004F857092800 50] WindowsServer, [000004F8630A24C0][000004F85477A000 50] WindowsClient, [000004F8630A2840][000004F857097800 50] IOS, [000004F8630A0700][000004F8617F0000 50] iPadAir2, [000004F8630A4EC0][000004F8617F7800 50] IPadPro, [000004F8630A5240][000004F8617F5000 50] iPadAir3, [000004F8630A1500][000004F8617FA000 50] iPadAir4, [000004F8630A4D00][000004F8617FC800 50] iPadMini4, [000004F8630A0A80][000004F837F25000 50] iPadMini5, [000004F8630A4B40][000004F863060000 50] iPadMini6, [000004F8630A8880][000004F86306A000 50] iPhone6S, [000004F8630A8C00][000004F863067800 50] iPhone7, [000004F8630A8500][000004F863065000 50] iPodTouch7, [000004F8630A8180][000004F86306C800 50] iPhone6SPlus, [000004F8630A3D40][000004F8617F2800 50] iPhone7Plus, [000004F8630A0000][000004F863070000 50] iPhoneSE, [000004F8630A7380][000004F863075000 50] iPhone8, [000004F8630A7FC0][000004F863077800 50] iPhone8Plus, [000004F8630A3F00][000004F86307A000 50] iPhoneX, [000004F8630A1340][000004F86307C800 50] iPhoneXS, [000004F8630A6740][000004F863062800 50] iPhoneXSMax, [000004F8630A3480][000004F863080000 50] iPhoneXR, [000004F8630A4440][000004F863085000 50] iPhone11, [000004F8630A0E00][000004F863087800 50] iPhone11Pro, [000004F8630A63C0][000004F86308A000 50] iPhone11ProMax, [000004F8630A2140][000004F86308C800 50] iPhoneSE2, [000004F8630A3100][000004F863072800 50] iPhone12Mini, [000004F8630A8A40][000004F8630E0000 50] iPhone12, [000004F8630A5B00][000004F8630E5000 50] iPhone12Pro, [000004F8630A8340][000004F8630E7800 50] iPhone12ProMax, [000004F8630A55C0][000004F8630EA000 50] iPhone13Mini, [000004F8630A5780][000004F8630EC800 50] iPhone13, [000004F8630A1C00][000004F863082800 50] iPhone13Pro, [000004F8630A7A80][000004F8630F0000 50] iPhone13ProMax, [000004F8630A1A40][000004F8630F5000 50] iPadPro105, [000004F8630A6580][000004F8630F7800 50] iPadPro129, [000004F8630A3800][000004F8630FA000 50] iPadPro97, [000004F8630A7C40][000004F8630FC800 50] iPadPro2_129, [000004F8630A2300][000004F8630E2800 50] iPad5, [000004F8630A47C0][000004F863100000 50] iPad6, [000004F8630A1F80][000004F863105000 50] iPad7, [000004F8630A16C0][000004F863107800 50] iPad8, [000004F8630A3640][000004F86310A000 50] iPad9, [000004F8630A2BC0][000004F86310C800 50] iPadPro11, [000004F8630A86C0][000004F8630F2800 50] iPadPro2_11, [000004F8630A6E40][000004F863020000 50] iPadPro3_11, [000004F8630A6900][000004F863025000 50] iPadPro3_129, [000004F8630A01C0][000004F863027800 50] iPadPro4_129, [000004F8630A6C80][000004F86302A000 50] iPadPro5_129, [000004F8630A1DC0][000004F86302C800 50] AppleTV, [000004F8630A4600][000004F863102800 50] AppleTV4K, [000004F8630A7700][000004F863120000 50] TVOS, [000004F8630AA2C0][000004F863127800 50] Mac, [000004F8630AA640][000004F863125000 50] MacEditor, [000004F8630A9D80][000004F86312A000 50] MacClient, [000004F8630A7000][000004F86312C800 50] MacServer, [000004F8630AA800][000004F863150000 50] Linux, [000004F8630AA100][000004F863152800 50] LinuxEditor, [000004F8630A39C0][000004F863157800 50] LinuxArm64Editor, [000004F8630A9840][000004F86315A000 50] LinuxArm64, [000004F8630A40C0][000004F86315C800 50] LinuxClient, [000004F8630A5CC0][000004F863022800 50] LinuxArm64Client, [000004F8630AA9C0][000004F863155000 50] LinuxServer, [000004F8630A7E00][000004F863140000 50] LinuxArm64Server, [000004F8630A6AC0][000004F863145000 50] Android, [000004F8630A2D80][000004F863147800 50] Android_Preview_OpenGL, [000004F8630A3B80][000004F86314A000 50] Android_Preview_Vulkan, [000004F8630A94C0][000004F86314C800 50] Android_Low, [000004F8630A0FC0][000004F863122800 50] Android_Mid, [000004F8630A4980][000004F863160000 50] Android_High, [000004F8630A78C0][000004F863165000 50] Android_Default, [000004F8630A5E80][000004F863167800 50] Android_Adreno4xx, [000004F8630A1180][000004F86316A000 50] Android_Adreno5xx_Low, [000004F8630A9140][000004F86316C800 50] Android_Adreno5xx, [000004F8630A6040][000004F863142800 50] Android_Adreno6xx, [000004F8630A7540][000004F863170000 50] Android_Adreno6xx_Vulkan, [000004F8630A0C40][000004F863175000 50] Android_Adreno7xx, [000004F8630A2F40][000004F863177800 50] Android_Adreno7xx_Vulkan, [000004F8630AB600][000004F86317A000 50] Android_Mali_T6xx, [000004F8630A5400][000004F86317C800 50] Android_Mali_T7xx, [000004F8630ABB40][000004F863162800 50] Android_Mali_T8xx, [000004F8630AAF00][000004F863040000 50] Android_Mali_G71, [000004F8630AA480][000004F863045000 50] Android_Mali_G72, [000004F8630A5940][000004F863047800 50] Android_Mali_G72_Vulkan, [000004F8630A8F80][000004F86304A000 50] Android_Mali_G76, [000004F8630A1880][000004F86304C800 50] Android_Mali_G76_Vulkan, [000004F8630A5080][000004F863172800 50] Android_Mali_G77, [000004F8630AC5C0][000004F863180000 50] Android_Mali_G77_Vulkan, [000004F8630A32C0][000004F863185000 50] Android_Mali_G78, [000004F8630ACB00][000004F863187800 50] Android_Mali_G78_Vulkan, [000004F8630ABEC0][000004F86318A000 50] Android_Mali_G710, [000004F8630A9A00][000004F86318C800 50] Android_Mali_G710_Vulkan, [000004F8630AB0C0][000004F863042800 50] Android_Xclipse_920, [000004F8630AB7C0][000004F863190000 50] Android_Xclipse_920_Vulkan, [000004F8630AB980][000004F863195000 50] Android_Vulkan_SM5, [000004F8630A2A00][000004F863197800 50] Android_PowerVR_G6xxx, [000004F8630AD900][000004F86319A000 50] Android_PowerVR_GT7xxx, [000004F8630AAD40][000004F86319C800 50] Android_PowerVR_GE8xxx, [000004F8630AB280][000004F863182800 50] Android_PowerVR_GM9xxx, [000004F8630A6200][000004F8631A0000 50] Android_PowerVR_GM9xxx_Vulkan, [000004F8630A8DC0][000004F8631A5000 50] Android_TegraK1, [000004F8630AC940][000004F8631A7800 50] Android_Unknown_Vulkan, [000004F8630AD3C0][000004F8631AA000 50] Oculus_Quest, [000004F8630AAB80][000004F8631AC800 50] Oculus_Quest2, [000004F8630AE540][000004F863192800 50] HoloLens, 
+[2024.05.16-15.41.18:408][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2024.05.16-15.41.18:441][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2024.05.16-15.41.18:625][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.05.16-15.41.18:625][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.05.16-15.41.18:625][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.05.16-15.41.18:625][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.05.16-15.41.18:625][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.05.16-15.41.18:640][  0]LogNetVersion: Sliding 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 4185390373)
+[2024.05.16-15.41.18:757][  0]LogSlate: Border
+[2024.05.16-15.41.18:757][  0]LogSlate: BreadcrumbButton
+[2024.05.16-15.41.18:757][  0]LogSlate: Default
+[2024.05.16-15.41.18:757][  0]LogSlate: Icons.Save
+[2024.05.16-15.41.18:757][  0]LogSlate: Icons.Toolbar.Settings
+[2024.05.16-15.41.18:757][  0]LogSlate: ListView
+[2024.05.16-15.41.18:757][  0]LogSlate: SoftwareCursor_CardinalCross
+[2024.05.16-15.41.18:757][  0]LogSlate: SoftwareCursor_Grab
+[2024.05.16-15.41.18:757][  0]LogSlate: TableView.DarkRow
+[2024.05.16-15.41.18:757][  0]LogSlate: TableView.Row
+[2024.05.16-15.41.18:757][  0]LogSlate: TreeView
+[2024.05.16-15.41.18:935][  0]SourceControl: 源码管理已禁用
+[2024.05.16-15.41.18:962][  0]SourceControl: 源码管理已禁用
+[2024.05.16-15.41.18:962][  0]SourceControl: 源码管理已禁用
+[2024.05.16-15.41.19:098][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2024.05.16-15.41.19:098][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2024.05.16-15.41.19:098][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.05.16-15.41.19:234][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 1796A8764746CD754EF23F8C3E6B8BDB | Instance: 2976A74D48370239C8401E971EFF45A1 (MSI-17728).
+[2024.05.16-15.41.19:320][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.05.16-15.41.19:329][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.05.16-15.41.19:341][  0]LogPython: Using Python 3.9.7
+[2024.05.16-15.41.20:858][  0]LogUProjectInfo: Found projects:
+[2024.05.16-15.41.21:027][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/ar/resources/plugInfo.json'
+[2024.05.16-15.41.21:028][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/sdf/resources/plugInfo.json'
+[2024.05.16-15.41.21:029][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdRender/resources/plugInfo.json'
+[2024.05.16-15.41.21:030][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdLux/resources/plugInfo.json'
+[2024.05.16-15.41.21:031][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdRi/resources/plugInfo.json'
+[2024.05.16-15.41.21:032][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdVol/resources/plugInfo.json'
+[2024.05.16-15.41.21:034][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdGeom/resources/plugInfo.json'
+[2024.05.16-15.41.21:034][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/ndr/resources/plugInfo.json'
+[2024.05.16-15.41.21:035][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdShade/resources/plugInfo.json'
+[2024.05.16-15.41.21:036][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdUI/resources/plugInfo.json'
+[2024.05.16-15.41.21:037][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdHydra/resources/plugInfo.json'
+[2024.05.16-15.41.21:038][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdMedia/resources/plugInfo.json'
+[2024.05.16-15.41.21:040][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdPhysics/resources/plugInfo.json'
+[2024.05.16-15.41.21:040][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdSkel/resources/plugInfo.json'
+[2024.05.16-15.41.21:040][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usd/resources/plugInfo.json'
+[2024.05.16-15.41.21:048][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usd/resources/codegenTemplates/plugInfo.json'
+[2024.05.16-15.41.21:457][  0]LogOpenImageDenoise: OIDN starting up
+[2024.05.16-15.41.21:508][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.05.16-15.41.21:508][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.05.16-15.41.21:546][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.05.16-15.41.21:845][  0]LogCollectionManager: Loaded 0 collections in 0.001766 seconds
+[2024.05.16-15.41.21:882][  0]LogFileCache: Scanning file cache for directory 'C:/Users/盧孟煜/Documents/GitHub/Final/Saved/Collections/' took 0.00s
+[2024.05.16-15.41.21:882][  0]LogFileCache: Scanning file cache for directory 'C:/Users/盧孟煜/Documents/GitHub/Final/Content/Developers/盧孟煜/Collections/' took 0.00s
+[2024.05.16-15.41.21:882][  0]LogFileCache: Scanning file cache for directory 'C:/Users/盧孟煜/Documents/GitHub/Final/Content/Collections/' took 0.00s
+[2024.05.16-15.41.22:225][  0]LogEngine: Initializing Engine...
+[2024.05.16-15.41.22:238][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2024.05.16-15.41.22:239][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.05.16-15.41.22:484][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.05.16-15.41.22:485][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.05.16-15.41.22:495][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-15.41.22:528][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.05.16-15.41.22:529][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2024.05.16-15.41.22:550][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2024.05.16-15.41.22:550][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2024.05.16-15.41.22:550][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2024.05.16-15.41.22:551][  0]LogAudio: Display: Audio Device Manager Initialized
+[2024.05.16-15.41.22:551][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2024.05.16-15.41.22:551][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.16-15.41.22:551][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.16-15.41.22:551][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.16-15.41.22:551][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.16-15.41.22:551][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.16-15.41.22:551][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.16-15.41.22:551][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.16-15.41.22:551][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.16-15.41.22:551][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.16-15.41.22:551][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.16-15.41.22:551][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.16-15.41.22:558][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.16-15.41.22:843][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.16-15.41.22:844][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.16-15.41.22:854][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.16-15.41.22:854][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.16-15.41.22:856][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2024.05.16-15.41.22:856][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.05.16-15.41.22:859][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.05.16-15.41.22:859][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2024.05.16-15.41.22:859][  0]LogInit: FAudioDevice initialized.
+[2024.05.16-15.41.22:859][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.05.16-15.41.22:859][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.05.16-15.41.22:859][  0]LogInit: Texture streaming: Enabled
+[2024.05.16-15.41.22:917][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2024.05.16-15.41.22:927][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2024.05.16-15.41.22:956][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2024.05.16-15.41.22:965][  0]LogLiveCoding: Display: Starting LiveCoding
+[2024.05.16-15.41.22:965][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2024.05.16-15.41.24:369][  0]LogLiveCoding: Display: First instance in process group "UE_Sliding_0x32d588d4", spawning console
+[2024.05.16-15.41.24:369][  0]LogLiveCoding: Display: Waiting for server
+[2024.05.16-15.41.24:369][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2024.05.16-15.41.24:409][  0]LogInit: Transaction tracking system initialized
+[2024.05.16-15.41.24:479][  0]BlueprintLog: New page: 编辑器加载
+[2024.05.16-15.41.24:672][  0]LocalizationService: 本地化服务已禁用
+[2024.05.16-15.41.24:732][  0]TimingProfiler: Initialize
+[2024.05.16-15.41.24:732][  0]TimingProfiler: OnSessionChanged
+[2024.05.16-15.41.24:732][  0]LoadingProfiler: Initialize
+[2024.05.16-15.41.24:732][  0]LoadingProfiler: OnSessionChanged
+[2024.05.16-15.41.24:732][  0]NetworkingProfiler: Initialize
+[2024.05.16-15.41.24:732][  0]NetworkingProfiler: OnSessionChanged
+[2024.05.16-15.41.24:732][  0]MemoryProfiler: Initialize
+[2024.05.16-15.41.24:732][  0]MemoryProfiler: OnSessionChanged
+[2024.05.16-15.41.25:160][  0]LogFileCache: Scanning file cache for directory 'C:/Users/盧孟煜/Documents/GitHub/Final/Content/' took 0.01s
+[2024.05.16-15.41.25:160][  0]LogUsd: Added ConcertSync filters for UUsdTransactor
+[2024.05.16-15.41.25:182][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2024.05.16-15.41.25:606][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.05.16-15.41.25:608][  0]LogUnrealEdMisc: Loading editor; pre map load, took 22.138
+[2024.05.16-15.41.25:609][  0]Cmd: MAP LOAD FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.05.16-15.41.25:609][  0]LightingResults: New page: 光照构建
+[2024.05.16-15.41.25:615][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-15.41.25:615][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-15.41.25:615][  0]MapCheck: New page: 地图检测
+[2024.05.16-15.41.25:615][  0]LightingResults: New page: 光照构建
+[2024.05.16-15.41.25:620][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.16-15.41.25:624][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.05.16-15.41.26:314][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main'.
+[2024.05.16-15.41.26:314][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.05.16-15.41.26:315][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-15.41.26:315][  0]LogAIModule: Creating AISystem for world Main
+[2024.05.16-15.41.26:345][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.16-15.41.26:361][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.05.16-15.41.26:362][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.16-15.41.26:362][  0]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.161毫秒。
+[2024.05.16-15.41.26:362][  0]LogFileHelpers: Loading map 'Main' took 0.753
+[2024.05.16-15.41.26:375][  0]LogUnrealEdMisc: Total Editor Startup Time, took 22.905
+[2024.05.16-15.41.26:375][  0]LogShaderCompilers: Display: ================================================
+[2024.05.16-15.41.26:375][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.16-15.41.26:375][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2024.05.16-15.41.26:375][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2024.05.16-15.41.26:375][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2024.05.16-15.41.26:375][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.16-15.41.26:375][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.05.16-15.41.26:376][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.05.16-15.41.26:376][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.05.16-15.41.26:376][  0]LogShaderCompilers: Display: ================================================
+[2024.05.16-15.41.26:626][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.16-15.41.26:635][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.16-15.41.26:644][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.16-15.41.26:656][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.16-15.41.26:777][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2024.05.16-15.41.26:777][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.05.16-15.41.26:778][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2024.05.16-15.41.26:778][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.05.16-15.41.26:779][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2024.05.16-15.41.26:779][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.05.16-15.41.26:780][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2024.05.16-15.41.26:780][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.05.16-15.41.26:781][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2024.05.16-15.41.26:781][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.05.16-15.41.26:781][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2024.05.16-15.41.26:781][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.05.16-15.41.26:782][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2024.05.16-15.41.26:782][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.05.16-15.41.26:783][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2024.05.16-15.41.26:783][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.05.16-15.41.26:783][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2024.05.16-15.41.26:783][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.05.16-15.41.26:784][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2024.05.16-15.41.26:784][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.05.16-15.41.26:784][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2024.05.16-15.41.26:972][  0]LogSlate: Took 0.000121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.05.16-15.41.26:974][  0]LogSlate: Took 0.001365 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.05.16-15.41.26:976][  0]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.05.16-15.41.26:976][  0]LogSlate: Took 0.000109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.05.16-15.41.27:002][  0]LogViewport: Scene viewport resized to 2032x1283, mode Windowed.
+[2024.05.16-15.41.30:177][  0]LogStall: Startup...
+[2024.05.16-15.41.30:179][  0]LogStall: Startup complete.
+[2024.05.16-15.41.30:188][  0]LogLoad: (Engine Initialization) Total time: 26.72 seconds
+[2024.05.16-15.41.30:188][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.05.16-15.41.30:290][  0]LogAssetRegistry: Asset discovery search completed in 12.3108 seconds
+[2024.05.16-15.41.30:300][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2024.05.16-15.41.30:339][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.05.16-15.41.35:800][288]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.05.16-15.41.35:801][288]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.05.16-15.41.35:808][288]LogSlate: Took 0.000275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.16-15.41.42:877][682]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/trap/blackhol1e/blackholeblue.blackholeblue
+[2024.05.16-15.41.42:877][682]LogTexture: Display: 正在构建纹理：/Game/trap/blachole2/Free_Smoke_Fx__Pixel_04.Free_Smoke_Fx__Pixel_04 （BGRA8, 512X640 X1X1）（预计所需内存：6.250 MB），编码速度：Fast
+[2024.05.16-15.41.42:878][682]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-15.41.42:878][682]LogTexture: Display: 正在构建纹理：/Game/trap/blackhol1e/Free_Smoke_Fx__Pixel_04.Free_Smoke_Fx__Pixel_04 （BGRA8, 512X640 X1X1）（预计所需内存：6.250 MB），编码速度：Fast
+[2024.05.16-15.41.44:296][682]LogSlate: Took 0.005794 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.05.16-15.41.51:752][ 87]LogSlate: Window 'blackholeblue' being destroyed
+[2024.05.16-15.41.51:770][ 87]LogSlate: Window 'blackholeblue' being destroyed
+[2024.05.16-15.41.51:779][ 87]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-15.41.51:779][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-15.41.59:963][512]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/trap/blackhol1e/blackflip.blackflip
+[2024.05.16-15.41.59:965][512]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-15.42.00:380][512]LogViewport: Scene viewport resized to 2032x1115, mode Windowed.
+[2024.05.16-15.42.00:401][512]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.16-15.42.10:276][  8]LogSlate: Window 'blackflip' being destroyed
+[2024.05.16-15.42.10:284][  8]LogSlate: Window 'blackflip' being destroyed
+[2024.05.16-15.42.10:289][  8]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-15.42.10:290][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-15.42.12:912][147]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/trap/blackhol1e/Free_Smoke_Fx__Pixel_04.Free_Smoke_Fx__Pixel_04
+[2024.05.16-15.42.12:945][147]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2024.05.16-15.42.13:511][147]LogViewport: Scene viewport resized to 1895x1315, mode Windowed.
+[2024.05.16-15.42.16:884][333]LogSlate: Window 'Free_Smoke_Fx__Pixel_04' being destroyed
+[2024.05.16-15.42.16:893][333]LogSlate: Window 'Free_Smoke_Fx__Pixel_04' being destroyed
+[2024.05.16-15.42.22:409][626]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/trap/blackhol1e/Free_Smoke_Fx__Pixel_04_Sprite_56.Free_Smoke_Fx__Pixel_04_Sprite_56
+[2024.05.16-15.42.22:413][626]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-15.42.22:741][626]LogViewport: Scene viewport resized to 2032x1321, mode Windowed.
+[2024.05.16-15.42.25:916][802]LogSlate: Window 'Free_Smoke_Fx__Pixel_04_Sprite_56' being destroyed
+[2024.05.16-15.42.25:924][802]LogSlate: Window 'Free_Smoke_Fx__Pixel_04_Sprite_56' being destroyed
+[2024.05.16-15.42.25:928][802]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-15.42.25:928][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-15.42.48:189][ 54]LogContentBrowser: Deferred new asset file creation: NewPaperSprite
+[2024.05.16-15.42.48:194][ 54]LogContentBrowser: Creating deferred item: NewPaperSprite
+[2024.05.16-15.42.48:226][ 55]LogContentBrowser: Renaming the item being created (Deferred Item: NewPaperSprite).
+[2024.05.16-15.42.52:460][301]LogContentBrowser: Attempting asset rename: NewPaperSprite -> NewPaperSprite
+[2024.05.16-15.42.52:617][301]LogContentBrowser: End creating deferred item NewPaperSprite
+[2024.05.16-15.42.58:391][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.05.16-15.43.00:017][594]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.16-15.43.00:277][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.05.16-15.43.00:329][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.05.16-15.43.00:370][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.05.16-15.43.11:453][181]LogContentBrowser: Deferred new asset folder creation: 新建文件夹
+[2024.05.16-15.43.11:544][181]LogContentBrowser: Creating deferred item: 新建文件夹
+[2024.05.16-15.43.11:641][182]LogContentBrowser: Renaming the item being created (Deferred Item: 新建文件夹).
+[2024.05.16-15.43.16:558][472]LogDerivedDataCache: C:/Users/盧孟煜/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.085 and deleted 0 file(s) with total size 0 MiB.
+[2024.05.16-15.43.19:244][630]LogContentBrowser: Attempting asset rename: 新建文件夹 -> Animation
+[2024.05.16-15.43.19:246][630]LogContentBrowser: End creating deferred item 新建文件夹
+[2024.05.16-15.52.46:346][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-001.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.52.46:415][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-002.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.52.46:488][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-003.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.52.46:527][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-004.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.52.47:245][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-005.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.52.47:423][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-006.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.52.47:453][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-007.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.52.48:100][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-008.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.52.48:588][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-009.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.52.49:172][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-010.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.52.49:748][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-011.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.52.50:408][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-012.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.52.51:105][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-013.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.52.51:840][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-014.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.52.52:343][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-015.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.52.52:939][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-016.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.52.53:506][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-017.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.52.54:025][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-018.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.52.54:264][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-019.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.52.54:806][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-020.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.52.55:347][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-021.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.52.55:592][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-022.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.52.56:165][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-023.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.52.56:720][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-024.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.52.57:340][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-025.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.52.57:905][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-026.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.52.58:541][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-027.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.52.59:009][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-028.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.52.59:221][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-029.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.52.59:710][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-030.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.53.00:191][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-031.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.53.00:616][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-032.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.53.01:165][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-033.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.53.01:409][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-034.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.53.02:011][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-035.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.53.02:632][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-036.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.53.02:872][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-037.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.53.03:385][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-038.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.53.03:948][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-039.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.53.04:622][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-040.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.53.05:146][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-041.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.53.05:710][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-042.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.53.06:215][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-043.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.53.06:540][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-044.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.53.07:236][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-045.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.53.07:813][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-046.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.53.08:419][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-047.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.53.08:726][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-048.gif”失败。未知扩展名“gif”。
+[2024.05.16-15.53.09:339][652]LogAssetTools: Warning: 导入“C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-049.gif”失败。未知扩展名“gif”。
+[2024.05.16-16.01.00:270][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-001.png)
+[2024.05.16-16.01.00:913][ 66]Error: Texture import failed
+[2024.05.16-16.01.05:141][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.05:150][ 66]Message dialog closed, result: Ok, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-001.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-001’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.05:150][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-001.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-001’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.05:396][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-002.png)
+[2024.05.16-16.01.05:396][ 66]Error: Texture import failed
+[2024.05.16-16.01.09:209][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.09:214][ 66]Message dialog closed, result: Ok, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-002.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-002’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.09:214][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-002.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-002’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.09:360][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-003.png)
+[2024.05.16-16.01.09:360][ 66]Error: Texture import failed
+[2024.05.16-16.01.11:850][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.11:858][ 66]Message dialog closed, result: Cancel, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-003.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-003’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.11:858][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-003.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-003’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.12:096][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-004.png)
+[2024.05.16-16.01.12:096][ 66]Error: Texture import failed
+[2024.05.16-16.01.12:437][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.12:444][ 66]Message dialog closed, result: Cancel, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-004.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-004’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.12:444][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-004.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-004’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.12:699][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-005.png)
+[2024.05.16-16.01.12:699][ 66]Error: Texture import failed
+[2024.05.16-16.01.13:052][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.13:060][ 66]Message dialog closed, result: Cancel, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-005.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-005’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.13:060][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-005.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-005’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.13:267][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-006.png)
+[2024.05.16-16.01.13:267][ 66]Error: Texture import failed
+[2024.05.16-16.01.13:803][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.13:811][ 66]Message dialog closed, result: Cancel, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-006.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-006’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.13:812][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-006.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-006’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.13:998][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-007.png)
+[2024.05.16-16.01.13:998][ 66]Error: Texture import failed
+[2024.05.16-16.01.14:400][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.14:407][ 66]Message dialog closed, result: Cancel, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-007.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-007’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.14:407][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-007.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-007’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.14:649][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-008.png)
+[2024.05.16-16.01.14:649][ 66]Error: Texture import failed
+[2024.05.16-16.01.20:123][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.20:131][ 66]Message dialog closed, result: Ok, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-008.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-008’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.20:131][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-008.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-008’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.20:442][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-009.png)
+[2024.05.16-16.01.20:442][ 66]Error: Texture import failed
+[2024.05.16-16.01.21:139][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.21:146][ 66]Message dialog closed, result: Ok, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-009.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-009’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.21:146][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-009.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-009’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.21:305][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-010.png)
+[2024.05.16-16.01.21:306][ 66]Error: Texture import failed
+[2024.05.16-16.01.22:093][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.22:100][ 66]Message dialog closed, result: Ok, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-010.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-010’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.22:100][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-010.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-010’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.22:256][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-011.png)
+[2024.05.16-16.01.22:256][ 66]Error: Texture import failed
+[2024.05.16-16.01.27:674][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.27:681][ 66]Message dialog closed, result: Ok, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-011.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-011’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.27:681][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-011.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-011’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.27:890][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-012.png)
+[2024.05.16-16.01.27:890][ 66]Error: Texture import failed
+[2024.05.16-16.01.31:218][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.31:223][ 66]Message dialog closed, result: Ok, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-012.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-012’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.31:223][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-012.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-012’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.31:432][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-013.png)
+[2024.05.16-16.01.31:432][ 66]Error: Texture import failed
+[2024.05.16-16.01.32:737][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.32:745][ 66]Message dialog closed, result: Ok, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-013.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-013’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.32:745][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-013.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-013’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.32:933][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-014.png)
+[2024.05.16-16.01.32:933][ 66]Error: Texture import failed
+[2024.05.16-16.01.33:305][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.33:313][ 66]Message dialog closed, result: Ok, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-014.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-014’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.33:313][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-014.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-014’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.33:512][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-015.png)
+[2024.05.16-16.01.33:512][ 66]Error: Texture import failed
+[2024.05.16-16.01.33:851][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.33:859][ 66]Message dialog closed, result: Ok, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-015.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-015’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.33:859][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-015.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-015’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.34:098][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-016.png)
+[2024.05.16-16.01.34:098][ 66]Error: Texture import failed
+[2024.05.16-16.01.34:639][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.34:646][ 66]Message dialog closed, result: Ok, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-016.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-016’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.34:646][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-016.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-016’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.34:908][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-017.png)
+[2024.05.16-16.01.34:908][ 66]Error: Texture import failed
+[2024.05.16-16.01.35:298][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.35:310][ 66]Message dialog closed, result: Ok, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-017.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-017’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.35:310][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-017.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-017’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.35:493][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-018.png)
+[2024.05.16-16.01.35:493][ 66]Error: Texture import failed
+[2024.05.16-16.01.36:060][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.36:071][ 66]Message dialog closed, result: Ok, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-018.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-018’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.36:071][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-018.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-018’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.36:247][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-019.png)
+[2024.05.16-16.01.36:248][ 66]Error: Texture import failed
+[2024.05.16-16.01.36:642][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.36:652][ 66]Message dialog closed, result: Ok, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-019.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-019’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.36:652][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-019.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-019’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.36:897][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-020.png)
+[2024.05.16-16.01.36:897][ 66]Error: Texture import failed
+[2024.05.16-16.01.41:358][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.41:375][ 66]Message dialog closed, result: Cancel, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-020.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-020’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.41:375][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-020.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-020’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.41:693][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-021.png)
+[2024.05.16-16.01.41:693][ 66]Error: Texture import failed
+[2024.05.16-16.01.42:357][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.42:364][ 66]Message dialog closed, result: Ok, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-021.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-021’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.42:364][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-021.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-021’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.42:572][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-022.png)
+[2024.05.16-16.01.42:572][ 66]Error: Texture import failed
+[2024.05.16-16.01.42:940][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.42:947][ 66]Message dialog closed, result: Ok, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-022.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-022’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.42:947][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-022.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-022’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.43:207][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-023.png)
+[2024.05.16-16.01.43:207][ 66]Error: Texture import failed
+[2024.05.16-16.01.43:948][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.43:954][ 66]Message dialog closed, result: Ok, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-023.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-023’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.43:954][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-023.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-023’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.44:095][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-024.png)
+[2024.05.16-16.01.44:096][ 66]Error: Texture import failed
+[2024.05.16-16.01.44:671][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.44:678][ 66]Message dialog closed, result: Ok, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-024.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-024’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.44:678][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-024.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-024’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.44:925][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-025.png)
+[2024.05.16-16.01.44:925][ 66]Error: Texture import failed
+[2024.05.16-16.01.45:601][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.45:611][ 66]Message dialog closed, result: Ok, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-025.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-025’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.45:611][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-025.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-025’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.45:806][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-026.png)
+[2024.05.16-16.01.45:806][ 66]Error: Texture import failed
+[2024.05.16-16.01.46:417][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.46:423][ 66]Message dialog closed, result: Ok, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-026.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-026’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.46:424][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-026.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-026’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.46:582][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-027.png)
+[2024.05.16-16.01.46:582][ 66]Error: Texture import failed
+[2024.05.16-16.01.47:178][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.47:186][ 66]Message dialog closed, result: Ok, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-027.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-027’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.47:186][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-027.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-027’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.47:424][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-028.png)
+[2024.05.16-16.01.47:424][ 66]Error: Texture import failed
+[2024.05.16-16.01.48:116][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.48:126][ 66]Message dialog closed, result: Ok, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-028.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-028’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.48:126][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-028.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-028’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.48:337][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-029.png)
+[2024.05.16-16.01.48:338][ 66]Error: Texture import failed
+[2024.05.16-16.01.48:935][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.48:942][ 66]Message dialog closed, result: Ok, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-029.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-029’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.48:942][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-029.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-029’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.49:140][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-030.png)
+[2024.05.16-16.01.49:140][ 66]Error: Texture import failed
+[2024.05.16-16.01.49:661][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.49:669][ 66]Message dialog closed, result: Ok, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-030.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-030’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.49:669][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-030.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-030’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.49:855][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-031.png)
+[2024.05.16-16.01.49:855][ 66]Error: Texture import failed
+[2024.05.16-16.01.50:457][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.50:463][ 66]Message dialog closed, result: Ok, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-031.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-031’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.50:463][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-031.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-031’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.50:595][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-032.png)
+[2024.05.16-16.01.50:595][ 66]Error: Texture import failed
+[2024.05.16-16.01.51:119][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.51:127][ 66]Message dialog closed, result: Ok, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-032.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-032’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.51:127][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-032.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-032’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.51:398][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-033.png)
+[2024.05.16-16.01.51:398][ 66]Error: Texture import failed
+[2024.05.16-16.01.51:676][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.51:685][ 66]Message dialog closed, result: Ok, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-033.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-033’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.51:685][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-033.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-033’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.51:868][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-034.png)
+[2024.05.16-16.01.51:869][ 66]Error: Texture import failed
+[2024.05.16-16.01.52:255][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.52:262][ 66]Message dialog closed, result: Ok, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-034.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-034’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.52:262][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-034.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-034’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.52:437][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-035.png)
+[2024.05.16-16.01.52:437][ 66]Error: Texture import failed
+[2024.05.16-16.01.52:803][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.52:809][ 66]Message dialog closed, result: Ok, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-035.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-035’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.52:809][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-035.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-035’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.52:990][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-036.png)
+[2024.05.16-16.01.52:990][ 66]Error: Texture import failed
+[2024.05.16-16.01.53:458][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.53:474][ 66]Message dialog closed, result: Ok, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-036.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-036’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.53:475][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-036.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-036’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.53:649][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-037.png)
+[2024.05.16-16.01.53:649][ 66]Error: Texture import failed
+[2024.05.16-16.01.54:177][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.54:191][ 66]Message dialog closed, result: Ok, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-037.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-037’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.54:191][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-037.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-037’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.54:386][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-038.png)
+[2024.05.16-16.01.54:386][ 66]Error: Texture import failed
+[2024.05.16-16.01.54:857][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.54:863][ 66]Message dialog closed, result: Ok, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-038.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-038’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.54:863][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-038.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-038’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.55:059][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-039.png)
+[2024.05.16-16.01.55:059][ 66]Error: Texture import failed
+[2024.05.16-16.01.55:515][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.55:522][ 66]Message dialog closed, result: Ok, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-039.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-039’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.55:522][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-039.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-039’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.55:815][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-040.png)
+[2024.05.16-16.01.55:816][ 66]Error: Texture import failed
+[2024.05.16-16.01.56:196][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.56:203][ 66]Message dialog closed, result: Ok, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-040.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-040’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.56:203][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-040.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-040’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.56:499][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-041.png)
+[2024.05.16-16.01.56:499][ 66]Error: Texture import failed
+[2024.05.16-16.01.56:872][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.56:879][ 66]Message dialog closed, result: Ok, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-041.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-041’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.56:879][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-041.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-041’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.57:022][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-042.png)
+[2024.05.16-16.01.57:022][ 66]Error: Texture import failed
+[2024.05.16-16.01.57:407][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.57:413][ 66]Message dialog closed, result: Ok, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-042.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-042’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.57:414][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-042.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-042’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.57:575][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-043.png)
+[2024.05.16-16.01.57:575][ 66]Error: Texture import failed
+[2024.05.16-16.01.57:855][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.57:863][ 66]Message dialog closed, result: Ok, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-043.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-043’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.57:863][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-043.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-043’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.58:090][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-044.png)
+[2024.05.16-16.01.58:090][ 66]Error: Texture import failed
+[2024.05.16-16.01.58:507][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.58:514][ 66]Message dialog closed, result: Ok, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-044.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-044’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.58:514][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-044.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-044’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.58:730][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-045.png)
+[2024.05.16-16.01.58:730][ 66]Error: Texture import failed
+[2024.05.16-16.01.59:112][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.59:122][ 66]Message dialog closed, result: Ok, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-045.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-045’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.59:122][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-045.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-045’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.59:268][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-046.png)
+[2024.05.16-16.01.59:269][ 66]Error: Texture import failed
+[2024.05.16-16.01.59:803][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.01.59:809][ 66]Message dialog closed, result: Ok, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-046.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-046’。
+请查看输出日志中的详情。
+[2024.05.16-16.01.59:809][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-046.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-046’。
+请查看输出日志中的详情。
+[2024.05.16-16.02.00:064][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-047.png)
+[2024.05.16-16.02.00:064][ 66]Error: Texture import failed
+[2024.05.16-16.02.00:466][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.02.00:473][ 66]Message dialog closed, result: Ok, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-047.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-047’。
+请查看输出日志中的详情。
+[2024.05.16-16.02.00:473][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-047.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-047’。
+请查看输出日志中的详情。
+[2024.05.16-16.02.00:670][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-048.png)
+[2024.05.16-16.02.00:670][ 66]Error: Texture import failed
+[2024.05.16-16.02.01:129][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.02.01:136][ 66]Message dialog closed, result: Ok, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-048.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-048’。
+请查看输出日志中的详情。
+[2024.05.16-16.02.01:136][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-048.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-048’。
+请查看输出日志中的详情。
+[2024.05.16-16.02.01:353][ 66]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-049.png)
+[2024.05.16-16.02.01:353][ 66]Error: Texture import failed
+[2024.05.16-16.02.01:797][ 66]LogSlate: Window '消息' being destroyed
+[2024.05.16-16.02.01:806][ 66]Message dialog closed, result: Ok, title: 消息, text: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-049.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-049’。
+请查看输出日志中的详情。
+[2024.05.16-16.02.01:806][ 66]LogAssetTools: Warning: 未能导入 'C:\Users\盧孟煜\Downloads\Draw_card_loading_gif/frame-049.png’。未能创建资产 '/Game/User_Interface/Animation/Draw_card_loading_gif/frame-049’。
+请查看输出日志中的详情。
+[2024.05.16-16.05.25:743][ 38]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\images\TEST (2)-0.png)
+[2024.05.16-16.05.25:752][ 38]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/TEST__2_-0.TEST__2_-0 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.05.25:753][ 38]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SLevelEditor [LevelEditor.cpp(210)].
+[2024.05.16-16.05.26:485][ 41]LogEditorViewport: Clicking Background
+[2024.05.16-16.05.32:680][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.05.16-16.05.34:189][366]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.16-16.05.34:406][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.05.16-16.05.34:440][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.05.16-16.05.34:475][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.05.16-16.05.57:994][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-0.png)
+[2024.05.16-16.05.58:008][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-0.TEST__2_-0 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.05.58:160][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-1.png)
+[2024.05.16-16.05.58:176][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-1.TEST__2_-1 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.05.58:389][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-10.png)
+[2024.05.16-16.05.58:396][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-10.TEST__2_-10 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.05.58:695][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-100.png)
+[2024.05.16-16.05.58:714][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-100.TEST__2_-100 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.05.58:999][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-101.png)
+[2024.05.16-16.05.59:026][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-101.TEST__2_-101 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.05.59:219][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-102.png)
+[2024.05.16-16.05.59:227][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-102.TEST__2_-102 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.05.59:369][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-103.png)
+[2024.05.16-16.05.59:376][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-103.TEST__2_-103 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.05.59:613][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-11.png)
+[2024.05.16-16.05.59:622][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-11.TEST__2_-11 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.05.59:855][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-12.png)
+[2024.05.16-16.05.59:864][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-12.TEST__2_-12 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.00:252][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-13.png)
+[2024.05.16-16.06.00:263][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-13.TEST__2_-13 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.00:510][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-14.png)
+[2024.05.16-16.06.00:518][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-14.TEST__2_-14 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.00:890][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-15.png)
+[2024.05.16-16.06.00:907][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-15.TEST__2_-15 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.01:249][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-16.png)
+[2024.05.16-16.06.01:258][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-16.TEST__2_-16 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.01:411][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-17.png)
+[2024.05.16-16.06.01:419][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-17.TEST__2_-17 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.01:649][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-18.png)
+[2024.05.16-16.06.01:658][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-18.TEST__2_-18 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.01:938][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-19.png)
+[2024.05.16-16.06.01:948][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-19.TEST__2_-19 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.02:191][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-2.png)
+[2024.05.16-16.06.02:198][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-2.TEST__2_-2 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.02:453][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-20.png)
+[2024.05.16-16.06.02:463][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-20.TEST__2_-20 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.02:640][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-21.png)
+[2024.05.16-16.06.02:649][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-21.TEST__2_-21 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.03:033][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-22.png)
+[2024.05.16-16.06.03:042][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-22.TEST__2_-22 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.03:276][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-23.png)
+[2024.05.16-16.06.03:286][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-23.TEST__2_-23 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.03:547][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-24.png)
+[2024.05.16-16.06.03:555][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-24.TEST__2_-24 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.03:845][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-25.png)
+[2024.05.16-16.06.03:855][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-25.TEST__2_-25 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.04:089][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-26.png)
+[2024.05.16-16.06.04:097][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-26.TEST__2_-26 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.04:278][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-27.png)
+[2024.05.16-16.06.04:285][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-27.TEST__2_-27 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.04:502][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-28.png)
+[2024.05.16-16.06.04:510][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-28.TEST__2_-28 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.04:805][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-29.png)
+[2024.05.16-16.06.04:819][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-29.TEST__2_-29 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.05:085][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-3.png)
+[2024.05.16-16.06.05:095][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-3.TEST__2_-3 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.05:316][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-30.png)
+[2024.05.16-16.06.05:338][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-30.TEST__2_-30 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.05:630][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-31.png)
+[2024.05.16-16.06.05:638][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-31.TEST__2_-31 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.05:832][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-32.png)
+[2024.05.16-16.06.05:844][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-32.TEST__2_-32 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.06:080][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-33.png)
+[2024.05.16-16.06.06:088][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-33.TEST__2_-33 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.06:407][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-34.png)
+[2024.05.16-16.06.06:416][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-34.TEST__2_-34 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.06:630][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-35.png)
+[2024.05.16-16.06.06:641][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-35.TEST__2_-35 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.06:931][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-36.png)
+[2024.05.16-16.06.06:950][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-36.TEST__2_-36 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.07:243][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-37.png)
+[2024.05.16-16.06.07:253][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-37.TEST__2_-37 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.07:475][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-38.png)
+[2024.05.16-16.06.07:486][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-38.TEST__2_-38 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.07:698][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-39.png)
+[2024.05.16-16.06.07:707][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-39.TEST__2_-39 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.07:929][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-4.png)
+[2024.05.16-16.06.07:941][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-4.TEST__2_-4 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.08:311][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-40.png)
+[2024.05.16-16.06.08:318][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-40.TEST__2_-40 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.08:536][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-41.png)
+[2024.05.16-16.06.08:543][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-41.TEST__2_-41 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.08:849][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-42.png)
+[2024.05.16-16.06.08:866][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-42.TEST__2_-42 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.09:079][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-43.png)
+[2024.05.16-16.06.09:086][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-43.TEST__2_-43 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.09:255][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-44.png)
+[2024.05.16-16.06.09:265][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-44.TEST__2_-44 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.09:398][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-45.png)
+[2024.05.16-16.06.09:405][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-45.TEST__2_-45 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.09:575][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-46.png)
+[2024.05.16-16.06.09:583][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-46.TEST__2_-46 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.09:779][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-47.png)
+[2024.05.16-16.06.09:786][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-47.TEST__2_-47 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.10:048][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-48.png)
+[2024.05.16-16.06.10:059][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-48.TEST__2_-48 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.10:298][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-49.png)
+[2024.05.16-16.06.10:308][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-49.TEST__2_-49 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.10:699][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-5.png)
+[2024.05.16-16.06.10:716][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-5.TEST__2_-5 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.10:968][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-50.png)
+[2024.05.16-16.06.10:975][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-50.TEST__2_-50 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.11:382][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-51.png)
+[2024.05.16-16.06.11:390][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-51.TEST__2_-51 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.11:562][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-52.png)
+[2024.05.16-16.06.11:571][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-52.TEST__2_-52 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.11:815][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-53.png)
+[2024.05.16-16.06.11:829][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-53.TEST__2_-53 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.12:088][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-54.png)
+[2024.05.16-16.06.12:096][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-54.TEST__2_-54 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.12:246][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-55.png)
+[2024.05.16-16.06.12:254][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-55.TEST__2_-55 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.12:439][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-56.png)
+[2024.05.16-16.06.12:446][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-56.TEST__2_-56 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.12:659][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-57.png)
+[2024.05.16-16.06.12:667][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-57.TEST__2_-57 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.13:006][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-58.png)
+[2024.05.16-16.06.13:015][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-58.TEST__2_-58 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.13:304][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-59.png)
+[2024.05.16-16.06.13:311][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-59.TEST__2_-59 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.13:457][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-6.png)
+[2024.05.16-16.06.13:464][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-6.TEST__2_-6 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.13:624][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-60.png)
+[2024.05.16-16.06.13:632][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-60.TEST__2_-60 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.13:781][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-61.png)
+[2024.05.16-16.06.13:789][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-61.TEST__2_-61 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.13:978][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-62.png)
+[2024.05.16-16.06.13:988][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-62.TEST__2_-62 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.14:269][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-63.png)
+[2024.05.16-16.06.14:279][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-63.TEST__2_-63 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.14:628][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-64.png)
+[2024.05.16-16.06.14:636][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-64.TEST__2_-64 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.14:855][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-65.png)
+[2024.05.16-16.06.14:862][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-65.TEST__2_-65 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.15:110][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-66.png)
+[2024.05.16-16.06.15:121][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-66.TEST__2_-66 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.15:411][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-67.png)
+[2024.05.16-16.06.15:422][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-67.TEST__2_-67 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.15:682][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-68.png)
+[2024.05.16-16.06.15:693][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-68.TEST__2_-68 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.15:867][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-69.png)
+[2024.05.16-16.06.15:875][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-69.TEST__2_-69 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.16:057][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-7.png)
+[2024.05.16-16.06.16:068][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-7.TEST__2_-7 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.16:301][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-70.png)
+[2024.05.16-16.06.16:309][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-70.TEST__2_-70 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.16:565][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-71.png)
+[2024.05.16-16.06.16:572][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-71.TEST__2_-71 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.16:770][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-72.png)
+[2024.05.16-16.06.16:779][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-72.TEST__2_-72 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.17:106][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-73.png)
+[2024.05.16-16.06.17:115][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-73.TEST__2_-73 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.17:302][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-74.png)
+[2024.05.16-16.06.17:311][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-74.TEST__2_-74 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.17:612][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-75.png)
+[2024.05.16-16.06.17:620][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-75.TEST__2_-75 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
+[2024.05.16-16.06.17:889][499]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Loading/TEST (2)-76.png)
+[2024.05.16-16.06.17:900][499]LogTexture: Display: 正在构建纹理：/Game/User_Interface/Animation/Loading/TEST__2_-76.TEST__2_-76 （TFO_AutoDXT, 1152X648 X1X1）（预计所需内存：14.238281 MB），编码速度：Fast
