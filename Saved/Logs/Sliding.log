@@ -851,3 +851,32 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.05.21-13.33.01:406][ 98]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
 [2024.05.21-13.33.25:594][963]BlueprintLog: New page: 编译Complete
 [2024.05.21-13.33.25:672][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.05.21-13.34.23:904][256]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.21-13.34.23:904][256]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.21-13.34.40:715][153]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/User_Interface/TEMP.TEMP
+[2024.05.21-13.34.40:715][153]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.21-13.34.40:724][153]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.21-13.34.41:006][153]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.21-13.34.41:006][153]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.21-13.36.18:251][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.05.21-13.36.18:252][298]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/User_Interface/Main' took 0.048
+[2024.05.21-13.36.18:252][298]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/User_Interface/Complete] ([2] browsable assets)...
+[2024.05.21-13.36.18:256][298]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/User_Interface/Complete.Complete]
+[2024.05.21-13.36.18:256][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/User_Interface/Complete]
+[2024.05.21-13.36.18:268][298]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/User_Interface/Complete_Auto2
+[2024.05.21-13.36.18:268][298]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Complete_Auto20106CD4744A75EA27A956A992A080656.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Autosaves/Game/User_Interface/Complete_Auto2.uasset'
+[2024.05.21-13.36.18:269][298]LogFileHelpers: Auto-saving content packages took 0.017
+[2024.05.21-13.36.27:471][351]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\AGAIN.png)
+[2024.05.21-13.36.27:487][351]LogTexture: Display: 正在构建纹理：/Game/User_Interface/UI_IMG/AGAIN.AGAIN （BGRA8, 101X101 X1X1）（预计所需内存：0.194569 MB），编码速度：Fast
+[2024.05.21-13.36.27:700][351]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\LIST.png)
+[2024.05.21-13.36.27:712][351]LogTexture: Display: 正在构建纹理：/Game/User_Interface/UI_IMG/LIST.LIST （BGRA8, 101X101 X1X1）（预计所需内存：0.194569 MB），编码速度：Fast
+[2024.05.21-13.36.35:354][916]LogSlate: Window '内容浏览器' being destroyed
+[2024.05.21-13.36.35:364][916]LogSlate: Window '内容浏览器' being destroyed
+[2024.05.21-13.36.40:906][396]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/UMG': No such file or directory
+[2024.05.21-13.37.04:902][145]LogEditorTransaction: Undo 编辑顶部
+[2024.05.21-13.37.26:382][710]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/UMG': No such file or directory
+[2024.05.21-13.39.13:100][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/User_Interface/Complete" FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Complete.uasset" SILENT=true
+[2024.05.21-13.39.13:120][183]LogSavePackage: Moving output files for package: /Game/User_Interface/Complete
+[2024.05.21-13.39.13:121][183]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/CompleteE34FB403461C9B8A02BCBAABF5AECF1C.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Complete.uasset'
+[2024.05.21-13.39.13:156][183]AssetCheck: New page: 资产保存：Complete
+[2024.05.21-13.39.13:156][183]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/User_Interface/Complete.Complete
