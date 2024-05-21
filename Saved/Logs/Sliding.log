@@ -766,3 +766,53 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.05.21-15.15.36:459][165]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/MainB0C3E8224319AB40409196960512A92F.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Main.umap'
 [2024.05.21-15.15.36:601][165]AssetCheck: New page: 资产保存：Main
 [2024.05.21-15.15.36:601][165]LogContentValidation: Display: 正在验证World /Game/User_Interface/Main.Main
+[2024.05.21-15.17.08:129][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/User_Interface/Main" FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.21-15.17.08:214][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.05.21-15.17.08:221][666]LogSavePackage: Moving output files for package: /Game/User_Interface/Main
+[2024.05.21-15.17.08:222][666]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Main647BF0BD402D17AFA07B12AF2724FB28.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Main.umap'
+[2024.05.21-15.17.08:304][666]AssetCheck: New page: 资产保存：Main
+[2024.05.21-15.17.08:304][666]LogContentValidation: Display: 正在验证World /Game/User_Interface/Main.Main
+[2024.05.21-15.19.11:555][546]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\COM_BG.png)
+[2024.05.21-15.19.11:573][546]LogTexture: Display: 正在构建纹理：/Game/User_Interface/UI_IMG/COM_BG.COM_BG （BGRA8, 932X627 X1X1）（预计所需内存：11.145859 MB），编码速度：Fast
+[2024.05.21-15.19.11:576][546]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SStandaloneAssetEditorToolkitHost [AssetEditorToolkit.cpp(195)].
+[2024.05.21-15.21.27:009][436]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\SCORE.png)
+[2024.05.21-15.21.27:014][436]LogTexture: Display: 正在构建纹理：/Game/User_Interface/UI_IMG/SCORE.SCORE （BGRA8, 761X111 X1X1）（预计所需内存：1.611156 MB），编码速度：Fast
+[2024.05.21-15.21.27:016][436]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SStandaloneAssetEditorToolkitHost [AssetEditorToolkit.cpp(195)].
+[2024.05.21-15.25.27:233][122]LogSlate: Window '取色器' being destroyed
+[2024.05.21-15.25.59:410][793]LogSlate: Window '取色器' being destroyed
+[2024.05.21-15.27.18:917][385]BlueprintLog: New page: 编译Complete
+[2024.05.21-15.27.18:999][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.05.21-15.27.32:901][982]LogContentBrowser: Deferred new asset file creation: NewMaterialParameterCollection
+[2024.05.21-15.27.32:915][982]LogContentBrowser: Creating deferred item: NewMaterialParameterCollection
+[2024.05.21-15.27.32:951][983]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterialParameterCollection).
+[2024.05.21-15.27.41:587][458]LogContentBrowser: Attempting asset rename: NewMaterialParameterCollection -> TEMP_DATA
+[2024.05.21-15.27.41:734][458]LogContentBrowser: End creating deferred item NewMaterialParameterCollection
+[2024.05.21-15.27.42:109][480]LogAssetEditorSubsystem: Opening Asset editor for MaterialParameterCollection /Game/User_Interface/Material_for_data/TEMP_DATA.TEMP_DATA
+[2024.05.21-15.30.10:903][405]LogEditorTransaction: Undo 删除当前选项
+[2024.05.21-15.30.19:230][818]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.21-15.30.19:230][818]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.21-15.30.41:416][899]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.21-15.30.41:416][899]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.21-15.31.05:426][ 66]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.21-15.31.05:427][ 66]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.21-15.31.07:036][151]LogEditorTransaction: Undo 替换控件
+[2024.05.21-15.31.42:044][933]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.21-15.31.42:045][933]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.21-15.31.53:025][545]BlueprintLog: New page: 编译Complete
+[2024.05.21-15.31.53:085][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.05.21-15.31.54:657][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/User_Interface/Complete" FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Complete.uasset" SILENT=true
+[2024.05.21-15.31.54:691][599]LogSavePackage: Moving output files for package: /Game/User_Interface/Complete
+[2024.05.21-15.31.54:693][599]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Complete8CCC77454D157229E30DE7BEDC198118.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Complete.uasset'
+[2024.05.21-15.31.54:754][599]AssetCheck: New page: 资产保存：Complete
+[2024.05.21-15.31.54:754][599]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/User_Interface/Complete.Complete
+[2024.05.21-15.31.57:792][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/User_Interface/Complete" FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Complete.uasset" SILENT=true
+[2024.05.21-15.31.57:812][759]LogSavePackage: Moving output files for package: /Game/User_Interface/Complete
+[2024.05.21-15.31.57:813][759]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Complete79D61976461735C4EFB58B9735920546.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Complete.uasset'
+[2024.05.21-15.31.57:840][759]AssetCheck: New page: 资产保存：Complete
+[2024.05.21-15.31.57:840][759]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/User_Interface/Complete.Complete
+[2024.05.21-15.32.00:372][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/User_Interface/Main" FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.21-15.32.00:431][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.05.21-15.32.00:440][877]LogSavePackage: Moving output files for package: /Game/User_Interface/Main
+[2024.05.21-15.32.00:440][877]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/MainF39AC0FE4EAF92D6B70C2BAB3F7910C8.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Main.umap'
+[2024.05.21-15.32.00:565][877]AssetCheck: New page: 资产保存：Main
+[2024.05.21-15.32.00:565][877]LogContentValidation: Display: 正在验证World /Game/User_Interface/Main.Main
