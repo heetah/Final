@@ -1015,3 +1015,146 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.05.25-05.30.55:511][693]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/GamePlay_UI7EB8FF7441044A8C5445B1A1ABE1C8B0.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/GamePlay_UI.uasset'
 [2024.05.25-05.30.55:540][693]AssetCheck: New page: 资产保存：GamePlay_UI
 [2024.05.25-05.30.55:540][693]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/User_Interface/GamePlay_UI.GamePlay_UI
+[2024.05.25-05.32.47:010][451]LogSlate: Window '取色器' being destroyed
+[2024.05.25-05.33.37:071][402]BlueprintLog: New page: 编译GamePlay_UI
+[2024.05.25-05.33.37:140][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.05.25-05.34.03:011][897]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/User_Interface/Complete.Complete
+[2024.05.25-05.34.03:012][897]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.25-05.34.03:023][897]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.25-05.34.03:350][897]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.25-05.34.03:350][897]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.25-05.34.48:132][369]BlueprintLog: New page: 编译Complete
+[2024.05.25-05.34.48:248][369]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2024.05.25-05.34.49:791][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/User_Interface/Complete" FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Complete.uasset" SILENT=true
+[2024.05.25-05.34.49:810][433]LogSavePackage: Moving output files for package: /Game/User_Interface/Complete
+[2024.05.25-05.34.49:810][433]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Complete170A3B2444DB688E8F66E1BFAAC8C11C.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Complete.uasset'
+[2024.05.25-05.34.49:825][433]AssetCheck: New page: 资产保存：Complete
+[2024.05.25-05.34.49:825][433]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/User_Interface/Complete.Complete
+[2024.05.25-05.35.20:388][107]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.25-05.35.20:388][107]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.25-05.35.24:079][278]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.25-05.35.24:079][278]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.25-05.35.24:969][301]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.25-05.35.24:970][301]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.25-05.35.30:108][590]LogContentBrowser: Attempting asset rename: Complete -> Complete_ADV
+[2024.05.25-05.35.31:549][590]LogMetaData: Removing '/Game/User_Interface/Complete_ADV.Complete_ADV_C' ref from Metadata '/Game/User_Interface/Complete.PackageMetaData'
+[2024.05.25-05.35.31:549][590]LogMetaData: Removing '/Game/User_Interface/Complete_ADV.SKEL_Complete_ADV_C' ref from Metadata '/Game/User_Interface/Complete.PackageMetaData'
+[2024.05.25-05.35.31:549][590]LogMetaData: Removing '/Game/User_Interface/Complete_ADV.SKEL_Complete_ADV_C:Tick' ref from Metadata '/Game/User_Interface/Complete.PackageMetaData'
+[2024.05.25-05.35.31:549][590]LogMetaData: Removing '/Game/User_Interface/Complete_ADV.SKEL_Complete_ADV_C:BndEvt__GAME_Return_Botton_K2Node_ComponentBoundEvent_2_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/User_Interface/Complete.PackageMetaData'
+[2024.05.25-05.35.31:549][590]LogMetaData: Removing '/Game/User_Interface/Complete_ADV.SKEL_Complete_ADV_C:Construct' ref from Metadata '/Game/User_Interface/Complete.PackageMetaData'
+[2024.05.25-05.35.31:549][590]LogMetaData: Removing '/Game/User_Interface/Complete_ADV.SKEL_Complete_ADV_C:PreConstruct' ref from Metadata '/Game/User_Interface/Complete.PackageMetaData'
+[2024.05.25-05.35.31:549][590]LogMetaData: Removing '/Game/User_Interface/Complete_ADV.SKEL_Complete_ADV_C:BndEvt__STORE_Button_0_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/User_Interface/Complete.PackageMetaData'
+[2024.05.25-05.35.31:549][590]LogMetaData: Removing '/Game/User_Interface/Complete_ADV.SKEL_Complete_ADV_C:BndEvt__Complete_Home_Botton_K2Node_ComponentBoundEvent_1_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/User_Interface/Complete.PackageMetaData'
+[2024.05.25-05.35.31:550][590]LogMetaData: Removing '/Game/User_Interface/Complete_ADV.SKEL_Complete_ADV_C:BndEvt__Complete_AGAIN_K2Node_ComponentBoundEvent_3_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/User_Interface/Complete.PackageMetaData'
+[2024.05.25-05.35.31:550][590]LogMetaData: Removing '/Game/User_Interface/Complete_ADV.Complete_ADV_C:PreConstruct' ref from Metadata '/Game/User_Interface/Complete.PackageMetaData'
+[2024.05.25-05.35.31:550][590]LogMetaData: Removing '/Game/User_Interface/Complete_ADV.Complete_ADV_C:Construct' ref from Metadata '/Game/User_Interface/Complete.PackageMetaData'
+[2024.05.25-05.35.31:772][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/User_Interface/Complete_ADV" FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Complete_ADV.uasset" SILENT=true
+[2024.05.25-05.35.31:791][590]LogSavePackage: Moving output files for package: /Game/User_Interface/Complete_ADV
+[2024.05.25-05.35.31:791][590]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Complete_ADVA7B5D0A7484ED1179EE64EB2259C1AAD.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Complete_ADV.uasset'
+[2024.05.25-05.35.31:796][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/User_Interface/Complete" FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Complete.uasset" SILENT=true
+[2024.05.25-05.35.31:797][590]LogSavePackage: Moving output files for package: /Game/User_Interface/Complete
+[2024.05.25-05.35.31:798][590]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Complete841FAD524933DE381D7EBAA02221C4B2.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Complete.uasset'
+[2024.05.25-05.35.32:464][590]AssetCheck: New page: 资产保存：多个资产
+[2024.05.25-05.35.32:464][590]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/User_Interface/Complete_ADV.Complete_ADV
+[2024.05.25-05.35.32:466][590]LogContentValidation: Display: 正在验证ObjectRedirector /Game/User_Interface/Complete.Complete
+[2024.05.25-05.35.32:467][590]LogContentValidation: Display: 正在验证ObjectRedirector /Game/User_Interface/Complete.Default__Complete_C
+[2024.05.25-05.35.32:467][590]LogContentValidation: Display: 正在验证ObjectRedirector /Game/User_Interface/Complete.Complete_C
+[2024.05.25-05.38.14:491][281]BlueprintLog: New page: 编译Complete_ADV
+[2024.05.25-05.38.14:573][281]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2024.05.25-05.38.19:046][523]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.25-05.38.19:046][523]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.25-05.38.21:027][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/User_Interface/Complete_ADV" FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Complete_ADV.uasset" SILENT=true
+[2024.05.25-05.38.21:049][613]LogSavePackage: Moving output files for package: /Game/User_Interface/Complete_ADV
+[2024.05.25-05.38.21:049][613]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Complete_ADVFCDDC9EF435436CDE587FF81835A0ADA.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Complete_ADV.uasset'
+[2024.05.25-05.38.21:063][613]AssetCheck: New page: 资产保存：Complete_ADV
+[2024.05.25-05.38.21:063][613]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/User_Interface/Complete_ADV.Complete_ADV
+[2024.05.25-05.38.29:983][ 68]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.25-05.38.29:983][ 68]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.25-05.38.31:087][123]LogContentBrowser: Deferred new asset file creation: Complete_ADV1
+[2024.05.25-05.38.31:095][123]LogContentBrowser: Creating deferred item: Complete_ADV1
+[2024.05.25-05.38.31:140][124]LogContentBrowser: Renaming the item being created (Deferred Item: Complete_ADV1).
+[2024.05.25-05.38.41:095][708]LogContentBrowser: Attempting asset rename: Complete_ADV1 -> Complete_LESSON
+[2024.05.25-05.38.41:364][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.05.25-05.38.41:777][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/User_Interface/Complete_LESSON" FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Complete_LESSON.uasset" SILENT=true
+[2024.05.25-05.38.41:797][708]LogSavePackage: Moving output files for package: /Game/User_Interface/Complete_LESSON
+[2024.05.25-05.38.41:798][708]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Complete_LESSONB193D2D045CC68B99B0F76AEC62B032B.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Complete_LESSON.uasset'
+[2024.05.25-05.38.42:675][708]LogContentBrowser: End creating deferred item Complete_ADV1
+[2024.05.25-05.38.42:682][708]AssetCheck: New page: 资产保存：Complete_LESSON
+[2024.05.25-05.38.42:683][708]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/User_Interface/Complete_LESSON.Complete_LESSON
+[2024.05.25-05.38.48:688][ 20]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/User_Interface/Complete_LESSON.Complete_LESSON
+[2024.05.25-05.38.48:689][ 20]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.25-05.38.48:698][ 20]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.25-05.38.48:988][ 20]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.25-05.38.48:988][ 20]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.25-05.38.55:000][324]BlueprintLog: New page: 编译Complete_LESSON
+[2024.05.25-05.38.55:124][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.05.25-05.38.55:975][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/User_Interface/Complete_LESSON" FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Complete_LESSON.uasset" SILENT=true
+[2024.05.25-05.38.55:994][348]LogSavePackage: Moving output files for package: /Game/User_Interface/Complete_LESSON
+[2024.05.25-05.38.55:994][348]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Complete_LESSONB8CEE4364BC86CDEA01B3CAFDE024641.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Complete_LESSON.uasset'
+[2024.05.25-05.38.56:018][348]AssetCheck: New page: 资产保存：Complete_LESSON
+[2024.05.25-05.38.56:018][348]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/User_Interface/Complete_LESSON.Complete_LESSON
+[2024.05.25-05.38.57:048][395]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.25-05.38.57:048][395]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.25-05.38.59:610][506]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.25-05.38.59:610][506]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.05.25-05.39.01:202][576]LogContentBrowser: Deferred new asset file creation: Complete_LESSON1
+[2024.05.25-05.39.01:212][576]LogContentBrowser: Creating deferred item: Complete_LESSON1
+[2024.05.25-05.39.01:245][577]LogContentBrowser: Renaming the item being created (Deferred Item: Complete_LESSON1).
+[2024.05.25-05.39.09:597][ 70]LogContentBrowser: Attempting asset rename: Complete_LESSON1 -> Complete_INFINITE
+[2024.05.25-05.39.09:970][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.05.25-05.39.10:478][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/User_Interface/Complete_INFINITE" FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Complete_INFINITE.uasset" SILENT=true
+[2024.05.25-05.39.10:508][ 70]LogSavePackage: Moving output files for package: /Game/User_Interface/Complete_INFINITE
+[2024.05.25-05.39.10:508][ 70]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Complete_INFINITE110593D44E293D49CC4D8AA82FD81850.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Complete_INFINITE.uasset'
+[2024.05.25-05.39.11:307][ 70]LogContentBrowser: End creating deferred item Complete_LESSON1
+[2024.05.25-05.39.11:313][ 70]AssetCheck: New page: 资产保存：Complete_INFINITE
+[2024.05.25-05.39.11:313][ 70]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/User_Interface/Complete_INFINITE.Complete_INFINITE
+[2024.05.25-05.39.28:549][  7]BlueprintLog: New page: 编译Complete_LESSON
+[2024.05.25-05.39.28:654][  7]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2024.05.25-05.39.29:602][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/User_Interface/Complete_LESSON" FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Complete_LESSON.uasset" SILENT=true
+[2024.05.25-05.39.29:639][ 25]LogSavePackage: Moving output files for package: /Game/User_Interface/Complete_LESSON
+[2024.05.25-05.39.29:640][ 25]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Complete_LESSONEE292D64476F95C450C518A5CB8D9E17.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Complete_LESSON.uasset'
+[2024.05.25-05.39.29:655][ 25]AssetCheck: New page: 资产保存：Complete_LESSON
+[2024.05.25-05.39.29:657][ 25]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/User_Interface/Complete_LESSON.Complete_LESSON
+[2024.05.25-05.39.30:614][ 66]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.25-05.39.30:614][ 66]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.25-05.39.37:771][478]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.05.25-05.39.37:772][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.25-05.39.37:780][478]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.05.25-05.39.37:781][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.25-05.39.39:106][544]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.05.25-05.39.39:106][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.25-05.39.39:118][544]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.05.25-05.39.39:118][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.25-05.40.06:202][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.05.25-05.40.06:206][118]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/User_Interface/Main' took 0.054
+[2024.05.25-05.40.06:206][118]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level_sort/Lesson/Lesson_level_1/EndGameTrigger] ([2] browsable assets)...
+[2024.05.25-05.40.06:206][118]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_sort/Lesson/Lesson_level_1/EndGameTrigger]
+[2024.05.25-05.40.06:211][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level_sort/Lesson/Lesson_level_1/EndGameTrigger_Auto2
+[2024.05.25-05.40.06:211][118]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/EndGameTrigger_Auto29B7B3B414703B92D3084BFB8E709804B.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Autosaves/Game/Level_sort/Lesson/Lesson_level_1/EndGameTrigger_Auto2.uasset'
+[2024.05.25-05.40.06:212][118]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/User_Interface/GamePlay_UI] ([2] browsable assets)...
+[2024.05.25-05.40.06:216][118]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/User_Interface/GamePlay_UI.GamePlay_UI]
+[2024.05.25-05.40.06:216][118]OBJ SavePackage: Finished generating thumbnails for package [/Game/User_Interface/GamePlay_UI]
+[2024.05.25-05.40.06:226][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/User_Interface/GamePlay_UI_Auto2
+[2024.05.25-05.40.06:226][118]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/GamePlay_UI_Auto24836A75D44E9B64DD64F98AA0AC8D33D.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Autosaves/Game/User_Interface/GamePlay_UI_Auto2.uasset'
+[2024.05.25-05.40.06:227][118]LogFileHelpers: Auto-saving content packages took 0.021
+[2024.05.25-05.42.12:746][292]BlueprintLog: New page: 编译GamePlay_UI
+[2024.05.25-05.42.12:828][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.05.25-05.42.14:019][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/User_Interface/GamePlay_UI" FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/GamePlay_UI.uasset" SILENT=true
+[2024.05.25-05.42.14:029][328]LogSavePackage: Moving output files for package: /Game/User_Interface/GamePlay_UI
+[2024.05.25-05.42.14:030][328]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/GamePlay_UIE99B972B44850523B27E118B6886270F.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/GamePlay_UI.uasset'
+[2024.05.25-05.42.14:092][328]AssetCheck: New page: 资产保存：GamePlay_UI
+[2024.05.25-05.42.14:092][328]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/User_Interface/GamePlay_UI.GamePlay_UI
+[2024.05.25-05.42.19:312][628]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.25-05.42.19:312][628]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.25-05.42.21:647][764]LogSlate: Window 'GamePlay_UI' being destroyed
+[2024.05.25-05.42.21:657][764]LogSlate: Window 'GamePlay_UI' being destroyed
+[2024.05.25-05.42.21:665][764]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.05.25-05.42.21:665][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.25-05.42.21:674][764]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.05.25-05.42.21:674][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.25-05.42.25:854][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/User_Interface/Main" FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.25-05.42.25:917][985]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2024.05.25-05.42.25:928][985]LogSavePackage: Moving output files for package: /Game/User_Interface/Main
+[2024.05.25-05.42.25:928][985]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Main41C29EFF4B3A19F37358D58A1EF5E324.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Main.umap'
+[2024.05.25-05.42.26:025][985]AssetCheck: New page: 资产保存：Main
+[2024.05.25-05.42.26:025][985]LogContentValidation: Display: 正在验证World /Game/User_Interface/Main.Main
