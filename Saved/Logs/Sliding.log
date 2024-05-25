@@ -998,3 +998,20 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.05.25-05.21.55:429][715]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/GamePlay_UI16AE61FA45D3210A2BECFDA6044CC609.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/GamePlay_UI.uasset'
 [2024.05.25-05.21.55:442][715]AssetCheck: New page: 资产保存：GamePlay_UI
 [2024.05.25-05.21.55:442][715]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/User_Interface/GamePlay_UI.GamePlay_UI
+[2024.05.25-05.23.14:355][886]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/UMG': No such file or directory
+[2024.05.25-05.23.36:394][117]LogSlate: Window '取色器' being destroyed
+[2024.05.25-05.25.45:343][170]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/UMG': No such file or directory
+[2024.05.25-05.30.18:346][575]BlueprintLog: New page: 编译GamePlay_UI
+[2024.05.25-05.30.18:429][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.05.25-05.30.19:254][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/User_Interface/GamePlay_UI" FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/GamePlay_UI.uasset" SILENT=true
+[2024.05.25-05.30.19:267][598]LogSavePackage: Moving output files for package: /Game/User_Interface/GamePlay_UI
+[2024.05.25-05.30.19:267][598]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/GamePlay_UIC97D751545D4C9370EDE1AB37412EAA4.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/GamePlay_UI.uasset'
+[2024.05.25-05.30.19:284][598]AssetCheck: New page: 资产保存：GamePlay_UI
+[2024.05.25-05.30.19:284][598]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/User_Interface/GamePlay_UI.GamePlay_UI
+[2024.05.25-05.30.19:642][616]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.25-05.30.19:642][616]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.25-05.30.55:497][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/User_Interface/GamePlay_UI" FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/GamePlay_UI.uasset" SILENT=true
+[2024.05.25-05.30.55:511][693]LogSavePackage: Moving output files for package: /Game/User_Interface/GamePlay_UI
+[2024.05.25-05.30.55:511][693]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/GamePlay_UI7EB8FF7441044A8C5445B1A1ABE1C8B0.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/GamePlay_UI.uasset'
+[2024.05.25-05.30.55:540][693]AssetCheck: New page: 资产保存：GamePlay_UI
+[2024.05.25-05.30.55:540][693]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/User_Interface/GamePlay_UI.GamePlay_UI
