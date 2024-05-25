@@ -1158,3 +1158,25 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.05.25-05.42.25:928][985]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Main41C29EFF4B3A19F37358D58A1EF5E324.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Main.umap'
 [2024.05.25-05.42.26:025][985]AssetCheck: New page: 资产保存：Main
 [2024.05.25-05.42.26:025][985]LogContentValidation: Display: 正在验证World /Game/User_Interface/Main.Main
+[2024.05.25-06.04.23:664][780]LogDerivedDataCache: C:/Users/盧孟煜/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.175 and deleted 9 file(s) with total size 0 MiB.
+[2024.05.25-06.08.41:432][163]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Paladin.png)
+[2024.05.25-06.08.41:452][163]LogTexture: Display: 正在构建纹理：/Game/IMG/Character/Paladin.Paladin （TFO_AutoDXT, 972X940 X1X1）（预计所需内存：17.427063 MB），编码速度：Fast
+[2024.05.25-06.08.41:731][163]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Pawn.png)
+[2024.05.25-06.08.41:748][163]LogTexture: Display: 正在构建纹理：/Game/IMG/Character/Pawn.Pawn （BGRA8, 880X681 X1X1）（预计所需内存：11.430359 MB），编码速度：Fast
+[2024.05.25-06.08.41:978][163]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Slime.png)
+[2024.05.25-06.08.41:996][163]LogTexture: Display: 正在构建纹理：/Game/IMG/Character/Slime.Slime （BGRA8, 739X701 X1X1）（预计所需内存：9.88081 MB），编码速度：Fast
+[2024.05.25-06.08.42:217][163]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\YinYang Sorcerer.png)
+[2024.05.25-06.08.42:227][163]LogTexture: Display: 正在构建纹理：/Game/IMG/Character/YinYang_Sorcerer.YinYang_Sorcerer （BGRA8, 686X770 X1X1）（预计所需内存：10.074997 MB），编码速度：Fast
+[2024.05.25-06.08.42:401][163]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Cat Knight.png)
+[2024.05.25-06.08.42:420][163]LogTexture: Display: 正在构建纹理：/Game/IMG/Character/Cat_Knight.Cat_Knight （BGRA8, 842X812 X1X1）（预计所需内存：13.040619 MB），编码速度：Fast
+[2024.05.25-06.08.42:720][163]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\盧孟煜\Downloads\Azrast.png)
+[2024.05.25-06.08.42:767][163]LogTexture: Display: 正在构建纹理：/Game/IMG/Character/Azrast.Azrast （BGRA8, 732X947 X1X1）（预计所需内存：13.221817 MB），编码速度：Fast
+[2024.05.25-06.08.44:595][168]LogEditorViewport: Clicking Background
+[2024.05.25-06.08.48:519][379]LogSlate: Window '内容浏览器' being destroyed
+[2024.05.25-06.08.48:531][379]LogSlate: Window '内容浏览器' being destroyed
+[2024.05.25-06.08.56:690][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/User_Interface/Main" FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.25-06.08.56:780][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.05.25-06.08.56:791][815]LogSavePackage: Moving output files for package: /Game/User_Interface/Main
+[2024.05.25-06.08.56:792][815]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Main5ABBC9AC4D4EC874B064A18F8D2E5E4B.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Main.umap'
+[2024.05.25-06.08.56:832][815]AssetCheck: New page: 资产保存：Main
+[2024.05.25-06.08.56:832][815]LogContentValidation: Display: 正在验证World /Game/User_Interface/Main.Main
