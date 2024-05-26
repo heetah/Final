@@ -3514,3 +3514,33 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.05.26-09.49.21:964][383]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Game_MainMenu2CC0EE064E9B900CC5E952BFCDFB86B8.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Game_MainMenu.umap'
 [2024.05.26-09.49.22:040][383]AssetCheck: New page: 资产保存：Game_MainMenu
 [2024.05.26-09.49.22:040][383]LogContentValidation: Display: 正在验证World /Game/User_Interface/Game_MainMenu.Game_MainMenu
+[2024.05.26-09.51.34:632][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.05.26-09.51.35:689][235]LogSlate: Window '保存内容' being destroyed
+[2024.05.26-09.51.36:263][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/User_Interface/UI_IMG/HINT_BOX_ACC" FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/UI_IMG/HINT_BOX_ACC.uasset" SILENT=true
+[2024.05.26-09.51.36:273][235]LogSavePackage: Moving output files for package: /Game/User_Interface/UI_IMG/HINT_BOX_ACC
+[2024.05.26-09.51.36:273][235]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/HINT_BOX_ACC35B0CE8B4516E18FAFD01A86B2B1D461.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/UI_IMG/HINT_BOX_ACC.uasset'
+[2024.05.26-09.51.36:710][235]LogAssetEditorSubsystem: Opening Asset editor for World /Game/User_Interface/Main.Main
+[2024.05.26-09.51.36:710][235]Cmd: MAP LOAD FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.05.26-09.51.36:710][235]LightingResults: New page: 光照构建
+[2024.05.26-09.51.36:710][235]LoadErrors: New page: 正在加载地图：Main.umap
+[2024.05.26-09.51.36:714][235]LogWorld: UWorld::CleanupWorld for Game_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.05.26-09.51.36:714][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.26-09.51.36:714][235]MapCheck: New page: 地图检测
+[2024.05.26-09.51.36:714][235]LightingResults: New page: 光照构建
+[2024.05.26-09.51.36:773][235]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.26-09.51.36:775][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.05.26-09.51.36:777][235]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.05.26-09.51.36:777][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.26-09.51.36:833][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.05.26-09.51.36:887][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.05.26-09.51.36:897][235]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main'.
+[2024.05.26-09.51.36:897][235]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.05.26-09.51.36:897][235]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.26-09.51.36:898][235]LogAIModule: Creating AISystem for world Main
+[2024.05.26-09.51.36:910][235]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.26-09.51.36:977][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.05.26-09.51.36:985][235]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.26-09.51.36:985][235]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.124毫秒。
+[2024.05.26-09.51.36:985][235]LogFileHelpers: Loading map 'Main' took 0.276
+[2024.05.26-09.51.37:029][235]AssetCheck: New page: 资产保存：HINT_BOX_ACC
+[2024.05.26-09.51.37:029][235]LogContentValidation: Display: 正在验证Texture2D /Game/User_Interface/UI_IMG/HINT_BOX_ACC.HINT_BOX_ACC
