@@ -2893,3 +2893,13 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.05.27-17.10.13:451][655]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/User_Interface/BACKPACK_Auto4
 [2024.05.27-17.10.13:452][655]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/BACKPACK_Auto468E43D4B4A1CC2B82C365CB149582163.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Autosaves/Game/User_Interface/BACKPACK_Auto4.uasset'
 [2024.05.27-17.10.13:453][655]LogFileHelpers: Auto-saving content packages took 0.157
+[2024.05.27-17.12.13:591][287]LogSlate: Took 0.007674 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.05.27-17.12.24:425][802]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.27-17.12.24:425][802]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.05.27-17.12.27:276][941]BlueprintLog: New page: 编译MyData
+[2024.05.27-17.12.27:384][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.05.27-17.12.28:463][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/User_Interface/Material_for_data/MyData" FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Material_for_data/MyData.uasset" SILENT=true
+[2024.05.27-17.12.28:475][964]LogSavePackage: Moving output files for package: /Game/User_Interface/Material_for_data/MyData
+[2024.05.27-17.12.28:476][964]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/MyData0AC6709F44D9CB0B1B118FBFF66D09DC.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Material_for_data/MyData.uasset'
+[2024.05.27-17.12.28:505][964]AssetCheck: New page: 资产保存：MyData
+[2024.05.27-17.12.28:505][964]LogContentValidation: Display: 正在验证Blueprint /Game/User_Interface/Material_for_data/MyData.MyData
