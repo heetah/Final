@@ -881,3 +881,85 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.05.28-15.15.14:816][870]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/DRAW_CARDFDD1B7F74E177F4CC93E0685AFE17DB3.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/DRAW_CARD.uasset'
 [2024.05.28-15.15.14:826][870]AssetCheck: New page: 资产保存：DRAW_CARD
 [2024.05.28-15.15.14:826][870]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/User_Interface/DRAW_CARD.DRAW_CARD
+[2024.05.28-15.16.14:536][204]LogViewport: Scene viewport resized to 1001x1274, mode Windowed.
+[2024.05.28-15.17.08:405][329]LogBlueprintUserMessages: [DRAW_CARD_C_2] FAIL
+[2024.05.28-15.17.25:074][904]LogBlueprintUserMessages: [DRAW_CARD_C_2] FAIL
+[2024.05.28-15.17.37:397][373]LogBlueprintUserMessages: [DRAW_CARD_C_2] FAIL
+[2024.05.28-15.17.46:312][673]LogBlueprintUserMessages: [DRAW_CARD_C_2] FAIL
+[2024.05.28-15.17.53:835][950]LogBlueprintUserMessages: [DRAW_CARD_C_2] FAIL
+[2024.05.28-15.18.02:105][349]LogBlueprintUserMessages: [DRAW_CARD_C_2] FAIL
+[2024.05.28-15.18.16:167][165]LogBlueprintUserMessages: [DRAW_CARD_C_2] FAIL
+[2024.05.28-15.18.21:802][290]LogBlueprintUserMessages: [DRAW_CARD_C_2] FAIL
+[2024.05.28-15.18.33:245][730]LogBlueprintUserMessages: [DRAW_CARD_C_2] FAIL
+[2024.05.28-15.18.35:661][931]LogBlueprintUserMessages: [DRAW_CARD_C_2] FAIL
+[2024.05.28-15.18.46:210][397]LogBlueprintUserMessages: [DRAW_CARD_C_2] FAIL
+[2024.05.28-15.18.58:570][942]LogBlueprintUserMessages: [DRAW_CARD_C_2] FAIL
+[2024.05.28-15.19.04:476][223]LogBlueprintUserMessages: [DRAW_CARD_C_2] FAIL
+[2024.05.28-15.19.11:985][526]LogBlueprintUserMessages: [DRAW_CARD_C_2] FAIL
+[2024.05.28-15.19.22:413][ 74]LogBlueprintUserMessages: [DRAW_CARD_C_2] FAIL
+[2024.05.28-15.19.28:180][324]LogBlueprintUserMessages: [DRAW_CARD_C_2] FAIL
+[2024.05.28-15.19.31:852][552]LogBlueprintUserMessages: [DRAW_CARD_C_2] FAIL
+[2024.05.28-15.19.39:109][912]LogBlueprintUserMessages: [DRAW_CARD_C_2] FAIL
+[2024.05.28-15.19.47:677][294]LogBlueprintUserMessages: [DRAW_CARD_C_2] FAIL
+[2024.05.28-15.19.54:268][450]LogBlueprintUserMessages: [DRAW_CARD_C_2] FAIL
+[2024.05.28-15.20.03:825][910]LogBlueprintUserMessages: [DRAW_CARD_C_2] FAIL
+[2024.05.28-15.20.10:685][200]LogBlueprintUserMessages: [DRAW_CARD_C_2] FAIL
+[2024.05.28-15.20.19:948][704]LogBlueprintUserMessages: [DRAW_CARD_C_2] FAIL
+[2024.05.28-15.20.25:180][869]LogBlueprintUserMessages: [DRAW_CARD_C_2] FAIL
+[2024.05.28-15.20.38:815][543]LogBlueprintUserMessages: [DRAW_CARD_C_2] FAIL
+[2024.05.28-15.20.45:026][909]LogBlueprintUserMessages: [DRAW_CARD_C_2] FAIL
+[2024.05.28-15.20.55:753][462]LogBlueprintUserMessages: [DRAW_CARD_C_2] FAIL
+[2024.05.28-15.20.57:452][660]LogBlueprintUserMessages: [DRAW_CARD_C_2] FAIL
+[2024.05.28-15.21.08:978][ 18]LogBlueprintUserMessages: [DRAW_CARD_C_2] FAIL
+[2024.05.28-15.21.13:141][264]BlueprintLog: New page: 编译DRAW_CARD
+[2024.05.28-15.21.13:264][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.05.28-15.21.18:678][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/User_Interface/DRAW_CARD" FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/DRAW_CARD.uasset" SILENT=true
+[2024.05.28-15.21.18:771][338]LogSavePackage: Moving output files for package: /Game/User_Interface/DRAW_CARD
+[2024.05.28-15.21.18:772][338]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/DRAW_CARD98FD50814F9C17F03AD455B253593593.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/DRAW_CARD.uasset'
+[2024.05.28-15.21.18:828][338]AssetCheck: New page: 资产保存：DRAW_CARD
+[2024.05.28-15.21.18:828][338]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/User_Interface/DRAW_CARD.DRAW_CARD
+[2024.05.28-15.21.20:581][380]LogBlueprintUserMessages: [DRAW_CARD_C_3] FAIL
+[2024.05.28-15.21.24:952][526]LogBlueprintUserMessages: [DRAW_CARD_C_3] FAIL
+[2024.05.28-15.21.27:222][603]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.28-15.22.08:028][232]LogSlate: Took 0.000461 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NotoNaskhArabicUI-Regular.ttf' (144K)
+[2024.05.28-15.22.10:120][327]LogBlueprintUserMessages: [DRAW_CARD_C_3] FAIL
+[2024.05.28-15.22.19:283][695]LogBlueprintUserMessages: [DRAW_CARD_C_3] FAIL
+[2024.05.28-15.22.22:732][851]LogBlueprintUserMessages: [DRAW_CARD_C_3] FAIL
+[2024.05.28-15.22.42:247][642]LogBlueprintUserMessages: [DRAW_CARD_C_3] FAIL
+[2024.05.28-15.22.48:093][896]LogBlueprintUserMessages: [DRAW_CARD_C_3] FAIL
+[2024.05.28-15.22.55:795][234]LogBlueprintUserMessages: [DRAW_CARD_C_3] FAIL
+[2024.05.28-15.23.11:937][960]LogBlueprintUserMessages: [DRAW_CARD_C_3] FAIL
+[2024.05.28-15.23.27:014][583]LogBlueprintUserMessages: [DRAW_CARD_C_3] FAIL
+[2024.05.28-15.23.32:381][819]LogBlueprintUserMessages: [DRAW_CARD_C_3] FAIL
+[2024.05.28-15.23.39:604][154]LogBlueprintUserMessages: [DRAW_CARD_C_3] FAIL
+[2024.05.28-15.23.46:064][444]LogBlueprintUserMessages: [DRAW_CARD_C_3] FAIL
+[2024.05.28-15.23.56:914][999]LogBlueprintUserMessages: [DRAW_CARD_C_3] FAIL
+[2024.05.28-15.24.07:587][550]LogBlueprintUserMessages: [DRAW_CARD_C_3] FAIL
+[2024.05.28-15.24.12:096][778]LogBlueprintUserMessages: [DRAW_CARD_C_3] FAIL
+[2024.05.28-15.24.31:130][725]LogBlueprintUserMessages: [DRAW_CARD_C_3] FAIL
+[2024.05.28-15.24.52:508][793]LogBlueprintUserMessages: [DRAW_CARD_C_3] FAIL
+[2024.05.28-15.24.58:226][112]LogBlueprintUserMessages: [DRAW_CARD_C_3] FAIL
+[2024.05.28-15.25.07:657][614]LogBlueprintUserMessages: [DRAW_CARD_C_3] FAIL
+[2024.05.28-15.25.08:200][652]BlueprintLog: New page: 编译DRAW_CARD
+[2024.05.28-15.25.08:309][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.05.28-15.25.09:759][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/User_Interface/DRAW_CARD" FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/DRAW_CARD.uasset" SILENT=true
+[2024.05.28-15.25.09:906][688]LogSavePackage: Moving output files for package: /Game/User_Interface/DRAW_CARD
+[2024.05.28-15.25.09:908][688]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/DRAW_CARD048F581F4973CFF0C8D051A83ED314E5.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/DRAW_CARD.uasset'
+[2024.05.28-15.25.09:934][688]AssetCheck: New page: 资产保存：DRAW_CARD
+[2024.05.28-15.25.09:935][688]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/User_Interface/DRAW_CARD.DRAW_CARD
+[2024.05.28-15.25.13:051][816]LogBlueprintUserMessages: [DRAW_CARD_C_4] FAIL
+[2024.05.28-15.25.14:741][849]LogBlueprintUserMessages: [DRAW_CARD_C_4] FAIL
+[2024.05.28-15.25.16:909][893]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.05.28-15.25.23:656][936]LogBlueprintUserMessages: [DRAW_CARD_C_4] FAIL
+[2024.05.28-15.25.29:344][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/User_Interface/DRAW_CARD" FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/DRAW_CARD.uasset" SILENT=true
+[2024.05.28-15.25.29:450][969]LogSavePackage: Moving output files for package: /Game/User_Interface/DRAW_CARD
+[2024.05.28-15.25.29:451][969]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/DRAW_CARD21691B5B45C7E9D7E4AB7FB11E46CD3E.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/DRAW_CARD.uasset'
+[2024.05.28-15.25.29:531][969]AssetCheck: New page: 资产保存：DRAW_CARD
+[2024.05.28-15.25.29:531][969]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/User_Interface/DRAW_CARD.DRAW_CARD
+[2024.05.28-15.25.32:637][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/User_Interface/Main" FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.28-15.25.32:718][195]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2024.05.28-15.25.32:729][195]LogSavePackage: Moving output files for package: /Game/User_Interface/Main
+[2024.05.28-15.25.32:730][195]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/MainAEF87AF646CAF5BC9392158B04003BFA.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Main.umap'
+[2024.05.28-15.25.32:783][195]AssetCheck: New page: 资产保存：Main
+[2024.05.28-15.25.32:783][195]LogContentValidation: Display: 正在验证World /Game/User_Interface/Main.Main
+[2024.05.28-15.25.33:097][230]LogViewport: Scene viewport resized to 2032x1283, mode Windowed.
