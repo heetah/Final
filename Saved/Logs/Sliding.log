@@ -3441,3 +3441,759 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.06.01-12.27.08:350][  8]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
 [2024.06.01-12.27.08:381][  8]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
 [2024.06.01-12.27.08:406][  9]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2024.06.01-12.28.23:821][821]LogBlueprint: Warning: [AssetLog] C:\Users\盧孟煜\Documents\GitHub\Final\Content\character\Toast_Knight\character\bp_actor.uasset: [Compiler] 输入操作事件（InputAction Event）为  输入操作Fire  引用了未知操作 'Fire’
+[2024.06.01-12.28.23:821][821]LogBlueprint: Warning: [AssetLog] C:\Users\盧孟煜\Documents\GitHub\Final\Content\character\Toast_Knight\character\bp_actor.uasset: [Compiler] 输入操作事件（InputAction Event）为  输入操作Fire  引用了未知操作 'Fire’
+[2024.06.01-12.28.23:824][821]LogBlueprint: Warning: [AssetLog] C:\Users\盧孟煜\Documents\GitHub\Final\Content\trap\fire\playerui.uasset: [Compiler] “Bp Actor”没有继承“角色”（ 类型转换为 bp_actor 将总是失败）。
+[2024.06.01-12.28.23:832][821]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/character/Toast_Knight/character/bp_actor.bp_actor
+[2024.06.01-12.28.23:832][821]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.28.54:006][276]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.28.54:006][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.28.57:036][436]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/character/Toast_Knight/character/FixedCamera.FixedCamera
+[2024.06.01-12.28.57:036][436]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.28.59:065][517]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.28.59:065][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.29.03:960][702]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/character/Toast_Knight/character/Toast_Knight_bp.Toast_Knight_bp
+[2024.06.01-12.29.03:960][702]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.29.51:681][730]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-12.29.55:011][881]LogAssetEditorSubsystem: Opening Asset editor for MaterialParameterCollection /Game/User_Interface/Material_for_data/TEMP_DATA.TEMP_DATA
+[2024.06.01-12.29.58:223][  4]LogBlueprintUserMessages: [DRAW_CARD_C_1] FAIL
+[2024.06.01-12.30.18:808][827]LogSavePackage: Moving output files for package: /Game/User_Interface/Material_for_data/TEMP_DATA
+[2024.06.01-12.30.18:809][827]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/TEMP_DATAF184382147ED5A7182E2A5B046EE1D0A.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Material_for_data/TEMP_DATA.uasset'
+[2024.06.01-12.30.18:827][827]AssetCheck: New page: 资产保存：TEMP_DATA
+[2024.06.01-12.30.18:827][827]LogContentValidation: Display: 正在验证MaterialParameterCollection /Game/User_Interface/Material_for_data/TEMP_DATA.TEMP_DATA
+[2024.06.01-12.32.16:339][922]BlueprintLog: New page: 编译Toast_Knight_bp
+[2024.06.01-12.32.16:461][922]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2024.06.01-12.32.18:575][  7]LogSavePackage: Moving output files for package: /Game/character/Toast_Knight/character/Toast_Knight_bp
+[2024.06.01-12.32.18:575][  7]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Toast_Knight_bpE21B42254C90DE71F7CF19BAC27A848C.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/character/Toast_Knight/character/Toast_Knight_bp.uasset'
+[2024.06.01-12.32.18:591][  7]AssetCheck: New page: 资产保存：Toast_Knight_bp
+[2024.06.01-12.32.18:591][  7]LogContentValidation: Display: 正在验证Blueprint /Game/character/Toast_Knight/character/Toast_Knight_bp.Toast_Knight_bp
+[2024.06.01-12.32.26:135][306]LogBlueprintUserMessages: [MainMenu_C_2] FAIL
+[2024.06.01-12.32.31:741][520]LogBlueprintUserMessages: [DRAW_CARD_C_2] FAIL
+[2024.06.01-12.32.46:343][163]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.06.01-12.32.46:343][163]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.06.01-12.33.33:061][128]BlueprintLog: New page: 编译GamePlay_UI
+[2024.06.01-12.33.33:149][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.06.01-12.33.34:112][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/User_Interface/GamePlay_UI" FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/GamePlay_UI.uasset" SILENT=true
+[2024.06.01-12.33.34:136][144]LogSavePackage: Moving output files for package: /Game/User_Interface/GamePlay_UI
+[2024.06.01-12.33.34:137][144]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/GamePlay_UIB0DBCDE4434C07D61AD8CEBFF35D0F9F.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/GamePlay_UI.uasset'
+[2024.06.01-12.33.34:221][144]AssetCheck: New page: 资产保存：GamePlay_UI
+[2024.06.01-12.33.34:221][144]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/User_Interface/GamePlay_UI.GamePlay_UI
+[2024.06.01-12.33.36:373][255]LogDebuggerCommands: Repeating last play command: 新建编辑器窗口（PIE）
+[2024.06.01-12.33.36:384][255]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.01-12.33.36:384][255]PIE: New page: PIE会话：Lesson_level_1（2024年6月2日 上午4:33:36）
+[2024.06.01-12.33.36:384][255]LogPlayLevel: Creating play world package: /Game/Level_sort/Lesson/Lesson_level_1/UEDPIE_0_Lesson_level_1
+[2024.06.01-12.33.36:388][255]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003775s)
+[2024.06.01-12.33.36:388][255]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1 to /Game/Level_sort/Lesson/Lesson_level_1/UEDPIE_0_Lesson_level_1.Lesson_level_1 (0.003858s)
+[2024.06.01-12.33.36:388][255]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.01-12.33.36:388][255]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.33.36:388][255]LogAIModule: Creating AISystem for world Lesson_level_1
+[2024.06.01-12.33.36:388][255]LogPlayLevel: PIE: World Init took: (0.000985s)
+[2024.06.01-12.33.36:461][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.06.01-12.33.36:464][255]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.06.01-12.33.36:464][255]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.01-12.33.36:464][255]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.01-12.33.36:464][255]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.01-12.33.36:464][255]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.01-12.33.36:464][255]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.01-12.33.36:464][255]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.06.01-12.33.36:464][255]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.01-12.33.36:464][255]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.01-12.33.36:465][255]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.01-12.33.36:465][255]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.01-12.33.36:465][255]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.01-12.33.36:468][255]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.01-12.33.36:519][255]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.06.01-12.33.36:520][255]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.01-12.33.36:520][255]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.01-12.33.36:520][255]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.01-12.33.36:521][255]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.06.01-12.33.36:521][255]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.06.01-12.33.36:524][255]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.06.01-12.33.36:524][255]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.06.01-12.33.36:524][255]LogInit: FAudioDevice initialized.
+[2024.06.01-12.33.36:524][255]LogAudio: Display: Audio Device (ID: 12) registered with world 'Lesson_level_1'.
+[2024.06.01-12.33.36:715][255]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.01-12.33.36:715][255]LogLoad: Game class is 'Toast_Knight_gamemode_bp_C'
+[2024.06.01-12.33.37:249][255]LogWorld: Bringing World /Game/Level_sort/Lesson/Lesson_level_1/UEDPIE_0_Lesson_level_1.Lesson_level_1 up for play (max tick rate 60) at 2024.06.01-20.33.37
+[2024.06.01-12.33.37:249][255]LogWorld: Bringing up level for play took: 0.533729
+[2024.06.01-12.33.37:252][255]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2024.06.01-12.33.48:600][255]PIE: 登陆的服务器
+[2024.06.01-12.33.48:603][255]PIE: PIE总开始时间：12.221秒。
+[2024.06.01-12.33.48:633][255]LogViewport: Scene viewport resized to 2551x1468, mode Windowed.
+[2024.06.01-12.33.54:582][537]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-12.33.54:677][542]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-12.33.54:783][547]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-12.33.54:870][551]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-12.33.54:985][556]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-12.33.55:092][560]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-12.33.55:167][564]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-12.33.55:270][569]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.01-12.33.55:292][570]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.01-12.33.55:292][570]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 0.0
+[2024.06.01-12.33.58:047][701]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-12.33.58:156][707]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-12.33.58:254][713]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-12.33.58:354][719]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-12.33.58:455][725]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-12.33.58:555][731]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-12.33.58:666][736]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-12.33.58:773][740]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.01-12.33.58:853][743]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.33.58:961][749]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.33.59:060][755]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.33.59:149][760]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.33.59:254][765]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.33.59:355][771]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.33.59:456][777]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.33.59:556][783]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.33.59:621][787]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.33.59:621][787]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 0.0
+[2024.06.01-12.34.02:142][922]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-12.34.02:232][926]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-12.34.02:350][930]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-12.34.02:437][935]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-12.34.02:539][941]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-12.34.02:640][947]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-12.34.02:742][953]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-12.34.02:841][959]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.01-12.34.02:947][965]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.03:040][970]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.03:159][975]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.03:252][979]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.03:343][984]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.03:434][989]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.03:545][993]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.03:650][997]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.03:744][  2]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.03:844][  8]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.03:941][ 13]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.04:031][ 18]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.04:139][ 23]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.04:245][ 28]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.04:349][ 33]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.04:453][ 37]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.04:453][ 37]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 0.0
+[2024.06.01-12.34.09:177][285]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-12.34.09:286][291]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-12.34.09:385][297]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-12.34.09:486][303]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-12.34.09:591][309]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-12.34.09:690][315]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-12.34.09:745][318]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-12.34.09:745][318]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 0.0
+[2024.06.01-12.34.10:591][363]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-12.34.10:683][368]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-12.34.10:783][373]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-12.34.10:881][377]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-12.34.11:013][382]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-12.34.11:104][385]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-12.34.11:190][388]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-12.34.11:290][392]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.01-12.34.11:390][397]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.11:492][402]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.11:580][405]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.11:636][407]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.11:636][407]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 0.0
+[2024.06.01-12.34.13:312][494]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-12.34.13:419][500]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-12.34.13:520][506]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-12.34.13:622][512]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-12.34.13:737][517]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-12.34.13:812][521]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-12.34.13:916][527]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-12.34.14:011][532]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.01-12.34.14:116][538]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.14:223][544]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.14:325][549]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.14:418][552]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.14:527][557]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.14:626][561]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.14:718][565]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.14:817][571]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.14:917][577]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.15:017][583]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.15:119][589]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.15:218][595]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.15:318][601]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.15:408][606]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.15:523][612]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.15:595][616]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.15:595][616]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 0.0
+[2024.06.01-12.34.16:300][656]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-12.34.16:409][662]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-12.34.16:505][666]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-12.34.16:613][672]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-12.34.16:714][677]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-12.34.16:827][682]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-12.34.16:908][685]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-12.34.17:013][690]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.01-12.34.17:081][693]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.01-12.34.18:115][746]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.18:201][750]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.18:289][755]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.18:395][761]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.18:497][767]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.18:597][773]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.18:709][779]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.18:787][783]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.18:893][789]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.18:996][794]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.19:096][798]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.19:193][802]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.19:290][807]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.34.19:290][807]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 0.0
+[2024.06.01-12.34.20:866][891]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-12.34.20:967][897]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-12.34.21:067][903]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-12.34.21:175][909]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-12.34.21:266][914]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-12.34.21:321][917]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-12.34.22:563][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.01-12.34.22:563][975]LogWorld: BeginTearingDown for /Game/Level_sort/Lesson/Lesson_level_1/UEDPIE_0_Lesson_level_1
+[2024.06.01-12.34.22:564][975]LogSlate: Window 'Sliding 预览 [NetMode: Standalone]  （64-bit/SM5）' being destroyed
+[2024.06.01-12.34.22:578][975]LogWorld: UWorld::CleanupWorld for Lesson_level_1, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.34.22:581][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.34.22:603][975]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.01-12.34.22:611][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.34.22:679][975]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.01-12.34.22:680][975]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.06.01-12.34.22:682][975]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.06.01-12.34.22:697][975]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2024.06.01-12.34.22:728][976]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2024.06.01-12.35.07:791][224]BlueprintLog: New page: 编译Toast_Knight_bp
+[2024.06.01-12.35.07:877][224]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.06.01-12.35.08:757][244]LogSavePackage: Moving output files for package: /Game/character/Toast_Knight/character/Toast_Knight_bp
+[2024.06.01-12.35.08:757][244]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Toast_Knight_bp3C9737D64686278587B995AB54AD35E9.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/character/Toast_Knight/character/Toast_Knight_bp.uasset'
+[2024.06.01-12.35.08:820][244]AssetCheck: New page: 资产保存：Toast_Knight_bp
+[2024.06.01-12.35.08:820][244]LogContentValidation: Display: 正在验证Blueprint /Game/character/Toast_Knight/character/Toast_Knight_bp.Toast_Knight_bp
+[2024.06.01-12.35.09:587][281]LogDebuggerCommands: Repeating last play command: 新建编辑器窗口（PIE）
+[2024.06.01-12.35.09:596][281]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.01-12.35.09:596][281]PIE: New page: PIE会话：Lesson_level_1（2024年6月2日 上午4:35:09）
+[2024.06.01-12.35.09:596][281]LogPlayLevel: Creating play world package: /Game/Level_sort/Lesson/Lesson_level_1/UEDPIE_0_Lesson_level_1
+[2024.06.01-12.35.09:599][281]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003310s)
+[2024.06.01-12.35.09:600][281]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1 to /Game/Level_sort/Lesson/Lesson_level_1/UEDPIE_0_Lesson_level_1.Lesson_level_1 (0.003396s)
+[2024.06.01-12.35.09:600][281]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.01-12.35.09:600][281]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.35.09:600][281]LogAIModule: Creating AISystem for world Lesson_level_1
+[2024.06.01-12.35.09:600][281]LogPlayLevel: PIE: World Init took: (0.000853s)
+[2024.06.01-12.35.09:645][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.06.01-12.35.09:647][281]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.06.01-12.35.09:647][281]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.01-12.35.09:647][281]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.01-12.35.09:647][281]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.01-12.35.09:647][281]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.01-12.35.09:647][281]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.01-12.35.09:647][281]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.06.01-12.35.09:647][281]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.01-12.35.09:647][281]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.01-12.35.09:648][281]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.01-12.35.09:648][281]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.01-12.35.09:648][281]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.01-12.35.09:650][281]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.01-12.35.09:696][281]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.06.01-12.35.09:696][281]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.01-12.35.09:697][281]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.01-12.35.09:697][281]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.01-12.35.09:699][281]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.06.01-12.35.09:699][281]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.06.01-12.35.09:701][281]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.06.01-12.35.09:701][281]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.06.01-12.35.09:701][281]LogInit: FAudioDevice initialized.
+[2024.06.01-12.35.09:701][281]LogAudio: Display: Audio Device (ID: 13) registered with world 'Lesson_level_1'.
+[2024.06.01-12.35.09:845][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.01-12.35.09:845][281]LogLoad: Game class is 'Toast_Knight_gamemode_bp_C'
+[2024.06.01-12.35.10:398][281]LogWorld: Bringing World /Game/Level_sort/Lesson/Lesson_level_1/UEDPIE_0_Lesson_level_1.Lesson_level_1 up for play (max tick rate 60) at 2024.06.01-20.35.10
+[2024.06.01-12.35.10:398][281]LogWorld: Bringing up level for play took: 0.552706
+[2024.06.01-12.35.10:400][281]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2024.06.01-12.35.22:427][281]PIE: 登陆的服务器
+[2024.06.01-12.35.22:433][281]PIE: PIE总开始时间：12.837秒。
+[2024.06.01-12.35.22:462][281]LogViewport: Scene viewport resized to 2551x1468, mode Windowed.
+[2024.06.01-12.35.26:186][429]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-12.35.26:299][433]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-12.35.26:385][436]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-12.35.26:485][441]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-12.35.26:600][446]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-12.35.26:671][449]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-12.35.26:672][449]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 0.0
+[2024.06.01-12.35.28:622][529]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-12.35.28:729][535]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-12.35.28:822][540]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-12.35.28:928][545]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-12.35.29:029][551]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-12.35.29:128][557]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-12.35.29:239][561]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-12.35.29:320][564]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.01-12.35.29:439][568]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.35.29:520][571]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.35.29:645][575]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.35.29:740][578]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.35.29:842][581]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.35.29:927][583]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.35.30:044][586]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.35.30:121][589]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.35.30:231][595]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.35.30:334][600]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.35.30:365][602]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.35.30:365][602]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 0.0
+[2024.06.01-12.35.34:517][819]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-12.35.34:618][825]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-12.35.34:618][825]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 0.0
+[2024.06.01-12.35.37:198][958]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-12.35.37:233][960]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-12.35.37:233][960]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 0.0
+[2024.06.01-12.35.39:056][ 44]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-12.35.39:142][ 48]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-12.35.39:255][ 54]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-12.35.39:338][ 59]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-12.35.39:443][ 65]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-12.35.39:546][ 71]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-12.35.39:648][ 77]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-12.35.39:752][ 83]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.01-12.35.39:852][ 88]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.35.39:947][ 93]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.35.40:048][ 99]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.35.40:127][103]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.35.40:127][103]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 0.0
+[2024.06.01-12.35.41:518][166]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 16000.0
+[2024.06.01-12.35.53:685][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.01-12.35.53:686][720]LogWorld: BeginTearingDown for /Game/Level_sort/Lesson/Lesson_level_1/UEDPIE_0_Lesson_level_1
+[2024.06.01-12.35.53:687][720]LogSlate: Window 'Sliding 预览 [NetMode: Standalone]  （64-bit/SM5）' being destroyed
+[2024.06.01-12.35.53:710][720]LogWorld: UWorld::CleanupWorld for Lesson_level_1, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.35.53:713][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.35.53:737][720]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.01-12.35.53:742][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.35.53:811][720]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.01-12.35.53:812][720]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.06.01-12.35.53:815][720]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.06.01-12.35.53:829][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.06.01-12.35.53:846][721]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2024.06.01-12.36.12:118][642]BlueprintLog: New page: 编译Toast_Knight_bp
+[2024.06.01-12.36.12:250][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.06.01-12.36.13:218][663]LogSavePackage: Moving output files for package: /Game/character/Toast_Knight/character/Toast_Knight_bp
+[2024.06.01-12.36.13:219][663]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Toast_Knight_bpC59A43AA465A8D56EF0631B11513E358.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/character/Toast_Knight/character/Toast_Knight_bp.uasset'
+[2024.06.01-12.36.13:246][663]AssetCheck: New page: 资产保存：Toast_Knight_bp
+[2024.06.01-12.36.13:246][663]LogContentValidation: Display: 正在验证Blueprint /Game/character/Toast_Knight/character/Toast_Knight_bp.Toast_Knight_bp
+[2024.06.01-12.36.13:599][683]LogDebuggerCommands: Repeating last play command: 新建编辑器窗口（PIE）
+[2024.06.01-12.36.13:608][683]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.01-12.36.13:608][683]PIE: New page: PIE会话：Lesson_level_1（2024年6月2日 上午4:36:13）
+[2024.06.01-12.36.13:608][683]LogPlayLevel: Creating play world package: /Game/Level_sort/Lesson/Lesson_level_1/UEDPIE_0_Lesson_level_1
+[2024.06.01-12.36.13:612][683]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003481s)
+[2024.06.01-12.36.13:612][683]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1 to /Game/Level_sort/Lesson/Lesson_level_1/UEDPIE_0_Lesson_level_1.Lesson_level_1 (0.003553s)
+[2024.06.01-12.36.13:612][683]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.01-12.36.13:612][683]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.36.13:612][683]LogAIModule: Creating AISystem for world Lesson_level_1
+[2024.06.01-12.36.13:613][683]LogPlayLevel: PIE: World Init took: (0.001008s)
+[2024.06.01-12.36.13:664][683]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.06.01-12.36.13:666][683]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.06.01-12.36.13:666][683]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.01-12.36.13:666][683]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.01-12.36.13:666][683]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.01-12.36.13:666][683]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.01-12.36.13:666][683]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.01-12.36.13:666][683]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.06.01-12.36.13:666][683]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.01-12.36.13:666][683]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.01-12.36.13:666][683]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.01-12.36.13:666][683]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.01-12.36.13:666][683]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.01-12.36.13:669][683]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.01-12.36.13:724][683]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.06.01-12.36.13:724][683]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.01-12.36.13:724][683]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.01-12.36.13:724][683]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.01-12.36.13:725][683]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.06.01-12.36.13:725][683]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.06.01-12.36.13:727][683]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.06.01-12.36.13:727][683]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.06.01-12.36.13:727][683]LogInit: FAudioDevice initialized.
+[2024.06.01-12.36.13:727][683]LogAudio: Display: Audio Device (ID: 14) registered with world 'Lesson_level_1'.
+[2024.06.01-12.36.13:953][683]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.01-12.36.13:953][683]LogLoad: Game class is 'Toast_Knight_gamemode_bp_C'
+[2024.06.01-12.36.14:513][683]LogWorld: Bringing World /Game/Level_sort/Lesson/Lesson_level_1/UEDPIE_0_Lesson_level_1.Lesson_level_1 up for play (max tick rate 60) at 2024.06.01-20.36.14
+[2024.06.01-12.36.14:513][683]LogWorld: Bringing up level for play took: 0.558939
+[2024.06.01-12.36.14:515][683]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2024.06.01-12.36.25:589][683]PIE: 登陆的服务器
+[2024.06.01-12.36.25:593][683]PIE: PIE总开始时间：11.985秒。
+[2024.06.01-12.36.25:616][683]LogViewport: Scene viewport resized to 2551x1468, mode Windowed.
+[2024.06.01-12.36.29:191][866]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-12.36.29:292][872]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-12.36.29:394][878]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-12.36.29:496][884]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-12.36.29:593][890]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-12.36.29:693][896]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-12.36.29:777][901]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-12.36.29:777][901]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 0.0
+[2024.06.01-12.36.31:192][985]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-12.36.31:295][991]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-12.36.31:397][997]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-12.36.31:499][  3]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-12.36.31:597][  9]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-12.36.31:697][ 15]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-12.36.31:796][ 21]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-12.36.31:829][ 23]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-12.36.31:829][ 23]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 0.0
+[2024.06.01-12.36.33:348][113]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-12.36.33:448][119]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-12.36.33:547][125]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-12.36.33:653][131]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-12.36.33:755][137]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-12.36.33:860][143]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-12.36.33:963][149]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-12.36.34:064][155]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.01-12.36.34:152][160]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.36.34:250][166]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.36.34:250][166]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 0.0
+[2024.06.01-12.36.39:468][475]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-12.36.39:568][481]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-12.36.39:669][487]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-12.36.39:767][493]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-12.36.39:868][499]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-12.36.39:969][505]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-12.36.40:072][511]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-12.36.40:180][517]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.01-12.36.40:278][523]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.36.40:294][524]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.36.40:294][524]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 18000.0
+[2024.06.01-12.36.44:667][783]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-12.36.44:768][789]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-12.36.44:868][795]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-12.36.44:969][801]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-12.36.45:069][807]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-12.36.45:169][813]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-12.36.45:267][819]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-12.36.45:367][825]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.01-12.36.45:433][829]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.01-12.36.45:433][829]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 20000.0
+[2024.06.01-12.37.01:630][788]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-12.37.01:731][794]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-12.37.01:836][800]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-12.37.01:936][806]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-12.37.02:038][812]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-12.37.02:137][818]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-12.37.02:242][824]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-12.37.02:313][828]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-12.37.02:313][828]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 20000.0
+[2024.06.01-12.37.04:938][972]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-12.37.05:038][978]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-12.37.05:138][984]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-12.37.05:239][990]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-12.37.05:341][996]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-12.37.05:441][  2]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-12.37.05:472][  4]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-12.37.05:472][  4]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 16000.0
+[2024.06.01-12.37.06:838][ 84]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-12.37.06:939][ 90]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-12.37.07:039][ 96]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-12.37.07:139][102]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-12.37.07:248][108]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-12.37.07:330][113]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-12.37.07:330][113]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 6000.0
+[2024.06.01-12.37.10:983][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.01-12.37.10:983][318]LogWorld: BeginTearingDown for /Game/Level_sort/Lesson/Lesson_level_1/UEDPIE_0_Lesson_level_1
+[2024.06.01-12.37.10:984][318]LogSlate: Window 'Sliding 预览 [NetMode: Standalone]  （64-bit/SM5）' being destroyed
+[2024.06.01-12.37.10:993][318]LogWorld: UWorld::CleanupWorld for Lesson_level_1, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.37.10:998][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.37.11:039][318]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.01-12.37.11:051][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.37.11:134][318]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.06.01-12.37.11:138][318]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.06.01-12.37.11:161][318]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2024.06.01-12.37.11:179][319]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2024.06.01-12.38.52:077][418]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.06.01-12.38.52:077][418]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.06.01-12.39.12:618][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.06.01-12.39.12:813][164]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level_sort/Lesson/Lesson_level_7/Lesson_level_7.Lesson_level_7
+[2024.06.01-12.39.12:814][164]Cmd: MAP LOAD FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Lesson/Lesson_level_7/Lesson_level_7.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.06.01-12.39.12:814][164]LightingResults: New page: 光照构建
+[2024.06.01-12.39.12:814][164]LoadErrors: New page: 正在加载地图：Lesson_level_7.umap
+[2024.06.01-12.39.12:816][164]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.PaperSpriteActor_1.RenderComponent)
+[2024.06.01-12.39.12:817][164]LogWorld: UWorld::CleanupWorld for Lesson_level_1, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.39.12:818][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.39.12:818][164]MapCheck: New page: 地图检测
+[2024.06.01-12.39.12:818][164]LightingResults: New page: 光照构建
+[2024.06.01-12.39.12:873][164]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.01-12.39.12:883][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.06.01-12.39.12:886][164]LogWorld: UWorld::CleanupWorld for Lesson_level_7, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.39.12:886][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.39.12:951][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.06.01-12.39.12:998][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.06.01-12.39.13:010][164]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lesson_level_7'.
+[2024.06.01-12.39.13:010][164]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.01-12.39.13:011][164]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.39.13:011][164]LogAIModule: Creating AISystem for world Lesson_level_7
+[2024.06.01-12.39.13:102][164]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_7/Lesson_level_7.Lesson_level_7:PersistentLevel.bh_start_bp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=12.600 Y=0.000 Z=0.415
+[2024.06.01-12.39.13:102][164]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_7/Lesson_level_7.Lesson_level_7:PersistentLevel.bh_start_bp_C_11.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.440 Y=0.000 Z=0.415
+[2024.06.01-12.39.13:102][164]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_7/Lesson_level_7.Lesson_level_7:PersistentLevel.bh_start_bp_C_12.Box has a component set to zero, which will result in a bad body instance. Scale:X=4.200 Y=0.000 Z=0.415
+[2024.06.01-12.39.13:105][164]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_7/Lesson_level_7.Lesson_level_7:PersistentLevel.bh_start_bp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=12.600 Y=0.000 Z=0.415
+[2024.06.01-12.39.13:105][164]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_7/Lesson_level_7.Lesson_level_7:PersistentLevel.bh_start_bp_C_11.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.440 Y=0.000 Z=0.415
+[2024.06.01-12.39.13:106][164]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_7/Lesson_level_7.Lesson_level_7:PersistentLevel.bh_start_bp_C_12.Box has a component set to zero, which will result in a bad body instance. Scale:X=4.200 Y=0.000 Z=0.415
+[2024.06.01-12.39.13:120][164]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.06.01-12.39.13:173][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.06.01-12.39.13:182][164]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.06.01-12.39.13:182][164]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.144毫秒。
+[2024.06.01-12.39.13:182][164]LogFileHelpers: Loading map 'Lesson_level_7' took 0.369
+[2024.06.01-12.39.15:877][250]LogDebuggerCommands: Repeating last play command: 新建编辑器窗口（PIE）
+[2024.06.01-12.39.15:885][250]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.01-12.39.15:885][250]PIE: New page: PIE会话：Lesson_level_7（2024年6月2日 上午4:39:15）
+[2024.06.01-12.39.15:885][250]LogPlayLevel: Creating play world package: /Game/Level_sort/Lesson/Lesson_level_7/UEDPIE_0_Lesson_level_7
+[2024.06.01-12.39.15:889][250]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003834s)
+[2024.06.01-12.39.15:889][250]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_sort/Lesson/Lesson_level_7/Lesson_level_7.Lesson_level_7 to /Game/Level_sort/Lesson/Lesson_level_7/UEDPIE_0_Lesson_level_7.Lesson_level_7 (0.003902s)
+[2024.06.01-12.39.15:889][250]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.01-12.39.15:889][250]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.39.15:889][250]LogAIModule: Creating AISystem for world Lesson_level_7
+[2024.06.01-12.39.15:890][250]LogPlayLevel: PIE: World Init took: (0.000865s)
+[2024.06.01-12.39.15:935][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.06.01-12.39.15:936][250]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.06.01-12.39.15:937][250]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.01-12.39.15:937][250]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.01-12.39.15:937][250]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.01-12.39.15:937][250]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.01-12.39.15:937][250]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.01-12.39.15:937][250]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.06.01-12.39.15:937][250]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.01-12.39.15:937][250]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.01-12.39.15:937][250]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.01-12.39.15:937][250]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.01-12.39.15:937][250]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.01-12.39.15:940][250]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.01-12.39.16:025][250]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.06.01-12.39.16:025][250]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.01-12.39.16:025][250]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.01-12.39.16:025][250]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.01-12.39.16:026][250]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.06.01-12.39.16:026][250]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.06.01-12.39.16:030][250]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.06.01-12.39.16:031][250]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.06.01-12.39.16:031][250]LogInit: FAudioDevice initialized.
+[2024.06.01-12.39.16:031][250]LogAudio: Display: Audio Device (ID: 15) registered with world 'Lesson_level_7'.
+[2024.06.01-12.39.16:206][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.01-12.39.16:206][250]LogLoad: Game class is 'Toast_Knight_gamemode_bp_C'
+[2024.06.01-12.39.16:315][250]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_7/UEDPIE_0_Lesson_level_7.Lesson_level_7:PersistentLevel.bh_start_bp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=12.600 Y=0.000 Z=0.415
+[2024.06.01-12.39.16:315][250]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_7/UEDPIE_0_Lesson_level_7.Lesson_level_7:PersistentLevel.bh_start_bp_C_11.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.440 Y=0.000 Z=0.415
+[2024.06.01-12.39.16:315][250]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_7/UEDPIE_0_Lesson_level_7.Lesson_level_7:PersistentLevel.bh_start_bp_C_12.Box has a component set to zero, which will result in a bad body instance. Scale:X=4.200 Y=0.000 Z=0.415
+[2024.06.01-12.39.16:315][250]LogWorld: Bringing World /Game/Level_sort/Lesson/Lesson_level_7/UEDPIE_0_Lesson_level_7.Lesson_level_7 up for play (max tick rate 60) at 2024.06.01-20.39.16
+[2024.06.01-12.39.16:315][250]LogWorld: Bringing up level for play took: 0.109451
+[2024.06.01-12.39.16:318][250]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2024.06.01-12.39.16:323][250]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.06.01-12.39.16:328][250]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Toast_Knight_bp_C]
+[2024.06.01-12.39.16:328][250]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type Toast_Knight_bp_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2024.06.01-12.39.19:455][250]PIE: 登陆的服务器
+[2024.06.01-12.39.19:459][250]PIE: PIE总开始时间：3.574秒。
+[2024.06.01-12.39.19:485][250]LogViewport: Scene viewport resized to 2551x1468, mode Windowed.
+[2024.06.01-12.39.22:137][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.01-12.39.22:137][322]LogWorld: BeginTearingDown for /Game/Level_sort/Lesson/Lesson_level_7/UEDPIE_0_Lesson_level_7
+[2024.06.01-12.39.22:138][322]LogSlate: Window 'Sliding 预览 [NetMode: Standalone]  （64-bit/SM5）' being destroyed
+[2024.06.01-12.39.22:191][322]LogWorld: UWorld::CleanupWorld for Lesson_level_7, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.39.22:193][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.39.22:228][322]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.01-12.39.22:238][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.39.22:337][322]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.01-12.39.22:338][322]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.06.01-12.39.22:341][322]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.06.01-12.39.22:367][322]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2024.06.01-12.39.22:401][323]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2024.06.01-12.39.25:560][422]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2024.06.01-12.39.25:780][422]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level_sort/Lesson/Lesson_level_8/Lesson_level_8.Lesson_level_8
+[2024.06.01-12.39.25:780][422]Cmd: MAP LOAD FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Lesson/Lesson_level_8/Lesson_level_8.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.06.01-12.39.25:780][422]LightingResults: New page: 光照构建
+[2024.06.01-12.39.25:780][422]LoadErrors: New page: 正在加载地图：Lesson_level_8.umap
+[2024.06.01-12.39.25:783][422]LogWorld: UWorld::CleanupWorld for Lesson_level_7, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.39.25:783][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.39.25:783][422]MapCheck: New page: 地图检测
+[2024.06.01-12.39.25:783][422]LightingResults: New page: 光照构建
+[2024.06.01-12.39.25:849][422]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.01-12.39.25:854][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.06.01-12.39.25:856][422]LogWorld: UWorld::CleanupWorld for Lesson_level_8, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.39.25:857][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.39.25:905][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.06.01-12.39.25:953][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.06.01-12.39.25:963][422]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lesson_level_8'.
+[2024.06.01-12.39.25:963][422]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.01-12.39.25:963][422]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.39.25:964][422]LogAIModule: Creating AISystem for world Lesson_level_8
+[2024.06.01-12.39.26:053][422]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.06.01-12.39.26:177][422]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2024.06.01-12.39.26:192][422]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.06.01-12.39.26:192][422]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.12毫秒。
+[2024.06.01-12.39.26:192][422]LogFileHelpers: Loading map 'Lesson_level_8' took 0.412
+[2024.06.01-12.39.27:692][461]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.39.27:692][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.39.27:703][461]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.39.27:704][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.39.28:252][475]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.39.28:252][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.39.28:278][475]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.39.28:278][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.39.30:594][547]LogSlate: Window 'STORE' being destroyed
+[2024.06.01-12.39.30:614][547]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.39.30:614][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.39.30:628][547]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.39.30:628][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.39.38:305][954]LogViewport: Scene viewport resized to 961x607, mode Windowed.
+[2024.06.01-12.39.41:140][115]LogDebuggerCommands: Repeating last play command: 新建编辑器窗口（PIE）
+[2024.06.01-12.39.41:151][115]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.01-12.39.41:151][115]PIE: New page: PIE会话：Lesson_level_8（2024年6月2日 上午4:39:41）
+[2024.06.01-12.39.41:151][115]LogPlayLevel: Creating play world package: /Game/Level_sort/Lesson/Lesson_level_8/UEDPIE_0_Lesson_level_8
+[2024.06.01-12.39.41:153][115]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002598s)
+[2024.06.01-12.39.41:153][115]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_sort/Lesson/Lesson_level_8/Lesson_level_8.Lesson_level_8 to /Game/Level_sort/Lesson/Lesson_level_8/UEDPIE_0_Lesson_level_8.Lesson_level_8 (0.002688s)
+[2024.06.01-12.39.41:153][115]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.01-12.39.41:153][115]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.39.41:153][115]LogAIModule: Creating AISystem for world Lesson_level_8
+[2024.06.01-12.39.41:154][115]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2024.06.01-12.39.41:206][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.06.01-12.39.41:218][115]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.06.01-12.39.41:218][115]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.01-12.39.41:218][115]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.01-12.39.41:218][115]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.01-12.39.41:218][115]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.01-12.39.41:218][115]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.01-12.39.41:218][115]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.06.01-12.39.41:218][115]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.01-12.39.41:218][115]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.01-12.39.41:218][115]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.01-12.39.41:218][115]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.01-12.39.41:218][115]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.01-12.39.41:221][115]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.01-12.39.41:289][115]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.06.01-12.39.41:289][115]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.01-12.39.41:289][115]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.01-12.39.41:289][115]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.01-12.39.41:291][115]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.06.01-12.39.41:291][115]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.06.01-12.39.41:292][115]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.06.01-12.39.41:293][115]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.06.01-12.39.41:293][115]LogInit: FAudioDevice initialized.
+[2024.06.01-12.39.41:293][115]LogAudio: Display: Audio Device (ID: 16) registered with world 'Lesson_level_8'.
+[2024.06.01-12.39.41:465][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.01-12.39.41:465][115]LogLoad: Game class is 'Toast_Knight_gamemode_bp_C'
+[2024.06.01-12.39.41:568][115]LogWorld: Bringing World /Game/Level_sort/Lesson/Lesson_level_8/UEDPIE_0_Lesson_level_8.Lesson_level_8 up for play (max tick rate 60) at 2024.06.01-20.39.41
+[2024.06.01-12.39.41:568][115]LogWorld: Bringing up level for play took: 0.103070
+[2024.06.01-12.39.41:571][115]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2024.06.01-12.39.45:052][115]PIE: 登陆的服务器
+[2024.06.01-12.39.45:054][115]PIE: PIE总开始时间：3.906秒。
+[2024.06.01-12.39.45:132][115]LogViewport: Scene viewport resized to 2551x1468, mode Windowed.
+[2024.06.01-12.40.14:444][845]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-12.40.14:544][851]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-12.40.14:644][857]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-12.40.14:743][863]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-12.40.14:844][869]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-12.40.14:892][872]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-12.40.14:892][872]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 6000.0
+[2024.06.01-12.40.19:366][135]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-12.40.19:476][141]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-12.40.19:575][147]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-12.40.19:675][153]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-12.40.19:777][159]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-12.40.19:876][165]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-12.40.19:894][166]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-12.40.19:894][166]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 6000.0
+[2024.06.01-12.40.21:426][255]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-12.40.21:528][261]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-12.40.21:629][267]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-12.40.21:730][273]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-12.40.21:831][279]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-12.40.21:925][285]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-12.40.21:925][285]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] -4000.0
+[2024.06.01-12.40.24:080][412]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-12.40.24:181][418]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-12.40.24:280][424]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-12.40.24:380][430]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-12.40.24:480][436]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-12.40.24:581][442]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-12.40.24:679][448]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-12.40.24:679][448]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 2000.0
+[2024.06.01-12.40.25:612][501]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-12.40.25:718][507]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-12.40.25:799][512]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-12.40.26:815][571]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-12.40.26:916][577]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-12.40.27:015][583]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-12.40.27:115][589]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-12.40.27:216][595]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-12.40.27:229][596]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-12.40.27:229][596]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] -4000.0
+[2024.06.01-12.40.31:909][870]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-12.40.32:010][876]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-12.40.32:110][882]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-12.40.32:211][888]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-12.40.32:310][894]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-12.40.32:410][900]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-12.40.32:509][906]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-12.40.32:610][912]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.01-12.40.32:626][913]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.01-12.40.32:626][913]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 4000.0
+[2024.06.01-12.40.35:233][ 63]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-12.40.35:331][ 69]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-12.40.35:433][ 75]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-12.40.35:464][ 77]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-12.40.35:464][ 77]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 0.0
+[2024.06.01-12.40.38:564][260]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-12.40.38:664][266]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-12.40.38:765][272]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-12.40.38:863][278]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-12.40.38:962][284]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-12.40.39:063][290]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-12.40.39:163][296]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-12.40.39:263][302]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.01-12.40.39:362][308]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.40.39:428][312]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.40.39:428][312]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 0.0
+[2024.06.01-12.40.41:096][411]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-12.40.41:106][412]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-12.40.41:106][412]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 0.0
+[2024.06.01-12.40.42:144][472]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-12.40.42:244][478]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-12.40.42:344][484]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-12.40.42:444][490]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-12.40.42:549][496]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-12.40.42:650][502]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-12.40.42:751][508]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-12.40.42:852][514]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.01-12.40.42:950][520]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.40.43:017][524]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-12.40.43:017][524]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 18000.0
+[2024.06.01-12.40.48:554][854]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-12.40.48:654][860]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-12.40.48:756][866]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-12.40.48:855][872]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-12.40.48:955][878]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-12.40.49:054][884]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-12.40.49:086][886]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-12.40.49:086][886]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 10000.0
+[2024.06.01-12.40.51:476][ 29]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-12.40.51:576][ 35]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-12.40.51:676][ 41]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-12.40.51:776][ 47]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-12.40.51:877][ 53]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-12.40.51:977][ 59]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-12.40.52:077][ 65]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-12.40.52:128][ 68]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-12.40.52:128][ 68]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 10000.0
+[2024.06.01-12.40.53:955][176]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-12.40.54:055][182]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-12.40.54:156][188]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-12.40.54:254][194]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-12.40.54:355][200]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-12.40.54:371][201]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-12.41.00:844][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.01-12.41.00:844][581]LogWorld: BeginTearingDown for /Game/Level_sort/Lesson/Lesson_level_8/UEDPIE_0_Lesson_level_8
+[2024.06.01-12.41.00:846][581]LogSlate: Window 'Sliding 预览 [NetMode: Standalone]  （64-bit/SM5）' being destroyed
+[2024.06.01-12.41.00:864][581]LogWorld: UWorld::CleanupWorld for Lesson_level_8, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.41.00:867][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.41.00:909][581]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.01-12.41.00:924][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.41.00:973][581]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.01-12.41.00:974][581]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.06.01-12.41.00:976][581]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.06.01-12.41.00:986][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.06.01-12.41.01:012][582]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2024.06.01-12.41.01:015][582]LogViewport: Scene viewport resized to 961x607, mode Windowed.
+[2024.06.01-12.41.22:405][762]BlueprintLog: New page: 编译Toast_Knight_bp
+[2024.06.01-12.41.22:488][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.06.01-12.41.27:502][929]LogSavePackage: Moving output files for package: /Game/character/Toast_Knight/character/Toast_Knight_bp
+[2024.06.01-12.41.27:502][929]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Toast_Knight_bpED2632024F18E8E8433A038453BD5419.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/character/Toast_Knight/character/Toast_Knight_bp.uasset'
+[2024.06.01-12.41.27:514][929]AssetCheck: New page: 资产保存：Toast_Knight_bp
+[2024.06.01-12.41.27:514][929]LogContentValidation: Display: 正在验证Blueprint /Game/character/Toast_Knight/character/Toast_Knight_bp.Toast_Knight_bp
