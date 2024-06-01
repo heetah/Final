@@ -4636,3 +4636,275 @@ Scale3D: 1.000000 1.000000 1.000000
 [2024.06.01-13.03.50:660][ 88]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/GamePlay_UI794027E04DDC01A6B3BAD69B62D9BA6E.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/GamePlay_UI.uasset'
 [2024.06.01-13.03.50:671][ 88]AssetCheck: New page: 资产保存：GamePlay_UI
 [2024.06.01-13.03.50:671][ 88]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/User_Interface/GamePlay_UI.GamePlay_UI
+[2024.06.01-13.05.56:716][445]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/User_Interface/Material_for_data/MyData.MyData
+[2024.06.01-13.05.56:716][445]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-13.06.38:881][217]LogSavePackage: Moving output files for package: /Game/User_Interface/Material_for_data/TEMP_DATA
+[2024.06.01-13.06.38:882][217]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/TEMP_DATA923AB9A3404EF4DAF58629A475177FD2.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Material_for_data/TEMP_DATA.uasset'
+[2024.06.01-13.06.38:917][217]AssetCheck: New page: 资产保存：TEMP_DATA
+[2024.06.01-13.06.38:917][217]LogContentValidation: Display: 正在验证MaterialParameterCollection /Game/User_Interface/Material_for_data/TEMP_DATA.TEMP_DATA
+[2024.06.01-13.06.44:040][409]BlueprintLog: New page: 编译Complete_
+[2024.06.01-13.06.44:054][409]LogBlueprint: Error: [AssetLog] C:\Users\盧孟煜\Documents\GitHub\Final\Content\User_Interface\Complete_.uasset: [Compiler] 设置标量参数值  is invalid,  Parameter Name  needs to be set to a parameter.
+[2024.06.01-13.06.44:056][409]LogBlueprint: Error: [AssetLog] C:\Users\盧孟煜\Documents\GitHub\Final\Content\User_Interface\Complete_.uasset: [Compiler] 获取标量参数值  is invalid,  Parameter Name  needs to be set to a parameter.
+[2024.06.01-13.06.44:210][409]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2024.06.01-13.06.53:336][717]BlueprintLog: New page: 编译Complete_
+[2024.06.01-13.06.53:427][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.06.01-13.07.11:743][461]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.15:252][593]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.15:348][594]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.15:393][595]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.15:420][596]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.15:442][597]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.15:476][598]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.15:518][599]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.15:542][600]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.15:570][601]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.15:600][602]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.15:631][603]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.15:663][604]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.15:693][605]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.15:715][606]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.15:734][607]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.15:756][608]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.15:781][609]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.16:082][623]LogBlueprintUserMessages: [DRAW_CARD_C_1] FAIL
+[2024.06.01-13.07.17:700][682]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.17:777][683]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.17:806][684]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.17:834][685]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.17:866][686]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.17:892][687]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.17:918][688]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.17:940][689]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.17:963][690]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.17:991][691]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.18:019][692]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.18:064][693]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.18:082][694]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.18:102][695]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.18:129][696]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.18:152][697]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.19:330][736]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.19:413][737]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.19:444][738]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.19:471][739]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.19:499][740]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.19:531][741]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.19:556][742]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.19:582][743]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.19:699][747]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.19:715][748]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.19:737][749]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.19:761][750]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.19:861][755]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.19:886][756]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.19:917][757]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.19:941][758]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.19:968][759]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.19:999][760]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.20:026][761]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.20:062][762]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.20:085][763]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.20:111][764]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.20:136][765]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.20:163][766]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.20:184][767]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.20:200][768]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.20:218][769]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.20:239][770]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.20:260][771]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.20:494][780]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.20:533][781]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.20:578][782]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.20:618][783]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.20:660][784]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.20:688][785]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.20:723][786]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.20:853][791]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.20:876][792]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.20:901][793]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.20:921][794]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.20:942][795]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.20:963][796]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.20:979][797]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.20:996][798]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.21:015][799]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.21:032][800]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.21:049][801]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.21:068][802]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.21:087][803]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.21:106][804]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.21:125][805]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.21:149][806]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.21:178][807]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.21:219][808]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.21:329][812]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.21:346][813]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.21:368][814]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/User_Interface/MainMenu.MainMenu
+[2024.06.01-13.07.21:369][814]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-13.07.21:383][814]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-13.07.21:700][814]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.06.01-13.07.21:700][814]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.06.01-13.07.21:742][814]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.21:769][814]LogBlueprintUserMessages: [MainMenu_C_0] FAIL
+[2024.06.01-13.07.21:780][815]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.48:661][626]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.48:661][626]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.48:743][629]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.51:229][693]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.51:229][693]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.51:264][694]LogBlueprintUserMessages: [MainMenu_C_1] FAIL
+[2024.06.01-13.07.53:400][761]BlueprintLog: New page: 编译MainMenu
+[2024.06.01-13.07.53:568][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.06.01-13.07.53:621][761]LogBlueprintUserMessages: [MainMenu_C_2] FAIL
+[2024.06.01-13.07.53:622][761]LogBlueprintUserMessages: [MainMenu_C_2] FAIL
+[2024.06.01-13.07.53:801][763]LogBlueprintUserMessages: [MainMenu_C_2] FAIL
+[2024.06.01-13.07.58:979][914]LogBlueprintUserMessages: [MainMenu_C_2] FAIL
+[2024.06.01-13.07.59:028][916]LogBlueprintUserMessages: [MainMenu_C_2] FAIL
+[2024.06.01-13.08.01:381][980]LogBlueprintUserMessages: [MainMenu_C_2] FAIL
+[2024.06.01-13.08.01:411][981]LogBlueprintUserMessages: [MainMenu_C_2] FAIL
+[2024.06.01-13.08.09:275][224]LogBlueprintUserMessages: [MainMenu_C_2] FAIL
+[2024.06.01-13.08.09:276][224]LogBlueprintUserMessages: [MainMenu_C_2] FAIL
+[2024.06.01-13.08.09:276][224]LogBlueprintUserMessages: [MainMenu_C_2] FAIL
+[2024.06.01-13.08.09:277][224]LogBlueprintUserMessages: [MainMenu_C_2] FAIL
+[2024.06.01-13.08.09:422][227]LogBlueprintUserMessages: [MainMenu_C_2] FAIL
+[2024.06.01-13.08.16:301][436]LogBlueprintUserMessages: [MainMenu_C_2] FAIL
+[2024.06.01-13.08.16:302][436]LogBlueprintUserMessages: [MainMenu_C_2] FAIL
+[2024.06.01-13.08.16:302][436]LogBlueprintUserMessages: [MainMenu_C_2] FAIL
+[2024.06.01-13.08.16:407][439]LogBlueprintUserMessages: [MainMenu_C_2] FAIL
+[2024.06.01-13.08.20:658][553]LogBlueprintUserMessages: [MainMenu_C_2] FAIL
+[2024.06.01-13.08.20:659][553]LogBlueprintUserMessages: [MainMenu_C_2] FAIL
+[2024.06.01-13.08.20:744][555]LogBlueprintUserMessages: [MainMenu_C_2] FAIL
+[2024.06.01-13.08.23:798][643]BlueprintLog: New page: 编译MainMenu
+[2024.06.01-13.08.23:963][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.06.01-13.08.24:021][643]LogBlueprintUserMessages: [MainMenu_C_3] FAIL
+[2024.06.01-13.08.24:022][643]LogBlueprintUserMessages: [MainMenu_C_3] FAIL
+[2024.06.01-13.08.24:297][645]LogBlueprintUserMessages: [MainMenu_C_3] FAIL
+[2024.06.01-13.08.25:405][658]LogBlueprintUserMessages: [MainMenu_C_3] FAIL
+[2024.06.01-13.08.25:415][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/User_Interface/MainMenu" FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/MainMenu.uasset" SILENT=true
+[2024.06.01-13.08.25:474][658]LogSavePackage: Moving output files for package: /Game/User_Interface/MainMenu
+[2024.06.01-13.08.25:474][658]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/MainMenu2A8178E94E2F4955367EA3AEACDD59D8.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/MainMenu.uasset'
+[2024.06.01-13.08.25:487][658]AssetCheck: New page: 资产保存：MainMenu
+[2024.06.01-13.08.25:487][658]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/User_Interface/MainMenu.MainMenu
+[2024.06.01-13.08.25:551][660]LogBlueprintUserMessages: [MainMenu_C_3] FAIL
+[2024.06.01-13.09.43:998][579]BlueprintLog: New page: 编译Complete_
+[2024.06.01-13.09.44:019][579]LogBlueprint: Error: [AssetLog] C:\Users\盧孟煜\Documents\GitHub\Final\Content\User_Interface\Complete_.uasset: [Compiler] 此蓝图（自身）并非是一个 MyData_C，因此 ' 目标 ’ 必须拥有一个连接。
+[2024.06.01-13.09.44:021][579]LogBlueprint: Error: [AssetLog] C:\Users\盧孟煜\Documents\GitHub\Final\Content\User_Interface\Complete_.uasset: [Compiler] 变量节点 设置Time 使用一个无效的目标。它可能依赖于一个没有连接到执行链上且已被清除的节点。
+[2024.06.01-13.09.44:127][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.06.01-13.09.45:197][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/User_Interface/Complete_" FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Complete_.uasset" SILENT=true
+[2024.06.01-13.09.45:243][597]LogSavePackage: Moving output files for package: /Game/User_Interface/Complete_
+[2024.06.01-13.09.45:243][597]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Complete_FEADA9F440012187C5DC7EAA58D75470.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Complete_.uasset'
+[2024.06.01-13.09.45:274][597]AssetCheck: New page: 资产保存：Complete_
+[2024.06.01-13.09.45:274][597]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/User_Interface/Complete_.Complete_
+[2024.06.01-13.09.55:847][ 11]BlueprintLog: New page: 编译Complete_
+[2024.06.01-13.09.55:976][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.06.01-13.09.56:932][ 38]LogDebuggerCommands: Repeating last play command: 新建编辑器窗口（PIE）
+[2024.06.01-13.09.56:942][ 38]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.01-13.09.56:943][ 38]PIE: New page: PIE会话：Lesson_level_1（2024年6月2日 上午5:09:56）
+[2024.06.01-13.09.56:944][ 38]LogPlayLevel: Creating play world package: /Game/Level_sort/Lesson/Lesson_level_1/UEDPIE_0_Lesson_level_1
+[2024.06.01-13.09.56:947][ 38]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003684s)
+[2024.06.01-13.09.56:947][ 38]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1 to /Game/Level_sort/Lesson/Lesson_level_1/UEDPIE_0_Lesson_level_1.Lesson_level_1 (0.003761s)
+[2024.06.01-13.09.56:947][ 38]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.01-13.09.56:947][ 38]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-13.09.56:948][ 38]LogAIModule: Creating AISystem for world Lesson_level_1
+[2024.06.01-13.09.56:948][ 38]LogPlayLevel: PIE: World Init took: (0.001077s)
+[2024.06.01-13.09.57:011][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2024.06.01-13.09.57:018][ 38]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.06.01-13.09.57:018][ 38]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.01-13.09.57:018][ 38]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.01-13.09.57:018][ 38]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.01-13.09.57:018][ 38]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.01-13.09.57:018][ 38]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.01-13.09.57:018][ 38]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.06.01-13.09.57:018][ 38]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.01-13.09.57:018][ 38]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.01-13.09.57:019][ 38]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.01-13.09.57:019][ 38]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.01-13.09.57:019][ 38]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.01-13.09.57:022][ 38]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.01-13.09.57:075][ 38]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.06.01-13.09.57:075][ 38]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.01-13.09.57:075][ 38]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.01-13.09.57:075][ 38]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.01-13.09.57:076][ 38]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2024.06.01-13.09.57:076][ 38]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2024.06.01-13.09.57:079][ 38]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2024.06.01-13.09.57:079][ 38]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2024.06.01-13.09.57:079][ 38]LogInit: FAudioDevice initialized.
+[2024.06.01-13.09.57:079][ 38]LogAudio: Display: Audio Device (ID: 20) registered with world 'Lesson_level_1'.
+[2024.06.01-13.09.57:238][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.01-13.09.57:239][ 38]LogLoad: Game class is 'Toast_Knight_gamemode_bp_C'
+[2024.06.01-13.09.57:857][ 38]LogWorld: Bringing World /Game/Level_sort/Lesson/Lesson_level_1/UEDPIE_0_Lesson_level_1.Lesson_level_1 up for play (max tick rate 60) at 2024.06.01-21.09.57
+[2024.06.01-13.09.57:857][ 38]LogWorld: Bringing up level for play took: 0.617832
+[2024.06.01-13.09.57:860][ 38]LogOnline: OSS: Created online subsystem instance for: :Context_78
+[2024.06.01-13.10.09:797][ 38]PIE: 登陆的服务器
+[2024.06.01-13.10.09:805][ 38]PIE: PIE总开始时间：12.862秒。
+[2024.06.01-13.10.09:836][ 38]LogViewport: Scene viewport resized to 2551x1468, mode Windowed.
+[2024.06.01-13.10.20:155][496]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-13.10.20:245][500]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-13.10.20:332][505]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-13.10.20:438][511]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-13.10.20:499][514]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-13.10.20:499][514]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 0.0
+[2024.06.01-13.10.22:785][615]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-13.10.22:905][619]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-13.10.22:996][621]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-13.10.23:063][623]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-13.10.23:168][627]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-13.10.23:270][633]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-13.10.23:380][638]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-13.10.23:456][642]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-13.10.23:456][642]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 0.0
+[2024.06.01-13.10.25:891][764]LogNet: Browse: /Game/User_Interface/Game_MainMenu
+[2024.06.01-13.10.25:891][764]LogLoad: LoadMap: /Game/User_Interface/Game_MainMenu
+[2024.06.01-13.10.25:891][764]LogWorld: BeginTearingDown for /Game/Level_sort/Lesson/Lesson_level_1/UEDPIE_0_Lesson_level_1
+[2024.06.01-13.10.25:892][764]LogWorld: UWorld::CleanupWorld for Lesson_level_1, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-13.10.25:894][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-13.10.26:001][764]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.01-13.10.26:008][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.06.01-13.10.26:039][764]LogAudio: Display: Audio Device (ID: 20) registered with world 'Game_MainMenu'.
+[2024.06.01-13.10.26:039][764]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.01-13.10.26:040][764]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-13.10.26:040][764]LogAIModule: Creating AISystem for world Game_MainMenu
+[2024.06.01-13.10.26:040][764]LogPlayLevel: PIE: World Init took: (0.000722s)
+[2024.06.01-13.10.26:040][764]LogLoad: Game class is 'GameModeBase'
+[2024.06.01-13.10.26:040][764]LogWorld: Bringing World /Game/User_Interface/UEDPIE_0_Game_MainMenu.Game_MainMenu up for play (max tick rate 60) at 2024.06.01-21.10.26
+[2024.06.01-13.10.26:041][764]LogWorld: Bringing up level for play took: 0.000383
+[2024.06.01-13.10.26:041][764]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.06.01-13.10.26:042][764]LogLoad: Took 0.151059 seconds to LoadMap(/Game/User_Interface/Game_MainMenu)
+[2024.06.01-13.10.33:905][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.01-13.10.33:905][ 97]LogWorld: BeginTearingDown for /Game/User_Interface/UEDPIE_0_Game_MainMenu
+[2024.06.01-13.10.33:905][ 97]LogSlate: Window 'Sliding 预览 [NetMode: Standalone]  （64-bit/SM5）' being destroyed
+[2024.06.01-13.10.33:949][ 97]LogWorld: UWorld::CleanupWorld for Game_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-13.10.33:950][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-13.10.33:983][ 97]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.01-13.10.33:990][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-13.10.34:080][ 97]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.01-13.10.34:080][ 97]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.06.01-13.10.34:083][ 97]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.06.01-13.10.34:094][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.06.01-13.10.34:123][ 98]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2024.06.01-13.10.43:019][433]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/User_Interface/FAIL_.FAIL_
+[2024.06.01-13.10.43:019][433]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-13.10.43:034][433]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-13.10.43:340][433]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.06.01-13.10.43:340][433]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.06.01-13.11.15:892][732]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.06.01-13.11.15:892][732]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.06.01-13.12.21:636][210]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.06.01-13.12.21:636][210]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.06.01-13.12.27:574][443]BlueprintLog: New page: 编译FAIL_
+[2024.06.01-13.12.27:665][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.06.01-13.12.31:351][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/User_Interface/FAIL_" FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/FAIL_.uasset" SILENT=true
+[2024.06.01-13.12.31:369][537]LogSavePackage: Moving output files for package: /Game/User_Interface/FAIL_
+[2024.06.01-13.12.31:370][537]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/FAIL_E73AAC7043FB911D1F56B0ACFB6F5C7A.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/FAIL_.uasset'
+[2024.06.01-13.12.31:385][537]AssetCheck: New page: 资产保存：FAIL_
+[2024.06.01-13.12.31:385][537]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/User_Interface/FAIL_.FAIL_
+[2024.06.01-13.12.36:138][715]LogSavePackage: Moving output files for package: /Game/character/Toast_Knight/character/Toast_Knight_bp
+[2024.06.01-13.12.36:138][715]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Toast_Knight_bp9BFF61E7429176E2D7275BB9BA79FD51.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/character/Toast_Knight/character/Toast_Knight_bp.uasset'
+[2024.06.01-13.12.36:168][715]AssetCheck: New page: 资产保存：Toast_Knight_bp
+[2024.06.01-13.12.36:168][715]LogContentValidation: Display: 正在验证Blueprint /Game/character/Toast_Knight/character/Toast_Knight_bp.Toast_Knight_bp
+[2024.06.01-13.12.36:996][759]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-13.12.36:996][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-13.12.38:794][845]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.06.01-13.12.38:794][845]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-13.12.38:794][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
