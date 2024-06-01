@@ -4197,3 +4197,113 @@ Scale3D: 1.000000 1.000000 1.000000
 [2024.06.01-12.41.27:502][929]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Toast_Knight_bpED2632024F18E8E8433A038453BD5419.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/character/Toast_Knight/character/Toast_Knight_bp.uasset'
 [2024.06.01-12.41.27:514][929]AssetCheck: New page: 资产保存：Toast_Knight_bp
 [2024.06.01-12.41.27:514][929]LogContentValidation: Display: 正在验证Blueprint /Game/character/Toast_Knight/character/Toast_Knight_bp.Toast_Knight_bp
+[2024.06.01-12.42.00:165][718]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/User_Interface/Material_for_data/MyData.MyData
+[2024.06.01-12.42.00:166][718]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.42.16:794][448]LogSlate: Took 0.010035 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.06.01-12.42.24:635][795]BlueprintLog: New page: 编译MyData
+[2024.06.01-12.42.24:738][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.06.01-12.42.29:078][  1]BlueprintLog: New page: 编译MyData
+[2024.06.01-12.42.29:187][  1]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2024.06.01-12.42.30:194][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/User_Interface/Material_for_data/MyData" FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Material_for_data/MyData.uasset" SILENT=true
+[2024.06.01-12.42.30:206][ 27]LogSavePackage: Moving output files for package: /Game/User_Interface/Material_for_data/MyData
+[2024.06.01-12.42.30:207][ 27]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/MyDataCF36F75748DDF4CF875B01935110E5F4.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Material_for_data/MyData.uasset'
+[2024.06.01-12.42.30:255][ 27]AssetCheck: New page: 资产保存：MyData
+[2024.06.01-12.42.30:255][ 27]LogContentValidation: Display: 正在验证Blueprint /Game/User_Interface/Material_for_data/MyData.MyData
+[2024.06.01-12.42.36:716][318]LogBlueprintUserMessages: [MainMenu_C_0] FAIL
+[2024.06.01-12.42.39:558][436]LogBlueprintUserMessages: [DRAW_CARD_C_0] FAIL
+[2024.06.01-12.42.41:117][499]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/User_Interface/GamePlay_UI.GamePlay_UI
+[2024.06.01-12.42.41:117][499]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.42.41:129][499]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.42.41:437][499]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.06.01-12.42.41:437][499]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.06.01-12.43.09:676][672]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/User_Interface/Complete_.Complete_
+[2024.06.01-12.43.09:676][672]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.43.09:705][672]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.43.10:010][672]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.06.01-12.43.10:010][672]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.06.01-12.43.46:980][168]LogAssetEditorSubsystem: Opening Asset editor for MaterialParameterCollection /Game/User_Interface/Material_for_data/TEMP_DATA.TEMP_DATA
+[2024.06.01-12.46.11:834][206]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.06.01-12.46.11:834][206]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.06.01-12.46.20:357][577]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.06.01-12.46.20:357][577]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.06.01-12.46.32:447][ 72]BlueprintLog: New page: 编译GamePlay_UI
+[2024.06.01-12.46.32:562][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.06.01-12.46.33:239][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/User_Interface/GamePlay_UI" FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/GamePlay_UI.uasset" SILENT=true
+[2024.06.01-12.46.33:259][ 88]LogSavePackage: Moving output files for package: /Game/User_Interface/GamePlay_UI
+[2024.06.01-12.46.33:260][ 88]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/GamePlay_UIC6EFA39D413F669370615FB53ED57D66.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/GamePlay_UI.uasset'
+[2024.06.01-12.46.33:327][ 88]AssetCheck: New page: 资产保存：GamePlay_UI
+[2024.06.01-12.46.33:327][ 88]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/User_Interface/GamePlay_UI.GamePlay_UI
+[2024.06.01-12.46.34:120][121]LogDebuggerCommands: Repeating last play command: 新建编辑器窗口（PIE）
+[2024.06.01-12.46.34:129][121]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.01-12.46.34:129][121]PIE: New page: PIE会话：Lesson_level_8（2024年6月2日 上午4:46:34）
+[2024.06.01-12.46.34:129][121]LogPlayLevel: Creating play world package: /Game/Level_sort/Lesson/Lesson_level_8/UEDPIE_0_Lesson_level_8
+[2024.06.01-12.46.34:133][121]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003056s)
+[2024.06.01-12.46.34:133][121]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_sort/Lesson/Lesson_level_8/Lesson_level_8.Lesson_level_8 to /Game/Level_sort/Lesson/Lesson_level_8/UEDPIE_0_Lesson_level_8.Lesson_level_8 (0.003135s)
+[2024.06.01-12.46.34:133][121]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.01-12.46.34:133][121]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.46.34:133][121]LogAIModule: Creating AISystem for world Lesson_level_8
+[2024.06.01-12.46.34:134][121]LogPlayLevel: PIE: World Init took: (0.001015s)
+[2024.06.01-12.46.34:184][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.06.01-12.46.34:186][121]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.06.01-12.46.34:186][121]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.01-12.46.34:186][121]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.01-12.46.34:186][121]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.01-12.46.34:186][121]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.01-12.46.34:186][121]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.01-12.46.34:186][121]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.06.01-12.46.34:186][121]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.01-12.46.34:186][121]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.01-12.46.34:186][121]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.01-12.46.34:186][121]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.01-12.46.34:186][121]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.01-12.46.34:189][121]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.01-12.46.34:235][121]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.06.01-12.46.34:235][121]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.01-12.46.34:235][121]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.01-12.46.34:235][121]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.01-12.46.34:236][121]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.06.01-12.46.34:236][121]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2024.06.01-12.46.34:238][121]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.06.01-12.46.34:238][121]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.06.01-12.46.34:238][121]LogInit: FAudioDevice initialized.
+[2024.06.01-12.46.34:238][121]LogAudio: Display: Audio Device (ID: 17) registered with world 'Lesson_level_8'.
+[2024.06.01-12.46.34:415][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.01-12.46.34:415][121]LogLoad: Game class is 'Toast_Knight_gamemode_bp_C'
+[2024.06.01-12.46.34:508][121]LogWorld: Bringing World /Game/Level_sort/Lesson/Lesson_level_8/UEDPIE_0_Lesson_level_8.Lesson_level_8 up for play (max tick rate 60) at 2024.06.01-20.46.34
+[2024.06.01-12.46.34:508][121]LogWorld: Bringing up level for play took: 0.093001
+[2024.06.01-12.46.34:511][121]LogOnline: OSS: Created online subsystem instance for: :Context_67
+[2024.06.01-12.46.37:488][121]PIE: 登陆的服务器
+[2024.06.01-12.46.37:492][121]PIE: PIE总开始时间：3.363秒。
+[2024.06.01-12.46.37:512][121]LogViewport: Scene viewport resized to 2551x1468, mode Windowed.
+[2024.06.01-12.46.39:696][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.01-12.46.39:697][219]LogWorld: BeginTearingDown for /Game/Level_sort/Lesson/Lesson_level_8/UEDPIE_0_Lesson_level_8
+[2024.06.01-12.46.39:697][219]LogSlate: Window 'Sliding 预览 [NetMode: Standalone]  （64-bit/SM5）' being destroyed
+[2024.06.01-12.46.39:723][219]LogWorld: UWorld::CleanupWorld for Lesson_level_8, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.46.39:725][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.46.39:755][219]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.01-12.46.39:760][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.46.39:823][219]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.06.01-12.46.39:825][219]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.06.01-12.46.39:839][219]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2024.06.01-12.46.39:881][220]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2024.06.01-12.46.44:900][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/User_Interface/GamePlay_UI" FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/GamePlay_UI.uasset" SILENT=true
+[2024.06.01-12.46.44:921][414]LogSavePackage: Moving output files for package: /Game/User_Interface/GamePlay_UI
+[2024.06.01-12.46.44:922][414]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/GamePlay_UI208B72DA46A6CA66CC5961A42E787FE3.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/GamePlay_UI.uasset'
+[2024.06.01-12.46.44:933][414]AssetCheck: New page: 资产保存：GamePlay_UI
+[2024.06.01-12.46.44:933][414]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/User_Interface/GamePlay_UI.GamePlay_UI
+[2024.06.01-12.46.46:197][451]LogSlate: Window 'TEMP_DATA' being destroyed
+[2024.06.01-12.46.46:211][451]LogSlate: Window 'TEMP_DATA' being destroyed
+[2024.06.01-12.46.46:220][451]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.46.46:221][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.46.46:295][451]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.46.46:295][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.46.46:318][451]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.46.46:318][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.46.46:388][451]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.46.46:388][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.46.46:396][451]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.46.46:396][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.46.47:857][501]LogSavePackage: Moving output files for package: /Game/character/Toast_Knight/character/Toast_Knight_bp
+[2024.06.01-12.46.47:858][501]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Toast_Knight_bp350E33D1415AF88015AA59AEB0AF8D0F.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/character/Toast_Knight/character/Toast_Knight_bp.uasset'
+[2024.06.01-12.46.47:870][501]AssetCheck: New page: 资产保存：Toast_Knight_bp
+[2024.06.01-12.46.47:870][501]LogContentValidation: Display: 正在验证Blueprint /Game/character/Toast_Knight/character/Toast_Knight_bp.Toast_Knight_bp
