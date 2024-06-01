@@ -951,3 +951,1920 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.06.01-11.32.51:647][816]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/GamePlay_UIFD40638141AE295F47155A88537C7E47.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/GamePlay_UI.uasset'
 [2024.06.01-11.32.51:672][816]AssetCheck: New page: 资产保存：GamePlay_UI
 [2024.06.01-11.32.51:672][816]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/User_Interface/GamePlay_UI.GamePlay_UI
+[2024.06.01-11.33.16:192][ 93]LogBlueprintUserMessages: [MainMenu_C_0] FAIL
+[2024.06.01-11.33.19:024][239]LogBlueprintUserMessages: [DRAW_CARD_C_0] FAIL
+[2024.06.01-11.33.19:339][258]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/User_Interface/Complete_.Complete_
+[2024.06.01-11.33.19:340][258]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-11.33.19:348][258]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-11.33.19:737][258]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.06.01-11.33.19:737][258]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.06.01-11.33.26:368][612]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/User_Interface/Complete_LESSON.Complete_LESSON
+[2024.06.01-11.33.26:370][612]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-11.33.26:377][612]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-11.33.26:661][612]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.06.01-11.33.26:661][612]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.06.01-11.33.32:707][940]LogBlueprintUserMessages: [DRAW_CARD_C_0] FAIL
+[2024.06.01-11.33.40:359][355]LogBlueprint: Warning: [AssetLog] C:\Users\盧孟煜\Documents\GitHub\Final\Content\User_Interface\Complete_.uasset: [Compiler] 粘贴的节点  CustomEvent  与  点击时 (Next_Botton)  冲突，已替换为自定义事件！
+[2024.06.01-11.34.00:186][409]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.06.01-11.34.00:187][409]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.06.01-11.34.36:903][494]LogSavePackage: Moving output files for package: /Game/User_Interface/Material_for_data/TEMP_DATA
+[2024.06.01-11.34.36:903][494]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/TEMP_DATAF48FD5594024D47A54C614B4E3401974.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Material_for_data/TEMP_DATA.uasset'
+[2024.06.01-11.34.36:932][494]AssetCheck: New page: 资产保存：TEMP_DATA
+[2024.06.01-11.34.36:932][494]LogContentValidation: Display: 正在验证MaterialParameterCollection /Game/User_Interface/Material_for_data/TEMP_DATA.TEMP_DATA
+[2024.06.01-11.36.44:237][960]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.Lesson_level_1
+[2024.06.01-11.36.44:237][960]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-11.36.49:487][222]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetMaterialLibrary::SetScalarParameterValue' [元素找不到。]
+[2024.06.01-11.37.06:945][115]BlueprintLog: New page: 编译Lesson_level_1
+[2024.06.01-11.37.07:101][115]LogUObjectHash: Compacting FUObjectHashTables data took  10.39ms
+[2024.06.01-11.37.09:197][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.06.01-11.37.09:208][212]LogSavePackage: Moving output files for package: /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1
+[2024.06.01-11.37.09:209][212]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Lesson_level_1A8FBED5E42CBA9715C45A7BA9F32BD6D.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.umap'
+[2024.06.01-11.37.09:251][212]LogFileHelpers: Saving map 'Lesson_level_1' took 0.115
+[2024.06.01-11.37.09:308][212]AssetCheck: New page: 资产保存：Lesson_level_1
+[2024.06.01-11.37.09:308][212]LogContentValidation: Display: 正在验证World /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1
+[2024.06.01-11.37.16:244][555]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.37.16:244][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.37.16:267][555]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.37.16:267][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.37.25:323][967]LogEditorTransaction: Undo 粘贴剪切板内容
+[2024.06.01-11.40.06:684][677]LogEditorTransaction: Undo 断开节点连接
+[2024.06.01-11.42.28:156][660]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.06.01-11.42.28:156][660]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.06.01-11.42.42:343][275]BlueprintLog: New page: 编译Complete_
+[2024.06.01-11.42.42:496][275]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.06.01-11.42.43:543][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/User_Interface/Complete_" FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Complete_.uasset" SILENT=true
+[2024.06.01-11.42.43:569][298]LogSavePackage: Moving output files for package: /Game/User_Interface/Complete_
+[2024.06.01-11.42.43:570][298]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Complete_31D49C1D48B4535BF217B1864156D4DF.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Complete_.uasset'
+[2024.06.01-11.42.43:585][298]AssetCheck: New page: 资产保存：Complete_
+[2024.06.01-11.42.43:585][298]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/User_Interface/Complete_.Complete_
+[2024.06.01-11.42.53:959][786]LogBlueprintUserMessages: [DRAW_CARD_C_1] FAIL
+[2024.06.01-11.42.55:829][873]BlueprintLog: New page: 编译Complete_
+[2024.06.01-11.42.55:918][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.06.01-11.43.12:520][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.06.01-11.43.13:734][728]LogSlate: Window '保存内容' being destroyed
+[2024.06.01-11.43.14:271][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/User_Interface/Complete_" FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Complete_.uasset" SILENT=true
+[2024.06.01-11.43.14:298][728]LogSavePackage: Moving output files for package: /Game/User_Interface/Complete_
+[2024.06.01-11.43.14:298][728]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Complete_8619F3C249A116DE333C1087AE87F080.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Complete_.uasset'
+[2024.06.01-11.43.14:303][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/User_Interface/Complete_LESSON" FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Complete_LESSON.uasset" SILENT=true
+[2024.06.01-11.43.14:329][728]LogSavePackage: Moving output files for package: /Game/User_Interface/Complete_LESSON
+[2024.06.01-11.43.14:331][728]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Complete_LESSONB6E4C90845696BF2C66F14988AF1D117.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Complete_LESSON.uasset'
+[2024.06.01-11.43.14:335][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/User_Interface/GamePlay_UI" FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/GamePlay_UI.uasset" SILENT=true
+[2024.06.01-11.43.14:357][728]LogSavePackage: Moving output files for package: /Game/User_Interface/GamePlay_UI
+[2024.06.01-11.43.14:358][728]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/GamePlay_UIF9E6F47C433D1DFC6222999ECECDB19E.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/GamePlay_UI.uasset'
+[2024.06.01-11.43.14:847][728]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level_sort/Lesson/Lesson_level_2/Lesson_level_2.Lesson_level_2
+[2024.06.01-11.43.14:847][728]Cmd: MAP LOAD FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Lesson/Lesson_level_2/Lesson_level_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.06.01-11.43.14:847][728]LightingResults: New page: 光照构建
+[2024.06.01-11.43.14:848][728]LoadErrors: New page: 正在加载地图：Lesson_level_2.umap
+[2024.06.01-11.43.14:851][728]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.PaperSpriteActor_1.RenderComponent)
+[2024.06.01-11.43.14:952][728]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.43.14:952][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.43.15:036][728]LogWorld: UWorld::CleanupWorld for Lesson_level_1, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.43.15:036][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.43.15:036][728]MapCheck: New page: 地图检测
+[2024.06.01-11.43.15:036][728]LightingResults: New page: 光照构建
+[2024.06.01-11.43.15:127][728]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.01-11.43.15:141][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.06.01-11.43.15:151][728]LogWorld: UWorld::CleanupWorld for Lesson_level_2, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.43.15:151][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.43.15:217][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.06.01-11.43.15:278][728]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2024.06.01-11.43.15:283][728]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lesson_level_2'.
+[2024.06.01-11.43.15:283][728]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.01-11.43.15:283][728]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-11.43.15:284][728]LogAIModule: Creating AISystem for world Lesson_level_2
+[2024.06.01-11.43.15:377][728]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.06.01-11.43.15:445][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.06.01-11.43.15:453][728]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.06.01-11.43.15:453][728]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.112毫秒。
+[2024.06.01-11.43.15:453][728]LogFileHelpers: Loading map 'Lesson_level_2' took 0.606
+[2024.06.01-11.43.15:474][728]AssetCheck: New page: 资产保存：多个资产
+[2024.06.01-11.43.15:475][728]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/User_Interface/GamePlay_UI.GamePlay_UI
+[2024.06.01-11.43.15:476][728]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/User_Interface/Complete_.Complete_
+[2024.06.01-11.43.15:476][728]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/User_Interface/Complete_LESSON.Complete_LESSON
+[2024.06.01-11.43.21:031][980]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level_sort/Lesson/Lesson_level_2/Lesson_level_2.Lesson_level_2:PersistentLevel.Lesson_level
+[2024.06.01-11.43.21:032][980]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-11.43.31:180][506]BlueprintLog: New page: 编译Lesson_level
+[2024.06.01-11.43.31:241][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.06.01-11.43.32:106][526]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2024.06.01-11.43.32:117][526]LogSavePackage: Moving output files for package: /Game/Level_sort/Lesson/Lesson_level_2/Lesson_level_2
+[2024.06.01-11.43.32:118][526]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Lesson_level_2949B525149BA846E86D4C09C77EA68C1.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Lesson/Lesson_level_2/Lesson_level_2.umap'
+[2024.06.01-11.43.32:137][526]LogFileHelpers: Saving map 'Lesson_level_2' took 0.102
+[2024.06.01-11.43.32:156][526]AssetCheck: New page: 资产保存：Lesson_level_2
+[2024.06.01-11.43.32:156][526]LogContentValidation: Display: 正在验证World /Game/Level_sort/Lesson/Lesson_level_2/Lesson_level_2.Lesson_level_2
+[2024.06.01-11.43.35:143][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.06.01-11.43.35:437][671]LogTexture: Display: 正在构建纹理：/Game/OtherContent/Materials/brick_2.brick_2 （BGRA8, 32X32 X1X1）（预计所需内存：0.019531 MB），编码速度：Fast
+[2024.06.01-11.43.35:463][671]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level_sort/Lesson/Lesson_level_3/Lesson_level_3.Lesson_level_3
+[2024.06.01-11.43.35:464][671]Cmd: MAP LOAD FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Lesson/Lesson_level_3/Lesson_level_3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.06.01-11.43.35:464][671]LightingResults: New page: 光照构建
+[2024.06.01-11.43.35:464][671]LoadErrors: New page: 正在加载地图：Lesson_level_3.umap
+[2024.06.01-11.43.35:561][671]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.43.35:562][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.43.35:614][671]LogWorld: UWorld::CleanupWorld for Lesson_level_2, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.43.35:614][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.43.35:614][671]MapCheck: New page: 地图检测
+[2024.06.01-11.43.35:614][671]LightingResults: New page: 光照构建
+[2024.06.01-11.43.35:719][671]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.01-11.43.35:728][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.06.01-11.43.35:737][671]LogWorld: UWorld::CleanupWorld for Lesson_level_3, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.43.35:737][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.43.35:807][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.06.01-11.43.35:869][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2024.06.01-11.43.35:878][671]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lesson_level_3'.
+[2024.06.01-11.43.35:879][671]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.01-11.43.35:879][671]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-11.43.35:879][671]LogAIModule: Creating AISystem for world Lesson_level_3
+[2024.06.01-11.43.36:022][671]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.06.01-11.43.36:079][671]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.06.01-11.43.36:087][671]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.06.01-11.43.36:087][671]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.115毫秒。
+[2024.06.01-11.43.36:087][671]LogFileHelpers: Loading map 'Lesson_level_3' took 0.624
+[2024.06.01-11.43.43:351][ 13]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level_sort/Lesson/Lesson_level_3/Lesson_level_3.Lesson_level_3:PersistentLevel.Lesson_level
+[2024.06.01-11.43.43:352][ 13]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-11.43.53:446][547]BlueprintLog: New page: 编译Lesson_level
+[2024.06.01-11.43.53:497][547]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2024.06.01-11.43.54:373][568]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2024.06.01-11.43.54:387][568]LogSavePackage: Moving output files for package: /Game/Level_sort/Lesson/Lesson_level_3/Lesson_level_3
+[2024.06.01-11.43.54:387][568]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Lesson_level_35F1B65DF4C1478BED02B5CA7E92FCCFD.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Lesson/Lesson_level_3/Lesson_level_3.umap'
+[2024.06.01-11.43.54:420][568]LogFileHelpers: Saving map 'Lesson_level_3' took 0.098
+[2024.06.01-11.43.54:439][568]AssetCheck: New page: 资产保存：Lesson_level_3
+[2024.06.01-11.43.54:439][568]LogContentValidation: Display: 正在验证World /Game/Level_sort/Lesson/Lesson_level_3/Lesson_level_3.Lesson_level_3
+[2024.06.01-11.43.58:373][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.06.01-11.43.58:778][773]LogTexture: Display: 正在构建纹理：/Game/OtherContent/Materials/damaged_brick_4.damaged_brick_4 （BGRA8, 32X32 X1X1）（预计所需内存：0.019531 MB），编码速度：Fast
+[2024.06.01-11.43.58:805][773]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level_sort/Lesson/Lesson_level_4/Lesson_level_4.Lesson_level_4
+[2024.06.01-11.43.58:805][773]Cmd: MAP LOAD FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Lesson/Lesson_level_4/Lesson_level_4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.06.01-11.43.58:805][773]LightingResults: New page: 光照构建
+[2024.06.01-11.43.58:805][773]LoadErrors: New page: 正在加载地图：Lesson_level_4.umap
+[2024.06.01-11.43.58:884][773]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.43.58:884][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.43.58:938][773]LogWorld: UWorld::CleanupWorld for Lesson_level_3, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.43.58:939][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.43.58:939][773]MapCheck: New page: 地图检测
+[2024.06.01-11.43.58:939][773]LightingResults: New page: 光照构建
+[2024.06.01-11.43.59:028][773]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.01-11.43.59:038][773]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2024.06.01-11.43.59:046][773]LogWorld: UWorld::CleanupWorld for Lesson_level_4, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.43.59:046][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.43.59:093][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.06.01-11.43.59:152][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.06.01-11.43.59:166][773]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lesson_level_4'.
+[2024.06.01-11.43.59:166][773]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.01-11.43.59:166][773]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-11.43.59:166][773]LogAIModule: Creating AISystem for world Lesson_level_4
+[2024.06.01-11.43.59:252][773]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_4/Lesson_level_4.Lesson_level_4:PersistentLevel.blackholeblue_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.900 Y=0.000 Z=0.900
+[2024.06.01-11.43.59:252][773]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_4/Lesson_level_4.Lesson_level_4:PersistentLevel.blackholeblue_C_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.900 Y=0.000 Z=0.900
+[2024.06.01-11.43.59:254][773]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_4/Lesson_level_4.Lesson_level_4:PersistentLevel.blackholeblue_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.900 Y=0.000 Z=0.900
+[2024.06.01-11.43.59:255][773]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_4/Lesson_level_4.Lesson_level_4:PersistentLevel.blackholeblue_C_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.900 Y=0.000 Z=0.900
+[2024.06.01-11.43.59:289][773]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.06.01-11.43.59:346][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.06.01-11.43.59:354][773]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.06.01-11.43.59:355][773]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.111毫秒。
+[2024.06.01-11.43.59:355][773]LogFileHelpers: Loading map 'Lesson_level_4' took 0.549
+[2024.06.01-11.44.03:455][967]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level_sort/Lesson/Lesson_level_4/Lesson_level_4.Lesson_level_4:PersistentLevel.Lesson_level_4
+[2024.06.01-11.44.03:456][967]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-11.44.24:957][ 97]LogEditorTransaction: Undo 删除当前选项
+[2024.06.01-11.44.54:855][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.06.01-11.44.56:235][722]LogSlate: Window '保存内容' being destroyed
+[2024.06.01-11.44.56:639][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.06.01-11.44.56:658][722]LogSavePackage: Moving output files for package: /Game/Level_sort/Lesson/Lesson_level_4/Lesson_level_4
+[2024.06.01-11.44.56:658][722]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Lesson_level_459C08C5A4B83DCD37D82EA9B2DDCDC69.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Lesson/Lesson_level_4/Lesson_level_4.umap'
+[2024.06.01-11.44.56:694][722]LogFileHelpers: Saving map 'Lesson_level_4' took 0.131
+[2024.06.01-11.44.56:972][722]LogLinker: Warning: [AssetLog] C:\Users\盧孟煜\Documents\GitHub\Final\Content\trap\convaybelt\conveyorblue.uasset: 未能加载“{FileName}”：无法找到文件。
+[2024.06.01-11.44.56:972][722]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/trap/convaybelt/conveyor'
+[2024.06.01-11.44.57:148][722]LogTexture: Display: 正在构建纹理：/Game/trap/diamond/DIAMOND_WITE.DIAMOND_WITE （BGRA8, 88X80 X1X1）（预计所需内存：0.134277 MB），编码速度：Fast
+[2024.06.01-11.44.57:148][722]LogTexture: Display: 正在构建纹理：/Game/trap/convaybelt/conveyor_belt.conveyor_belt （BGRA8, 847X54 X1X1）（预计所需内存：0.872383 MB），编码速度：Fast
+[2024.06.01-11.44.57:148][722]LogTexture: Display: 正在构建纹理：/Game/OtherContent/Maps_img/map_2.map_2 （BGRA8, 2688X1451 X1X1）（预计所需内存：74.39209 MB），编码速度：Fast
+[2024.06.01-11.44.57:185][722]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level_sort/Lesson/Lesson_level_5/Lesson_level_5.Lesson_level_5
+[2024.06.01-11.44.57:185][722]Cmd: MAP LOAD FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Lesson/Lesson_level_5/Lesson_level_5.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.06.01-11.44.57:185][722]LightingResults: New page: 光照构建
+[2024.06.01-11.44.57:185][722]LoadErrors: New page: 正在加载地图：Lesson_level_5.umap
+[2024.06.01-11.44.57:271][722]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.44.57:271][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.44.57:298][722]LogWorld: UWorld::CleanupWorld for Lesson_level_4, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.44.57:298][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.44.57:298][722]MapCheck: New page: 地图检测
+[2024.06.01-11.44.57:298][722]LightingResults: New page: 光照构建
+[2024.06.01-11.44.57:344][722]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.01-11.44.57:354][722]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2024.06.01-11.44.57:364][722]LogWorld: UWorld::CleanupWorld for Lesson_level_5, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.44.57:364][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.44.57:454][722]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2024.06.01-11.44.57:523][722]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2024.06.01-11.44.57:537][722]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lesson_level_5'.
+[2024.06.01-11.44.57:537][722]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.01-11.44.57:537][722]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-11.44.57:537][722]LogAIModule: Creating AISystem for world Lesson_level_5
+[2024.06.01-11.44.57:629][722]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_5/Lesson_level_5.Lesson_level_5:PersistentLevel.conveyorblue_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.100 Y=0.000 Z=0.500
+[2024.06.01-11.44.57:635][722]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_5/Lesson_level_5.Lesson_level_5:PersistentLevel.conveyorblue_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.100 Y=0.000 Z=0.500
+[2024.06.01-11.44.57:666][722]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.06.01-11.44.57:728][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.06.01-11.44.57:737][722]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.06.01-11.44.57:737][722]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.11毫秒。
+[2024.06.01-11.44.57:737][722]LogFileHelpers: Loading map 'Lesson_level_5' took 0.552
+[2024.06.01-11.44.57:761][722]AssetCheck: New page: 资产保存：Lesson_level_4
+[2024.06.01-11.44.57:761][722]LogContentValidation: Display: 正在验证World /Game/Level_sort/Lesson/Lesson_level_4/Lesson_level_4.Lesson_level_4
+[2024.06.01-11.45.03:717][  4]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level_sort/Lesson/Lesson_level_5/Lesson_level_5.Lesson_level_5:PersistentLevel.Lesson_level
+[2024.06.01-11.45.03:717][  4]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-11.45.13:160][485]BlueprintLog: New page: 编译Lesson_level
+[2024.06.01-11.45.13:228][485]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2024.06.01-11.45.17:469][706]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Level_sort/Lesson/Lesson_level_1/EndGameTrigger_2.EndGameTrigger_2
+[2024.06.01-11.45.17:469][706]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-11.45.20:776][864]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.06.01-11.45.29:843][330]BlueprintLog: New page: 编译EndGameTrigger_2
+[2024.06.01-11.45.29:928][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.06.01-11.45.30:783][350]LogSavePackage: Moving output files for package: /Game/Level_sort/Lesson/Lesson_level_1/EndGameTrigger_2
+[2024.06.01-11.45.30:784][350]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/EndGameTrigger_29C64A18A485EACD61BDC22AF29763C0D.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Lesson/Lesson_level_1/EndGameTrigger_2.uasset'
+[2024.06.01-11.45.30:811][350]AssetCheck: New page: 资产保存：EndGameTrigger_2
+[2024.06.01-11.45.30:811][350]LogContentValidation: Display: 正在验证Blueprint /Game/Level_sort/Lesson/Lesson_level_1/EndGameTrigger_2.EndGameTrigger_2
+[2024.06.01-11.45.33:438][500]LogDebuggerCommands: Repeating last play command: 新建编辑器窗口（PIE）
+[2024.06.01-11.45.33:446][500]BlueprintLog: New page: 运行前自动重新编译
+[2024.06.01-11.45.33:449][500]LogPlayLevel: [PlayLevel] Compiling GamePlay_UI before play...
+[2024.06.01-11.45.33:500][500]LogPlayLevel: [PlayLevel] Compiling Complete_LESSON before play...
+[2024.06.01-11.45.33:560][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.06.01-11.45.33:561][500]LogPlayLevel: PlayLevel: Blueprint regeneration took 114 ms (2 blueprints)
+[2024.06.01-11.45.33:561][500]PIE: New page: PIE会话：Lesson_level_5（2024年6月2日 上午3:45:33）
+[2024.06.01-11.45.33:561][500]LogPlayLevel: Creating play world package: /Game/Level_sort/Lesson/Lesson_level_5/UEDPIE_0_Lesson_level_5
+[2024.06.01-11.45.33:568][500]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006680s)
+[2024.06.01-11.45.33:568][500]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_sort/Lesson/Lesson_level_5/Lesson_level_5.Lesson_level_5 to /Game/Level_sort/Lesson/Lesson_level_5/UEDPIE_0_Lesson_level_5.Lesson_level_5 (0.006745s)
+[2024.06.01-11.45.33:568][500]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.01-11.45.33:568][500]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-11.45.33:568][500]LogAIModule: Creating AISystem for world Lesson_level_5
+[2024.06.01-11.45.33:569][500]LogPlayLevel: PIE: World Init took: (0.000768s)
+[2024.06.01-11.45.33:613][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.06.01-11.45.33:614][500]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.06.01-11.45.33:614][500]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.01-11.45.33:614][500]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.01-11.45.33:614][500]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.01-11.45.33:614][500]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.01-11.45.33:614][500]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.01-11.45.33:614][500]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.06.01-11.45.33:614][500]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.01-11.45.33:614][500]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.01-11.45.33:615][500]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.01-11.45.33:615][500]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.01-11.45.33:615][500]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.01-11.45.33:617][500]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.01-11.45.33:668][500]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.06.01-11.45.33:668][500]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.01-11.45.33:668][500]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.01-11.45.33:668][500]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.01-11.45.33:671][500]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.06.01-11.45.33:671][500]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.06.01-11.45.33:673][500]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.06.01-11.45.33:673][500]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.06.01-11.45.33:673][500]LogInit: FAudioDevice initialized.
+[2024.06.01-11.45.33:673][500]LogAudio: Display: Audio Device (ID: 4) registered with world 'Lesson_level_5'.
+[2024.06.01-11.45.33:869][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.01-11.45.33:870][500]LogLoad: Game class is 'YinYung_GM_C'
+[2024.06.01-11.45.33:967][500]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_5/UEDPIE_0_Lesson_level_5.Lesson_level_5:PersistentLevel.conveyorblue_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.100 Y=0.000 Z=0.500
+[2024.06.01-11.45.33:968][500]LogWorld: Bringing World /Game/Level_sort/Lesson/Lesson_level_5/UEDPIE_0_Lesson_level_5.Lesson_level_5 up for play (max tick rate 60) at 2024.06.01-19.45.33
+[2024.06.01-11.45.33:968][500]LogWorld: Bringing up level for play took: 0.098082
+[2024.06.01-11.45.33:972][500]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2024.06.01-11.45.37:529][500]PIE: 登陆的服务器
+[2024.06.01-11.45.37:530][500]PIE: PIE总开始时间：4.084秒。
+[2024.06.01-11.45.37:548][500]LogViewport: Scene viewport resized to 1920x1020, mode Windowed.
+[2024.06.01-11.45.40:262][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.01-11.45.40:262][632]LogWorld: BeginTearingDown for /Game/Level_sort/Lesson/Lesson_level_5/UEDPIE_0_Lesson_level_5
+[2024.06.01-11.45.40:262][632]LogSlate: Window 'Sliding 预览 [NetMode: Standalone]  （64-bit/SM5）' being destroyed
+[2024.06.01-11.45.40:272][632]LogWorld: UWorld::CleanupWorld for Lesson_level_5, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.45.40:273][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.45.40:296][632]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.01-11.45.40:307][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.45.40:377][632]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.06.01-11.45.40:379][632]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.06.01-11.45.40:395][632]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.06.01-11.45.40:419][633]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.06.01-11.45.44:319][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.06.01-11.45.45:873][815]LogSlate: Window '保存内容' being destroyed
+[2024.06.01-11.45.46:197][815]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-11.45.46:281][815]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_4/Lesson_level_4.Lesson_level_4:PersistentLevel.blackholeblue_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.900 Y=0.000 Z=0.900
+[2024.06.01-11.45.46:281][815]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_4/Lesson_level_4.Lesson_level_4:PersistentLevel.blackholeblue_C_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.900 Y=0.000 Z=0.900
+[2024.06.01-11.45.46:283][815]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_4/Lesson_level_4.Lesson_level_4:PersistentLevel.blackholeblue_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.900 Y=0.000 Z=0.900
+[2024.06.01-11.45.46:284][815]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_4/Lesson_level_4.Lesson_level_4:PersistentLevel.blackholeblue_C_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.900 Y=0.000 Z=0.900
+[2024.06.01-11.45.46:335][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.06.01-11.45.46:351][815]LogSavePackage: Moving output files for package: /Game/Level_sort/Lesson/Lesson_level_4/Lesson_level_4
+[2024.06.01-11.45.46:351][815]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Lesson_level_4FB740DB345FCBDDAAF9A2DBC556B24F3.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Lesson/Lesson_level_4/Lesson_level_4.umap'
+[2024.06.01-11.45.46:397][815]LogFileHelpers: Saving map 'Lesson_level_4' took 0.201
+[2024.06.01-11.45.46:457][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.06.01-11.45.46:476][815]LogSavePackage: Moving output files for package: /Game/Level_sort/Lesson/Lesson_level_5/Lesson_level_5
+[2024.06.01-11.45.46:476][815]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Lesson_level_5F00FE9FA44D6D823F85D738EDD3DB53E.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Lesson/Lesson_level_5/Lesson_level_5.umap'
+[2024.06.01-11.45.46:503][815]LogFileHelpers: Saving map 'Lesson_level_5' took 0.106
+[2024.06.01-11.45.46:752][815]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1
+[2024.06.01-11.45.46:753][815]Cmd: MAP LOAD FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.06.01-11.45.46:753][815]LightingResults: New page: 光照构建
+[2024.06.01-11.45.46:753][815]LoadErrors: New page: 正在加载地图：Lesson_level_1.umap
+[2024.06.01-11.45.46:912][815]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.45.46:913][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.45.46:969][815]LogWorld: UWorld::CleanupWorld for Lesson_level_5, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.45.46:970][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.45.46:970][815]MapCheck: New page: 地图检测
+[2024.06.01-11.45.46:970][815]LightingResults: New page: 光照构建
+[2024.06.01-11.45.47:034][815]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.01-11.45.47:042][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.06.01-11.45.47:052][815]LogWorld: UWorld::CleanupWorld for Lesson_level_4, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.45.47:053][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.45.47:054][815]LogWorld: UWorld::CleanupWorld for Lesson_level_1, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.45.47:054][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.45.47:127][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.06.01-11.45.47:172][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.06.01-11.45.47:184][815]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lesson_level_1'.
+[2024.06.01-11.45.47:184][815]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.01-11.45.47:184][815]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-11.45.47:184][815]LogAIModule: Creating AISystem for world Lesson_level_1
+[2024.06.01-11.45.47:690][815]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.06.01-11.45.47:742][815]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2024.06.01-11.45.47:751][815]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.06.01-11.45.47:751][815]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.118毫秒。
+[2024.06.01-11.45.47:751][815]LogFileHelpers: Loading map 'Lesson_level_1' took 0.999
+[2024.06.01-11.45.47:781][815]AssetCheck: New page: 资产保存：多个资产
+[2024.06.01-11.45.47:781][815]LogContentValidation: Display: 正在验证World /Game/Level_sort/Lesson/Lesson_level_4/Lesson_level_4.Lesson_level_4
+[2024.06.01-11.45.47:833][815]LogContentValidation: Display: 正在验证World /Game/Level_sort/Lesson/Lesson_level_5/Lesson_level_5.Lesson_level_5
+[2024.06.01-11.46.54:693][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.06.01-11.46.56:049][244]LogSlate: Window '保存内容' being destroyed
+[2024.06.01-11.46.56:572][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/User_Interface/GamePlay_UI" FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/GamePlay_UI.uasset" SILENT=true
+[2024.06.01-11.46.56:594][244]LogSavePackage: Moving output files for package: /Game/User_Interface/GamePlay_UI
+[2024.06.01-11.46.56:595][244]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/GamePlay_UI223AFF1241DBF0D9DE86CF9E9E6DA757.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/GamePlay_UI.uasset'
+[2024.06.01-11.46.56:604][244]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1
+[2024.06.01-11.46.56:604][244]Cmd: MAP LOAD FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.06.01-11.46.56:604][244]LightingResults: New page: 光照构建
+[2024.06.01-11.46.56:604][244]LoadErrors: New page: 正在加载地图：Lesson_level_1.umap
+[2024.06.01-11.46.56:605][244]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.PaperSpriteActor_1.RenderComponent)
+[2024.06.01-11.46.56:607][244]LogWorld: UWorld::CleanupWorld for Lesson_level_1, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.46.56:607][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.46.56:607][244]MapCheck: New page: 地图检测
+[2024.06.01-11.46.56:607][244]LightingResults: New page: 光照构建
+[2024.06.01-11.46.56:694][244]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.01-11.46.56:699][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.06.01-11.46.56:702][244]LogWorld: UWorld::CleanupWorld for Lesson_level_5, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.46.56:702][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.46.56:704][244]LogWorld: UWorld::CleanupWorld for Lesson_level_4, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.46.56:704][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.46.56:757][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.06.01-11.46.56:801][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.06.01-11.46.56:815][244]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lesson_level_1'.
+[2024.06.01-11.46.56:815][244]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.01-11.46.56:815][244]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-11.46.56:816][244]LogAIModule: Creating AISystem for world Lesson_level_1
+[2024.06.01-11.46.57:386][244]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.06.01-11.46.57:446][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.06.01-11.46.57:454][244]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.06.01-11.46.57:455][244]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.114毫秒。
+[2024.06.01-11.46.57:455][244]LogFileHelpers: Loading map 'Lesson_level_1' took 0.851
+[2024.06.01-11.46.57:466][244]AssetCheck: New page: 资产保存：GamePlay_UI
+[2024.06.01-11.46.57:466][244]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/User_Interface/GamePlay_UI.GamePlay_UI
+[2024.06.01-11.46.57:726][247]LogDebuggerCommands: Repeating last play command: 新建编辑器窗口（PIE）
+[2024.06.01-11.46.57:745][247]BlueprintLog: New page: 运行前自动重新编译
+[2024.06.01-11.46.57:747][247]LogPlayLevel: [PlayLevel] Compiling GamePlay_UI before play...
+[2024.06.01-11.46.57:853][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.06.01-11.46.57:856][247]LogPlayLevel: PlayLevel: Blueprint regeneration took 110 ms (1 blueprints)
+[2024.06.01-11.46.57:856][247]PIE: New page: PIE会话：Lesson_level_1（2024年6月2日 上午3:46:57）
+[2024.06.01-11.46.57:856][247]LogPlayLevel: Creating play world package: /Game/Level_sort/Lesson/Lesson_level_1/UEDPIE_0_Lesson_level_1
+[2024.06.01-11.46.57:859][247]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003371s)
+[2024.06.01-11.46.57:859][247]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1 to /Game/Level_sort/Lesson/Lesson_level_1/UEDPIE_0_Lesson_level_1.Lesson_level_1 (0.003457s)
+[2024.06.01-11.46.57:859][247]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.01-11.46.57:859][247]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-11.46.57:860][247]LogAIModule: Creating AISystem for world Lesson_level_1
+[2024.06.01-11.46.57:860][247]LogPlayLevel: PIE: World Init took: (0.000862s)
+[2024.06.01-11.46.57:930][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.06.01-11.46.57:931][247]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.06.01-11.46.57:931][247]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.01-11.46.57:931][247]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.01-11.46.57:931][247]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.01-11.46.57:931][247]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.01-11.46.57:931][247]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.01-11.46.57:931][247]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.06.01-11.46.57:931][247]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.01-11.46.57:931][247]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.01-11.46.57:932][247]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.01-11.46.57:932][247]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.01-11.46.57:932][247]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.01-11.46.57:934][247]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.01-11.46.57:981][247]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.06.01-11.46.57:981][247]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.01-11.46.57:981][247]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.01-11.46.57:981][247]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.01-11.46.57:981][247]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.06.01-11.46.57:981][247]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.06.01-11.46.57:984][247]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.06.01-11.46.57:984][247]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.06.01-11.46.57:984][247]LogInit: FAudioDevice initialized.
+[2024.06.01-11.46.57:984][247]LogAudio: Display: Audio Device (ID: 5) registered with world 'Lesson_level_1'.
+[2024.06.01-11.46.58:129][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.01-11.46.58:129][247]LogLoad: Game class is 'Toast_Knight_gamemode_bp_C'
+[2024.06.01-11.46.58:827][247]LogWorld: Bringing World /Game/Level_sort/Lesson/Lesson_level_1/UEDPIE_0_Lesson_level_1.Lesson_level_1 up for play (max tick rate 60) at 2024.06.01-19.46.58
+[2024.06.01-11.46.58:827][247]LogWorld: Bringing up level for play took: 0.698405
+[2024.06.01-11.46.58:830][247]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.06.01-11.47.09:817][247]PIE: 登陆的服务器
+[2024.06.01-11.47.09:822][247]PIE: PIE总开始时间：12.077秒。
+[2024.06.01-11.47.09:883][247]LogViewport: Scene viewport resized to 1923x1040, mode Windowed.
+[2024.06.01-11.47.15:431][452]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.47.15:539][456]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-11.47.15:627][460]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-11.47.15:734][464]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-11.47.15:833][467]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-11.47.15:887][469]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-11.47.15:887][469]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 0.0
+[2024.06.01-11.48.05:799][443]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.48.05:907][448]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-11.48.05:998][452]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-11.48.06:144][457]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-11.48.06:192][458]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-11.48.06:192][458]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 0.0
+[2024.06.01-11.48.21:389][ 94]LogNet: Browse: /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1
+[2024.06.01-11.48.21:391][ 94]LogLoad: LoadMap: /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1
+[2024.06.01-11.48.21:391][ 94]LogWorld: BeginTearingDown for /Game/Level_sort/Lesson/Lesson_level_1/UEDPIE_0_Lesson_level_1
+[2024.06.01-11.48.21:392][ 94]LogWorld: UWorld::CleanupWorld for Lesson_level_1, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.48.21:393][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.48.21:435][ 94]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.01-11.48.21:441][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.06.01-11.48.21:442][ 94]LogPlayLevel: Creating play world package: /Game/Level_sort/Lesson/Lesson_level_1/UEDPIE_0_Lesson_level_1
+[2024.06.01-11.48.21:445][ 94]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003033s)
+[2024.06.01-11.48.21:445][ 94]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1 to /Game/Level_sort/Lesson/Lesson_level_1/UEDPIE_0_Lesson_level_1.Lesson_level_1 (0.003130s)
+[2024.06.01-11.48.21:445][ 94]LogAudio: Display: Audio Device (ID: 5) registered with world 'Lesson_level_1'.
+[2024.06.01-11.48.21:445][ 94]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.01-11.48.21:445][ 94]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-11.48.21:445][ 94]LogAIModule: Creating AISystem for world Lesson_level_1
+[2024.06.01-11.48.21:446][ 94]LogPlayLevel: PIE: World Init took: (0.000783s)
+[2024.06.01-11.48.21:446][ 94]LogLoad: Game class is 'Toast_Knight_gamemode_bp_C'
+[2024.06.01-11.48.22:013][ 94]LogWorld: Bringing World /Game/Level_sort/Lesson/Lesson_level_1/UEDPIE_0_Lesson_level_1.Lesson_level_1 up for play (max tick rate 60) at 2024.06.01-19.48.22
+[2024.06.01-11.48.22:013][ 94]LogWorld: Bringing up level for play took: 0.567549
+[2024.06.01-11.48.32:723][ 94]LogLoad: Took 11.331658 seconds to LoadMap(/Game/Level_sort/Lesson/Lesson_level_1/UEDPIE_0_Lesson_level_1)
+[2024.06.01-11.48.42:850][493]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.48.42:924][496]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-11.48.43:024][501]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-11.48.43:138][506]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-11.48.43:237][511]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-11.48.43:293][514]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-11.48.43:293][514]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 0.0
+[2024.06.01-11.48.51:279][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.01-11.48.51:279][849]LogWorld: BeginTearingDown for /Game/Level_sort/Lesson/Lesson_level_1/UEDPIE_0_Lesson_level_1
+[2024.06.01-11.48.51:293][849]LogSlate: Window 'Sliding 预览 [NetMode: Standalone]  （64-bit/SM5）' being destroyed
+[2024.06.01-11.48.51:322][849]LogWorld: UWorld::CleanupWorld for Lesson_level_1, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.48.51:324][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.48.51:341][849]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.01-11.48.51:346][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.48.51:423][849]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.06.01-11.48.51:426][849]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.06.01-11.48.51:456][849]LogUObjectHash: Compacting FUObjectHashTables data took   5.70ms
+[2024.06.01-11.48.51:492][850]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.06.01-11.49.01:511][299]LogDebuggerCommands: Repeating last play command: 新建编辑器窗口（PIE）
+[2024.06.01-11.49.01:520][299]BlueprintLog: New page: 运行前自动重新编译
+[2024.06.01-11.49.01:522][299]LogPlayLevel: [PlayLevel] Compiling Complete_ before play...
+[2024.06.01-11.49.01:675][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.06.01-11.49.01:681][299]LogPlayLevel: PlayLevel: Blueprint regeneration took 161 ms (1 blueprints)
+[2024.06.01-11.49.01:681][299]PIE: New page: PIE会话：Lesson_level_1（2024年6月2日 上午3:49:01）
+[2024.06.01-11.49.01:681][299]LogPlayLevel: Creating play world package: /Game/Level_sort/Lesson/Lesson_level_1/UEDPIE_0_Lesson_level_1
+[2024.06.01-11.49.01:684][299]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003278s)
+[2024.06.01-11.49.01:685][299]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1 to /Game/Level_sort/Lesson/Lesson_level_1/UEDPIE_0_Lesson_level_1.Lesson_level_1 (0.003352s)
+[2024.06.01-11.49.01:685][299]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.01-11.49.01:685][299]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-11.49.01:685][299]LogAIModule: Creating AISystem for world Lesson_level_1
+[2024.06.01-11.49.01:685][299]LogPlayLevel: PIE: World Init took: (0.000889s)
+[2024.06.01-11.49.01:745][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2024.06.01-11.49.01:745][299]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.06.01-11.49.01:746][299]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.01-11.49.01:746][299]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.01-11.49.01:746][299]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.01-11.49.01:746][299]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.01-11.49.01:746][299]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.01-11.49.01:746][299]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.06.01-11.49.01:746][299]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.01-11.49.01:746][299]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.01-11.49.01:746][299]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.01-11.49.01:746][299]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.01-11.49.01:746][299]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.01-11.49.01:748][299]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.01-11.49.01:796][299]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.06.01-11.49.01:797][299]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.01-11.49.01:797][299]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.01-11.49.01:797][299]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.01-11.49.01:797][299]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.06.01-11.49.01:797][299]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.06.01-11.49.01:799][299]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.06.01-11.49.01:799][299]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.06.01-11.49.01:799][299]LogInit: FAudioDevice initialized.
+[2024.06.01-11.49.01:799][299]LogAudio: Display: Audio Device (ID: 6) registered with world 'Lesson_level_1'.
+[2024.06.01-11.49.01:912][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.01-11.49.01:912][299]LogLoad: Game class is 'Toast_Knight_gamemode_bp_C'
+[2024.06.01-11.49.02:507][299]LogWorld: Bringing World /Game/Level_sort/Lesson/Lesson_level_1/UEDPIE_0_Lesson_level_1.Lesson_level_1 up for play (max tick rate 60) at 2024.06.01-19.49.02
+[2024.06.01-11.49.02:507][299]LogWorld: Bringing up level for play took: 0.594554
+[2024.06.01-11.49.02:509][299]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.06.01-11.49.13:899][299]PIE: 登陆的服务器
+[2024.06.01-11.49.13:901][299]PIE: PIE总开始时间：12.381秒。
+[2024.06.01-11.49.13:997][299]LogViewport: Scene viewport resized to 1926x1060, mode Windowed.
+[2024.06.01-11.49.23:946][702]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.49.24:053][707]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-11.49.24:154][710]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-11.49.24:154][710]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 4000.0
+[2024.06.01-11.49.26:013][780]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.49.26:099][784]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-11.49.26:211][790]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-11.49.26:303][795]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-11.49.26:409][801]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-11.49.26:521][806]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-11.49.26:599][809]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-11.49.26:722][813]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.01-11.49.26:814][816]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.49.26:914][820]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.49.26:915][820]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 4000.0
+[2024.06.01-11.49.36:610][259]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.49.36:721][264]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-11.49.36:823][268]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-11.49.36:940][271]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-11.49.37:015][273]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-11.49.37:015][273]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 4000.0
+[2024.06.01-11.49.40:258][413]LogNet: Browse: /Game/Level_sort/Lesson/Lesson_level_2/Lesson_level_2
+[2024.06.01-11.49.40:258][413]LogLoad: LoadMap: /Game/Level_sort/Lesson/Lesson_level_2/Lesson_level_2
+[2024.06.01-11.49.40:258][413]LogWorld: BeginTearingDown for /Game/Level_sort/Lesson/Lesson_level_1/UEDPIE_0_Lesson_level_1
+[2024.06.01-11.49.40:259][413]LogWorld: UWorld::CleanupWorld for Lesson_level_1, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.49.40:260][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.49.40:329][413]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.01-11.49.40:338][413]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2024.06.01-11.49.40:355][413]LogAudio: Display: Audio Device (ID: 6) registered with world 'Lesson_level_2'.
+[2024.06.01-11.49.40:355][413]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.01-11.49.40:355][413]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-11.49.40:356][413]LogAIModule: Creating AISystem for world Lesson_level_2
+[2024.06.01-11.49.40:356][413]LogPlayLevel: PIE: World Init took: (0.000814s)
+[2024.06.01-11.49.40:356][413]LogLoad: Game class is 'Toast_Knight_gamemode_bp_C'
+[2024.06.01-11.49.40:436][413]LogWorld: Bringing World /Game/Level_sort/Lesson/Lesson_level_2/UEDPIE_0_Lesson_level_2.Lesson_level_2 up for play (max tick rate 60) at 2024.06.01-19.49.40
+[2024.06.01-11.49.40:437][413]LogWorld: Bringing up level for play took: 0.080672
+[2024.06.01-11.49.43:595][413]LogLoad: Took 3.336817 seconds to LoadMap(/Game/Level_sort/Lesson/Lesson_level_2/Lesson_level_2)
+[2024.06.01-11.49.48:216][618]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.49.48:325][621]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-11.49.48:429][624]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-11.49.48:516][627]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-11.49.48:615][630]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-11.49.48:716][635]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-11.49.48:812][639]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-11.49.48:919][643]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.01-11.49.49:025][649]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.49.49:120][654]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.49.49:215][659]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.49.49:309][663]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.49.49:422][667]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.49.49:516][670]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.49.49:621][673]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.49.49:656][674]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.49.49:656][674]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 0.0
+[2024.06.01-11.49.52:833][817]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.49.52:934][822]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-11.49.53:035][827]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-11.49.53:144][832]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-11.49.53:235][837]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-11.49.53:330][842]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-11.49.53:446][848]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-11.49.53:535][853]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.01-11.49.53:643][859]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.49.53:727][863]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.49.54:485][890]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.49.54:589][895]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.49.54:694][901]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.49.54:782][905]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.49.54:896][910]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.49.54:992][914]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.49.55:085][918]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.49.55:186][923]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.49.55:303][928]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.49.55:403][932]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.49.55:488][935]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.49.55:583][939]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.49.55:698][944]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.49.55:779][948]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.49.55:869][953]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.49.55:869][953]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 20000.0
+[2024.06.01-11.49.57:886][ 26]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.49.57:990][ 30]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-11.49.58:099][ 35]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-11.49.58:189][ 38]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-11.49.58:319][ 42]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-11.49.58:410][ 45]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-11.49.58:503][ 49]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-11.49.58:587][ 53]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.01-11.49.58:700][ 59]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.49.58:801][ 64]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.49.58:896][ 69]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.49.58:991][ 73]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.49.59:102][ 78]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.49.59:190][ 83]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.49.59:292][ 88]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.49.59:395][ 94]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.49.59:497][100]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.49.59:599][104]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.49.59:694][109]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.49.59:780][114]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.49.59:901][120]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.50.00:006][124]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.50.00:085][126]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.50.00:186][130]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.50.00:301][133]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.50.00:397][137]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.50.00:497][141]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.50.00:588][145]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.50.00:692][149]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.50.00:784][153]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.50.00:845][156]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.50.00:845][156]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 20000.0
+[2024.06.01-11.50.07:542][419]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.50.07:651][423]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-11.50.07:748][426]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-11.50.07:795][427]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-11.50.07:795][427]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 20000.0
+[2024.06.01-11.50.10:075][515]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.50.10:158][519]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.50.10:159][519]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 18000.0
+[2024.06.01-11.50.11:102][558]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.50.11:150][561]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.50.11:150][561]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 16000.0
+[2024.06.01-11.50.13:774][684]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.50.13:878][690]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-11.50.13:990][696]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-11.50.14:074][701]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-11.50.14:153][705]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-11.50.14:153][705]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 16000.0
+[2024.06.01-11.50.16:576][804]LogNet: Browse: /Game/Level_sort/Lesson/Lesson_level_3/Lesson_level_3
+[2024.06.01-11.50.16:576][804]LogLoad: LoadMap: /Game/Level_sort/Lesson/Lesson_level_3/Lesson_level_3
+[2024.06.01-11.50.16:576][804]LogWorld: BeginTearingDown for /Game/Level_sort/Lesson/Lesson_level_2/UEDPIE_0_Lesson_level_2
+[2024.06.01-11.50.16:577][804]LogWorld: UWorld::CleanupWorld for Lesson_level_2, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.50.16:577][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.50.16:624][804]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.01-11.50.16:628][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.06.01-11.50.16:642][804]LogAudio: Display: Audio Device (ID: 6) registered with world 'Lesson_level_3'.
+[2024.06.01-11.50.16:642][804]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.01-11.50.16:642][804]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-11.50.16:643][804]LogAIModule: Creating AISystem for world Lesson_level_3
+[2024.06.01-11.50.16:643][804]LogPlayLevel: PIE: World Init took: (0.000748s)
+[2024.06.01-11.50.16:643][804]LogLoad: Game class is 'Toast_Knight_gamemode_bp_C'
+[2024.06.01-11.50.16:729][804]LogWorld: Bringing World /Game/Level_sort/Lesson/Lesson_level_3/UEDPIE_0_Lesson_level_3.Lesson_level_3 up for play (max tick rate 60) at 2024.06.01-19.50.16
+[2024.06.01-11.50.16:729][804]LogWorld: Bringing up level for play took: 0.086299
+[2024.06.01-11.50.20:846][804]LogLoad: Took 4.270999 seconds to LoadMap(/Game/Level_sort/Lesson/Lesson_level_3/Lesson_level_3)
+[2024.06.01-11.50.37:617][613]LogViewport: Scene viewport resized to 1928x1060, mode Windowed.
+[2024.06.01-11.50.39:394][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.01-11.50.39:394][695]LogWorld: BeginTearingDown for /Game/Level_sort/Lesson/Lesson_level_3/UEDPIE_0_Lesson_level_3
+[2024.06.01-11.50.39:394][695]LogSlate: Window 'Sliding 预览 [NetMode: Standalone]  （64-bit/SM5）' being destroyed
+[2024.06.01-11.50.39:415][695]LogWorld: UWorld::CleanupWorld for Lesson_level_3, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.50.39:416][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.50.39:441][695]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.01-11.50.39:449][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.50.39:518][695]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.06.01-11.50.39:521][695]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.06.01-11.50.39:537][695]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2024.06.01-11.50.39:585][696]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.06.01-11.50.40:618][741]LogDebuggerCommands: Repeating last play command: 新建编辑器窗口（PIE）
+[2024.06.01-11.50.40:625][741]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.01-11.50.40:625][741]PIE: New page: PIE会话：Lesson_level_1（2024年6月2日 上午3:50:40）
+[2024.06.01-11.50.40:625][741]LogPlayLevel: Creating play world package: /Game/Level_sort/Lesson/Lesson_level_1/UEDPIE_0_Lesson_level_1
+[2024.06.01-11.50.40:628][741]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002992s)
+[2024.06.01-11.50.40:629][741]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1 to /Game/Level_sort/Lesson/Lesson_level_1/UEDPIE_0_Lesson_level_1.Lesson_level_1 (0.003067s)
+[2024.06.01-11.50.40:629][741]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.01-11.50.40:629][741]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-11.50.40:629][741]LogAIModule: Creating AISystem for world Lesson_level_1
+[2024.06.01-11.50.40:629][741]LogPlayLevel: PIE: World Init took: (0.000957s)
+[2024.06.01-11.50.40:668][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.06.01-11.50.40:669][741]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.06.01-11.50.40:669][741]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.01-11.50.40:669][741]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.01-11.50.40:669][741]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.01-11.50.40:669][741]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.01-11.50.40:669][741]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.01-11.50.40:669][741]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.06.01-11.50.40:669][741]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.01-11.50.40:669][741]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.01-11.50.40:670][741]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.01-11.50.40:670][741]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.01-11.50.40:670][741]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.01-11.50.40:673][741]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.01-11.50.40:715][741]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.06.01-11.50.40:715][741]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.01-11.50.40:715][741]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.01-11.50.40:715][741]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.01-11.50.40:716][741]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.06.01-11.50.40:716][741]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.06.01-11.50.40:718][741]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.06.01-11.50.40:718][741]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.06.01-11.50.40:718][741]LogInit: FAudioDevice initialized.
+[2024.06.01-11.50.40:718][741]LogAudio: Display: Audio Device (ID: 7) registered with world 'Lesson_level_1'.
+[2024.06.01-11.50.40:902][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.01-11.50.40:903][741]LogLoad: Game class is 'Toast_Knight_gamemode_bp_C'
+[2024.06.01-11.50.41:425][741]LogWorld: Bringing World /Game/Level_sort/Lesson/Lesson_level_1/UEDPIE_0_Lesson_level_1.Lesson_level_1 up for play (max tick rate 60) at 2024.06.01-19.50.41
+[2024.06.01-11.50.41:426][741]LogWorld: Bringing up level for play took: 0.522755
+[2024.06.01-11.50.41:428][741]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.06.01-11.50.53:813][741]PIE: 登陆的服务器
+[2024.06.01-11.50.53:817][741]PIE: PIE总开始时间：13.192秒。
+[2024.06.01-11.50.53:850][741]LogViewport: Scene viewport resized to 1931x1080, mode Windowed.
+[2024.06.01-11.51.19:901][914]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.51.20:005][919]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-11.51.20:106][922]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-11.51.20:188][926]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-11.51.20:306][930]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-11.51.20:398][933]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-11.51.20:514][938]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-11.51.20:514][938]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 0.0
+[2024.06.01-11.51.21:602][983]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.51.21:668][986]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.51.22:937][ 39]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-11.51.23:030][ 42]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-11.51.23:121][ 47]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-11.51.23:228][ 52]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-11.51.23:335][ 57]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-11.51.23:432][ 60]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-11.51.23:518][ 63]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.01-11.51.23:639][ 68]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.51.23:721][ 71]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.51.23:835][ 75]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.51.23:933][ 78]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.51.23:934][ 78]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 20000.0
+[2024.06.01-11.51.26:197][176]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.51.26:301][180]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-11.51.26:395][184]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-11.51.26:513][188]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-11.51.26:585][192]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-11.51.26:693][198]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-11.51.26:709][199]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-11.51.26:709][199]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 20000.0
+[2024.06.01-11.51.32:645][473]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.51.32:749][479]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-11.51.32:858][485]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-11.51.32:962][489]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-11.51.33:054][494]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-11.51.33:148][497]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-11.51.33:148][497]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 20000.0
+[2024.06.01-11.51.50:057][247]LogNet: Browse: /Game/Level_sort/Lesson/Lesson_level_2/Lesson_level_2
+[2024.06.01-11.51.50:058][247]LogLoad: LoadMap: /Game/Level_sort/Lesson/Lesson_level_2/Lesson_level_2
+[2024.06.01-11.51.50:058][247]LogWorld: BeginTearingDown for /Game/Level_sort/Lesson/Lesson_level_1/UEDPIE_0_Lesson_level_1
+[2024.06.01-11.51.50:058][247]LogWorld: UWorld::CleanupWorld for Lesson_level_1, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.51.50:059][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.51.50:116][247]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.01-11.51.50:122][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.06.01-11.51.50:134][247]LogAudio: Display: Audio Device (ID: 7) registered with world 'Lesson_level_2'.
+[2024.06.01-11.51.50:134][247]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.01-11.51.50:134][247]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-11.51.50:134][247]LogAIModule: Creating AISystem for world Lesson_level_2
+[2024.06.01-11.51.50:134][247]LogPlayLevel: PIE: World Init took: (0.000686s)
+[2024.06.01-11.51.50:134][247]LogLoad: Game class is 'Toast_Knight_gamemode_bp_C'
+[2024.06.01-11.51.50:218][247]LogWorld: Bringing World /Game/Level_sort/Lesson/Lesson_level_2/UEDPIE_0_Lesson_level_2.Lesson_level_2 up for play (max tick rate 60) at 2024.06.01-19.51.50
+[2024.06.01-11.51.50:218][247]LogWorld: Bringing up level for play took: 0.082598
+[2024.06.01-11.51.53:348][247]LogLoad: Took 3.290595 seconds to LoadMap(/Game/Level_sort/Lesson/Lesson_level_2/Lesson_level_2)
+[2024.06.01-11.52.21:567][562]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.52.21:668][566]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-11.52.21:760][571]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-11.52.21:865][576]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-11.52.21:967][579]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-11.52.22:065][584]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-11.52.22:169][590]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-11.52.22:261][594]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.01-11.52.22:373][598]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.22:488][601]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.22:585][603]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.22:656][606]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.22:763][609]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.22:883][612]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.23:004][615]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.23:086][617]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.23:159][620]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.23:264][625]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.23:369][630]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.23:475][634]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.23:554][637]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.23:670][641]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.23:769][645]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.23:878][648]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.23:973][653]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.24:065][658]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.24:162][663]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.24:266][667]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.24:355][670]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.24:483][673]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.24:554][675]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.24:678][679]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.24:777][683]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.24:865][686]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.24:965][689]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.25:065][693]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.25:186][697]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.25:266][700]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.25:368][705]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.25:464][710]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.25:559][714]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.25:664][720]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.25:767][726]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.25:878][731]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.25:969][734]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.26:063][738]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.26:191][742]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.26:266][744]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.26:356][746]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.26:475][750]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.26:573][754]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.26:643][758]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.26:643][758]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 0.0
+[2024.06.01-11.52.29:463][906]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.52.29:565][912]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-11.52.29:677][917]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-11.52.29:783][921]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-11.52.29:865][924]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-11.52.29:979][927]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-11.52.30:079][931]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-11.52.30:172][935]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.01-11.52.30:211][937]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.01-11.52.30:211][937]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 16000.0
+[2024.06.01-11.52.31:235][977]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.52.31:333][981]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-11.52.31:427][986]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-11.52.31:519][991]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-11.52.31:628][997]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-11.52.31:718][  2]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-11.52.31:827][  8]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-11.52.31:954][ 12]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.01-11.52.32:025][ 14]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.32:059][ 15]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.32:059][ 15]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 20000.0
+[2024.06.01-11.52.35:742][133]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 16000.0
+[2024.06.01-11.52.35:743][133]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 20000.0
+[2024.06.01-11.52.36:254][154]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.52.36:363][159]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-11.52.36:455][164]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-11.52.36:556][170]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-11.52.36:666][176]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-11.52.36:743][179]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-11.52.36:743][179]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 20000.0
+[2024.06.01-11.52.38:437][253]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.52.38:517][257]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.52.38:517][257]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 20000.0
+[2024.06.01-11.52.38:737][270]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.52.38:753][271]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.52.38:753][271]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 20000.0
+[2024.06.01-11.52.39:209][297]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.52.39:315][303]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-11.52.39:416][308]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-11.52.39:516][314]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-11.52.39:566][317]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-11.52.39:566][317]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 20000.0
+[2024.06.01-11.52.40:098][338]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 16000.0
+[2024.06.01-11.52.40:098][338]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 20000.0
+[2024.06.01-11.52.40:508][356]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.52.40:601][358]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-11.52.40:721][362]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-11.52.40:824][365]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-11.52.40:893][367]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-11.52.41:015][370]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-11.52.41:016][370]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 20000.0
+[2024.06.01-11.52.41:650][393]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.52.41:767][399]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-11.52.41:853][404]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-11.52.41:966][410]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-11.52.42:062][415]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-11.52.42:152][418]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-11.52.42:258][422]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-11.52.42:292][423]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-11.52.42:292][423]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 20000.0
+[2024.06.01-11.52.42:982][447]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.52.43:060][449]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-11.52.43:175][453]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-11.52.43:261][455]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-11.52.43:367][459]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-11.52.43:486][464]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-11.52.43:517][465]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-11.52.43:517][465]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 20000.0
+[2024.06.01-11.52.44:486][506]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.52.44:589][509]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-11.52.44:672][512]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-11.52.44:771][517]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-11.52.44:866][522]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-11.52.44:974][527]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-11.52.45:091][531]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-11.52.45:129][532]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-11.52.45:131][532]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 20000.0
+[2024.06.01-11.52.45:776][557]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.52.45:853][560]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-11.52.45:973][565]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-11.52.46:048][568]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-11.52.46:173][572]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-11.52.46:261][575]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-11.52.46:349][579]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-11.52.46:463][584]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.01-11.52.46:566][589]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.01-11.52.46:566][589]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 20000.0
+[2024.06.01-11.52.47:524][625]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.52.47:625][630]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-11.52.47:718][635]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-11.52.47:814][639]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-11.52.47:932][643]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-11.52.48:022][647]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-11.52.48:118][651]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-11.52.48:211][656]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.01-11.52.48:309][660]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.48:413][666]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.48:516][672]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.48:628][678]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.48:743][682]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.48:820][684]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.48:909][688]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.49:009][693]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.49:009][693]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 20000.0
+[2024.06.01-11.52.49:785][724]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.52.49:876][729]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-11.52.49:994][733]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-11.52.50:094][736]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-11.52.50:179][740]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-11.52.50:294][745]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-11.52.50:411][748]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-11.52.50:489][751]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.01-11.52.50:611][755]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.50:690][759]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.50:777][764]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.50:917][769]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.50:992][771]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.51:079][774]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.51:208][778]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.51:283][781]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.51:386][785]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.51:488][788]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.51:593][791]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.51:694][795]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.51:809][798]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.51:865][800]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.51:865][800]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 20000.0
+[2024.06.01-11.52.52:922][848]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.52.53:014][852]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-11.52.53:126][858]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-11.52.53:216][863]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-11.52.53:316][867]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-11.52.53:435][872]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-11.52.53:528][876]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-11.52.53:617][881]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.01-11.52.53:713][886]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.53:831][890]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.53:924][893]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.54:035][896]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.54:113][900]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.54:228][906]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.54:315][911]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.54:432][916]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.54:530][919]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.54:638][922]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.54:749][925]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.54:842][928]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.54:916][930]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.55:026][933]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.55:140][937]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.55:222][940]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.55:272][942]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.52.55:272][942]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 20000.0
+[2024.06.01-11.52.59:447][129]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.52.59:557][133]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-11.52.59:665][137]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-11.52.59:754][140]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-11.52.59:839][145]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-11.52.59:941][151]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-11.53.00:059][156]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-11.53.00:152][159]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.01-11.53.00:243][163]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.00:363][169]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.00:450][173]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.00:552][178]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.00:656][184]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.00:760][189]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.00:849][192]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.00:993][195]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.01:054][197]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.01:147][201]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.01:269][204]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.01:363][206]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.01:447][209]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.01:544][212]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.01:653][217]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.01:756][223]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.01:856][229]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.01:941][234]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.02:049][240]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.02:153][246]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.02:257][252]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.02:356][258]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.02:441][263]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.02:549][269]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.02:667][275]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.02:692][276]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.02:693][276]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 20000.0
+[2024.06.01-11.53.04:453][352]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.53.04:562][355]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-11.53.04:669][360]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-11.53.04:781][364]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-11.53.04:861][367]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-11.53.04:958][372]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-11.53.05:061][378]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-11.53.05:151][383]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.01-11.53.05:261][388]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.05:359][391]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.05:465][395]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.05:553][397]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.05:671][402]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.05:765][407]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.05:851][412]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.05:949][417]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.06:057][423]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.06:162][429]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.06:254][434]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.06:354][438]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.06:354][438]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 20000.0
+[2024.06.01-11.53.07:252][470]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.53.07:354][474]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-11.53.07:444][479]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-11.53.07:549][483]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-11.53.07:649][486]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-11.53.07:732][490]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-11.53.07:846][496]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-11.53.07:941][499]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.01-11.53.08:030][501]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.08:166][505]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.08:236][507]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.08:338][512]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.08:454][517]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.08:563][520]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.08:657][522]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.08:752][524]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.08:837][527]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.08:938][530]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.09:031][532]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.09:141][536]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.09:244][540]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.09:335][544]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.09:451][549]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.09:545][554]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.09:648][558]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.09:734][561]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.09:856][565]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.09:929][567]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.09:929][567]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 20000.0
+[2024.06.01-11.53.10:878][606]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.53.10:957][610]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-11.53.11:069][614]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-11.53.11:183][618]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-11.53.11:271][621]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-11.53.11:399][624]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-11.53.11:468][627]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-11.53.11:569][633]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.01-11.53.11:669][639]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.11:759][644]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.11:869][649]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.11:964][652]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.12:071][656]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.12:181][660]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.12:278][663]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.12:388][666]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.12:466][669]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.12:588][673]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.12:689][676]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.12:776][678]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.12:863][681]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.12:964][684]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.13:062][687]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.13:109][689]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.13:109][689]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 20000.0
+[2024.06.01-11.53.14:397][732]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.53.14:494][735]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-11.53.14:611][739]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-11.53.14:714][743]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-11.53.14:785][746]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-11.53.14:912][750]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-11.53.15:003][753]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-11.53.15:085][756]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.01-11.53.15:211][760]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.15:310][763]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.15:393][765]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.15:490][768]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.15:618][772]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.15:702][775]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.15:821][779]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.15:892][781]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.16:002][786]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.16:084][790]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.16:186][796]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.16:311][802]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.16:383][805]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.16:502][810]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.16:604][813]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.16:689][815]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.16:800][818]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.16:895][822]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.16:996][825]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.17:098][829]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.17:138][831]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.17:138][831]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 20000.0
+[2024.06.01-11.53.19:626][940]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.53.19:727][946]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-11.53.19:819][950]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-11.53.19:920][954]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-11.53.20:013][957]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-11.53.20:116][961]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-11.53.20:214][966]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-11.53.20:317][970]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.01-11.53.20:421][973]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.20:537][977]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.20:619][980]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.20:717][984]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.20:821][988]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.20:933][992]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.21:014][995]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.21:132][999]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.21:223][  1]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.21:316][  4]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.21:431][  8]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.21:517][ 12]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.21:625][ 16]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.21:734][ 19]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.21:824][ 22]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.21:918][ 27]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.22:024][ 30]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.22:135][ 33]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.22:227][ 36]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.22:315][ 40]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.22:436][ 45]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.22:534][ 48]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.22:631][ 51]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.22:713][ 53]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.22:842][ 58]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.22:917][ 61]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.23:029][ 65]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.23:113][ 69]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.23:146][ 71]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.23:146][ 71]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 20000.0
+[2024.06.01-11.53.23:936][105]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.53.24:030][110]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-11.53.24:135][115]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-11.53.24:248][120]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.01-11.53.24:369][123]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.01-11.53.24:448][125]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.01-11.53.24:558][128]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.01-11.53.24:625][131]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.01-11.53.24:726][137]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.24:831][143]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.24:931][149]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.25:033][155]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.25:123][160]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.25:225][166]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.25:327][172]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.25:429][178]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.25:534][184]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.25:626][189]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.25:727][195]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.25:847][201]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.25:953][204]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.26:025][206]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.26:117][210]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.01-11.53.26:117][210]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 20000.0
+[2024.06.01-11.53.27:782][295]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.01-11.53.27:882][301]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.01-11.53.28:010][306]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-11.53.28:071][308]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.01-11.53.28:071][308]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 20000.0
+[2024.06.01-11.53.35:823][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.01-11.53.35:823][640]LogWorld: BeginTearingDown for /Game/Level_sort/Lesson/Lesson_level_2/UEDPIE_0_Lesson_level_2
+[2024.06.01-11.53.35:824][640]LogSlate: Window 'Sliding 预览 [NetMode: Standalone]  （64-bit/SM5）' being destroyed
+[2024.06.01-11.53.35:838][640]LogWorld: UWorld::CleanupWorld for Lesson_level_2, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.53.35:839][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.53.35:859][640]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.01-11.53.35:866][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.53.35:921][640]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.06.01-11.53.35:923][640]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.06.01-11.53.35:936][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.06.01-11.53.35:970][641]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.06.01-11.53.41:956][906]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Level_sort/Lesson/Lesson_level_3/map/map_9_TileMap.map_9_TileMap
+[2024.06.01-11.53.41:961][906]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-11.53.42:147][906]LogViewport: Scene viewport resized to 567x1155, mode Windowed.
+[2024.06.01-11.53.42:162][906]LogViewport: Scene viewport resized to 1559x1321, mode Windowed.
+[2024.06.01-11.53.48:738][226]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.53.48:738][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.53.55:106][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.06.01-11.53.56:637][573]LogSlate: Window '保存内容' being destroyed
+[2024.06.01-11.53.57:012][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/User_Interface/Complete_" FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Complete_.uasset" SILENT=true
+[2024.06.01-11.53.57:041][573]LogSavePackage: Moving output files for package: /Game/User_Interface/Complete_
+[2024.06.01-11.53.57:041][573]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Complete_C6ABBF5F4B1F3CB4446AE3922B5D9FF7.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Complete_.uasset'
+[2024.06.01-11.53.57:089][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.06.01-11.53.57:098][573]LogSavePackage: Moving output files for package: /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1
+[2024.06.01-11.53.57:099][573]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Lesson_level_124C95E564D5A10FB3367B1BD0230B750.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.umap'
+[2024.06.01-11.53.57:115][573]LogFileHelpers: Saving map 'Lesson_level_1' took 0.073
+[2024.06.01-11.53.57:282][573]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level_sort/Lesson/Lesson_level_3/Lesson_level_3.Lesson_level_3
+[2024.06.01-11.53.57:282][573]Cmd: MAP LOAD FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Lesson/Lesson_level_3/Lesson_level_3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.06.01-11.53.57:282][573]LightingResults: New page: 光照构建
+[2024.06.01-11.53.57:282][573]LoadErrors: New page: 正在加载地图：Lesson_level_3.umap
+[2024.06.01-11.53.57:284][573]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.PaperSpriteActor_1.RenderComponent)
+[2024.06.01-11.53.57:286][573]LogWorld: UWorld::CleanupWorld for Lesson_level_1, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.53.57:286][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.53.57:286][573]MapCheck: New page: 地图检测
+[2024.06.01-11.53.57:286][573]LightingResults: New page: 光照构建
+[2024.06.01-11.53.57:326][573]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.01-11.53.57:332][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.06.01-11.53.57:335][573]LogWorld: UWorld::CleanupWorld for Lesson_level_3, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.53.57:335][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.53.57:388][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.06.01-11.53.57:433][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.06.01-11.53.57:447][573]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lesson_level_3'.
+[2024.06.01-11.53.57:447][573]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.01-11.53.57:447][573]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-11.53.57:447][573]LogAIModule: Creating AISystem for world Lesson_level_3
+[2024.06.01-11.53.57:551][573]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.06.01-11.53.57:605][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.06.01-11.53.57:613][573]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.06.01-11.53.57:613][573]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.109毫秒。
+[2024.06.01-11.53.57:613][573]LogFileHelpers: Loading map 'Lesson_level_3' took 0.331
+[2024.06.01-11.53.57:655][573]AssetCheck: New page: 资产保存：多个资产
+[2024.06.01-11.53.57:655][573]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/User_Interface/Complete_.Complete_
+[2024.06.01-11.53.57:658][573]LogContentValidation: Display: 正在验证World /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1
+[2024.06.01-11.53.59:384][666]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.53.59:384][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.54.02:670][829]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.54.02:670][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.54.02:680][829]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.54.02:680][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.54.04:669][939]LogSlate: Window 'GamePlay_UI' being destroyed
+[2024.06.01-11.54.04:692][939]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.54.04:693][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.54.04:709][939]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.54.04:709][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.54.11:593][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.06.01-11.54.11:801][312]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level_sort/Lesson/Lesson_level_2/Lesson_level_2.Lesson_level_2
+[2024.06.01-11.54.11:801][312]Cmd: MAP LOAD FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Lesson/Lesson_level_2/Lesson_level_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.06.01-11.54.11:801][312]LightingResults: New page: 光照构建
+[2024.06.01-11.54.11:801][312]LoadErrors: New page: 正在加载地图：Lesson_level_2.umap
+[2024.06.01-11.54.11:803][312]LogWorld: UWorld::CleanupWorld for Lesson_level_3, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.54.11:803][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.54.11:803][312]MapCheck: New page: 地图检测
+[2024.06.01-11.54.11:803][312]LightingResults: New page: 光照构建
+[2024.06.01-11.54.11:836][312]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.01-11.54.11:853][312]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2024.06.01-11.54.11:858][312]LogWorld: UWorld::CleanupWorld for Lesson_level_2, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.54.11:858][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.54.11:859][312]LogWorld: UWorld::CleanupWorld for Lesson_level_1, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.54.11:859][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.54.11:916][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.06.01-11.54.11:959][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2024.06.01-11.54.11:970][312]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lesson_level_2'.
+[2024.06.01-11.54.11:970][312]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.01-11.54.11:970][312]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-11.54.11:971][312]LogAIModule: Creating AISystem for world Lesson_level_2
+[2024.06.01-11.54.12:068][312]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.06.01-11.54.12:101][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.06.01-11.54.12:108][312]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.06.01-11.54.12:108][312]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.11毫秒。
+[2024.06.01-11.54.12:108][312]LogFileHelpers: Loading map 'Lesson_level_2' took 0.308
+[2024.06.01-11.54.49:716][432]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/Level_sort/Lesson/Lesson_level_2/end_Sprite.end_Sprite
+[2024.06.01-11.54.49:717][432]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-11.54.50:004][432]LogViewport: Scene viewport resized to 2032x1321, mode Windowed.
+[2024.06.01-11.54.56:411][759]LogSavePackage: Moving output files for package: /Game/Level_sort/Lesson/Lesson_level_2/end_Sprite
+[2024.06.01-11.54.56:413][759]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/end_SpriteE5B9CF6244DF4455CC4B4A9329EFA0E3.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Lesson/Lesson_level_2/end_Sprite.uasset'
+[2024.06.01-11.54.56:428][759]AssetCheck: New page: 资产保存：end_Sprite
+[2024.06.01-11.54.56:428][759]LogContentValidation: Display: 正在验证PaperSprite /Game/Level_sort/Lesson/Lesson_level_2/end_Sprite.end_Sprite
+[2024.06.01-11.54.57:426][814]LogSlate: Window 'end_Sprite' being destroyed
+[2024.06.01-11.54.57:439][814]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.54.57:439][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.55.13:143][720]LogBlueprintUserMessages: [MainMenu_C_0] FAIL
+[2024.06.01-11.55.18:767][ 21]LogBlueprintUserMessages: [DRAW_CARD_C_0] FAIL
+[2024.06.01-11.55.18:833][ 25]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/User_Interface/Complete_.Complete_
+[2024.06.01-11.55.18:833][ 25]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-11.55.18:846][ 25]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-11.55.19:405][ 25]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.06.01-11.55.19:405][ 25]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.06.01-11.55.23:374][182]LogBlueprintUserMessages: [DRAW_CARD_C_0] FAIL
+[2024.06.01-11.59.38:319][804]BlueprintLog: New page: 编译Complete_
+[2024.06.01-11.59.38:459][804]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.06.01-11.59.41:181][906]LogSlate: Window 'Complete_' being destroyed
+[2024.06.01-11.59.41:199][906]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.59.41:199][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.59.41:220][906]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.59.41:220][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.59.46:040][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.06.01-11.59.47:342][152]LogSlate: Window '保存内容' being destroyed
+[2024.06.01-11.59.47:885][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/User_Interface/Complete_" FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Complete_.uasset" SILENT=true
+[2024.06.01-11.59.47:922][152]LogSavePackage: Moving output files for package: /Game/User_Interface/Complete_
+[2024.06.01-11.59.47:923][152]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Complete_2ABE06024D3F85F295C48D949A880FC5.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Complete_.uasset'
+[2024.06.01-11.59.47:949][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.06.01-11.59.47:961][152]LogSavePackage: Moving output files for package: /Game/Level_sort/Lesson/Lesson_level_2/Lesson_level_2
+[2024.06.01-11.59.47:962][152]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Lesson_level_2ED4CB49643731C5158776D9A1E1C22D2.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Lesson/Lesson_level_2/Lesson_level_2.umap'
+[2024.06.01-11.59.48:009][152]LogFileHelpers: Saving map 'Lesson_level_2' took 0.086
+[2024.06.01-11.59.48:269][152]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level_sort/Hard/Hard_level_5/Hard_level_5.Hard_level_5
+[2024.06.01-11.59.48:270][152]Cmd: MAP LOAD FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Hard/Hard_level_5/Hard_level_5.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.06.01-11.59.48:270][152]LightingResults: New page: 光照构建
+[2024.06.01-11.59.48:270][152]LoadErrors: New page: 正在加载地图：Hard_level_5.umap
+[2024.06.01-11.59.48:274][152]LogWorld: UWorld::CleanupWorld for Lesson_level_2, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.59.48:275][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.59.48:275][152]MapCheck: New page: 地图检测
+[2024.06.01-11.59.48:275][152]LightingResults: New page: 光照构建
+[2024.06.01-11.59.48:339][152]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.01-11.59.48:344][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.06.01-11.59.48:347][152]LogWorld: UWorld::CleanupWorld for Hard_level_5, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.59.48:347][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.59.48:396][152]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2024.06.01-11.59.48:444][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.06.01-11.59.48:448][152]LogAudio: Display: Audio Device (ID: 1) registered with world 'Hard_level_5'.
+[2024.06.01-11.59.48:448][152]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.01-11.59.48:448][152]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-11.59.48:449][152]LogAIModule: Creating AISystem for world Hard_level_5
+[2024.06.01-11.59.48:459][152]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.06.01-11.59.48:487][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.06.01-11.59.48:495][152]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.06.01-11.59.48:495][152]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.104毫秒。
+[2024.06.01-11.59.48:495][152]LogFileHelpers: Loading map 'Hard_level_5' took 0.226
+[2024.06.01-11.59.48:521][152]AssetCheck: New page: 资产保存：多个资产
+[2024.06.01-11.59.48:521][152]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/User_Interface/Complete_.Complete_
+[2024.06.01-11.59.48:522][152]LogContentValidation: Display: 正在验证World /Game/Level_sort/Lesson/Lesson_level_2/Lesson_level_2.Lesson_level_2
+[2024.06.01-11.59.50:967][279]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level_sort/Hard/Hard_level_5/Hard_level_5.Hard_level_5:PersistentLevel.Hard_level
+[2024.06.01-11.59.50:968][279]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-11.59.53:602][401]LogSlate: Window 'Hard_level' being destroyed
+[2024.06.01-11.59.53:611][401]LogSlate: Window 'Hard_level' being destroyed
+[2024.06.01-11.59.53:615][401]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.59.53:616][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.59.57:736][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.06.01-11.59.57:949][627]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level_sort/Hard/Hard_level_4/Hard_level_4.Hard_level_4
+[2024.06.01-11.59.57:950][627]Cmd: MAP LOAD FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Hard/Hard_level_4/Hard_level_4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.06.01-11.59.57:950][627]LightingResults: New page: 光照构建
+[2024.06.01-11.59.57:950][627]LoadErrors: New page: 正在加载地图：Hard_level_4.umap
+[2024.06.01-11.59.57:951][627]LogWorld: UWorld::CleanupWorld for Hard_level_5, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.59.57:951][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.59.57:952][627]MapCheck: New page: 地图检测
+[2024.06.01-11.59.57:952][627]LightingResults: New page: 光照构建
+[2024.06.01-11.59.57:996][627]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.01-11.59.57:998][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.06.01-11.59.58:001][627]LogWorld: UWorld::CleanupWorld for Hard_level_4, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.59.58:001][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.59.58:001][627]LogWorld: UWorld::CleanupWorld for Lesson_level_2, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-11.59.58:002][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-11.59.58:050][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.06.01-11.59.58:093][627]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2024.06.01-11.59.58:097][627]LogAudio: Display: Audio Device (ID: 1) registered with world 'Hard_level_4'.
+[2024.06.01-11.59.58:097][627]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.01-11.59.58:097][627]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-11.59.58:098][627]LogAIModule: Creating AISystem for world Hard_level_4
+[2024.06.01-11.59.58:120][627]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.06.01-11.59.58:167][627]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2024.06.01-11.59.58:188][627]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.06.01-11.59.58:189][627]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.215毫秒。
+[2024.06.01-11.59.58:189][627]LogFileHelpers: Loading map 'Hard_level_4' took 0.239
+[2024.06.01-12.00.01:001][766]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level_sort/Hard/Hard_level_4/Hard_level_4.Hard_level_4:PersistentLevel.Hard_level
+[2024.06.01-12.00.01:001][766]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.00.04:564][938]LogSlate: Window 'Hard_level' being destroyed
+[2024.06.01-12.00.04:574][938]LogSlate: Window 'Hard_level' being destroyed
+[2024.06.01-12.00.04:584][938]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.00.04:584][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.00.11:177][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.06.01-12.00.11:389][305]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level_sort/Lesson/Lesson_level_5/Lesson_level_5.Lesson_level_5
+[2024.06.01-12.00.11:389][305]Cmd: MAP LOAD FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Lesson/Lesson_level_5/Lesson_level_5.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.06.01-12.00.11:389][305]LightingResults: New page: 光照构建
+[2024.06.01-12.00.11:389][305]LoadErrors: New page: 正在加载地图：Lesson_level_5.umap
+[2024.06.01-12.00.11:390][305]LogWorld: UWorld::CleanupWorld for Hard_level_4, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.00.11:390][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.00.11:390][305]MapCheck: New page: 地图检测
+[2024.06.01-12.00.11:390][305]LightingResults: New page: 光照构建
+[2024.06.01-12.00.11:425][305]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.01-12.00.11:428][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.06.01-12.00.11:431][305]LogWorld: UWorld::CleanupWorld for Lesson_level_5, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.00.11:432][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.00.11:475][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.06.01-12.00.11:509][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.06.01-12.00.11:522][305]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lesson_level_5'.
+[2024.06.01-12.00.11:522][305]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.01-12.00.11:522][305]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.00.11:523][305]LogAIModule: Creating AISystem for world Lesson_level_5
+[2024.06.01-12.00.11:622][305]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_5/Lesson_level_5.Lesson_level_5:PersistentLevel.conveyorblue_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.100 Y=0.000 Z=0.500
+[2024.06.01-12.00.11:627][305]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_5/Lesson_level_5.Lesson_level_5:PersistentLevel.conveyorblue_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.100 Y=0.000 Z=0.500
+[2024.06.01-12.00.11:654][305]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.06.01-12.00.11:686][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.06.01-12.00.11:694][305]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.06.01-12.00.11:694][305]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.114毫秒。
+[2024.06.01-12.00.11:694][305]LogFileHelpers: Loading map 'Lesson_level_5' took 0.306
+[2024.06.01-12.00.14:439][446]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level_sort/Lesson/Lesson_level_5/Lesson_level_5.Lesson_level_5:PersistentLevel.Lesson_level_5
+[2024.06.01-12.00.14:439][446]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.00.21:412][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.06.01-12.00.21:883][785]LogTexture: Display: 正在构建纹理：/Game/OtherContent/Materials/damaged_brick_1.damaged_brick_1 （BGRA8, 32X32 X1X1）（预计所需内存：0.019531 MB），编码速度：Fast
+[2024.06.01-12.00.21:912][785]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level_sort/Lesson/Lesson_level_6/Lesson_level_6.Lesson_level_6
+[2024.06.01-12.00.21:912][785]Cmd: MAP LOAD FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Lesson/Lesson_level_6/Lesson_level_6.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.06.01-12.00.21:912][785]LightingResults: New page: 光照构建
+[2024.06.01-12.00.21:912][785]LoadErrors: New page: 正在加载地图：Lesson_level_6.umap
+[2024.06.01-12.00.21:967][785]LogSlate: Window 'Lesson_level' being destroyed
+[2024.06.01-12.00.21:987][785]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.00.21:987][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.00.22:029][785]LogWorld: UWorld::CleanupWorld for Lesson_level_5, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.00.22:029][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.00.22:029][785]MapCheck: New page: 地图检测
+[2024.06.01-12.00.22:029][785]LightingResults: New page: 光照构建
+[2024.06.01-12.00.22:062][785]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.01-12.00.22:071][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.06.01-12.00.22:082][785]LogWorld: UWorld::CleanupWorld for Lesson_level_6, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.00.22:082][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.00.22:148][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.06.01-12.00.22:196][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.06.01-12.00.22:206][785]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lesson_level_6'.
+[2024.06.01-12.00.22:206][785]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.01-12.00.22:206][785]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.00.22:207][785]LogAIModule: Creating AISystem for world Lesson_level_6
+[2024.06.01-12.00.22:301][785]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_6/Lesson_level_6.Lesson_level_6:PersistentLevel.bh_start_bp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.840 Y=0.000 Z=0.840
+[2024.06.01-12.00.22:305][785]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_6/Lesson_level_6.Lesson_level_6:PersistentLevel.bh_start_bp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.840 Y=0.000 Z=0.840
+[2024.06.01-12.00.22:327][785]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.06.01-12.00.22:365][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.06.01-12.00.22:377][785]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.06.01-12.00.22:377][785]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.176毫秒。
+[2024.06.01-12.00.22:377][785]LogFileHelpers: Loading map 'Lesson_level_6' took 0.465
+[2024.06.01-12.00.24:706][897]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level_sort/Lesson/Lesson_level_6/Lesson_level_6.Lesson_level_6:PersistentLevel.Lesson_level
+[2024.06.01-12.00.24:707][897]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.00.34:680][400]BlueprintLog: New page: 编译Lesson_level
+[2024.06.01-12.00.34:716][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.06.01-12.00.35:910][439]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2024.06.01-12.00.35:930][439]LogSavePackage: Moving output files for package: /Game/Level_sort/Lesson/Lesson_level_6/Lesson_level_6
+[2024.06.01-12.00.35:931][439]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Lesson_level_6F15E4CF947110A2451D7B785860050BF.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Lesson/Lesson_level_6/Lesson_level_6.umap'
+[2024.06.01-12.00.35:961][439]LogFileHelpers: Saving map 'Lesson_level_6' took 0.096
+[2024.06.01-12.00.36:012][439]AssetCheck: New page: 资产保存：Lesson_level_6
+[2024.06.01-12.00.36:012][439]LogContentValidation: Display: 正在验证World /Game/Level_sort/Lesson/Lesson_level_6/Lesson_level_6.Lesson_level_6
+[2024.06.01-12.00.39:757][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.06.01-12.00.40:065][637]LogTexture: Display: 正在构建纹理：/Game/trap/diamond/DIAMOND_RED.DIAMOND_RED （BGRA8, 88X80 X1X1）（预计所需内存：0.134277 MB），编码速度：Fast
+[2024.06.01-12.00.40:065][637]LogTexture: Display: 正在构建纹理：/Game/OtherContent/Maps_img/map_6.map_6 （BGRA8, 2688X1445 X1X1）（预计所需内存：74.084473 MB），编码速度：Fast
+[2024.06.01-12.00.40:085][637]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level_sort/Lesson/Lesson_level_7/Lesson_level_7.Lesson_level_7
+[2024.06.01-12.00.40:085][637]Cmd: MAP LOAD FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Lesson/Lesson_level_7/Lesson_level_7.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.06.01-12.00.40:085][637]LightingResults: New page: 光照构建
+[2024.06.01-12.00.40:085][637]LoadErrors: New page: 正在加载地图：Lesson_level_7.umap
+[2024.06.01-12.00.40:086][637]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Level_sort/Lesson/Lesson_level_6/Lesson_level_6.Lesson_level_6:PersistentLevel.PaperSpriteActor_1.RenderComponent)
+[2024.06.01-12.00.40:185][637]LogSlate: Window 'Lesson_level' being destroyed
+[2024.06.01-12.00.40:231][637]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.00.40:231][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.00.40:275][637]LogWorld: UWorld::CleanupWorld for Lesson_level_6, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.00.40:275][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.00.40:275][637]MapCheck: New page: 地图检测
+[2024.06.01-12.00.40:275][637]LightingResults: New page: 光照构建
+[2024.06.01-12.00.40:313][637]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.01-12.00.40:322][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.06.01-12.00.40:338][637]LogWorld: UWorld::CleanupWorld for Lesson_level_7, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.00.40:338][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.00.40:393][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.06.01-12.00.40:426][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.06.01-12.00.40:431][637]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lesson_level_7'.
+[2024.06.01-12.00.40:431][637]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.01-12.00.40:431][637]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.00.40:432][637]LogAIModule: Creating AISystem for world Lesson_level_7
+[2024.06.01-12.00.40:526][637]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_7/Lesson_level_7.Lesson_level_7:PersistentLevel.bh_start_bp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=12.600 Y=0.000 Z=0.415
+[2024.06.01-12.00.40:526][637]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_7/Lesson_level_7.Lesson_level_7:PersistentLevel.bh_start_bp_C_11.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.440 Y=0.000 Z=0.415
+[2024.06.01-12.00.40:526][637]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_7/Lesson_level_7.Lesson_level_7:PersistentLevel.bh_start_bp_C_12.Box has a component set to zero, which will result in a bad body instance. Scale:X=4.200 Y=0.000 Z=0.415
+[2024.06.01-12.00.40:529][637]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_7/Lesson_level_7.Lesson_level_7:PersistentLevel.bh_start_bp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=12.600 Y=0.000 Z=0.415
+[2024.06.01-12.00.40:529][637]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_7/Lesson_level_7.Lesson_level_7:PersistentLevel.bh_start_bp_C_11.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.440 Y=0.000 Z=0.415
+[2024.06.01-12.00.40:529][637]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_7/Lesson_level_7.Lesson_level_7:PersistentLevel.bh_start_bp_C_12.Box has a component set to zero, which will result in a bad body instance. Scale:X=4.200 Y=0.000 Z=0.415
+[2024.06.01-12.00.40:544][637]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.06.01-12.00.40:573][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.06.01-12.00.40:581][637]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.06.01-12.00.40:581][637]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.108毫秒。
+[2024.06.01-12.00.40:581][637]LogFileHelpers: Loading map 'Lesson_level_7' took 0.496
+[2024.06.01-12.00.42:582][737]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level_sort/Lesson/Lesson_level_7/Lesson_level_7.Lesson_level_7:PersistentLevel.Lesson_level
+[2024.06.01-12.00.42:583][737]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.00.52:584][242]BlueprintLog: New page: 编译Lesson_level
+[2024.06.01-12.00.52:627][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.06.01-12.00.53:532][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.06.01-12.00.53:545][266]LogSavePackage: Moving output files for package: /Game/Level_sort/Lesson/Lesson_level_7/Lesson_level_7
+[2024.06.01-12.00.53:545][266]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Lesson_level_7D7E77E2C460062ACE7E78FBE905794BC.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Lesson/Lesson_level_7/Lesson_level_7.umap'
+[2024.06.01-12.00.53:567][266]LogFileHelpers: Saving map 'Lesson_level_7' took 0.083
+[2024.06.01-12.00.53:593][266]AssetCheck: New page: 资产保存：Lesson_level_7
+[2024.06.01-12.00.53:593][266]LogContentValidation: Display: 正在验证World /Game/Level_sort/Lesson/Lesson_level_7/Lesson_level_7.Lesson_level_7
+[2024.06.01-12.00.55:976][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.06.01-12.00.56:278][381]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level_sort/Lesson/Lesson_level_8/Lesson_level_8.Lesson_level_8
+[2024.06.01-12.00.56:278][381]Cmd: MAP LOAD FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Lesson/Lesson_level_8/Lesson_level_8.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.06.01-12.00.56:278][381]LightingResults: New page: 光照构建
+[2024.06.01-12.00.56:278][381]LoadErrors: New page: 正在加载地图：Lesson_level_8.umap
+[2024.06.01-12.00.56:416][381]LogSlate: Window 'Lesson_level' being destroyed
+[2024.06.01-12.00.56:445][381]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.00.56:446][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.00.56:500][381]LogWorld: UWorld::CleanupWorld for Lesson_level_7, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.00.56:500][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.00.56:500][381]MapCheck: New page: 地图检测
+[2024.06.01-12.00.56:500][381]LightingResults: New page: 光照构建
+[2024.06.01-12.00.56:541][381]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.01-12.00.56:551][381]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2024.06.01-12.00.56:570][381]LogWorld: UWorld::CleanupWorld for Lesson_level_8, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.00.56:570][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.00.56:653][381]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2024.06.01-12.00.56:704][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.06.01-12.00.56:711][381]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lesson_level_8'.
+[2024.06.01-12.00.56:711][381]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.01-12.00.56:712][381]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.00.56:712][381]LogAIModule: Creating AISystem for world Lesson_level_8
+[2024.06.01-12.00.56:816][381]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.06.01-12.00.56:846][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.06.01-12.00.56:853][381]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.06.01-12.00.56:853][381]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.111毫秒。
+[2024.06.01-12.00.56:853][381]LogFileHelpers: Loading map 'Lesson_level_8' took 0.576
+[2024.06.01-12.00.59:191][496]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level_sort/Lesson/Lesson_level_8/Lesson_level_8.Lesson_level_8:PersistentLevel.Lesson_level
+[2024.06.01-12.00.59:191][496]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.01.09:135][ 16]BlueprintLog: New page: 编译Lesson_level
+[2024.06.01-12.01.09:173][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.06.01-12.01.10:048][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.06.01-12.01.10:056][ 45]LogSavePackage: Moving output files for package: /Game/Level_sort/Lesson/Lesson_level_8/Lesson_level_8
+[2024.06.01-12.01.10:057][ 45]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Lesson_level_893E9D2834A2BC21B70D2499D579E4B4B.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Lesson/Lesson_level_8/Lesson_level_8.umap'
+[2024.06.01-12.01.10:092][ 45]LogFileHelpers: Saving map 'Lesson_level_8' took 0.081
+[2024.06.01-12.01.10:141][ 45]AssetCheck: New page: 资产保存：Lesson_level_8
+[2024.06.01-12.01.10:141][ 45]LogContentValidation: Display: 正在验证World /Game/Level_sort/Lesson/Lesson_level_8/Lesson_level_8.Lesson_level_8
+[2024.06.01-12.01.12:615][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.06.01-12.01.12:884][170]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level_sort/Lesson/Lesson_level_9/Lesson_level_9.Lesson_level_9
+[2024.06.01-12.01.12:884][170]Cmd: MAP LOAD FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Lesson/Lesson_level_9/Lesson_level_9.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.06.01-12.01.12:884][170]LightingResults: New page: 光照构建
+[2024.06.01-12.01.12:884][170]LoadErrors: New page: 正在加载地图：Lesson_level_9.umap
+[2024.06.01-12.01.12:938][170]LogSlate: Window 'Lesson_level' being destroyed
+[2024.06.01-12.01.12:956][170]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.01.12:956][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.01.13:021][170]LogWorld: UWorld::CleanupWorld for Lesson_level_8, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.01.13:023][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.01.13:023][170]MapCheck: New page: 地图检测
+[2024.06.01-12.01.13:023][170]LightingResults: New page: 光照构建
+[2024.06.01-12.01.13:060][170]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.01-12.01.13:066][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.06.01-12.01.13:084][170]LogWorld: UWorld::CleanupWorld for Lesson_level_9, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.01.13:085][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.01.13:155][170]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2024.06.01-12.01.13:194][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.06.01-12.01.13:197][170]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lesson_level_9'.
+[2024.06.01-12.01.13:197][170]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.01-12.01.13:197][170]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.01.13:197][170]LogAIModule: Creating AISystem for world Lesson_level_9
+[2024.06.01-12.01.13:287][170]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.06.01-12.01.13:318][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.06.01-12.01.13:326][170]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.06.01-12.01.13:326][170]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.126毫秒。
+[2024.06.01-12.01.13:326][170]LogFileHelpers: Loading map 'Lesson_level_9' took 0.442
+[2024.06.01-12.01.15:171][259]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level_sort/Lesson/Lesson_level_9/Lesson_level_9.Lesson_level_9:PersistentLevel.Lesson_level
+[2024.06.01-12.01.15:171][259]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.01.26:672][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.06.01-12.01.26:681][841]LogSavePackage: Moving output files for package: /Game/Level_sort/Lesson/Lesson_level_9/Lesson_level_9
+[2024.06.01-12.01.26:682][841]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Lesson_level_97C2E4BA04FA170A884D67997245CF830.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Lesson/Lesson_level_9/Lesson_level_9.umap'
+[2024.06.01-12.01.26:712][841]LogFileHelpers: Saving map 'Lesson_level_9' took 0.073
+[2024.06.01-12.01.26:777][841]AssetCheck: New page: 资产保存：Lesson_level_9
+[2024.06.01-12.01.26:777][841]LogContentValidation: Display: 正在验证World /Game/Level_sort/Lesson/Lesson_level_9/Lesson_level_9.Lesson_level_9
+[2024.06.01-12.01.28:727][955]BlueprintLog: New page: 编译Lesson_level
+[2024.06.01-12.01.28:763][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.06.01-12.01.29:701][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2024.06.01-12.01.29:710][987]LogSavePackage: Moving output files for package: /Game/Level_sort/Lesson/Lesson_level_9/Lesson_level_9
+[2024.06.01-12.01.29:711][987]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Lesson_level_939ABB4374C641CC3BB8720AB87933A66.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Lesson/Lesson_level_9/Lesson_level_9.umap'
+[2024.06.01-12.01.29:746][987]LogFileHelpers: Saving map 'Lesson_level_9' took 0.114
+[2024.06.01-12.01.29:783][987]AssetCheck: New page: 资产保存：Lesson_level_9
+[2024.06.01-12.01.29:784][987]LogContentValidation: Display: 正在验证World /Game/Level_sort/Lesson/Lesson_level_9/Lesson_level_9.Lesson_level_9
+[2024.06.01-12.01.32:989][164]LogBlueprintUserMessages: [MainMenu_C_0] FAIL
+[2024.06.01-12.01.35:986][327]LogBlueprintUserMessages: [DRAW_CARD_C_0] FAIL
+[2024.06.01-12.01.36:402][351]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/User_Interface/Complete_.Complete_
+[2024.06.01-12.01.36:403][351]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.01.36:410][351]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.01.36:724][351]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.06.01-12.01.36:724][351]LogSlateStyle: Warning: 未能找到Slate控件类型“None”。请使用FToolbarStyle默认值替换。
+[2024.06.01-12.01.52:434][ 71]BlueprintLog: New page: 编译Complete_
+[2024.06.01-12.01.52:573][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.06.01-12.01.53:562][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/User_Interface/Complete_" FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Complete_.uasset" SILENT=true
+[2024.06.01-12.01.53:593][ 93]LogSavePackage: Moving output files for package: /Game/User_Interface/Complete_
+[2024.06.01-12.01.53:594][ 93]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Complete_660FC05B4A51F00E440E4996E1CA9A4C.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/User_Interface/Complete_.uasset'
+[2024.06.01-12.01.53:725][ 93]AssetCheck: New page: 资产保存：Complete_
+[2024.06.01-12.01.53:726][ 93]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/User_Interface/Complete_.Complete_
+[2024.06.01-12.01.54:278][119]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.01.54:279][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.01.54:305][119]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.01.54:305][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.01.56:354][232]LogSlate: Window 'Lesson_level' being destroyed
+[2024.06.01-12.01.56:366][232]LogSlate: Window 'Lesson_level' being destroyed
+[2024.06.01-12.01.56:371][232]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.01.56:372][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.02.03:015][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.06.01-12.02.03:370][602]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level_sort/Hard/Hard_level_1/Hard_level_1.Hard_level_1
+[2024.06.01-12.02.03:370][602]Cmd: MAP LOAD FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Hard/Hard_level_1/Hard_level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.06.01-12.02.03:370][602]LightingResults: New page: 光照构建
+[2024.06.01-12.02.03:370][602]LoadErrors: New page: 正在加载地图：Hard_level_1.umap
+[2024.06.01-12.02.03:373][602]LogWorld: UWorld::CleanupWorld for Lesson_level_9, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.02.03:374][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.02.03:374][602]MapCheck: New page: 地图检测
+[2024.06.01-12.02.03:374][602]LightingResults: New page: 光照构建
+[2024.06.01-12.02.03:414][602]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.01-12.02.03:418][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.06.01-12.02.03:425][602]LogWorld: UWorld::CleanupWorld for Hard_level_1, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.02.03:425][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.02.03:501][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.06.01-12.02.03:571][602]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2024.06.01-12.02.03:582][602]LogAudio: Display: Audio Device (ID: 1) registered with world 'Hard_level_1'.
+[2024.06.01-12.02.03:582][602]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.01-12.02.03:582][602]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.02.03:583][602]LogAIModule: Creating AISystem for world Hard_level_1
+[2024.06.01-12.02.03:689][602]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.06.01-12.02.03:724][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.06.01-12.02.03:732][602]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.06.01-12.02.03:732][602]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.111毫秒。
+[2024.06.01-12.02.03:732][602]LogFileHelpers: Loading map 'Hard_level_1' took 0.361
+[2024.06.01-12.02.06:430][746]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level_sort/Hard/Hard_level_1/Hard_level_1.Hard_level_1:PersistentLevel.Hard_level
+[2024.06.01-12.02.06:430][746]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.02.17:025][285]BlueprintLog: New page: 编译Hard_level
+[2024.06.01-12.02.17:067][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.06.01-12.02.17:827][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.06.01-12.02.17:836][310]LogSavePackage: Moving output files for package: /Game/Level_sort/Hard/Hard_level_1/Hard_level_1
+[2024.06.01-12.02.17:837][310]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Hard_level_1C0A4655347FF79BCD88B128F940C5A32.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Hard/Hard_level_1/Hard_level_1.umap'
+[2024.06.01-12.02.17:873][310]LogFileHelpers: Saving map 'Hard_level_1' took 0.089
+[2024.06.01-12.02.17:925][310]AssetCheck: New page: 资产保存：Hard_level_1
+[2024.06.01-12.02.17:925][310]LogContentValidation: Display: 正在验证World /Game/Level_sort/Hard/Hard_level_1/Hard_level_1.Hard_level_1
+[2024.06.01-12.02.20:924][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.06.01-12.02.21:156][459]LogTexture: Display: 正在构建纹理：/Game/OtherContent/Materials/damaged_brick_3.damaged_brick_3 （BGRA8, 32X32 X1X1）（预计所需内存：0.019531 MB），编码速度：Fast
+[2024.06.01-12.02.21:168][459]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level_sort/Hard/Hard_level_2/Hard_level_2.Hard_level_2
+[2024.06.01-12.02.21:168][459]Cmd: MAP LOAD FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Hard/Hard_level_2/Hard_level_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.06.01-12.02.21:168][459]LightingResults: New page: 光照构建
+[2024.06.01-12.02.21:168][459]LoadErrors: New page: 正在加载地图：Hard_level_2.umap
+[2024.06.01-12.02.21:310][459]LogSlate: Window 'Hard_level' being destroyed
+[2024.06.01-12.02.21:342][459]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.02.21:342][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.02.21:384][459]LogWorld: UWorld::CleanupWorld for Hard_level_1, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.02.21:384][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.02.21:384][459]MapCheck: New page: 地图检测
+[2024.06.01-12.02.21:384][459]LightingResults: New page: 光照构建
+[2024.06.01-12.02.21:415][459]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.01-12.02.21:420][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.06.01-12.02.21:438][459]LogWorld: UWorld::CleanupWorld for Hard_level_2, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.02.21:438][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.02.21:497][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.06.01-12.02.21:536][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.06.01-12.02.21:539][459]LogAudio: Display: Audio Device (ID: 1) registered with world 'Hard_level_2'.
+[2024.06.01-12.02.21:539][459]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.01-12.02.21:539][459]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.02.21:541][459]LogAIModule: Creating AISystem for world Hard_level_2
+[2024.06.01-12.02.21:662][459]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.06.01-12.02.21:743][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.06.01-12.02.21:752][459]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.06.01-12.02.21:752][459]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.129毫秒。
+[2024.06.01-12.02.21:752][459]LogFileHelpers: Loading map 'Hard_level_2' took 0.584
+[2024.06.01-12.02.24:142][580]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level_sort/Hard/Hard_level_2/Hard_level_2.Hard_level_2:PersistentLevel.Hard_level
+[2024.06.01-12.02.24:142][580]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.02.34:007][ 65]BlueprintLog: New page: 编译Hard_level
+[2024.06.01-12.02.34:048][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.06.01-12.02.34:069][ 66]BlueprintLog: New page: 编译Hard_level
+[2024.06.01-12.02.34:122][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.06.01-12.02.34:992][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.06.01-12.02.35:000][ 99]LogSavePackage: Moving output files for package: /Game/Level_sort/Hard/Hard_level_2/Hard_level_2
+[2024.06.01-12.02.35:000][ 99]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Hard_level_2FE6557024C9BBB6978684696C3746645.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Hard/Hard_level_2/Hard_level_2.umap'
+[2024.06.01-12.02.35:027][ 99]LogFileHelpers: Saving map 'Hard_level_2' took 0.084
+[2024.06.01-12.02.35:057][ 99]AssetCheck: New page: 资产保存：Hard_level_2
+[2024.06.01-12.02.35:057][ 99]LogContentValidation: Display: 正在验证World /Game/Level_sort/Hard/Hard_level_2/Hard_level_2.Hard_level_2
+[2024.06.01-12.02.38:697][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.06.01-12.02.39:044][287]LogTexture: Display: 正在构建纹理：/Game/OtherContent/Materials/stairs_wood_3.stairs_wood_3 （BGRA8, 32X32 X1X1）（预计所需内存：0.019531 MB），编码速度：Fast
+[2024.06.01-12.02.39:058][287]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level_sort/Hard/Hard_level_3/Hard_level_3.Hard_level_3
+[2024.06.01-12.02.39:058][287]Cmd: MAP LOAD FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Hard/Hard_level_3/Hard_level_3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.06.01-12.02.39:058][287]LightingResults: New page: 光照构建
+[2024.06.01-12.02.39:058][287]LoadErrors: New page: 正在加载地图：Hard_level_3.umap
+[2024.06.01-12.02.39:166][287]LogSlate: Window 'Hard_level' being destroyed
+[2024.06.01-12.02.39:196][287]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.02.39:196][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.02.39:249][287]LogWorld: UWorld::CleanupWorld for Hard_level_2, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.02.39:249][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.02.39:249][287]MapCheck: New page: 地图检测
+[2024.06.01-12.02.39:249][287]LightingResults: New page: 光照构建
+[2024.06.01-12.02.39:288][287]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.01-12.02.39:293][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.06.01-12.02.39:312][287]LogWorld: UWorld::CleanupWorld for Hard_level_3, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.02.39:313][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.02.39:375][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.06.01-12.02.39:415][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.06.01-12.02.39:419][287]LogAudio: Display: Audio Device (ID: 1) registered with world 'Hard_level_3'.
+[2024.06.01-12.02.39:419][287]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.01-12.02.39:419][287]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.02.39:419][287]LogAIModule: Creating AISystem for world Hard_level_3
+[2024.06.01-12.02.39:502][287]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.06.01-12.02.39:528][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.06.01-12.02.39:538][287]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.06.01-12.02.39:538][287]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.109毫秒。
+[2024.06.01-12.02.39:538][287]LogFileHelpers: Loading map 'Hard_level_3' took 0.480
+[2024.06.01-12.02.42:552][442]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level_sort/Hard/Hard_level_3/Hard_level_3.Hard_level_3:PersistentLevel.Hard_level
+[2024.06.01-12.02.42:553][442]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.02.52:024][916]BlueprintLog: New page: 编译Hard_level
+[2024.06.01-12.02.52:068][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.06.01-12.02.52:889][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.06.01-12.02.52:898][941]LogSavePackage: Moving output files for package: /Game/Level_sort/Hard/Hard_level_3/Hard_level_3
+[2024.06.01-12.02.52:899][941]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Hard_level_3EC70E1B0460950AED03693BBDD85D12C.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Hard/Hard_level_3/Hard_level_3.umap'
+[2024.06.01-12.02.52:936][941]LogFileHelpers: Saving map 'Hard_level_3' took 0.086
+[2024.06.01-12.02.52:975][941]AssetCheck: New page: 资产保存：Hard_level_3
+[2024.06.01-12.02.52:975][941]LogContentValidation: Display: 正在验证World /Game/Level_sort/Hard/Hard_level_3/Hard_level_3.Hard_level_3
+[2024.06.01-12.02.55:934][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.06.01-12.02.56:091][ 93]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level_sort/Hard/Hard_level_4/Hard_level_4.Hard_level_4
+[2024.06.01-12.02.56:091][ 93]Cmd: MAP LOAD FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Hard/Hard_level_4/Hard_level_4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.06.01-12.02.56:091][ 93]LightingResults: New page: 光照构建
+[2024.06.01-12.02.56:091][ 93]LoadErrors: New page: 正在加载地图：Hard_level_4.umap
+[2024.06.01-12.02.56:183][ 93]LogSlate: Window 'Hard_level' being destroyed
+[2024.06.01-12.02.56:198][ 93]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.02.56:199][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.02.56:240][ 93]LogWorld: UWorld::CleanupWorld for Hard_level_3, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.02.56:240][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.02.56:240][ 93]MapCheck: New page: 地图检测
+[2024.06.01-12.02.56:240][ 93]LightingResults: New page: 光照构建
+[2024.06.01-12.02.56:267][ 93]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.01-12.02.56:273][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.06.01-12.02.56:286][ 93]LogWorld: UWorld::CleanupWorld for Hard_level_4, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.02.56:286][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.02.56:330][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2024.06.01-12.02.56:383][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2024.06.01-12.02.56:386][ 93]LogAudio: Display: Audio Device (ID: 1) registered with world 'Hard_level_4'.
+[2024.06.01-12.02.56:386][ 93]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.01-12.02.56:387][ 93]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.02.56:388][ 93]LogAIModule: Creating AISystem for world Hard_level_4
+[2024.06.01-12.02.56:408][ 93]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.06.01-12.02.56:436][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.06.01-12.02.56:445][ 93]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.06.01-12.02.56:445][ 93]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.103毫秒。
+[2024.06.01-12.02.56:445][ 93]LogFileHelpers: Loading map 'Hard_level_4' took 0.354
+[2024.06.01-12.02.58:743][214]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level_sort/Hard/Hard_level_4/Hard_level_4.Hard_level_4:PersistentLevel.Hard_level
+[2024.06.01-12.02.58:743][214]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.03.09:336][780]BlueprintLog: New page: 编译Hard_level
+[2024.06.01-12.03.09:378][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.06.01-12.03.10:205][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.06.01-12.03.10:210][802]LogSavePackage: Moving output files for package: /Game/Level_sort/Hard/Hard_level_4/Hard_level_4
+[2024.06.01-12.03.10:211][802]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Hard_level_4F162C11C4DCC6F49EB1AACBBE79D67A7.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Hard/Hard_level_4/Hard_level_4.umap'
+[2024.06.01-12.03.10:249][802]LogFileHelpers: Saving map 'Hard_level_4' took 0.082
+[2024.06.01-12.03.10:311][802]AssetCheck: New page: 资产保存：Hard_level_4
+[2024.06.01-12.03.10:311][802]LogContentValidation: Display: 正在验证World /Game/Level_sort/Hard/Hard_level_4/Hard_level_4.Hard_level_4
+[2024.06.01-12.03.12:479][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.06.01-12.03.12:597][914]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level_sort/Hard/Hard_level_5/Hard_level_5.Hard_level_5
+[2024.06.01-12.03.12:597][914]Cmd: MAP LOAD FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Hard/Hard_level_5/Hard_level_5.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.06.01-12.03.12:597][914]LightingResults: New page: 光照构建
+[2024.06.01-12.03.12:598][914]LoadErrors: New page: 正在加载地图：Hard_level_5.umap
+[2024.06.01-12.03.12:801][914]LogSlate: Window 'Hard_level' being destroyed
+[2024.06.01-12.03.12:843][914]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.03.12:843][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.03.12:923][914]LogWorld: UWorld::CleanupWorld for Hard_level_4, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.03.12:923][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.03.12:923][914]MapCheck: New page: 地图检测
+[2024.06.01-12.03.12:923][914]LightingResults: New page: 光照构建
+[2024.06.01-12.03.12:965][914]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.01-12.03.12:969][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.06.01-12.03.12:983][914]LogWorld: UWorld::CleanupWorld for Hard_level_5, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.03.12:983][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.03.13:023][914]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2024.06.01-12.03.13:055][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.06.01-12.03.13:057][914]LogAudio: Display: Audio Device (ID: 1) registered with world 'Hard_level_5'.
+[2024.06.01-12.03.13:057][914]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.01-12.03.13:057][914]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.03.13:058][914]LogAIModule: Creating AISystem for world Hard_level_5
+[2024.06.01-12.03.13:067][914]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.06.01-12.03.13:092][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.06.01-12.03.13:099][914]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.06.01-12.03.13:100][914]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.104毫秒。
+[2024.06.01-12.03.13:100][914]LogFileHelpers: Loading map 'Hard_level_5' took 0.503
+[2024.06.01-12.03.15:982][ 69]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level_sort/Hard/Hard_level_5/Hard_level_5.Hard_level_5:PersistentLevel.Hard_level
+[2024.06.01-12.03.15:983][ 69]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.03.28:368][734]BlueprintLog: New page: 编译Hard_level
+[2024.06.01-12.03.28:413][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.06.01-12.03.29:309][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.06.01-12.03.29:315][761]LogSavePackage: Moving output files for package: /Game/Level_sort/Hard/Hard_level_5/Hard_level_5
+[2024.06.01-12.03.29:315][761]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Hard_level_51133555643266DB9C0A3E6B47BD7B043.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Hard/Hard_level_5/Hard_level_5.umap'
+[2024.06.01-12.03.29:339][761]LogFileHelpers: Saving map 'Hard_level_5' took 0.064
+[2024.06.01-12.03.29:363][761]AssetCheck: New page: 资产保存：Hard_level_5
+[2024.06.01-12.03.29:363][761]LogContentValidation: Display: 正在验证World /Game/Level_sort/Hard/Hard_level_5/Hard_level_5.Hard_level_5
+[2024.06.01-12.03.32:029][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.06.01-12.03.32:121][901]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level_sort/Hard/Hard_level_6/Hard_level_6.Hard_level_6
+[2024.06.01-12.03.32:121][901]Cmd: MAP LOAD FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Hard/Hard_level_6/Hard_level_6.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.06.01-12.03.32:121][901]LightingResults: New page: 光照构建
+[2024.06.01-12.03.32:121][901]LoadErrors: New page: 正在加载地图：Hard_level_6.umap
+[2024.06.01-12.03.32:187][901]LogSlate: Window 'Hard_level' being destroyed
+[2024.06.01-12.03.32:203][901]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.03.32:203][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.03.32:263][901]LogWorld: UWorld::CleanupWorld for Hard_level_5, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.03.32:263][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.03.32:263][901]MapCheck: New page: 地图检测
+[2024.06.01-12.03.32:263][901]LightingResults: New page: 光照构建
+[2024.06.01-12.03.32:291][901]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.01-12.03.32:295][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.06.01-12.03.32:308][901]LogWorld: UWorld::CleanupWorld for Hard_level_6, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.03.32:308][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.03.32:364][901]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2024.06.01-12.03.32:419][901]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.06.01-12.03.32:422][901]LogAudio: Display: Audio Device (ID: 1) registered with world 'Hard_level_6'.
+[2024.06.01-12.03.32:422][901]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.01-12.03.32:423][901]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.03.32:423][901]LogAIModule: Creating AISystem for world Hard_level_6
+[2024.06.01-12.03.32:432][901]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.06.01-12.03.32:457][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.06.01-12.03.32:465][901]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.06.01-12.03.32:465][901]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.103毫秒。
+[2024.06.01-12.03.32:465][901]LogFileHelpers: Loading map 'Hard_level_6' took 0.344
+[2024.06.01-12.03.34:234][989]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level_sort/Hard/Hard_level_6/Hard_level_6.Hard_level_6:PersistentLevel.Hard_level
+[2024.06.01-12.03.34:235][989]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.03.43:021][452]BlueprintLog: New page: 编译Hard_level
+[2024.06.01-12.03.43:061][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.06.01-12.03.43:957][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.06.01-12.03.43:963][475]LogSavePackage: Moving output files for package: /Game/Level_sort/Hard/Hard_level_6/Hard_level_6
+[2024.06.01-12.03.43:964][475]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Hard_level_6B2D45B14459A067BAC620FA8E977BBCA.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Hard/Hard_level_6/Hard_level_6.umap'
+[2024.06.01-12.03.44:004][475]LogFileHelpers: Saving map 'Hard_level_6' took 0.101
+[2024.06.01-12.03.44:052][475]AssetCheck: New page: 资产保存：Hard_level_6
+[2024.06.01-12.03.44:052][475]LogContentValidation: Display: 正在验证World /Game/Level_sort/Hard/Hard_level_6/Hard_level_6.Hard_level_6
+[2024.06.01-12.03.46:181][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.06.01-12.03.46:399][588]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level_sort/Hard/Hard_level_7/Hard_level_7.Hard_level_7
+[2024.06.01-12.03.46:401][588]Cmd: MAP LOAD FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Hard/Hard_level_7/Hard_level_7.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.06.01-12.03.46:401][588]LightingResults: New page: 光照构建
+[2024.06.01-12.03.46:401][588]LoadErrors: New page: 正在加载地图：Hard_level_7.umap
+[2024.06.01-12.03.46:545][588]LogSlate: Window 'Hard_level' being destroyed
+[2024.06.01-12.03.46:603][588]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.03.46:603][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.03.46:661][588]LogWorld: UWorld::CleanupWorld for Hard_level_6, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.03.46:661][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.03.46:661][588]MapCheck: New page: 地图检测
+[2024.06.01-12.03.46:661][588]LightingResults: New page: 光照构建
+[2024.06.01-12.03.46:697][588]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.01-12.03.46:702][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.06.01-12.03.46:719][588]LogWorld: UWorld::CleanupWorld for Hard_level_7, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.03.46:719][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.03.46:750][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.06.01-12.03.46:785][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.06.01-12.03.46:788][588]LogAudio: Display: Audio Device (ID: 1) registered with world 'Hard_level_7'.
+[2024.06.01-12.03.46:788][588]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.01-12.03.46:788][588]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.03.46:788][588]LogAIModule: Creating AISystem for world Hard_level_7
+[2024.06.01-12.03.46:799][588]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.06.01-12.03.46:833][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.06.01-12.03.46:840][588]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.06.01-12.03.46:840][588]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.103毫秒。
+[2024.06.01-12.03.46:840][588]LogFileHelpers: Loading map 'Hard_level_7' took 0.440
+[2024.06.01-12.03.54:257][  2]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level_sort/Hard/Hard_level_7/Hard_level_7.Hard_level_7:PersistentLevel.Hard_level
+[2024.06.01-12.03.54:257][  2]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.04.04:373][546]BlueprintLog: New page: 编译Hard_level
+[2024.06.01-12.04.04:416][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.06.01-12.04.05:395][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.06.01-12.04.05:400][580]LogSavePackage: Moving output files for package: /Game/Level_sort/Hard/Hard_level_7/Hard_level_7
+[2024.06.01-12.04.05:401][580]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Hard_level_7FE1F9FA545EDEACE8F048DA1A6CA6846.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Hard/Hard_level_7/Hard_level_7.umap'
+[2024.06.01-12.04.05:411][580]LogFileHelpers: Saving map 'Hard_level_7' took 0.053
+[2024.06.01-12.04.05:425][580]AssetCheck: New page: 资产保存：Hard_level_7
+[2024.06.01-12.04.05:425][580]LogContentValidation: Display: 正在验证World /Game/Level_sort/Hard/Hard_level_7/Hard_level_7.Hard_level_7
+[2024.06.01-12.04.07:735][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.06.01-12.04.07:888][700]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level_sort/Hard/Hard_level_8/Hard_level_8.Hard_level_8
+[2024.06.01-12.04.07:888][700]Cmd: MAP LOAD FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Hard/Hard_level_8/Hard_level_8.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.06.01-12.04.07:889][700]LightingResults: New page: 光照构建
+[2024.06.01-12.04.07:889][700]LoadErrors: New page: 正在加载地图：Hard_level_8.umap
+[2024.06.01-12.04.07:986][700]LogSlate: Window 'Hard_level' being destroyed
+[2024.06.01-12.04.08:072][700]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.04.08:072][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.04.08:117][700]LogWorld: UWorld::CleanupWorld for Hard_level_7, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.04.08:117][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.04.08:117][700]MapCheck: New page: 地图检测
+[2024.06.01-12.04.08:117][700]LightingResults: New page: 光照构建
+[2024.06.01-12.04.08:144][700]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.01-12.04.08:148][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.06.01-12.04.08:166][700]LogWorld: UWorld::CleanupWorld for Hard_level_8, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.04.08:167][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.04.08:254][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2024.06.01-12.04.08:298][700]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2024.06.01-12.04.08:300][700]LogAudio: Display: Audio Device (ID: 1) registered with world 'Hard_level_8'.
+[2024.06.01-12.04.08:300][700]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.01-12.04.08:300][700]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.04.08:300][700]LogAIModule: Creating AISystem for world Hard_level_8
+[2024.06.01-12.04.08:309][700]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.06.01-12.04.08:339][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.06.01-12.04.08:348][700]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.06.01-12.04.08:348][700]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.105毫秒。
+[2024.06.01-12.04.08:348][700]LogFileHelpers: Loading map 'Hard_level_8' took 0.459
+[2024.06.01-12.04.10:860][830]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level_sort/Hard/Hard_level_8/Hard_level_8.Hard_level_8:PersistentLevel.Hard_level
+[2024.06.01-12.04.10:860][830]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.04.19:455][280]BlueprintLog: New page: 编译Hard_level
+[2024.06.01-12.04.19:499][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.06.01-12.04.20:390][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.06.01-12.04.20:396][302]LogSavePackage: Moving output files for package: /Game/Level_sort/Hard/Hard_level_8/Hard_level_8
+[2024.06.01-12.04.20:396][302]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Hard_level_8022912A0443914BF8508EFB8393DA9EC.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Hard/Hard_level_8/Hard_level_8.umap'
+[2024.06.01-12.04.20:427][302]LogFileHelpers: Saving map 'Hard_level_8' took 0.083
+[2024.06.01-12.04.20:477][302]AssetCheck: New page: 资产保存：Hard_level_8
+[2024.06.01-12.04.20:477][302]LogContentValidation: Display: 正在验证World /Game/Level_sort/Hard/Hard_level_8/Hard_level_8.Hard_level_8
+[2024.06.01-12.04.22:578][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.06.01-12.04.22:807][409]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level_sort/Hard/Hard_level_9/Hard_level_9.Hard_level_9
+[2024.06.01-12.04.22:808][409]Cmd: MAP LOAD FILE="../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Hard/Hard_level_9/Hard_level_9.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.06.01-12.04.22:808][409]LightingResults: New page: 光照构建
+[2024.06.01-12.04.22:808][409]LoadErrors: New page: 正在加载地图：Hard_level_9.umap
+[2024.06.01-12.04.22:898][409]LogSlate: Window 'Hard_level' being destroyed
+[2024.06.01-12.04.22:918][409]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.04.22:919][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.04.22:966][409]LogWorld: UWorld::CleanupWorld for Hard_level_8, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.04.22:966][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.04.22:966][409]MapCheck: New page: 地图检测
+[2024.06.01-12.04.22:966][409]LightingResults: New page: 光照构建
+[2024.06.01-12.04.22:989][409]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.01-12.04.22:992][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.06.01-12.04.23:006][409]LogWorld: UWorld::CleanupWorld for Hard_level_9, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.04.23:006][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.04.23:029][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.06.01-12.04.23:052][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.06.01-12.04.23:054][409]LogAudio: Display: Audio Device (ID: 1) registered with world 'Hard_level_9'.
+[2024.06.01-12.04.23:054][409]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.01-12.04.23:054][409]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.04.23:055][409]LogAIModule: Creating AISystem for world Hard_level_9
+[2024.06.01-12.04.23:064][409]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.06.01-12.04.23:087][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.06.01-12.04.23:096][409]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.06.01-12.04.23:096][409]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.168毫秒。
+[2024.06.01-12.04.23:096][409]LogFileHelpers: Loading map 'Hard_level_9' took 0.289
+[2024.06.01-12.04.25:056][494]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level_sort/Hard/Hard_level_9/Hard_level_9.Hard_level_9:PersistentLevel.Hard_level
+[2024.06.01-12.04.25:056][494]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.01-12.04.40:475][303]BlueprintLog: New page: 编译Hard_level
+[2024.06.01-12.04.40:517][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.06.01-12.04.41:331][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.06.01-12.04.41:339][333]LogSavePackage: Moving output files for package: /Game/Level_sort/Hard/Hard_level_9/Hard_level_9
+[2024.06.01-12.04.41:340][333]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Hard_level_931C3D52B4E0D2B552D02029D7A37066D.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Hard/Hard_level_9/Hard_level_9.umap'
+[2024.06.01-12.04.41:376][333]LogFileHelpers: Saving map 'Hard_level_9' took 0.088
+[2024.06.01-12.04.41:440][333]AssetCheck: New page: 资产保存：Hard_level_9
+[2024.06.01-12.04.41:440][333]LogContentValidation: Display: 正在验证World /Game/Level_sort/Hard/Hard_level_9/Hard_level_9.Hard_level_9
+[2024.06.01-12.04.47:863][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.06.01-12.04.47:869][672]LogSavePackage: Moving output files for package: /Game/Level_sort/Hard/Hard_level_9/Hard_level_9
+[2024.06.01-12.04.47:870][672]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Hard_level_9811A45AB45134050356AC9BC16AB531E.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Hard/Hard_level_9/Hard_level_9.umap'
+[2024.06.01-12.04.47:905][672]LogFileHelpers: Saving map 'Hard_level_9' took 0.097
+[2024.06.01-12.04.47:954][672]AssetCheck: New page: 资产保存：Hard_level_9
+[2024.06.01-12.04.47:954][672]LogContentValidation: Display: 正在验证World /Game/Level_sort/Hard/Hard_level_9/Hard_level_9.Hard_level_9
+[2024.06.01-12.04.48:683][714]LogSlate: Window 'Hard_level' being destroyed
+[2024.06.01-12.04.48:700][714]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-12.04.48:700][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-12.04.51:530][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.06.01-12.04.51:546][849]LogSavePackage: Moving output files for package: /Game/Level_sort/Hard/Hard_level_9/Hard_level_9
+[2024.06.01-12.04.51:547][849]LogSavePackage: Moving '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Saved/Hard_level_94AB5E78A44B792DA6A127786FC338753.tmp' to '../../../../../../Users/盧孟煜/Documents/GitHub/Final/Content/Level_sort/Hard/Hard_level_9/Hard_level_9.umap'
+[2024.06.01-12.04.51:614][849]AssetCheck: New page: 资产保存：Hard_level_9
+[2024.06.01-12.04.51:614][849]LogContentValidation: Display: 正在验证World /Game/Level_sort/Hard/Hard_level_9/Hard_level_9.Hard_level_9
