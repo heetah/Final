@@ -1013,3 +1013,218 @@ Intel(R) Iris(R) Xe Graphics
 [2024.06.02-16.57.18:122][343]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/桌面/final/Final/Saved/Lesson_level_1E0C1E8E34781841A3F5692BE7859E235.tmp' to '../../../../../../Users/user/OneDrive/桌面/final/Final/Content/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.umap'
 [2024.06.02-16.57.18:441][343]AssetCheck: New page: 资产保存：Lesson_level_1
 [2024.06.02-16.57.18:441][343]LogContentValidation: Display: 正在验证World /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1
+[2024.06.02-17.01.20:256][440]LogContentBrowser: Deferred new asset folder creation: 新建文件夹
+[2024.06.02-17.01.20:284][440]LogContentBrowser: Creating deferred item: 新建文件夹
+[2024.06.02-17.01.20:337][441]LogContentBrowser: Renaming the item being created (Deferred Item: 新建文件夹).
+[2024.06.02-17.01.23:239][576]LogContentBrowser: Attempting asset rename: 新建文件夹 -> poison
+[2024.06.02-17.01.23:249][576]LogContentBrowser: End creating deferred item 新建文件夹
+[2024.06.02-17.01.33:242][206]LogContentBrowser: Attempting asset rename: poison -> poisonous
+[2024.06.02-17.01.43:035][775]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.06.02-17.01.43:035][775]LogSlateStyle: Warning: 未能找到Slate控件类型“Window.Buttons.Close”。请使用FButtonStyle默认值替换。
+[2024.06.02-17.01.44:989][978]LogContentBrowser: Deferred new asset file creation: firebp1
+[2024.06.02-17.01.45:014][978]LogContentBrowser: Creating deferred item: firebp1
+[2024.06.02-17.01.45:062][979]LogContentBrowser: Renaming the item being created (Deferred Item: firebp1).
+[2024.06.02-17.01.49:910][215]LogContentBrowser: Attempting asset rename: firebp1 -> poison
+[2024.06.02-17.01.50:440][215]LogUObjectHash: Compacting FUObjectHashTables data took  17.57ms
+[2024.06.02-17.01.50:527][215]LogContentBrowser: End creating deferred item firebp1
+[2024.06.02-17.01.56:934][754]LogMetaData: Removing '/Game/trap/poisonous/poison.SKEL_poison_C' ref from Metadata '/Game/trap/fire/poison.PackageMetaData'
+[2024.06.02-17.01.56:935][754]LogMetaData: Removing '/Game/trap/poisonous/poison.poison_C' ref from Metadata '/Game/trap/fire/poison.PackageMetaData'
+[2024.06.02-17.01.56:935][754]LogMetaData: Removing '/Game/trap/poisonous/poison.SKEL_poison_C:ReceiveBeginPlay' ref from Metadata '/Game/trap/fire/poison.PackageMetaData'
+[2024.06.02-17.01.56:935][754]LogMetaData: Removing '/Game/trap/poisonous/poison.SKEL_poison_C:ReceiveTick' ref from Metadata '/Game/trap/fire/poison.PackageMetaData'
+[2024.06.02-17.01.56:935][754]LogMetaData: Removing '/Game/trap/poisonous/poison.SKEL_poison_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/trap/fire/poison.PackageMetaData'
+[2024.06.02-17.01.56:935][754]LogMetaData: Removing '/Game/trap/poisonous/poison.SKEL_poison_C:UserConstructionScript' ref from Metadata '/Game/trap/fire/poison.PackageMetaData'
+[2024.06.02-17.01.56:935][754]LogMetaData: Removing '/Game/trap/poisonous/poison.poison_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/trap/fire/poison.PackageMetaData'
+[2024.06.02-17.01.57:010][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/trap/poisonous/poison" FILE="../../../../../../Users/user/OneDrive/桌面/final/Final/Content/trap/poisonous/poison.uasset" SILENT=true
+[2024.06.02-17.01.57:042][754]LogSavePackage: Moving output files for package: /Game/trap/poisonous/poison
+[2024.06.02-17.01.57:042][754]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/桌面/final/Final/Saved/poison4A9D1D7A43612F274DA3E4AFB5425C38.tmp' to '../../../../../../Users/user/OneDrive/桌面/final/Final/Content/trap/poisonous/poison.uasset'
+[2024.06.02-17.01.57:119][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.06.02-17.01.57:163][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.06.02-17.01.57:199][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.06.02-17.01.57:231][754]AssetCheck: New page: 资产保存：poison
+[2024.06.02-17.01.57:232][754]LogContentValidation: Display: 正在验证Blueprint /Game/trap/poisonous/poison.poison
+[2024.06.02-17.05.42:891][593]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.05.42:930][593]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.05.42:938][593]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.05.42:941][593]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.06.11:062][ 88]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.06.11:083][ 88]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.06.11:084][ 88]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.06.11:086][ 88]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.06.39:749][790]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.06.39:750][790]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.06.39:752][790]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.06.39:753][790]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.07.11:684][434]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.07.11:688][434]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.07.11:691][434]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.07.11:692][434]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.07.11:703][434]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.07.11:704][434]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.07.11:706][434]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.07.11:706][434]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.07.11:758][434]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.07.11:758][434]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.07.11:759][434]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.07.11:759][434]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.07.12:875][478]BlueprintLog: New page: 编译firebp
+[2024.06.02-17.07.12:980][478]LogBlueprint: Warning: [AssetLog] C:\Users\user\OneDrive\桌面\final\Final\Content\trap\fire\firebp.uasset: [Compiler] 盒体重叠组件 已被修剪，因为其执行引脚未连接，连接的值不可用，将作为默认进行读取
+[2024.06.02-17.07.13:103][478]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.07.13:104][478]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.07.13:343][478]LogUObjectHash: Compacting FUObjectHashTables data took   9.26ms
+[2024.06.02-17.07.13:356][478]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.07.13:356][478]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.07.13:357][478]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.07.13:357][478]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.07.13:362][478]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.07.13:362][478]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.07.13:362][478]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.07.13:363][478]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.10.24:119][530]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2024.06.02-17.10.24:239][530]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1_Auto1
+[2024.06.02-17.10.24:241][530]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/桌面/final/Final/Saved/Lesson_level_1_Auto1BAEDB617473CF58CE2BD10A7F1A77A75.tmp' to '../../../../../../Users/user/OneDrive/桌面/final/Final/Saved/Autosaves/Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1_Auto1.umap'
+[2024.06.02-17.10.24:287][530]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1' took 0.224
+[2024.06.02-17.10.24:287][530]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.224
+[2024.06.02-17.10.24:291][530]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/trap/fire/firebp] ([2] browsable assets)...
+[2024.06.02-17.10.24:291][530]OBJ SavePackage: Finished generating thumbnails for package [/Game/trap/fire/firebp]
+[2024.06.02-17.10.24:291][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/trap/fire/firebp" FILE="../../../../../../Users/user/OneDrive/桌面/final/Final/Saved/Autosaves/Game/trap/fire/firebp_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.06.02-17.10.24:301][530]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/trap/fire/firebp_Auto1
+[2024.06.02-17.10.24:302][530]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/桌面/final/Final/Saved/firebp_Auto1C2C7FAA343595976615980B8EC0F60F5.tmp' to '../../../../../../Users/user/OneDrive/桌面/final/Final/Saved/Autosaves/Game/trap/fire/firebp_Auto1.uasset'
+[2024.06.02-17.10.24:303][530]LogFileHelpers: Auto-saving content packages took 0.016
+[2024.06.02-17.10.28:982][743]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.06.02-17.11.19:504][567]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.11.19:504][567]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.11.19:505][567]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.11.19:505][567]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.12.57:359][573]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.12.57:360][573]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.12.57:361][573]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.12.57:362][573]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.14.14:037][509]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.14.14:038][509]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.14.14:039][509]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.14.14:040][509]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.14.14:046][509]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.14.14:047][509]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.14.14:047][509]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.14.14:048][509]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.15.38:144][971]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.15.38:145][971]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.15.38:147][971]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.15.38:148][971]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.17.48:038][814]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.17.48:039][814]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.17.48:041][814]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.17.48:042][814]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.17.51:861][926]LogSlate: Took 0.015637 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.06.02-17.17.59:669][255]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.17.59:670][255]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.17.59:671][255]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.17.59:671][255]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.18.31:325][257]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.18.31:326][257]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.18.31:327][257]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.18.31:327][257]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.19.07:231][971]BlueprintLog: New page: 编译firebp
+[2024.06.02-17.19.07:444][971]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.19.07:445][971]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.19.07:692][971]LogUObjectHash: Compacting FUObjectHashTables data took   6.61ms
+[2024.06.02-17.19.07:708][971]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.19.07:708][971]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.19.07:710][971]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.19.07:710][971]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.19.07:716][971]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.19.07:716][971]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.19.07:718][971]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.19.07:718][971]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.19.09:388][ 35]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.19.09:389][ 35]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.19.09:390][ 35]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.19.09:390][ 35]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.19.09:391][ 35]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.19.09:391][ 35]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.19.09:391][ 35]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.19.09:392][ 35]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.19.15:059][254]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.19.15:059][254]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.19.15:060][254]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.19.15:061][254]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.19.15:061][254]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.19.15:061][254]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.19.15:063][254]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.19.15:063][254]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.21.27:921][691]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.21.27:922][691]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.21.27:931][691]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.21.27:931][691]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.21.29:339][747]BlueprintLog: New page: 编译firebp
+[2024.06.02-17.21.29:378][747]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.21.29:379][747]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.21.29:478][747]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2024.06.02-17.21.29:483][747]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.21.29:483][747]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.21.29:484][747]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.21.29:485][747]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.21.29:492][747]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.21.29:492][747]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.firebp_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=2.800
+[2024.06.02-17.21.29:493][747]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.21.29:494][747]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.21.33:055][903]LogDebuggerCommands: Repeating last play command: 新建编辑器窗口（PIE）
+[2024.06.02-17.21.33:127][903]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.02-17.21.33:139][903]PIE: New page: PIE会话：Lesson_level_1（2024年6月3日 上午9:21:33）
+[2024.06.02-17.21.33:149][903]LogPlayLevel: Creating play world package: /Game/Level_sort/Lesson/Lesson_level_1/UEDPIE_0_Lesson_level_1
+[2024.06.02-17.21.33:252][903]LogPlayLevel: PIE: StaticDuplicateObject took: (0.102061s)
+[2024.06.02-17.21.33:252][903]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1 to /Game/Level_sort/Lesson/Lesson_level_1/UEDPIE_0_Lesson_level_1.Lesson_level_1 (0.103902s)
+[2024.06.02-17.21.33:255][903]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.02-17.21.33:274][903]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.02-17.21.33:300][903]LogAIModule: Creating AISystem for world Lesson_level_1
+[2024.06.02-17.21.33:322][903]LogPlayLevel: PIE: World Init took: (0.069007s)
+[2024.06.02-17.21.33:370][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.06.02-17.21.33:382][903]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.06.02-17.21.33:386][903]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.02-17.21.33:386][903]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.02-17.21.33:387][903]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.02-17.21.33:387][903]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.02-17.21.33:387][903]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.02-17.21.33:387][903]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.06.02-17.21.33:387][903]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.02-17.21.33:387][903]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.02-17.21.33:393][903]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.02-17.21.33:393][903]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.02-17.21.33:393][903]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.02-17.21.33:405][903]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.02-17.21.33:743][903]LogAudioMixer: Display: Using Audio Hardware Device 喇叭 (Realtek(R) Audio)
+[2024.06.02-17.21.33:748][903]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.02-17.21.33:748][903]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.02-17.21.33:749][903]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.02-17.21.33:754][903]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.06.02-17.21.33:754][903]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.06.02-17.21.33:760][903]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.06.02-17.21.33:760][903]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.06.02-17.21.33:760][903]LogInit: FAudioDevice initialized.
+[2024.06.02-17.21.33:760][903]LogAudio: Display: Audio Device (ID: 4) registered with world 'Lesson_level_1'.
+[2024.06.02-17.21.33:918][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.02-17.21.33:924][903]LogLoad: Game class is 'Toast_Knight_gamemode_bp_C'
+[2024.06.02-17.21.34:402][903]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_1/UEDPIE_0_Lesson_level_1.Lesson_level_1:PersistentLevel.firebp_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=1.400
+[2024.06.02-17.21.34:405][903]LogWorld: Bringing World /Game/Level_sort/Lesson/Lesson_level_1/UEDPIE_0_Lesson_level_1.Lesson_level_1 up for play (max tick rate 0) at 2024.06.03-01.21.34
+[2024.06.02-17.21.34:414][903]LogWorld: Bringing up level for play took: 0.487172
+[2024.06.02-17.21.34:445][903]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2024.06.02-17.21.43:162][903]PIE: 登陆的服务器
+[2024.06.02-17.21.43:165][903]PIE: PIE总开始时间：10.056秒。
+[2024.06.02-17.21.43:278][903]LogViewport: Scene viewport resized to 1911x948, mode Windowed.
+[2024.06.02-17.21.56:815][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.02-17.21.56:817][504]LogWorld: BeginTearingDown for /Game/Level_sort/Lesson/Lesson_level_1/UEDPIE_0_Lesson_level_1
+[2024.06.02-17.21.56:839][504]LogSlate: Window 'Sliding 预览 [NetMode: Standalone]  （64-bit/SM5）' being destroyed
+[2024.06.02-17.21.56:863][504]LogWorld: UWorld::CleanupWorld for Lesson_level_1, bSessionEnded=true, bCleanupResources=true
+[2024.06.02-17.21.56:874][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.02-17.21.56:938][504]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.02-17.21.56:953][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.02-17.21.57:025][504]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.02-17.21.57:034][504]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.06.02-17.21.57:037][504]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.06.02-17.21.57:136][504]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2024.06.02-17.21.57:226][505]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2024.06.02-17.22.06:236][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.06.02-17.22.06:334][947]LogSavePackage: Moving output files for package: /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1
+[2024.06.02-17.22.06:336][947]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/桌面/final/Final/Saved/Lesson_level_1522C4C81437B7F4BC104678B2637BA4D.tmp' to '../../../../../../Users/user/OneDrive/桌面/final/Final/Content/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.umap'
+[2024.06.02-17.22.06:706][947]AssetCheck: New page: 资产保存：Lesson_level_1
+[2024.06.02-17.22.06:707][947]LogContentValidation: Display: 正在验证World /Game/Level_sort/Lesson/Lesson_level_1/Lesson_level_1.Lesson_level_1
