@@ -4574,3 +4574,507 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.06.02-15.43.04:918][808]LogSlate: Window 'Message Log' being destroyed
 [2024.06.02-15.43.04:927][808]LogSlate: Window 'Message Log' being destroyed
 [2024.06.02-15.43.30:746][ 38]LogDerivedDataCache: C:/Users/leo07/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.100 and deleted 0 file(s) with total size 0 MiB.
+[2024.06.02-15.47.39:937][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.06.02-15.47.40:011][909]LogLinker: Warning: [AssetLog] C:\Users\leo07\OneDrive\文件\GitHub\Final\Content\trap\convaybelt\conveyorblue.uasset: Failed to load '/Game/trap/convaybelt/conveyor': Can't find file.
+[2024.06.02-15.47.40:012][909]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/trap/convaybelt/conveyor'
+[2024.06.02-15.47.40:122][909]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level_sort/Lesson/Lesson_level_5/Lesson_level_5.Lesson_level_5
+[2024.06.02-15.47.40:122][909]Cmd: MAP LOAD FILE="../../../../../../Users/leo07/OneDrive/文件/GitHub/Final/Content/Level_sort/Lesson/Lesson_level_5/Lesson_level_5.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.06.02-15.47.40:122][909]LightingResults: New page: Lighting Build
+[2024.06.02-15.47.40:122][909]LoadErrors: New page: Loading map: Lesson_level_5.umap
+[2024.06.02-15.47.40:123][909]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Level_sort/Lesson/Lesson_level_6/Lesson_level_6.Lesson_level_6:PersistentLevel.PaperSpriteActor_1.RenderComponent)
+[2024.06.02-15.47.40:124][909]LogWorld: UWorld::CleanupWorld for Lesson_level_6, bSessionEnded=true, bCleanupResources=true
+[2024.06.02-15.47.40:124][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.02-15.47.40:124][909]MapCheck: New page: Map Check
+[2024.06.02-15.47.40:124][909]LightingResults: New page: Lighting Build
+[2024.06.02-15.47.40:150][909]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.02-15.47.40:156][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.06.02-15.47.40:158][909]LogWorld: UWorld::CleanupWorld for Lesson_level_5, bSessionEnded=true, bCleanupResources=true
+[2024.06.02-15.47.40:158][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.02-15.47.40:160][909]LogWorld: UWorld::CleanupWorld for Lesson_level_2, bSessionEnded=true, bCleanupResources=true
+[2024.06.02-15.47.40:160][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.02-15.47.40:183][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.06.02-15.47.40:204][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.06.02-15.47.40:217][909]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lesson_level_5'.
+[2024.06.02-15.47.40:217][909]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.02-15.47.40:217][909]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.02-15.47.40:218][909]LogAIModule: Creating AISystem for world Lesson_level_5
+[2024.06.02-15.47.40:281][909]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_5/Lesson_level_5.Lesson_level_5:PersistentLevel.conveyorblue_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.100 Y=0.000 Z=0.500
+[2024.06.02-15.47.40:284][909]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_5/Lesson_level_5.Lesson_level_5:PersistentLevel.conveyorblue_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=2.100 Y=0.000 Z=0.500
+[2024.06.02-15.47.40:303][909]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.06.02-15.47.40:330][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.06.02-15.47.40:337][909]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.06.02-15.47.40:337][909]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.111ms to complete.
+[2024.06.02-15.47.40:337][909]LogFileHelpers: Loading map 'Lesson_level_5' took 0.216
+[2024.06.02-15.47.43:297][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.06.02-15.47.43:379][ 81]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level_sort/Lesson/Lesson_level_2/Lesson_level_2.Lesson_level_2
+[2024.06.02-15.47.43:379][ 81]Cmd: MAP LOAD FILE="../../../../../../Users/leo07/OneDrive/文件/GitHub/Final/Content/Level_sort/Lesson/Lesson_level_2/Lesson_level_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.06.02-15.47.43:379][ 81]LightingResults: New page: Lighting Build
+[2024.06.02-15.47.43:379][ 81]LoadErrors: New page: Loading map: Lesson_level_2.umap
+[2024.06.02-15.47.43:381][ 81]LogWorld: UWorld::CleanupWorld for Lesson_level_5, bSessionEnded=true, bCleanupResources=true
+[2024.06.02-15.47.43:382][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.02-15.47.43:382][ 81]MapCheck: New page: Map Check
+[2024.06.02-15.47.43:382][ 81]LightingResults: New page: Lighting Build
+[2024.06.02-15.47.43:405][ 81]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.02-15.47.43:410][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.06.02-15.47.43:412][ 81]LogWorld: UWorld::CleanupWorld for Lesson_level_2, bSessionEnded=true, bCleanupResources=true
+[2024.06.02-15.47.43:412][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.02-15.47.43:440][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.06.02-15.47.43:460][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.06.02-15.47.43:469][ 81]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lesson_level_2'.
+[2024.06.02-15.47.43:469][ 81]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.02-15.47.43:469][ 81]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.02-15.47.43:470][ 81]LogAIModule: Creating AISystem for world Lesson_level_2
+[2024.06.02-15.47.43:533][ 81]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.06.02-15.47.43:556][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.06.02-15.47.43:563][ 81]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.06.02-15.47.43:565][ 81]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.808ms to complete.
+[2024.06.02-15.47.43:565][ 81]LogFileHelpers: Loading map 'Lesson_level_2' took 0.186
+[2024.06.02-15.47.49:419][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.06.02-15.47.49:607][427]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level_sort/Lesson/Lesson_level_4/Lesson_level_4.Lesson_level_4
+[2024.06.02-15.47.49:608][427]Cmd: MAP LOAD FILE="../../../../../../Users/leo07/OneDrive/文件/GitHub/Final/Content/Level_sort/Lesson/Lesson_level_4/Lesson_level_4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.06.02-15.47.49:608][427]LightingResults: New page: Lighting Build
+[2024.06.02-15.47.49:608][427]LoadErrors: New page: Loading map: Lesson_level_4.umap
+[2024.06.02-15.47.49:609][427]LogWorld: UWorld::CleanupWorld for Lesson_level_2, bSessionEnded=true, bCleanupResources=true
+[2024.06.02-15.47.49:609][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.02-15.47.49:610][427]MapCheck: New page: Map Check
+[2024.06.02-15.47.49:610][427]LightingResults: New page: Lighting Build
+[2024.06.02-15.47.49:632][427]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.02-15.47.49:636][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.06.02-15.47.49:638][427]LogWorld: UWorld::CleanupWorld for Lesson_level_4, bSessionEnded=true, bCleanupResources=true
+[2024.06.02-15.47.49:638][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.02-15.47.49:662][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.06.02-15.47.49:683][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.06.02-15.47.49:694][427]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lesson_level_4'.
+[2024.06.02-15.47.49:694][427]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.02-15.47.49:694][427]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.02-15.47.49:695][427]LogAIModule: Creating AISystem for world Lesson_level_4
+[2024.06.02-15.47.49:749][427]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_4/Lesson_level_4.Lesson_level_4:PersistentLevel.blackholeblue_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.900 Y=0.000 Z=0.900
+[2024.06.02-15.47.49:749][427]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_4/Lesson_level_4.Lesson_level_4:PersistentLevel.blackholeblue_C_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.900 Y=0.000 Z=0.900
+[2024.06.02-15.47.49:751][427]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_4/Lesson_level_4.Lesson_level_4:PersistentLevel.blackholeblue_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.900 Y=0.000 Z=0.900
+[2024.06.02-15.47.49:752][427]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_4/Lesson_level_4.Lesson_level_4:PersistentLevel.blackholeblue_C_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.900 Y=0.000 Z=0.900
+[2024.06.02-15.47.49:773][427]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.06.02-15.47.49:800][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.06.02-15.47.49:807][427]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.06.02-15.47.49:807][427]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.111ms to complete.
+[2024.06.02-15.47.49:807][427]LogFileHelpers: Loading map 'Lesson_level_4' took 0.199
+[2024.06.02-15.47.57:121][862]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.06.02-15.47.57:125][862]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.02-15.47.57:126][862]PIE: New page: PIE session: Lesson_level_4 (2024年6月3日 上午7:47:57)
+[2024.06.02-15.47.57:126][862]LogPlayLevel: Creating play world package: /Game/Level_sort/Lesson/Lesson_level_4/UEDPIE_0_Lesson_level_4
+[2024.06.02-15.47.57:130][862]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004067s)
+[2024.06.02-15.47.57:130][862]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_sort/Lesson/Lesson_level_4/Lesson_level_4.Lesson_level_4 to /Game/Level_sort/Lesson/Lesson_level_4/UEDPIE_0_Lesson_level_4.Lesson_level_4 (0.004125s)
+[2024.06.02-15.47.57:130][862]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.02-15.47.57:130][862]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.02-15.47.57:130][862]LogAIModule: Creating AISystem for world Lesson_level_4
+[2024.06.02-15.47.57:130][862]LogPlayLevel: PIE: World Init took: (0.000622s)
+[2024.06.02-15.47.57:157][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.06.02-15.47.57:158][862]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2024.06.02-15.47.57:158][862]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.02-15.47.57:158][862]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.02-15.47.57:158][862]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.02-15.47.57:158][862]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.02-15.47.57:158][862]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.02-15.47.57:158][862]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.06.02-15.47.57:158][862]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.02-15.47.57:158][862]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.02-15.47.57:158][862]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.02-15.47.57:158][862]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.02-15.47.57:158][862]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.02-15.47.57:161][862]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.02-15.47.57:350][862]LogAudioMixer: Display: Using Audio Hardware Device 耳機 (EDIFIER WH950NB)
+[2024.06.02-15.47.57:350][862]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.02-15.47.57:350][862]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.02-15.47.57:350][862]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.02-15.47.57:351][862]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2024.06.02-15.47.57:351][862]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2024.06.02-15.47.57:353][862]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2024.06.02-15.47.57:353][862]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2024.06.02-15.47.57:353][862]LogInit: FAudioDevice initialized.
+[2024.06.02-15.47.57:353][862]LogAudio: Display: Audio Device (ID: 30) registered with world 'Lesson_level_4'.
+[2024.06.02-15.47.57:415][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.02-15.47.57:415][862]LogLoad: Game class is 'Toast_Knight_gamemode_bp_C'
+[2024.06.02-15.47.57:470][862]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_4/UEDPIE_0_Lesson_level_4.Lesson_level_4:PersistentLevel.blackholeblue_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.900 Y=0.000 Z=0.900
+[2024.06.02-15.47.57:470][862]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_4/UEDPIE_0_Lesson_level_4.Lesson_level_4:PersistentLevel.blackholeblue_C_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.900 Y=0.000 Z=0.900
+[2024.06.02-15.47.57:471][862]LogWorld: Bringing World /Game/Level_sort/Lesson/Lesson_level_4/UEDPIE_0_Lesson_level_4.Lesson_level_4 up for play (max tick rate 60) at 2024.06.02-23.47.57
+[2024.06.02-15.47.57:471][862]LogWorld: Bringing up level for play took: 0.056895
+[2024.06.02-15.47.57:475][862]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2024.06.02-15.47.59:368][862]PIE: Server logged in
+[2024.06.02-15.47.59:369][862]PIE: Play in editor total start time 2.243 seconds.
+[2024.06.02-15.47.59:402][862]LogViewport: Scene viewport resized to 1913x970, mode Windowed.
+[2024.06.02-15.48.03:042][ 73]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] Detected No Stucked(You're on plain platform!!!)
+[2024.06.02-15.48.03:142][ 79]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] Escape Failed!!!
+[2024.06.02-15.48.04:492][160]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.02-15.48.04:592][166]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.02-15.48.04:692][172]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.02-15.48.04:792][178]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.02-15.48.04:824][180]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.02-15.48.04:824][180]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 0.0
+[2024.06.02-15.48.05:192][202]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] Detected No Stucked(Are you in the air???)
+[2024.06.02-15.48.05:258][206]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] Escape Failed!!!
+[2024.06.02-15.48.06:542][283]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.02-15.48.06:642][289]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.02-15.48.06:725][294]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.02-15.48.06:725][294]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 0.0
+[2024.06.02-15.48.06:809][299]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] Detected No Stucked(Are you in the air???)
+[2024.06.02-15.48.06:892][304]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] Escape Failed!!!
+[2024.06.02-15.48.10:359][512]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.02-15.48.10:459][518]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.02-15.48.10:559][524]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.02-15.48.10:659][530]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.02-15.48.10:759][536]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.02-15.48.10:792][538]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.02-15.48.10:792][538]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 0.0
+[2024.06.02-15.48.10:910][545]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] Escape Suceessfully!!!
+[2024.06.02-15.48.13:159][680]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.02-15.48.13:260][686]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.02-15.48.13:359][692]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.02-15.48.13:458][698]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.02-15.48.13:560][704]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.02-15.48.13:641][709]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.02-15.48.13:641][709]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 0.0
+[2024.06.02-15.48.13:992][730]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] Escape Suceessfully!!!
+[2024.06.02-15.48.15:143][799]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.02-15.48.15:242][805]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.02-15.48.15:342][811]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.02-15.48.15:442][817]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.02-15.48.15:492][820]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.02-15.48.15:492][820]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 0.0
+[2024.06.02-15.48.15:592][826]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] Escape Suceessfully!!!
+[2024.06.02-15.48.33:193][882]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.02-15.48.33:294][888]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.02-15.48.33:393][894]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.02-15.48.33:493][900]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.02-15.48.33:594][906]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.02-15.48.33:625][908]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.02-15.48.33:625][908]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 0.0
+[2024.06.02-15.48.35:776][ 37]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.02-15.48.35:876][ 43]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.02-15.48.35:977][ 49]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.02-15.48.36:076][ 55]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.02-15.48.36:176][ 61]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.02-15.48.36:277][ 67]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.02-15.48.36:325][ 70]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.02-15.48.36:325][ 70]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 0.0
+[2024.06.02-15.48.36:492][ 80]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] Escape Suceessfully!!!
+[2024.06.02-15.48.38:177][181]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.02-15.48.38:277][187]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.02-15.48.38:376][193]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.02-15.48.38:476][199]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.02-15.48.38:576][205]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.02-15.48.38:676][211]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.02-15.48.38:776][217]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.02-15.48.38:875][223]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.02-15.48.38:977][229]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.02-15.48.39:059][234]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.02-15.48.39:059][234]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] -8000.0
+[2024.06.02-15.48.41:376][373]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.02-15.48.41:477][379]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.02-15.48.41:576][385]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.02-15.48.41:676][391]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.02-15.48.41:776][397]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.02-15.48.41:876][403]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.02-15.48.41:976][409]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.02-15.48.42:076][415]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.02-15.48.42:108][417]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.02-15.48.42:109][417]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] -6000.0
+[2024.06.02-15.48.43:776][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.02-15.48.43:776][514]LogWorld: BeginTearingDown for /Game/Level_sort/Lesson/Lesson_level_4/UEDPIE_0_Lesson_level_4
+[2024.06.02-15.48.43:777][514]LogSlate: Window 'Sliding Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2024.06.02-15.48.43:787][514]LogWorld: UWorld::CleanupWorld for Lesson_level_4, bSessionEnded=true, bCleanupResources=true
+[2024.06.02-15.48.43:788][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.02-15.48.43:803][514]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.02-15.48.43:808][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.02-15.48.43:836][514]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.02-15.48.43:837][514]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2024.06.02-15.48.43:838][514]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2024.06.02-15.48.43:965][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.06.02-15.48.43:974][515]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.06.02-15.49.00:943][521]LogViewport: Scene viewport resized to 1307x641, mode Windowed.
+[2024.06.02-15.54.38:466][190]LogSlate: Window 'Color Picker' being destroyed
+[2024.06.02-15.54.46:806][264]LogSlate: Window 'Color Picker' being destroyed
+[2024.06.02-15.55.28:636][729]LogSavePackage: Moving output files for package: /Game/character/Toast_Knight/character/Toast_Knight_bp
+[2024.06.02-15.55.28:636][729]LogSavePackage: Moving '../../../../../../Users/leo07/OneDrive/文件/GitHub/Final/Saved/Toast_Knight_bp5CA37981419700C29BB33C9793BD3ECA.tmp' to '../../../../../../Users/leo07/OneDrive/文件/GitHub/Final/Content/character/Toast_Knight/character/Toast_Knight_bp.uasset'
+[2024.06.02-15.55.28:652][729]AssetCheck: New page: Asset Save: Toast_Knight_bp
+[2024.06.02-15.55.28:652][729]LogContentValidation: Display: Validating Blueprint /Game/character/Toast_Knight/character/Toast_Knight_bp.Toast_Knight_bp
+[2024.06.02-15.57.40:152][518]LogSlate: Took 0.000256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.06.02-15.58.40:573][ 60]LogEditorTransaction: Undo Move Node
+[2024.06.02-15.58.41:337][ 89]LogEditorTransaction: Undo Create Pin Link
+[2024.06.02-15.58.41:974][124]LogEditorTransaction: Undo Add Node
+[2024.06.02-15.58.42:561][156]LogEditorTransaction: Undo Delete current selection
+[2024.06.02-16.01.27:310][946]LogEditorTransaction: Undo Move Nodes
+[2024.06.02-16.01.46:268][ 43]BlueprintLog: New page: Compile Toast_Knight_bp
+[2024.06.02-16.01.46:338][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.06.02-16.01.48:509][170]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.06.02-16.01.48:515][170]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.02-16.01.48:515][170]PIE: New page: PIE session: Lesson_level_4 (2024年6月3日 上午8:01:48)
+[2024.06.02-16.01.48:515][170]LogPlayLevel: Creating play world package: /Game/Level_sort/Lesson/Lesson_level_4/UEDPIE_0_Lesson_level_4
+[2024.06.02-16.01.48:519][170]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003921s)
+[2024.06.02-16.01.48:519][170]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_sort/Lesson/Lesson_level_4/Lesson_level_4.Lesson_level_4 to /Game/Level_sort/Lesson/Lesson_level_4/UEDPIE_0_Lesson_level_4.Lesson_level_4 (0.003985s)
+[2024.06.02-16.01.48:519][170]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.06.02-16.01.48:519][170]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.02-16.01.48:520][170]LogAIModule: Creating AISystem for world Lesson_level_4
+[2024.06.02-16.01.48:520][170]LogPlayLevel: PIE: World Init took: (0.000804s)
+[2024.06.02-16.01.48:548][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.06.02-16.01.48:549][170]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2024.06.02-16.01.48:549][170]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.02-16.01.48:549][170]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.02-16.01.48:549][170]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.02-16.01.48:549][170]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.02-16.01.48:549][170]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.02-16.01.48:549][170]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.06.02-16.01.48:549][170]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.02-16.01.48:549][170]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.02-16.01.48:549][170]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.02-16.01.48:549][170]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.02-16.01.48:549][170]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.02-16.01.48:552][170]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.02-16.01.48:764][170]LogAudioMixer: Display: Using Audio Hardware Device 耳機 (EDIFIER WH950NB)
+[2024.06.02-16.01.48:764][170]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.02-16.01.48:764][170]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.02-16.01.48:764][170]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.02-16.01.48:766][170]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2024.06.02-16.01.48:766][170]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2024.06.02-16.01.48:768][170]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2024.06.02-16.01.48:768][170]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2024.06.02-16.01.48:768][170]LogInit: FAudioDevice initialized.
+[2024.06.02-16.01.48:768][170]LogAudio: Display: Audio Device (ID: 31) registered with world 'Lesson_level_4'.
+[2024.06.02-16.01.48:841][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.02-16.01.48:842][170]LogLoad: Game class is 'Toast_Knight_gamemode_bp_C'
+[2024.06.02-16.01.48:939][170]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_4/UEDPIE_0_Lesson_level_4.Lesson_level_4:PersistentLevel.blackholeblue_C_1.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.900 Y=0.000 Z=0.900
+[2024.06.02-16.01.48:939][170]LogPhysics: Warning: Scale for /Game/Level_sort/Lesson/Lesson_level_4/UEDPIE_0_Lesson_level_4.Lesson_level_4:PersistentLevel.blackholeblue_C_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.900 Y=0.000 Z=0.900
+[2024.06.02-16.01.48:941][170]LogWorld: Bringing World /Game/Level_sort/Lesson/Lesson_level_4/UEDPIE_0_Lesson_level_4.Lesson_level_4 up for play (max tick rate 60) at 2024.06.03-00.01.48
+[2024.06.02-16.01.48:941][170]LogWorld: Bringing up level for play took: 0.099502
+[2024.06.02-16.01.48:944][170]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2024.06.02-16.01.50:814][170]PIE: Server logged in
+[2024.06.02-16.01.50:815][170]PIE: Play in editor total start time 2.3 seconds.
+[2024.06.02-16.01.50:845][170]LogViewport: Scene viewport resized to 1913x970, mode Windowed.
+[2024.06.02-16.01.53:321][314]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] Detected No Stucked(You're on plain platform!!!)
+[2024.06.02-16.01.53:454][322]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] Escape Failed!!!
+[2024.06.02-16.01.54:621][392]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.02-16.01.54:721][398]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.02-16.01.54:821][404]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.02-16.01.54:921][410]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.02-16.01.55:021][416]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.02-16.01.55:120][422]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.02-16.01.55:220][428]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.02-16.01.55:321][434]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.02-16.01.55:421][440]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.02-16.01.55:470][443]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.02-16.01.55:470][443]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 12000.0
+[2024.06.02-16.01.58:119][596]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] Detected No Stucked(You're at right corner!!!)
+[2024.06.02-16.01.58:284][606]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] Escape Failed!!!
+[2024.06.02-16.02.00:252][724]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.02-16.02.00:352][730]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.02-16.02.00:453][736]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.02-16.02.00:553][742]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.02-16.02.00:653][748]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.02-16.02.00:752][754]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.02-16.02.00:852][760]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.02-16.02.00:952][766]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.02-16.02.01:053][772]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.02-16.02.01:136][777]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.02-16.02.01:136][777]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] -14000.0
+[2024.06.02-16.02.03:636][927]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] Detected No Stucked(Are you in the air???)
+[2024.06.02-16.02.03:736][933]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] Escape Failed!!!
+[2024.06.02-16.02.04:652][988]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.02-16.02.04:753][994]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.02-16.02.04:852][  0]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.02-16.02.04:952][  6]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.02-16.02.05:052][ 12]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.02-16.02.05:153][ 18]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.02-16.02.05:253][ 24]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.02-16.02.05:269][ 25]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.02-16.02.05:269][ 25]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 10000.0
+[2024.06.02-16.02.08:086][194]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.02-16.02.08:186][200]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.02-16.02.08:286][206]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.02-16.02.08:386][212]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.02-16.02.08:486][218]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.02-16.02.08:569][223]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.02-16.02.08:569][223]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 10000.0
+[2024.06.02-16.02.16:987][728]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.02-16.02.17:087][734]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.02-16.02.17:187][740]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.02-16.02.17:287][746]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.02-16.02.17:387][752]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.02-16.02.17:487][758]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.02-16.02.17:587][764]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.02-16.02.17:686][770]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.02-16.02.17:719][772]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.02-16.02.17:720][772]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] -14000.0
+[2024.06.02-16.02.19:638][887]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.02-16.02.19:737][893]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.02-16.02.19:836][899]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.02-16.02.19:902][903]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.02-16.02.19:902][903]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 6000.0
+[2024.06.02-16.02.20:620][946]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.02-16.02.20:720][952]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.02-16.02.20:820][958]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.02-16.02.20:920][964]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.02-16.02.21:020][970]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.02-16.02.21:087][974]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.02-16.02.21:087][974]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 10000.0
+[2024.06.02-16.02.25:987][268]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.02-16.02.26:087][274]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.02-16.02.26:187][280]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.02-16.02.26:287][286]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.02-16.02.26:387][292]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.02-16.02.26:486][298]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.02-16.02.26:487][298]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 10000.0
+[2024.06.02-16.02.32:237][643]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] Detected No Stucked(You're on plain platform!!!)
+[2024.06.02-16.02.32:237][643]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] Escape Suceessfully!!!
+[2024.06.02-16.02.34:287][766]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.02-16.02.34:387][772]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.02-16.02.34:487][778]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.02-16.02.34:587][784]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.02-16.02.34:687][790]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.02-16.02.34:787][796]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.02-16.02.34:887][802]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.02-16.02.34:987][808]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.02-16.02.35:087][814]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.02-16.02.35:186][820]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.02-16.02.35:186][820]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 0.0
+[2024.06.02-16.02.38:286][  6]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.02-16.02.38:387][ 12]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.02-16.02.38:487][ 18]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.02-16.02.38:587][ 24]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.02-16.02.38:688][ 30]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.02-16.02.38:788][ 36]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.02-16.02.38:887][ 42]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.02-16.02.38:987][ 48]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.02-16.02.39:087][ 54]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.02-16.02.39:188][ 60]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.02-16.02.39:269][ 65]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.02-16.02.39:269][ 65]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 0.0
+[2024.06.02-16.02.39:804][ 97]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.02-16.02.39:853][100]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.02-16.02.42:336][249]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.02-16.02.42:420][254]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.02-16.02.42:420][254]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 0.0
+[2024.06.02-16.02.42:587][264]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.02-16.02.42:620][266]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.02-16.02.42:620][266]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 0.0
+[2024.06.02-16.02.42:737][273]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] Detected No Stucked(Are you in the air???)
+[2024.06.02-16.02.42:819][278]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] Escape Failed!!!
+[2024.06.02-16.02.44:321][368]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.02-16.02.44:420][374]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.02-16.02.44:520][380]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.02-16.02.44:620][386]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.02-16.02.44:670][389]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.02-16.02.44:670][389]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 8000.0
+[2024.06.02-16.02.46:587][504]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.02-16.02.46:603][505]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.02-16.02.46:603][505]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 0.0
+[2024.06.02-16.02.46:803][517]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 16000.0
+[2024.06.02-16.02.46:803][517]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 0.0
+[2024.06.02-16.02.48:937][645]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.02-16.02.49:038][651]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.02-16.02.49:137][657]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.02-16.02.49:237][663]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.02-16.02.49:287][666]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.02-16.02.49:287][666]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 8000.0
+[2024.06.02-16.02.51:253][784]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 16000.0
+[2024.06.02-16.02.51:253][784]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 0.0
+[2024.06.02-16.02.51:386][792]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 16000.0
+[2024.06.02-16.02.51:386][792]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 0.0
+[2024.06.02-16.02.55:604][ 45]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] Detected No Stucked(Are you in the air???)
+[2024.06.02-16.02.55:604][ 45]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] Escape Suceessfully!!!
+[2024.06.02-16.02.58:105][194]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.02-16.02.58:204][200]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.02-16.02.58:305][206]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.02-16.02.58:404][212]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.02-16.02.58:505][218]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.02-16.02.58:570][222]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.02-16.02.58:570][222]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 10000.0
+[2024.06.02-16.03.00:271][324]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.02-16.03.00:371][330]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.02-16.03.00:471][336]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.02-16.03.00:571][342]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.02-16.03.00:672][348]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.02-16.03.00:771][354]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.02-16.03.00:871][360]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.02-16.03.00:903][362]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.02-16.03.00:903][362]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 10000.0
+[2024.06.02-16.03.03:622][525]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.02-16.03.03:721][531]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.02-16.03.03:822][537]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.02-16.03.03:922][543]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.02-16.03.04:022][549]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.02-16.03.04:122][555]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.02-16.03.04:222][561]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.02-16.03.04:287][565]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.02-16.03.04:287][565]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 14000.0
+[2024.06.02-16.03.08:905][842]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] Detected No Stucked(You're on plain platform!!!)
+[2024.06.02-16.03.08:905][842]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] Escape Suceessfully!!!
+[2024.06.02-16.03.10:188][919]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.02-16.03.10:288][925]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.02-16.03.10:388][931]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.02-16.03.10:489][937]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.02-16.03.10:589][943]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.02-16.03.10:688][949]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.02-16.03.10:788][955]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.02-16.03.10:888][961]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.02-16.03.10:988][967]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.02-16.03.11:021][969]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 60000.0
+[2024.06.02-16.03.11:021][969]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 18000.0
+[2024.06.02-16.03.20:405][532]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.02-16.03.20:506][538]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.02-16.03.20:605][544]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.02-16.03.20:704][550]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.02-16.03.20:805][556]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.02-16.03.20:905][562]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 37000.0
+[2024.06.02-16.03.21:005][568]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 44000.0
+[2024.06.02-16.03.21:105][574]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.02-16.03.21:155][577]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 52000.0
+[2024.06.02-16.03.21:155][577]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 16000.0
+[2024.06.02-16.03.23:154][697]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] Detected No Stucked(You're on plain platform!!!)
+[2024.06.02-16.03.23:304][706]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] Escape Failed!!!
+[2024.06.02-16.03.24:022][749]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.02-16.03.24:121][755]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.02-16.03.24:222][761]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.02-16.03.24:321][767]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.02-16.03.24:337][768]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.02-16.03.24:337][768]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 8000.0
+[2024.06.02-16.03.31:105][174]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.02-16.03.31:205][180]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.02-16.03.31:307][186]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.02-16.03.31:307][186]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 4000.0
+[2024.06.02-16.03.32:921][283]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.02-16.03.33:022][289]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.02-16.03.33:122][295]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.02-16.03.33:204][300]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.02-16.03.33:204][300]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 6000.0
+[2024.06.02-16.03.33:588][323]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] Detected No Stucked(Are you in the air???)
+[2024.06.02-16.03.33:704][330]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] Escape Failed!!!
+[2024.06.02-16.03.36:339][488]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] Detected No Stucked(You're on plain platform!!!)
+[2024.06.02-16.03.36:339][488]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] Escape Suceessfully!!!
+[2024.06.02-16.03.39:689][689]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.02-16.03.39:789][695]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.02-16.03.39:888][701]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.02-16.03.39:888][701]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 4000.0
+[2024.06.02-16.03.40:972][766]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 17000.0
+[2024.06.02-16.03.41:072][772]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 19000.0
+[2024.06.02-16.03.41:172][778]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 22000.0
+[2024.06.02-16.03.41:272][784]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 26000.0
+[2024.06.02-16.03.41:372][790]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.02-16.03.41:456][795]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 31000.0
+[2024.06.02-16.03.41:456][795]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] 10000.0
+[2024.06.02-16.03.45:555][ 41]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] Detected No Stucked(You're on plain platform!!!)
+[2024.06.02-16.03.45:555][ 41]LogBlueprintUserMessages: [Toast_Knight_bp_C_0] Escape Suceessfully!!!
+[2024.06.02-16.03.51:207][377]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.02-16.03.51:207][377]LogWorld: BeginTearingDown for /Game/Level_sort/Lesson/Lesson_level_4/UEDPIE_0_Lesson_level_4
+[2024.06.02-16.03.51:210][377]LogSlate: Window 'Sliding Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2024.06.02-16.03.51:218][377]LogWorld: UWorld::CleanupWorld for Lesson_level_4, bSessionEnded=true, bCleanupResources=true
+[2024.06.02-16.03.51:219][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.02-16.03.51:235][377]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.02-16.03.51:240][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.02-16.03.51:268][377]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.02-16.03.51:268][377]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2024.06.02-16.03.51:271][377]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2024.06.02-16.03.51:399][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.06.02-16.03.51:413][378]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2024.06.02-16.03.54:045][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.06.02-16.03.54:151][534]LogSavePackage: Moving output files for package: /Game/character/Toast_Knight/character/Toast_Knight_bp
+[2024.06.02-16.03.54:152][534]LogSavePackage: Moving '../../../../../../Users/leo07/OneDrive/文件/GitHub/Final/Saved/Toast_Knight_bp3CCCBA234F38DF7717370EADD71D576E.tmp' to '../../../../../../Users/leo07/OneDrive/文件/GitHub/Final/Content/character/Toast_Knight/character/Toast_Knight_bp.uasset'
+[2024.06.02-16.03.54:168][534]AssetCheck: New page: Asset Save: Toast_Knight_bp
+[2024.06.02-16.03.54:168][534]LogContentValidation: Display: Validating Blueprint /Game/character/Toast_Knight/character/Toast_Knight_bp.Toast_Knight_bp
