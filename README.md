@@ -79,25 +79,33 @@ But fear not, for the powerful _**SLIDER**_ will fight alongside players. Player
 | P | Use the P key to invoke the law of time, pausing everything. |
 ## Blessings of the World (Game Features)
 
-- Law of Time and Space: With this law, the Transcender can freely jump through time, returning to the past to change everything and find the perfect breakthrough. ![圖片文字](圖片連結)<br>
-- Breaking the Dimensional Barrier: By connecting with _**MUMU**_ and charging it, we gain the ability to summon allies. The process of breaking the dimensional barrier is unstable and random, but don’t worry, _**MUMU**_ will do its best to find the most advantageous helpers for the current situation. ![圖片文字](圖片連結)<br>
-- Song of Laws: The Transcender can freely adjust the sounds of the world, whether amplifying, reducing, focusing, or even eliminating them. ![圖片文字](圖片連結)<br>
-- Spell Chanting: By chanting specific spells, the Transcender receives the world's blessings. Each spell is a forbidden technique, difficult to obtain, and can only be used once. ![圖片文字](圖片連結)<br>
-- Omniscient Perspective: The Transcender can see the entire world's progress, adding a sense of purpose to exploring the unknown. ![圖片文字](圖片連結)<br>
-- Power of Bonds: A unique ability of the Transcender, allowing them to lock onto known allies and summon them to adventure together. ![圖片文字](圖片連結)<br>
+- Law of Time and Space: With this law, the Transcender can freely jump through time, returning to the past to change everything and find the perfect breakthrough. <br>
+- Breaking the Dimensional Barrier: By connecting with _**MUMU**_ and charging it, we gain the ability to summon allies. The process of breaking the dimensional barrier is unstable and random, but don’t worry, _**MUMU**_ will do its best to find the most advantageous helpers for the current situation. !<br>
+- Song of Laws: The Transcender can freely adjust the sounds of the world, whether amplifying, reducing, focusing, or even eliminating them. <br>
+- Spell Chanting: By chanting specific spells, the Transcender receives the world's blessings. Each spell is a forbidden technique, difficult to obtain, and can only be used once. <br>
+- Omniscient Perspective: The Transcender can see the entire world's progress, adding a sense of purpose to exploring the unknown.<br>
+- Power of Bonds: A unique ability of the Transcender, allowing them to lock onto known allies and summon them to adventure together. <br>
+
+| <img src="https://github.com/410736030/desktop-tutorial/blob/main/rmIMG/time%20travel.png?raw=true" height="50%" width="AUTO"> | <img src="https://github.com/410736030/desktop-tutorial/blob/main/rmIMG/MUMU_STORE.png?raw=true" height="50%" width="AUTO">  |
+| :---: | :---:|
+| **Transcending Time and Space** | **Summon Powerful Partners** |
+| <img src="https://github.com/410736030/desktop-tutorial/blob/main/rmIMG/SOUND.png?raw=true" height="50%" width="AUTO">  | <img src="https://github.com/410736030/desktop-tutorial/blob/main/rmIMG/BONUS.png?raw=true" height="50%" width="AUTO">  |
+| **Regulating the Voice** | **Get Bonus** |
+| <img src="https://github.com/410736030/desktop-tutorial/blob/main/rmIMG/ACC.png?raw=true" height="50%" width="AUTO">  | <img src="https://github.com/410736030/desktop-tutorial/blob/main/rmIMG/SELECT_SLIDER.png?raw=true" height="50%" width="AUTO">  |
+| **Confirming World Progress** | **Selecting Desired SLIDER** |
 
 ## Writing Your Own Story
 
 In the world of _**SLIDING**_, Transcenders are omnipotent. Through various attempts, we can create our own epic adventures. As a _**Transcender**_, we can not only challenge the levels and achievements set in the game but also explore different gameplay styles, shaping a unique gaming experience.
 
-Let's bravely venture into the world of _**SLIDING**_ together, creating our own adventure journey and bringing infinite possibilities to the game! ![圖片文字](圖片連結)
+Let's bravely venture into the world of _**SLIDING**_ together, creating our own adventure journey and bringing infinite possibilities to the game! ![Writing Your Own Story](https://github.com/410736030/desktop-tutorial/blob/main/rmIMG/write%20your%20own.png?raw=true)
 
 ## Embarking on Journeys with Different SLIDERs
 
-Try teaming up with different companions, each possessing unique abilities and stories. Through cooperation and coordination, overcome various challenges in the game, explore the world of _**SLIDING**_, discover hidden treasures and secrets, and push your own limits. ![圖片文字](圖片連結)
+Try teaming up with different companions, each possessing unique abilities and stories. Through cooperation and coordination, overcome various challenges in the game, explore the world of _**SLIDING**_, discover hidden treasures and secrets, and push your own limits. ![Embarking on Journeys with Different SLIDERs](https://github.com/410736030/desktop-tutorial/blob/main/rmIMG/another_slider.png?raw=true)
 
 ## World Creators
-| NAME (ZH)| NAME(EN) | CONTENT |
+| NAME (ZH)| NAME(EN) | Responsibilities |
 | :---     | :---     | :---    |
 | 林宇莛    | YU-TING,LIN    | Soul Manipulator - Character Operations |
 | 張宇誠    | YU-CHENG,ZHANG | World Constructor - Game Maps           |
@@ -105,14 +113,6 @@ Try teaming up with different companions, each possessing unique abilities and s
 | 呂康銓    | KANG-QUAN,LU   |    |
 | 楊承桓    | CHENG-HUAN,YANG|    |
 | 盧孟煜    | MENG-YU,LU     | Illusion Architect - UI Interface       |
-
-## Parallel Timelines Story (Walkthrough Videos)
-
-{Add text} ![影片文字](影片連結)
-
-## World View (Game Screenshots)
-
-{Add text} ![圖片文字](圖片連結)
 
 </details>
 
@@ -210,21 +210,29 @@ SLIDING 是一個充滿奇幻色彩的世界，各式各樣的種族、冒險和
 
 ## 世界的祝福（遊戲功能）
 
-- 時空法則：透過時空法則，超越者可以自由跳躍過去時空，回到過去改變一切，找尋完美的突破法。![圖片文字](圖片連結)<br>
-- 突破次元壁：透過連結 _**MUMU**_ 並為其充能，我們獲得了召喚夥伴的能力，但突破次元壁的過程是不穩定且隨機的，但別擔心， _**MUMU**_ 會盡一切努力找尋對當下情況最有利的幫手來。![圖片文字](圖片連結)<br>
-- 法則之歌：超越者可自由調整世界之聲，不論放大縮小，集中甚至消除。![圖片文字](圖片連結)<br>
-- 法術詠唱：透過詠唱特定咒文，獲得世界的祝福，但每種咒文都是禁術，難以獲得，切只能使用一次。![圖片文字](圖片連結)<br>
-- 全知視角：超越者可以看到所有的世界進度，對探索未知的世界增添了目標感。![圖片文字](圖片連結)<br>
-- 羈絆之力：超越者專屬能力，透過確認已知夥伴，可以對其鎖定並將其召喚，與超越者一同冒險。![圖片文字](圖片連結)<br>
+- 時空法則：透過時空法則，超越者可以自由跳躍過去時空，回到過去改變一切，找尋完美的突破法。<br>
+- 突破次元壁：透過連結 _**MUMU**_ 並為其充能，我們獲得了召喚夥伴的能力，但突破次元壁的過程是不穩定且隨機的，但別擔心， _**MUMU**_ 會盡一切努力找尋對當下情況最有利的幫手來。<br>
+- 法則之歌：超越者可自由調整世界之聲，不論放大縮小，集中甚至消除。<br>
+- 法術詠唱：透過詠唱特定咒文，獲得世界的祝福，但每種咒文都是禁術，難以獲得，切只能使用一次。<br>
+- 全知視角：超越者可以看到所有的世界進度，對探索未知的世界增添了目標感。<br>
+- 羈絆之力：超越者專屬能力，透過確認已知夥伴，可以對其鎖定並將其召喚，與超越者一同冒險。<br>
+
+| <img src="https://github.com/410736030/desktop-tutorial/blob/main/rmIMG/time%20travel.png?raw=true" height="50%" width="AUTO"> | <img src="https://github.com/410736030/desktop-tutorial/blob/main/rmIMG/MUMU_STORE.png?raw=true" height="50%" width="AUTO">  |
+| :---: | :---:|
+| **超越時空，找尋完美突破法** | **連接MUMU招喚強力夥伴** |
+| <img src="https://github.com/410736030/desktop-tutorial/blob/main/rmIMG/SOUND.png?raw=true" height="50%" width="AUTO">  | <img src="https://github.com/410736030/desktop-tutorial/blob/main/rmIMG/BONUS.png?raw=true" height="50%" width="AUTO">  |
+| **調節世界之聲** | **使用禁咒，獲得增幅** |
+| <img src="https://github.com/410736030/desktop-tutorial/blob/main/rmIMG/ACC.png?raw=true" height="50%" width="AUTO">  | <img src="https://github.com/410736030/desktop-tutorial/blob/main/rmIMG/SELECT_SLIDER.png?raw=true" height="50%" width="AUTO">  |
+| **確認世界進度** | **挑選心儀的SLIDER** |
 
 ## 撰寫屬於自己的故事
 
 在 _**SLIDING**_ 的世界中，超越者無所不能，透過各種嘗試，我們可以開創屬於自己的冒險史詩。作為一名超越者，我們不僅可以挑戰遊戲中設定的關卡和成就，更可以探索各種不同的玩法，塑造自己獨特的遊戲體驗。
-讓我們一起勇闖 _**SLIDING**_ 的世界，開創屬於自己的冒險之旅，為遊戲帶來無限的可能性！ ![圖片文字](圖片連結)
+讓我們一起勇闖 _**SLIDING**_ 的世界，開創屬於自己的冒險之旅，為遊戲帶來無限的可能性！ ![撰寫屬於自己的故事](https://github.com/410736030/desktop-tutorial/blob/main/rmIMG/write%20your%20own.png?raw=true)
 
 ## 與不同 SLIDER 踏上征途
 
-嘗試與不同的夥伴組隊，每個夥伴都有著獨特的能力和故事，透過合作與配合，共同突破遊戲中的各種挑戰，探索 _**SLIDING**_ 的世界，發現隱藏的寶藏和秘密，挑戰自己的極限。![圖片文字](圖片連結)
+嘗試與不同的夥伴組隊，每個夥伴都有著獨特的能力和故事，透過合作與配合，共同突破遊戲中的各種挑戰，探索 _**SLIDING**_ 的世界，發現隱藏的寶藏和秘密，挑戰自己的極限。 ![與不同 SLIDER 踏上征途](https://github.com/410736030/desktop-tutorial/blob/main/rmIMG/another_slider.png?raw=true)
 
 ## 世界創建者
 | 姓名      | 姓名(英)       | 負責內容 |
@@ -235,14 +243,6 @@ SLIDING 是一個充滿奇幻色彩的世界，各式各樣的種族、冒險和
 | 呂康銓    | KANG-QUAN,LU   |    |
 | 楊承桓    | CHENG-HUAN,YANG|    |
 | 盧孟煜    | MENG-YU,LU     | 幻境構造者 - UI介面    |
-
-## 平行時空故事（攻略影片）
-
-之後放 ![影片文字](影片連結)
-
-## 世界視圖（遊戲截圖）
-
-之後放 ![圖片文字](圖片連結)
 
 </details>
 
