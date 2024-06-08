@@ -37,7 +37,7 @@ itch.io ![圖片文字](圖片連結)
 
 > Afterwards, _**Wasis**_ used her water magic to purify the land, reviving the forest and restoring life to the earth. Suddenly, a lightning strike occurred, and _**Fulgur**_ appeared. Despite being a turtle, _**Fulgur**_ possessed lightning speed. Grateful for the team's efforts in reviving the land, he decided to join as a scout.
 
-> Continuing north, they reached the polar region and met a penguin named _**Kyaoh**_, who resembled the Linux mascot. _**Kyaoh**_ led them to a lost ruin, saying it held the key to fighting the darkness. Inside, they accidentally triggered a cursed sword, transforming _**Toast Knight**_ into _**Shadow Knight**_, a powerful, undead entity mastering dark powers and blending into shadows. The team struggled in battle until the  _**Transcender**_ connected with _**MUMU**_, breaking the dimensional barrier to summon _**Lucens**_. _**Lucens**_, the emblem of the SLIDING studio _**Stay Up League**_, with a lamp-like appearance, could illuminate everything. With _**Lucens**_' power, the team managed to dissipate _**Shadow Knight**_.
+> Continuing north, they reached the polar region and met a penguin named _**Kyaoh**_, who resembled the Linux mascot. _**Kyaoh**_ led them to a lost ruin, saying it held the key to fighting the darkness. Inside, they accidentally triggered a cursed sword, transforming _**Toast Knight**_ into _**Shadow Knight**_, a powerful, undead entity mastering dark powers and blending into shadows. The team struggled in battle until the  _**Transcender**_ connected with _**MUMU**_, breaking the dimensional barrier to summon _**Lucens**_. _**Lucens**_, the emblem of the _**SLIDING**_ studio _**Stay Up League**_, with a lamp-like appearance, could illuminate everything. With _**Lucens**_' power, the team managed to dissipate _**Shadow Knight**_.
 
 > However, the space beside them began to peel away, and a creature appeared - Google's Chrome Dinosaur. He introduced himself as _**Yaaaaa**_. Due to the weakened dimensional barrier caused by _**MUMU**_'s summoning, _**Yaaaaa**_ broke through the barrier and arrived in the _**SLIDING world**_. After some communication, _**Yaaaaa**_ decided to stay and explore this world out of curiosity.
 
@@ -47,7 +47,7 @@ itch.io ![圖片文字](圖片連結)
 
 > However, _**Torvasor**_ suddenly appeared, catching the team off guard. Fortunately, Angel _**Gelbay**_ and _**YiYa Sorcerer**_ arrived just in time to help fend off _**Torvasor**_. Using the gathered materials and _**Kinkon**_'s efforts, the team forged the Master Ball from the Pokémon world, _**MBALL**_, capturing _**Torvasor**_ and making him an ally.
 
-> After a hard-fought battle, the team arrived at the _**Dragon's Valley*_* before the Demon King's castle, meeting the young fire dragon _**Ignis**_. Enjoying exploration and with a bold personality, _**Ignis**_ disliked the Demon King's actions and immediately joined the team, becoming a top-tier fighter.
+> After a hard-fought battle, the team arrived at the _**Dragon's Valley**_ before the Demon King's castle, meeting the young fire dragon _**Ignis**_. Enjoying exploration and with a bold personality, _**Ignis**_ disliked the Demon King's actions and immediately joined the team, becoming a top-tier fighter.
 
 > Finally reaching the Demon King's castle, they confronted the ultimate Demon King _**Darkat**_. In a ghostly form, _**Darkat**_ preferred appearing as a cat, wielding powerful dark and ice magic. A fierce battle ensued. With the help of the Grim Reaper, the young fire dragon, and many allies, the team eventually subdued the Demon King and used _**Lucens**_ to purify and subdue him, turning him into an ally.
 
@@ -57,15 +57,15 @@ itch.io ![圖片文字](圖片連結)
 
 ## Story Synopsis
 
-SLIDING is a fantastical world where various races, adventures, and legendary tales intertwine. However, the invasion of evil forces has plunged the kingdom into crisis. To save this land, the kingdom has requested _**MUMU**_ to summon the  _**Transcender**_, which is us, to help break the deadlock.
+_**SLIDING**_ is a fantastical world where various races, adventures, and legendary tales intertwine. However, the invasion of evil forces has plunged the kingdom into crisis. To save this land, the kingdom has requested _**MUMU**_ to summon the  _**Transcender**_, which is us, to help break the deadlock.
 
 Now, with courage and mission, players will embark on an adventure alongside a variety of fantastical heroes, working together to defend the peace and tranquility of _**SLIDING**_...
 
 ## Game Introduction
 
-By connecting with the data stream, players successfully break through the dimensional barrier, becoming the  _**Transcender**_ in the world of SLIDING. As a  _**Transcender**_, players possess powers that surpass the essence of the world, allowing them to influence its operations. However, there are limitations, and they cannot engage in combat directly.
+By connecting with the data stream, players successfully break through the dimensional barrier, becoming the  _**Transcender**_ in the world of _**SLIDING**_. As a  _**Transcender**_, players possess powers that surpass the essence of the world, allowing them to influence its operations. However, there are limitations, and they cannot engage in combat directly.
 
-But fear not, for the powerful SLIDERs will fight alongside players. Players can empower SLIDERs through various spells or manipulate the world's laws to save the _**SLIDING world**_ from the encroaching darkness. Let us embark on this adventure filled with challenges, reshaping the peace and order of SLIDING together!
+But fear not, for the powerful _**SLIDER**_ will fight alongside players. Players can empower _**SLIDER**_ through various spells or manipulate the world's laws to save the _**SLIDING world**_ from the encroaching darkness. Let us embark on this adventure filled with challenges, reshaping the peace and order of _**SLIDING**_ together!
 
 ## Basic Spells (Game Controls)
 | SPELLS | DESCRIBE |
@@ -88,22 +88,23 @@ But fear not, for the powerful SLIDERs will fight alongside players. Players can
 
 ## Writing Your Own Story
 
-In the world of SLIDING, Transcenders are omnipotent. Through various attempts, we can create our own epic adventures. As a Transcender, we can not only challenge the levels and achievements set in the game but also explore different gameplay styles, shaping a unique gaming experience.
+In the world of _**SLIDING**_, Transcenders are omnipotent. Through various attempts, we can create our own epic adventures. As a _**Transcender**_, we can not only challenge the levels and achievements set in the game but also explore different gameplay styles, shaping a unique gaming experience.
 
-Let's bravely venture into the world of SLIDING together, creating our own adventure journey and bringing infinite possibilities to the game! ![圖片文字](圖片連結)
+Let's bravely venture into the world of _**SLIDING**_ together, creating our own adventure journey and bringing infinite possibilities to the game! ![圖片文字](圖片連結)
 
 ## Embarking on Journeys with Different SLIDERs
 
-Try teaming up with different companions, each possessing unique abilities and stories. Through cooperation and coordination, overcome various challenges in the game, explore the world of SLIDING, discover hidden treasures and secrets, and push your own limits. ![圖片文字](圖片連結)
+Try teaming up with different companions, each possessing unique abilities and stories. Through cooperation and coordination, overcome various challenges in the game, explore the world of _**SLIDING**_, discover hidden treasures and secrets, and push your own limits. ![圖片文字](圖片連結)
 
 ## World Creators
-
-- 林宇莛 YU-TING    LIN  ：Soul Manipulator (Character Operations)<br>
-- 張宇誠 YU-CHENG   ZHANG：World Constructor (Game Maps)<br>
-- 李昱綸 YU-LUN     LIN  ：Master of Qimen Dunjia (Trap Design)<br>
-- 呂康銓 KANG-QUAN  LU   ：<br>
-- 楊承桓 CHENG-HUAN YANG ：<br>
-- 盧孟煜 MENG-YU    LU   ：Illusion Architect (UI Interface)<br>
+| NAME (ZH)| NAME(EN) | CONTENT |
+| :---     | :---     | :---    |
+| 林宇莛    | YU-TING,LIN    | Soul Manipulator - Character Operations |
+| 張宇誠    | YU-CHENG,ZHANG | World Constructor - Game Maps           |
+| 李昱綸    | YU-LUN,LIN     | Master of Qimen Dunjia - Trap Design    |
+| 呂康銓    | KANG-QUAN,LU   |    |
+| 楊承桓    | CHENG-HUAN,YANG|    |
+| 盧孟煜    | MENG-YU,LU     | Illusion Architect - UI Interface       |
 
 ## Parallel Timelines Story (Walkthrough Videos)
 
@@ -148,10 +149,10 @@ itch.io ![圖片文字](圖片連結)
 <details>
 <summary>SLIDING是一個充滿奇幻色彩的世界......</summary>
 
-> 各式各樣的種族、冒險和傳說故事在此交織。然而，邪惡勢力的入侵使得王國陷入危機。為了拯救這片土地，王國請求 _**MUMU**_ 召喚超越者來打破困境。透過與數據流的連結，超越者成功突破次元壁，來到SLIDING世界......
+> 各式各樣的種族、冒險和傳說故事在此交織。然而，邪惡勢力的入侵使得王國陷入危機。為了拯救這片土地，王國請求 _**MUMU**_ 召喚超越者來打破困境。透過與數據流的連結，超越者成功突破次元壁，來到 _**SLIDING**_ 世界......
 > 在一片草原上，超越者降落於此。他並沒有直接降落在王都，這讓他感到困惑。此時，一個頭型像白吐司的騎士迎面走來。他是吐司一族的 _**Toast Knight**_ ，奉 _**Paladin**_ 之命外出尋找被召喚來的超越者。經過交流，超越者了解了這個世界的困境，決定幫助這片土地。隨後，他與 _**Toast Knight**_ 踏上了前往王都的旅程。
 
-> 經過迷霧之森時，一陣怪風吹來，一位身穿紫黃色長袍、頭戴陰陽面具的YiYa Sorcer出現，向超越者講述了這個世界的故事，包括 _**Paladin**_ 與 _**Azrast**_ 、傳說中的鐵砧 _**Kinkon**_ 等。他也描述了黑暗勢力的侵蝕。見 _**YiYa Sorcer**_ 身手不凡，超越者邀請他加入隊伍。 _**YiYa Sorcer**_ 答應了，但表示只為平衡，自然會在需要時出手，隨後消失在落葉中。
+> 經過迷霧之森時，一陣怪風吹來，一位身穿紫黃色長袍、頭戴陰陽面具的 _**YiYa Sorcer**_ 出現，向超越者講述了這個世界的故事，包括 _**Paladin**_ 與 _**Azrast**_ 、傳說中的鐵砧 _**Kinkon**_ 等。他也描述了黑暗勢力的侵蝕。見 _**YiYa Sorcer**_ 身手不凡，超越者邀請他加入隊伍。 _**YiYa Sorcer**_ 答應了，但表示只為平衡，自然會在需要時出手，隨後消失在落葉中。
 
 > 走出森林後，他們遇到了來迎接的 _**Cat Knight**_ 。借助 _**Cat Knight**_ 的馬匹，他們迅速抵達王都。見到傳說中的 _**Paladin**_ 後，超越者被邀請共進晚餐。晚宴中， _**Paladin**_ 講述了他與黃金巨龍 _**Azrast**_ 對戰並締結契約的故事。這契約讓 _**Paladin**_ 獲得接近永生的能力，守護著王國，而 _**Azrast**_ 則成為破碎的黃金巨龍靈魂，受到 _**Paladin**_ 限制，同時也免於完全淹滅的命運。這也是 _**SLIDING**_ 世界可以抵抗至今的關鍵。
 
@@ -159,7 +160,7 @@ itch.io ![圖片文字](圖片連結)
 > 再次來到迷霧之森，循著隱約的美妙歌聲，超越者遇到了 _**Guagua**_ ，一位青蛙一族的成員，擅長變化及隱藏魔法。經過勸說， _**Guagua**_ 也加入了隊伍。
 
 > 隨著森林的深入，霧越來越濃。 _**Cat Knight**_ 提到濃霧不適合戰鬥，應該找個地方避避。話音剛落，一座破舊的城堡出現在眼前。他們進去探索，被藍色鬼男孩 _**Culighost**_ 和粉色鬼女孩 _**Licughost**_ 嚇了一跳。冷靜後發現這兩個鬼魂只喜歡捉弄人，沒有威脅性。
-> 離開城堡後，借助兩隻鬼魂分享的捷徑，隊伍很快就離開了森林。出來後看到一望無際的鳳梨田，長得非常茂密，非常漂亮。這是鳳梨族的鳳梨大叔 _**Unclaple**_ 以及他老婆鳳梨阿姨 _**Auntaple**_ 在照顧。他們熱情地拿出熟成的鳳梨與隊伍分享，味道非常甜美。吃飽喝足後，隊伍繼續踏上旅程，來到了古代遺跡，見到了將超越者召喚來的 _**MUMU**_ 。 _**MUMU**_ 外型非常像扭蛋機，他說他可以召喚所有SLIDER，但由於召喚超越者消耗過大，現在需要與超越者連結並集與能量才能發動技能。超越者感覺關鍵時刻 _**MUMU**_ 會派上用場，便將他一起帶著踏上旅途。
+> 離開城堡後，借助兩隻鬼魂分享的捷徑，隊伍很快就離開了森林。出來後看到一望無際的鳳梨田，長得非常茂密，非常漂亮。這是鳳梨族的鳳梨大叔 _**Unclaple**_ 以及他老婆鳳梨阿姨 _**Auntaple**_ 在照顧。他們熱情地拿出熟成的鳳梨與隊伍分享，味道非常甜美。吃飽喝足後，隊伍繼續踏上旅程，來到了古代遺跡，見到了將超越者召喚來的 _**MUMU**_ 。 _**MUMU**_ 外型非常像扭蛋機，他說他可以召喚所有 _**SLIDER**_ ，但由於召喚超越者消耗過大，現在需要與超越者連結並集與能量才能發動技能。超越者感覺關鍵時刻 _**MUMU**_ 會派上用場，便將他一起帶著踏上旅途。
 
 > 一道流星閃過，眼前出現一個大腦袋大眼睛的生物，名叫 _**IOIO**_ 。他說他來這裡是為了探索SLIDER世界。超越者與他交流，地球的知識對 _**IOIO**_ 來說也很新奇，相談甚歡後， _**IOIO**_ 送了一個 _**MBALL**_ 圖紙作為禮物，雖然具體效用還不清楚。之後 _**IOIO**_ 乘著他的 _**UFO**_ 離去，看上去搭載了一堆高科技，讓超越者腦中有了些靈感。
 
@@ -183,13 +184,13 @@ itch.io ![圖片文字](圖片連結)
 
 > 一路來到魔王城，隊伍見到最終大魔王 _**Darkat**_ 。他是鬼魂形體，擅長變化，最喜歡以貓的造型出場，使用強大的黑暗和冰屬性魔法，與隊伍展開激烈對戰。幸有死神與火龍幼獸及眾多隊友，隊伍最終壓制魔王，並利用 _**Lucens**_ 將其感化鎮壓，成為隊員。
 
-> 至此，隊伍擊退了黑暗，讓SLIDING世界重現光明。故事本該到此結束，但這廣闊的世界充滿了無限可能和未知的挑戰。新的冒險才剛剛開始，無盡的旅程也在等待著隊伍的探索與挑戰......
+> 至此，隊伍擊退了黑暗，讓 _**SLIDING**_ 世界重現光明。故事本該到此結束，但這廣闊的世界充滿了無限可能和未知的挑戰。新的冒險才剛剛開始，無盡的旅程也在等待著隊伍的探索與挑戰......
 </details>
 
 ## 故事簡介
 
 SLIDING 是一個充滿奇幻色彩的世界，各式各樣的種族、冒險和傳說故事在此交織。然而，邪惡勢力的入侵使得王國陷入危機。為了拯救這片土地，王國特別請求 _**MUMU**_ 召喚超越者，也就是我們，來幫助打破困境。
-現在，帶著勇氣和使命，玩家將與各種奇幻英雄一起展開冒險，共同保衛 SLIDING 的和平與安寧……
+現在，帶著勇氣和使命，玩家將與各種奇幻英雄一起展開冒險，共同保衛 _**SLIDING**_ 的和平與安寧……
 
 ## 遊戲介紹
 
@@ -218,21 +219,22 @@ SLIDING 是一個充滿奇幻色彩的世界，各式各樣的種族、冒險和
 
 ## 撰寫屬於自己的故事
 
-在 SLIDING 的世界中，超越者無所不能，透過各種嘗試，我們可以開創屬於自己的冒險史詩。作為一名超越者，我們不僅可以挑戰遊戲中設定的關卡和成就，更可以探索各種不同的玩法，塑造自己獨特的遊戲體驗。
-讓我們一起勇闖 SLIDING 的世界，開創屬於自己的冒險之旅，為遊戲帶來無限的可能性！ ![圖片文字](圖片連結)
+在 _**SLIDING**_ 的世界中，超越者無所不能，透過各種嘗試，我們可以開創屬於自己的冒險史詩。作為一名超越者，我們不僅可以挑戰遊戲中設定的關卡和成就，更可以探索各種不同的玩法，塑造自己獨特的遊戲體驗。
+讓我們一起勇闖 _**SLIDING**_ 的世界，開創屬於自己的冒險之旅，為遊戲帶來無限的可能性！ ![圖片文字](圖片連結)
 
 ## 與不同 SLIDER 踏上征途
 
-嘗試與不同的夥伴組隊，每個夥伴都有著獨特的能力和故事，透過合作與配合，共同突破遊戲中的各種挑戰，探索 SLIDING 的世界，發現隱藏的寶藏和秘密，挑戰自己的極限。![圖片文字](圖片連結)
+嘗試與不同的夥伴組隊，每個夥伴都有著獨特的能力和故事，透過合作與配合，共同突破遊戲中的各種挑戰，探索 _**SLIDING**_ 的世界，發現隱藏的寶藏和秘密，挑戰自己的極限。![圖片文字](圖片連結)
 
 ## 世界創建者
-
-- 林宇莛 YU-TING    LIN  ：靈魂操弄者（角色操作）<br>
-- 張宇誠 YU-CHENG   ZHANG：世界建構者（遊戲地圖）<br>
-- 李昱綸 YU-LUN     LIN  ：奇門遁甲大師（陷阱製作）<br>
-- 呂康銓 KANG-QUAN  LU   ：<br>
-- 楊承桓 CHENG-HUAN YANG ：<br>
-- 盧孟煜 MENG-YU    LU   ：幻境構造者（UI介面）<br>
+| 姓名      | 姓名(英)       | 負責內容 |
+| :---      | :---          | :---    |
+| 林宇莛    | YU-TING,LIN    | 靈魂操弄者 - 角色操作   |
+| 張宇誠    | YU-CHENG,ZHANG | 世界建構者 - 遊戲地圖   |
+| 李昱綸    | YU-LUN,LIN     | 奇門遁甲大師 - 陷阱製作 |
+| 呂康銓    | KANG-QUAN,LU   |    |
+| 楊承桓    | CHENG-HUAN,YANG|    |
+| 盧孟煜    | MENG-YU,LU     | 幻境構造者 - UI介面    |
 
 ## 平行時空故事（攻略影片）
 
@@ -246,20 +248,27 @@ SLIDING 是一個充滿奇幻色彩的世界，各式各樣的種族、冒險和
 
 > [!IMPORTANT]
 > **Basic Part - Data Type**
-> - Int : 
-> - Float : 
-> - Boolean : 
-> - String : 
-> - Data struct : 
+> | 類型       | 功能 | 敘述 |
+> | :---       | :---     | :---    |
+> | INT        |          |         |
+> | FLOAT      |          |         |
+> | BOOLEAN    |          |         |
+> | STRING     |          |         |
+> | DATA STRUCT|          |         | 
 > 
 > **Basic Part - Operation**
-> - Travese : 
-> - Sort : 
-> - Random : 
-> - File I/O : 
+> | 功能       | 使用 | 敘述 |
+> | :---       | :---     | :---    |
+> | TRAVESE    |          |         |
+> | SORT       |          |         |
+> | RANDOM     |          |         |
+> | STRING     |          |         |
+> | FILE I/O   |          |         | 
 >
 > **ADVABCE Part**
-> - Exitement & Engagement : 
-> - Innovation : 
-> - Code Quality & Organization : 
-> - Readme Document : HERE
+> | 類別                        | 敘述     |
+> | :---                       |  :---    |
+> | Exitement & Engagement     |          |        
+> | Innovation                 |          |         
+> | Code Quality & Organization|          |         
+> | Readme Document            |          |         
