@@ -91,7 +91,7 @@ But fear not, for the powerful _**SLIDER**_ will fight alongside players. Player
 | **Transcending Time and Space** | **Summon Powerful Partners** |
 | <img src="http://drive.google.com/uc?id=1Y8_sRGgq-aA5tzqJtydcZz88Jty4vxnN" height="AUTO" width="AUTO">  | <img src="http://drive.google.com/uc?id=1HKqU-VIrkDYDB_92V00yyvQNAuTdIgVE" height="AUTO" width="AUTO">  |
 | **Regulating the Voice** | **Get Bonus** |
-| <img src="http://drive.google.com/uc?id=1Y1ANmuvFoWf6bQKp2bMpIaC1wek9V8Iu" height="AUTO" width="AUTO">  | <img src="https://drive.google.com/file/d/1YclZTnKE-7x3kzZkLMlPBhPUtAPiLyLf/view?usp=drive_link" height="AUTO" width="AUTO">  |
+| <img src="http://drive.google.com/uc?id=1Y1ANmuvFoWf6bQKp2bMpIaC1wek9V8Iu" height="AUTO" width="AUTO">  | <img src="http://drive.google.com/uc?id=1YclZTnKE-7x3kzZkLMlPBhPUtAPiLyLf" height="AUTO" width="AUTO">  |
 | **Confirming World Progress** | **Selecting Desired SLIDER** |
 
 ## Writing Your Own Story
@@ -222,7 +222,7 @@ SLIDING 是一個充滿奇幻色彩的世界，各式各樣的種族、冒險和
 | **超越時空，找尋完美突破法** | **連接MUMU招喚強力夥伴** |
 | <img src="http://drive.google.com/uc?id=1Y8_sRGgq-aA5tzqJtydcZz88Jty4vxnN" height="AUTO" width="AUTO">  | <img src="http://drive.google.com/uc?id=1HKqU-VIrkDYDB_92V00yyvQNAuTdIgVE" height="AUTO" width="AUTO">  |
 | **調節世界之聲** | **使用禁咒，獲得增幅** |
-| <img src="http://drive.google.com/uc?id=1Y1ANmuvFoWf6bQKp2bMpIaC1wek9V8Iu" height="AUTO" width="AUTO">  | <img src="https://drive.google.com/file/d/1YclZTnKE-7x3kzZkLMlPBhPUtAPiLyLf/view?usp=drive_link" height="AUTO" width="AUTO">  |
+| <img src="http://drive.google.com/uc?id=1Y1ANmuvFoWf6bQKp2bMpIaC1wek9V8Iu" height="AUTO" width="AUTO">  | <img src="http://drive.google.com/uc?id=1YclZTnKE-7x3kzZkLMlPBhPUtAPiLyLf" height="AUTO" width="AUTO">  |
 | **確認世界進度** | **挑選心儀的SLIDER** |
 
 ## 撰寫屬於自己的故事
