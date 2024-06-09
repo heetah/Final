@@ -86,23 +86,23 @@ But fear not, for the powerful _**SLIDER**_ will fight alongside players. Player
 - Omniscient Perspective: The Transcender can see the entire world's progress, adding a sense of purpose to exploring the unknown.<br>
 - Power of Bonds: A unique ability of the Transcender, allowing them to lock onto known allies and summon them to adventure together. <br>
 
-| <img src="https://github.com/410736030/desktop-tutorial/blob/main/rmIMG/time%20travel.png?raw=true" height="50%" width="AUTO"> | <img src="https://github.com/410736030/desktop-tutorial/blob/main/rmIMG/MUMU_STORE.png?raw=true" height="50%" width="AUTO">  |
+| <img src="http://drive.google.com/uc?id=1FowpdM7PBFTuJ4MHi7ACGyqBtsxjEQM4" height="AUTO" width="AUTO"> | <img src="http://drive.google.com/uc?id=12JazdwsjkyRKfAfRC3NMr68RzyCOlE_v" height="AUTO" width="AUTO">  |
 | :---: | :---:|
 | **Transcending Time and Space** | **Summon Powerful Partners** |
-| <img src="https://github.com/410736030/desktop-tutorial/blob/main/rmIMG/SOUND.png?raw=true" height="50%" width="AUTO">  | <img src="https://github.com/410736030/desktop-tutorial/blob/main/rmIMG/BONUS.png?raw=true" height="50%" width="AUTO">  |
+| <img src="http://drive.google.com/uc?id=1Y8_sRGgq-aA5tzqJtydcZz88Jty4vxnN" height="AUTO" width="AUTO">  | <img src="http://drive.google.com/uc?id=1HKqU-VIrkDYDB_92V00yyvQNAuTdIgVE" height="AUTO" width="AUTO">  |
 | **Regulating the Voice** | **Get Bonus** |
-| <img src="https://github.com/410736030/desktop-tutorial/blob/main/rmIMG/ACC.png?raw=true" height="50%" width="AUTO">  | <img src="https://github.com/410736030/desktop-tutorial/blob/main/rmIMG/SELECT_SLIDER.png?raw=true" height="50%" width="AUTO">  |
+| <img src="http://drive.google.com/uc?id=1Y1ANmuvFoWf6bQKp2bMpIaC1wek9V8Iu" height="AUTO" width="AUTO">  | <img src="https://drive.google.com/file/d/1YclZTnKE-7x3kzZkLMlPBhPUtAPiLyLf/view?usp=drive_link" height="AUTO" width="AUTO">  |
 | **Confirming World Progress** | **Selecting Desired SLIDER** |
 
 ## Writing Your Own Story
 
 In the world of _**SLIDING**_, Transcenders are omnipotent. Through various attempts, we can create our own epic adventures. As a _**Transcender**_, we can not only challenge the levels and achievements set in the game but also explore different gameplay styles, shaping a unique gaming experience.
 
-Let's bravely venture into the world of _**SLIDING**_ together, creating our own adventure journey and bringing infinite possibilities to the game! ![Writing Your Own Story](https://github.com/410736030/desktop-tutorial/blob/main/rmIMG/write%20your%20own.png?raw=true)
+Let's bravely venture into the world of _**SLIDING**_ together, creating our own adventure journey and bringing infinite possibilities to the game! ![Writing Your Own Story](http://drive.google.com/uc?id=1Xh27vJ5hm-Ax-ZoOvBb0a4V-57-07OT6)
 
 ## Embarking on Journeys with Different SLIDERs
 
-Try teaming up with different companions, each possessing unique abilities and stories. Through cooperation and coordination, overcome various challenges in the game, explore the world of _**SLIDING**_, discover hidden treasures and secrets, and push your own limits. ![Embarking on Journeys with Different SLIDERs](https://github.com/410736030/desktop-tutorial/blob/main/rmIMG/another_slider.png?raw=true)
+Try teaming up with different companions, each possessing unique abilities and stories. Through cooperation and coordination, overcome various challenges in the game, explore the world of _**SLIDING**_, discover hidden treasures and secrets, and push your own limits. ![Embarking on Journeys with Different SLIDERs](http://drive.google.com/uc?id=1JCNHu_pNHvUu5YztPCHsqD2BZQBHDyw4)
 
 ## World Creators
 | NAME (ZH)| NAME(EN) | Responsibilities |
@@ -217,22 +217,22 @@ SLIDING 是一個充滿奇幻色彩的世界，各式各樣的種族、冒險和
 - 全知視角：超越者可以看到所有的世界進度，對探索未知的世界增添了目標感。<br>
 - 羈絆之力：超越者專屬能力，透過確認已知夥伴，可以對其鎖定並將其召喚，與超越者一同冒險。<br>
 
-| <img src="https://github.com/410736030/desktop-tutorial/blob/main/rmIMG/time%20travel.png?raw=true" height="50%" width="AUTO"> | <img src="https://github.com/410736030/desktop-tutorial/blob/main/rmIMG/MUMU_STORE.png?raw=true" height="50%" width="AUTO">  |
+| <img src="http://drive.google.com/uc?id=1FowpdM7PBFTuJ4MHi7ACGyqBtsxjEQM4" height="AUTO" width="AUTO"> | <img src="http://drive.google.com/uc?id=12JazdwsjkyRKfAfRC3NMr68RzyCOlE_v" height="AUTO" width="AUTO">  |
 | :---: | :---:|
 | **超越時空，找尋完美突破法** | **連接MUMU招喚強力夥伴** |
-| <img src="https://github.com/410736030/desktop-tutorial/blob/main/rmIMG/SOUND.png?raw=true" height="50%" width="AUTO">  | <img src="https://github.com/410736030/desktop-tutorial/blob/main/rmIMG/BONUS.png?raw=true" height="50%" width="AUTO">  |
+| <img src="http://drive.google.com/uc?id=1Y8_sRGgq-aA5tzqJtydcZz88Jty4vxnN" height="AUTO" width="AUTO">  | <img src="http://drive.google.com/uc?id=1HKqU-VIrkDYDB_92V00yyvQNAuTdIgVE" height="AUTO" width="AUTO">  |
 | **調節世界之聲** | **使用禁咒，獲得增幅** |
-| <img src="https://github.com/410736030/desktop-tutorial/blob/main/rmIMG/ACC.png?raw=true" height="50%" width="AUTO">  | <img src="https://github.com/410736030/desktop-tutorial/blob/main/rmIMG/SELECT_SLIDER.png?raw=true" height="50%" width="AUTO">  |
+| <img src="http://drive.google.com/uc?id=1Y1ANmuvFoWf6bQKp2bMpIaC1wek9V8Iu" height="AUTO" width="AUTO">  | <img src="https://drive.google.com/file/d/1YclZTnKE-7x3kzZkLMlPBhPUtAPiLyLf/view?usp=drive_link" height="AUTO" width="AUTO">  |
 | **確認世界進度** | **挑選心儀的SLIDER** |
 
 ## 撰寫屬於自己的故事
 
 在 _**SLIDING**_ 的世界中，超越者無所不能，透過各種嘗試，我們可以開創屬於自己的冒險史詩。作為一名超越者，我們不僅可以挑戰遊戲中設定的關卡和成就，更可以探索各種不同的玩法，塑造自己獨特的遊戲體驗。
-讓我們一起勇闖 _**SLIDING**_ 的世界，開創屬於自己的冒險之旅，為遊戲帶來無限的可能性！ ![撰寫屬於自己的故事](https://github.com/410736030/desktop-tutorial/blob/main/rmIMG/write%20your%20own.png?raw=true)
+讓我們一起勇闖 _**SLIDING**_ 的世界，開創屬於自己的冒險之旅，為遊戲帶來無限的可能性！ ![撰寫屬於自己的故事](http://drive.google.com/uc?id=1Xh27vJ5hm-Ax-ZoOvBb0a4V-57-07OT6)
 
 ## 與不同 SLIDER 踏上征途
 
-嘗試與不同的夥伴組隊，每個夥伴都有著獨特的能力和故事，透過合作與配合，共同突破遊戲中的各種挑戰，探索 _**SLIDING**_ 的世界，發現隱藏的寶藏和秘密，挑戰自己的極限。 ![與不同 SLIDER 踏上征途](https://github.com/410736030/desktop-tutorial/blob/main/rmIMG/another_slider.png?raw=true)
+嘗試與不同的夥伴組隊，每個夥伴都有著獨特的能力和故事，透過合作與配合，共同突破遊戲中的各種挑戰，探索 _**SLIDING**_ 的世界，發現隱藏的寶藏和秘密，挑戰自己的極限。 ![與不同 SLIDER 踏上征途](http://drive.google.com/uc?id=1JCNHu_pNHvUu5YztPCHsqD2BZQBHDyw4)
 
 ## 世界創建者
 | 姓名      | 姓名(英)       | 負責內容 |
