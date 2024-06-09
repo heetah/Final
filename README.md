@@ -242,7 +242,7 @@ SLIDING 是一個充滿奇幻色彩的世界，各式各樣的種族、冒險和
 | 李昱綸    | YU-LUN,LIN     | 奇門遁甲大師 - 陷阱製作 |  |
 | 呂康銓    | KANG-QUAN,LU   |                       |  |
 | 楊承桓    | CHENG-HUAN,YANG|                       |  |
-| 盧孟煜    | MENG-YU,LU     | 幻境構造者 - UI介面    |  |
+| 盧孟煜    | MENG-YU,LU     | 幻境構造者 - UI介面    | 角色設計、README撰寫 |
 
 </details>
 
