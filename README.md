@@ -242,26 +242,25 @@ SLIDING 是一個充滿奇幻色彩的世界，各式各樣的種族、冒險和
 > [!IMPORTANT]
 > **Basic Part - Data Type**
 > | 類型       | 功能 | 敘述 |
-> | :---       | :---     | :---    |
-> | INT        |          |         |
-> | FLOAT      |          |         |
-> | BOOLEAN    |          |         |
-> | STRING     |          |         |
-> | DATA STRUCT|          |         | 
+> | :---       | :---     | :---     |
+> | INT        | 金幣/鑽石/ID/遊玩時間  | 顯示、儲存、操作                 |
+> | FLOAT      | 統計資料/能量/血條     | 顯示百分比資料、利用百分比運算進度條 |
+> | BOOLEAN    | 關卡/無盡模式/角色狀態  | 是否通關、是否解鎖、是否持有/選擇   |
+> | STRING     | 描述/名稱/禮包碼       | 各項描述、名稱、禮包碼字串         |
+> | DATA STRUCT| TEMP struct         | 利用Temp紀錄與顯示及操作各項遊玩過程中的數值（血量、能量、金幣等）        | 
 > 
 > **Basic Part - Operation**
 > | 功能       | 使用 | 敘述 |
-> | :---       | :---     | :---    |
-> | TRAVESE    |          |         |
-> | SORT       |          |         |
-> | RANDOM     |          |         |
-> | STRING     |          |         |
-> | FILE I/O   |          |         | 
+> | :---       | :---     | :---       |
+> | TRAVESE    | SLIDER選擇介面          | 列出所有SLIDER並顯示狀態讓玩家選擇        |
+> | SORT       | SLIDER排列             | 依照ID降冪或升冪排列        |
+> | RANDOM     | SLIDER獲得/彈跳/地圖生成 | 扭蛋機、非直覺彈跳、隨機生成        |
+> | FILE I/O   | 保存和讀檔              | 玩家可以保存遊戲並在下次開啟時載入進度  | 
 >
 > **ADVABCE Part**
 > | 類別                        | 敘述     |
 > | :---                       |  :---    |
-> | Exitement & Engagement     |          |        
-> | Innovation                 |          |         
-> | Code Quality & Organization|          |         
-> | Readme Document            |          |         
+> | Exitement & Engagement     | 成就盃、SLIDER蒐集、無盡模式         |        
+> | Innovation                 | 隨機地圖生成、扭蛋機、碰撞系統、隨機獎勵......         |         
+> | Code Quality & Organization| 良好的命名、資料分類         |         
+> | Readme Document            | 在此我們寫了非常完整、清晰且有趣的Readme         |         
