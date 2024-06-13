@@ -8,9 +8,6 @@
 <details open>
 <summary>Click me to open / close </summary>
 
-## Game Portal<br>
-itch.io ![圖片文字](圖片連結)
-
 ## Complete Story
 <details>
 <summary>SLIDING is a fantastical world...</summary>
@@ -105,45 +102,41 @@ Let's bravely venture into the world of _**SLIDING**_ together, creating our own
 Try teaming up with different companions, each possessing unique abilities and stories. Through cooperation and coordination, overcome various challenges in the game, explore the world of _**SLIDING**_, discover hidden treasures and secrets, and push your own limits. ![Embarking on Journeys with Different SLIDERs](http://drive.google.com/uc?id=1JCNHu_pNHvUu5YztPCHsqD2BZQBHDyw4)
 
 ## World Creators (Work Division)
-| NAME (ZH)| NAME(EN)        | Responsibilities                       | Secondary responsibilities |
-| :---     | :---            | :---                                   | :---                       |
-| 林宇莛    | YU-TING,LIN    | Soul Manipulator - Character Operations |  |
-| 張宇誠    | YU-CHENG,ZHANG | World Constructor - Game Maps           |  |
-| 李昱綸    | YU-LUN,LIN     | Master of Qimen Dunjia - Trap Design    |  |
-| 呂康銓    | KANG-QUAN,LU   |                                         |  |
-| 楊承桓    | CHENG-HUAN,YANG|                                         |  |
-| 盧孟煜    | MENG-YU,LU     | Illusion Architect - UI Interface       |  |
+| NAME (ZH)| NAME(EN)        | Responsibilities                       | 
+| 林宇莛    | YU-TING,LIN    | Soul Manipulator - Character Operations | 
+| 張宇誠    | YU-CHENG,ZHANG | World Constructor - Game Maps           | 
+| 李昱綸    | YU-LUN,LIN     | Master of Qimen Dunjia - Trap Design    | 
+| 呂康銓    | KANG-QUAN,LU   | QA Test                                 |  
+| 楊承桓    | CHENG-HUAN,YANG| QA Test                                 |  
+| 盧孟煜    | MENG-YU,LU     | Illusion Architect - UI Interface       | 
 
 </details>
 
 > [!IMPORTANT]
 > **Basic Part - Data Type**
-> - Int : 
-> - Float : 
-> - Boolean : 
-> - String : 
-> - Data struct : 
+> - Int : Diamond & Coin ,ID ,Time
+> - Float : Statistical & HP/Charge Bar
+> - Boolean : Level/SLIDER/INF Mode State
+> - String : Description & Name & Coupon Code
+> - Data struct : Temp(HP/Earn coin & Diamond/Energe & Time)
 > 
 > **Basic Part - Operation**
-> - Travese : 
-> - Sort : 
-> - Random : 
-> - File I/O : 
+> - Travese : list all sliders in select page
+> - Sort : In Ascending or Decending order by slider id
+> - Random : Get SLIDERs & Bounce & Map creat
+> - File I/O : Save & Load
 >
 > **ADVABCE Part**
-> - Exitement & Engagement : 
-> - Innovation : 
-> - Code Quality & Organization : 
-> - Readme Document : HERE
+> - Exitement & Engagement : Achievements & Collect SLIDER & INF mode
+> - Innovation : Map creat & Gacha Machine & Collision System
+> - Code Quality & Organization : Good and clear read data struct/name
+> - Readme Document : Here!
 
 * * * 
 
 # 繁體中文
 <details  open>
 <summary>點我看更多</summary>
-
-## 遊戲傳送門
-itch.io ![圖片文字](圖片連結)
 
 ## 完整故事
 <details>
@@ -237,12 +230,12 @@ SLIDING 是一個充滿奇幻色彩的世界，各式各樣的種族、冒險和
 ## 世界創建者 (工作分配)
 | 姓名      | 姓名(英)       | 主要負責內容            | 次要負責內容 |
 | :---      | :---          | :---                   | :---        |
-| 林宇莛    | YU-TING,LIN    | 靈魂操弄者 - 角色操作   |  |
-| 張宇誠    | YU-CHENG,ZHANG | 世界建構者 - 遊戲地圖   |  |
-| 李昱綸    | YU-LUN,LIN     | 奇門遁甲大師 - 陷阱製作 |  |
-| 呂康銓    | KANG-QUAN,LU   |                       |  |
-| 楊承桓    | CHENG-HUAN,YANG|                       |  |
-| 盧孟煜    | MENG-YU,LU     | 幻境構造者 - UI介面    | 角色設計、README撰寫 |
+| 林宇莛    | YU-TING,LIN    | 靈魂操弄者 - 角色操作   |  角色技能、遊戲功能設置 ｜
+| 張宇誠    | YU-CHENG,ZHANG | 世界建構者 - 遊戲地圖   |  關卡機制設置、簡報製作、報告 |
+| 李昱綸    | YU-LUN,LIN     | 奇門遁甲大師 - 陷阱製作 |  地圖物件製作    |
+| 呂康銓    | KANG-QUAN,LU   | QA Test                      |  |
+| 楊承桓    | CHENG-HUAN,YANG| QA Test                      |  |
+| 盧孟煜    | MENG-YU,LU     | 幻境構造者 - UI介面    | 角色造型與故事設計、音效、README撰寫、簡報製作 |
 
 </details>
 
